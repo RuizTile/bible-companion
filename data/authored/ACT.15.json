@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.15",
+  "book": "Acts",
+  "chapter": 15,
+  "canon": "protocanonical",
+  "summary": "Men from Judæa teach at Antioch, \"Except ye be circumcised after the manner of Moses, ye cannot be saved,\" and Paul and Barnabas have \"no small dissension and disputation,\" so they are sent \"up to Jerusalem unto the apostles and elders about this question.\" Travelling through Samaria \"declaring the conversion of the Gentiles,\" they cause \"great joy,\" but believing Pharisees insist \"that it was needful to circumcise them, and to command them to keep the law of Moses.\" The apostles and elders gather \"to consider of this matter,\" and after \"much disputing\" Peter rises: God chose that \"the Gentiles by my mouth should hear the word of the gospel,\" gave them the Spirit, \"put no difference between us and them, purifying their hearts by faith,\" and warns against \"a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear,\" since \"through the grace of the Lord Jesus Christ we shall be saved, even as they.\" Barnabas and Paul recount the miracles. James answers, joins \"the words of the prophets\" about \"the tabernacle of David, which is fallen down,\" and gives his \"sentence\" that the Gentiles not be troubled, but written to about \"pollutions of idols, and from fornication, and from things strangled, and from blood.\" The church sends Judas and Silas with a letter: \"it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden.\" Antioch \"rejoiced for the consolation.\" Later Paul and Barnabas part over Mark in a contention \"so sharp,\" and each mission goes on.",
+  "takeaways": [
+    "The gospel's first doctrinal crisis is settled neither by private revelation nor by the strongest personality, but by the Church deliberating together, weighing testimony and Scripture, and issuing a judgment it dares to attribute to the Holy Ghost as well as to itself.",
+    "Peter's \"purifying their hearts by faith\" and \"we shall be saved, even as they\" put Jew and Gentile on identical ground. Grace, not ancestry or observance, is what saves, and any added requirement functions as a yoke rather than a help.",
+    "The abstentions imposed are pastoral rather than a reinstatement of the law. They guard conscience and shared tables in mixed communities where \"Moses of old time hath in every city them that preach him,\" so that liberty is exercised without wounding neighbors.",
+    "The chapter ends with an unresolved quarrel between two good men, and Luke does not tidy it away. The same Church capable of a Spirit-guided common decision still contains sharp personal conflict, and the mission advances through both."
+  ],
+  "crossRefs": [
+    {
+      "target": "GAL.2",
+      "verses": "1-10",
+      "label": "Galatians 2:1-10 — Paul lays his gospel before the pillars at Jerusalem and Titus is not compelled",
+      "why": "Paul gives his own account of going up to Jerusalem, refusing circumcision for Titus, and receiving \"the right hands of fellowship\" from James, Cephas and John. It supplies the participant's perspective on the same struggle Luke narrates from outside.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.11",
+      "verses": "1-18",
+      "label": "Acts 11:1-18 — Peter explains the Gentile conversion and the circumcision party is silenced",
+      "why": "The earlier hearing establishes the precedent Peter now invokes, that God gave the Gentiles the Spirit before any observance was required of them. Reading it first shows the council is not deciding a novelty but confirming what had already been recognized.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "AMO.9",
+      "verses": "11-12",
+      "label": "Amos 9:11-12 — I will raise up the tabernacle of David that is fallen, that the heathen may be called by my name",
+      "why": "The prophet promises a restored house of David that gathers the nations called by God's name. James cites it to show that the ingathering of Gentiles is what the prophets foretold, making the decision an act of obedience to Scripture rather than an accommodation to circumstance.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GAL.5",
+      "verses": "1-6",
+      "label": "Galatians 5:1-6 — stand fast in liberty and be not entangled again with the yoke of bondage",
+      "why": "Paul warns that accepting circumcision as necessary makes a man \"a debtor to do the whole law\" and empties Christ of profit for him. It is the theological argument behind Peter's image of an unbearable yoke, pressed to its conclusion.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.18",
+      "verses": "15-20",
+      "label": "Matthew 18:15-20 — tell it unto the church, and where two or three are gathered in my name",
+      "why": "Jesus makes the assembled community the final court in a disputed matter, promises that its binding and loosing hold in heaven, and pledges his presence where it gathers in his name. It is the charter behind a council that can write \"it seemed good to the Holy Ghost, and to us.\"",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition the gathering at Jerusalem is read as the pattern for how the Church settles disputed questions of faith: the apostles and elders come together to consider the matter, testimony and Scripture are weighed in open debate, a sentence is formulated, and the result is written out and sent as binding on churches that were never present. The phrase \"it seemed good to the Holy Ghost, and to us\" is taken as evidence that Christ's promised guidance really operates through the deliberate judgment of the Church's assembled pastors, and not only through each believer's private reading.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally honor the assembly as a genuine and exemplary model of corporate discernment while denying that it establishes a standing office of infallible teaching. On their reading its decision carries weight precisely because it is shown to rest on God's manifest act and on the prophets, \"to this agree the words of the prophets,\" so that its authority is derived from Scripture rather than independent of it, and every later gathering must be tested the same way. Both traditions affirm that the Church is meant to decide such questions together rather than in isolation, and that the Holy Ghost was truly at work in what was determined at Jerusalem.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading gives weight to the order of the speeches: Peter rises first, ends \"much disputing,\" and states the principle that God \"put no difference between us and them,\" after which James applies it pastorally and gives his \"sentence.\" This is understood as a Petrine primacy exercised inside the apostolic college rather than over it, with the local head of the Jerusalem church working out what Peter has settled.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally note that it is James who pronounces the decisive \"my sentence,\" and that the letter goes out in the name of \"the apostles and elders and brethren\" with \"the whole church\" concurring, which suggests a collegial decision with no single ruling voice. On this reading Peter contributes weighty testimony rather than a verdict. Both traditions agree that Peter's witness was pivotal to the outcome and that the assembly reached its conclusion \"with one accord.\"",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

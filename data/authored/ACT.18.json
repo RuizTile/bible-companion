@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.18",
+  "book": "Acts",
+  "chapter": 18,
+  "canon": "protocanonical",
+  "summary": "Paul leaves Athens for Corinth and lodges with Aquila and Priscilla, Jews expelled from Rome, working beside them because \"by their occupation they were tentmakers.\" He reasons in the synagogue every sabbath, and when Silas and Timothy arrive he is \"pressed in the spirit,\" testifying \"that Jesus was Christ.\" Opposed and blasphemed, he shakes his raiment: \"Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.\" He moves next door to the house of Justus; Crispus, \"the chief ruler of the synagogue,\" believes \"with all his house,\" and many Corinthians \"believed, and were baptized.\" A night vision steadies him, \"Be not afraid, but speak, and hold not thy peace,\" with the promise \"I have much people in this city,\" and he stays \"a year and six months, teaching the word of God.\" Hauled before Gallio, he hears the deputy dismiss the charge as \"a question of words and names, and of your law\" and drive the accusers off, unmoved when Sosthenes is beaten there. Paul later sails for Syria with Priscilla and Aquila, \"having shorn his head in Cenchrea: for he had a vow,\" reasons briefly at Ephesus, promises to return \"if God will,\" and travels on \"strengthening all the disciples.\" Meanwhile Apollos, \"an eloquent man, and mighty in the scriptures,\" teaches at Ephesus while \"knowing only the baptism of John\"; Aquila and Priscilla take him aside and \"expounded unto him the way of God more perfectly,\" after which he crosses to Achaia and \"mightily convinced the Jews\" that Jesus was Christ.",
+  "takeaways": [
+    "Paul supports himself at the workbench with Aquila and Priscilla, so apostolic ministry is shown carrying its own weight rather than trading on the gospel; ordinary labor and preaching stand side by side.",
+    "The promise \"I have much people in this city\" is spoken before those people believe, so mission proceeds on God's prior knowledge and call rather than on visible results.",
+    "A married lay couple corrects and completes the teaching of a gifted preacher, showing that handing on the faith belongs to the whole believing community and that even the learned need catechizing.",
+    "Gallio's refusal to adjudicate \"a question of words and names\" buys the young church legal breathing room, and God's providence works as readily through an indifferent magistrate as through an earthquake."
+  ],
+  "crossRefs": [
+    {
+      "target": "ROM.16",
+      "verses": "3-5",
+      "label": "Romans 16:3-5 — greet Priscilla and Aquila, and the church that is in their house",
+      "why": "Paul later greets the same couple as \"my helpers in Christ Jesus\" and salutes \"the church that is in their house.\" The link shows the tentmakers of Corinth becoming long-term partners in the mission and hosts of a congregation in their own home.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1CO.3",
+      "verses": "4-11",
+      "label": "1 Corinthians 3:4-11 — I have planted, Apollos watered; but God gave the increase",
+      "why": "The Corinthian factions that say \"I am of Paul\" against \"I am of Apollos\" arise from the two ministries this chapter introduces. Paul's answer, \"I have planted, Apollos watered; but God gave the increase,\" reads Acts 18 as one work carried out by different hands under a single Lord.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EZK.33",
+      "verses": "1-9",
+      "label": "Ezekiel 33:1-9 — the watchman who must warn or answer for the blood of the people",
+      "why": "God sets Ezekiel as \"a watchman unto the house of Israel,\" whose failure to sound the trumpet makes him answerable for those who perish. Paul's \"I am clean\" before the Corinthian synagogue is spoken in exactly this idiom, claiming a duty discharged rather than an indifference to the lost.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.19",
+      "verses": "1-7",
+      "label": "Acts 19:1-7 — the Ephesian disciples who knew only the baptism of John",
+      "why": "The next chapter finds about a dozen men at Ephesus in the same partial condition as Apollos, baptized only into the baptism of John, and completes their initiation. Read together, the two episodes show the Church actively bringing sincere but unfinished faith into its full apostolic form.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "NUM.6",
+      "verses": "1-5",
+      "label": "Numbers 6:1-5 — the Nazarite vow and the unshorn head",
+      "why": "The law describes a voluntary vow of separation to the LORD during which \"there shall no razor come upon his head\" until the days are fulfilled. It supplies the background for Paul shearing his head at Cenchrea and shows a freely undertaken devotional vow kept by the apostle who preaches grace.",
+      "sources": [],
+      "tradition": "catholic"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition points to Apollos, a man \"mighty in the scriptures\" who \"taught diligently the things of the Lord\" and still needed to be taught \"the way of God more perfectly,\" as showing that Scripture, however ably studied, is handed on and completed within the apostolic community, so the living transmission of the faith is not a rival to the written word but its ordinary setting.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally observe that what Apollos lacked was not a tradition standing beside Scripture but the completed apostolic gospel itself, especially the events following the baptism of John, and they note that a lay couple rather than an office-holder supplies it. Both traditions agree that no one reads the Scriptures well in isolation, and that sincere and eloquent teaching can be genuinely incomplete until the wider Church corrects it.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading takes Paul's vow at Cenchrea and his resolve to \"keep this feast that cometh in Jerusalem\" as evidence that freely chosen devotional commitments, seasons, and bodily observances remain fitting under grace, and finds here a scriptural root for the Church's practice of vows and its liturgical calendar.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the vow as Paul's personal liberty and his accommodation to Jewish sensibilities for the sake of the mission, not a pattern binding on Christians, and they warn against turning voluntary devotion into obligation. Both traditions agree that vows and observances have no power to justify, that Paul is not reimposing the law he argued against elsewhere, and that such practices are worth keeping only insofar as they serve living faith in Christ.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

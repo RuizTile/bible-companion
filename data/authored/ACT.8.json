@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.8",
+  "book": "Acts",
+  "chapter": 8,
+  "canon": "protocanonical",
+  "summary": "\"And Saul was consenting unto his death.\" Persecution scatters the Jerusalem church \"throughout the regions of Judæa and Samaria, except the apostles,\" and Saul \"made havock of the church\"; yet \"they that were scattered abroad went every where preaching the word.\" Philip goes down to Samaria and \"preached Christ unto them,\" with healings and exorcisms, and \"there was great joy in that city.\" Simon, a sorcerer the people had called \"the great power of God,\" believes and is baptized. When the apostles hear \"that Samaria had received the word of God, they sent unto them Peter and John,\" who pray for them, \"For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus\"; then \"laid they their hands on them, and they received the Holy Ghost.\" Simon offers money for the power; Peter answers, \"Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money,\" telling him to repent, for \"thou art in the gall of bitterness.\" An angel then sends Philip toward Gaza, where an Ethiopian eunuch sits reading Isaiah. Asked, \"Understandest thou what thou readest?\", he answers, \"How can I, except some man should guide me?\" Philip \"began at the same scripture, and preached unto him Jesus.\" Seeing water, the eunuch asks, \"what doth hinder me to be baptized?\", confesses, \"I believe that Jesus Christ is the Son of God,\" is baptized, and \"went on his way rejoicing,\" while Philip is found at Azotus, preaching to Cæsarea.",
+  "takeaways": [
+    "Persecution does not shrink the Church but disperses it. The mission to Samaria begins because believers were driven from home, and what looks like the loss of a settled center becomes the next stage of the gospel's advance.",
+    "Baptism and the gift of the Spirit are shown here as distinguishable moments. The Samaritans are genuinely baptized \"in the name of the Lord Jesus,\" and the Spirit is given afterward through the prayer and hands of apostles sent from Jerusalem, binding the new believers to the one apostolic body.",
+    "Simon names a permanent temptation: treating God's gifts as a commodity or as leverage over others. Peter locates the fault in the man rather than only in the offer, \"thy heart is not right in the sight of God,\" and calls him to repentance rather than simply dismissing him.",
+    "The eunuch is already reading the prophet and still asks, \"How can I, except some man should guide me?\" The word reaches him through someone sent, and the encounter ends not in understanding alone but in confession, baptism, and joy."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.53",
+      "verses": "7-8",
+      "label": "Isaiah 53:7-8 — the servant led as a lamb to the slaughter",
+      "why": "This is the passage the eunuch was reading, of one who \"opened not his mouth\" and \"was cut off out of the land of the living.\" Reading it whole shows why Philip could begin at that scripture and preach Jesus without changing the subject.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.4",
+      "verses": "20-26",
+      "label": "John 4:20-26 — Jesus and the Samaritan woman on where God is worshipped",
+      "why": "Jesus tells the Samaritan woman that \"the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father,\" while still saying \"salvation is of the Jews.\" The Samaritan mission in Acts 8 is the promised hour arriving, with the old division healed rather than merely ignored.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.19",
+      "verses": "1-6",
+      "label": "Acts 19:1-6 — disciples at Ephesus are baptized and then receive the Spirit through Paul's hands",
+      "why": "Paul asks, \"Have ye received the Holy Ghost since ye believed?\", they are baptized, and \"when Paul had laid his hands upon them, the Holy Ghost came on them.\" The sequence matches Samaria closely and is the strongest parallel for treating the laying on of hands as a distinct rite following baptism.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "HEB.6",
+      "verses": "1-2",
+      "label": "Hebrews 6:1-2 — baptisms and laying on of hands among the foundations",
+      "why": "The writer lists \"the doctrine of baptisms, and of laying on of hands\" among the elementary things a congregation should already have settled. That an early Christian letter treats the imposition of hands as basic catechesis supports reading Acts 8 as describing a normal practice rather than a one-off event.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.10",
+      "verses": "44-48",
+      "label": "Acts 10:44-48 — the Spirit falls on Cornelius' household before baptism",
+      "why": "At Cæsarea \"the Holy Ghost fell on all them which heard the word\" while Peter was still preaching, with no laying on of hands and before any baptism. The reversed order is the main reason many interpreters read Samaria as a special moment rather than a fixed rule, and it keeps the initiative firmly with God.",
+      "sources": [],
+      "tradition": "protestant"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition the Samaritans, already validly baptized, receiving the Holy Ghost when Peter and John lay hands on them is read as the scriptural ground of confirmation as a sacrament distinct from baptism, ordinarily conferred by the bishop as one who stands in the apostles' place.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read this as an exceptional and transitional moment in which the Spirit's visible coming through the Jerusalem apostles publicly ratified the inclusion of Samaritans, so that the Church would not divide into rival Jewish and Samaritan bodies at the outset. They point to Cornelius, where the Spirit falls on Gentiles before baptism and without any imposition of hands, as evidence that Acts records varied sequences rather than a single rite. Both traditions agree that the Spirit is God's own gift and never the minister's possession, and that the episode deliberately joins the new believers to the apostolic Church rather than leaving them independent.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading takes Peter's rebuke of Simon as the root condemnation of buying or selling sacred things and offices, a discipline the Church has legislated against ever since, and notes that the rebuke presupposes something genuinely conferred through the apostles' hands, real enough that a man would try to purchase it.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally agree without reservation that trafficking in holy things is condemned here, but locate Simon's central error in an unconverted heart still seeking status and influence, which is why Peter addresses his heart and his need to repent rather than the price he named. Many add a warning that any account treating grace as a commodity the clergy control risks the very confusion Peter rejects. Both traditions agree that the gift of God cannot be purchased, that Peter's response is a summons to repentance and prayer rather than a bargain, and that Simon's baptism did not by itself settle the state of his heart.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

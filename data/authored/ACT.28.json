@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.28",
+  "book": "Acts",
+  "chapter": 28,
+  "canon": "protocanonical",
+  "summary": "Ashore, they learn the island is \"called Melita,\" where \"the barbarous people shewed us no little kindness,\" kindling a fire against the rain and cold. A viper driven from the heat fastens on Paul's hand, and the islanders judge him \"a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.\" He shakes it into the fire and \"felt no harm\"; when he neither swells nor dies, \"they changed their minds, and said that he was a god.\" Paul heals the fevered father of Publius, and other sick islanders are healed. After three months they sail in a ship \"whose sign was Castor and Pollux\" to Puteoli, where brethren receive them; met at \"Appii forum, and The three taverns,\" Paul \"thanked God, and took courage.\" At Rome he may \"dwell by himself with a soldier that kept him.\" He summons the chief of the Jews and explains he wears his chain \"for the hope of Israel\"; they have had no letters against him but wish to hear him, since of \"this sect\" they know \"every where it is spoken against.\" All day he expounds the kingdom of God \"both out of the law of Moses, and out of the prophets,\" and \"some believed the things which were spoken, and some believed not.\" As they part he speaks the prophet's word about a \"heart\" that \"is waxed gross,\" and declares \"the salvation of God is sent unto the Gentiles.\" Luke closes with two years in a hired house, \"Preaching the kingdom of God,\" \"no man forbidding him.\"",
+  "takeaways": [
+    "The viper and the healings are real signs, yet Luke lets the islanders swing from calling Paul a murderer to calling him \"a god\" without a word of faith between the two, a quiet caution that wonders impress but do not by themselves convert.",
+    "Paul insists the gospel is \"the hope of Israel\" rather than a rival to it, and he says he came to Rome \"not that I had ought to accuse my nation of.\" The turn to the Gentiles is presented as the promise widening, not the promise withdrawn.",
+    "The prophetic word Paul quotes is a summons spoken within Israel by a Jewish apostle to his own people, the same word given long before to the prophet and repeated by Jesus to the crowds. It warns any hearer in any generation against eyes deliberately closed.",
+    "Acts ends with no verdict, no martyrdom, no tidy close. Its last note is \"no man forbidding him,\" locating the book's real subject in the unhindered freedom of the word rather than in the fate of the apostle carrying it."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.6",
+      "verses": "9-10",
+      "label": "Isaiah 6:9-10 — Hear ye indeed, but understand not; and see ye indeed, but perceive not",
+      "why": "This is the passage Paul quotes as the last word of his Roman hearing, given to Isaiah at his own commissioning as a warning that his preaching would meet closed eyes. Read together, it shows Paul placing himself in the long line of prophets sent to their own people with a word both merciful and hard.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.13",
+      "verses": "14-15",
+      "label": "Matthew 13:14-15 — this people’s heart is waxed gross, and their ears are dull of hearing",
+      "why": "Jesus applies the same Isaiah oracle to the crowds who hear his parables without receiving them. That the identical text is used by the Lord and then by his apostle marks the division as one that runs through hearing itself, and one Jesus met first.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.11",
+      "verses": "25-32",
+      "label": "Romans 11:25-32 — the gifts and calling of God are without repentance",
+      "why": "Writing to the very city he now reaches in chains, Paul teaches that Israel's partial blindness is temporary and purposeful, that its people remain \"beloved for the fathers’ sakes,\" and that God has shut all up in unbelief \"that he might have mercy upon all.\" It is the indispensable commentary on Acts 28, forbidding any reading of the closing scene as a final rejection.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.16",
+      "verses": "17-18",
+      "label": "Mark 16:17-18 — they shall take up serpents, and they shall lay hands on the sick",
+      "why": "The risen Christ promises that signs will accompany those who believe, naming both immunity from serpents and healing by the laying on of hands. Acts 28 records both on a single island within a few verses, presenting the Melita episode as that promise verified rather than as a display Paul sought.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.1",
+      "verses": "8-16",
+      "label": "Romans 1:8-16 — I am ready to preach the gospel to you that are at Rome also",
+      "why": "Years earlier Paul had written of his longing to come to Rome and of a gospel that is God's power to salvation \"to the Jew first, and also to the Greek.\" Acts 28 shows the longing answered in a way he had not imagined, under guard, and the order of that preaching kept exactly.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition Paul's closing declaration that \"the salvation of God is sent unto the Gentiles\" is read as the widening of one covenant history rather than the cancelling of it: the same apostle who speaks the hard prophetic word is a Jew addressing his own people, wearing a chain \"for the hope of Israel,\" and the tradition holds that God's election of Israel is never revoked.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally agree that the mission moves outward here in fulfillment of the prophets rather than as a repudiation, though some place more weight on the note of division in \"some believed the things which were spoken, and some believed not,\" reading the Church as the community of faith gathered from Jew and Gentile alike. Both traditions affirm that the gospel is offered first within Israel, that the prophetic warning is a call to repentance and not a verdict on a people, and that the turn to the Gentiles fulfils what Israel's Scriptures had promised.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading treats the abrupt ending — two years of teaching \"with all confidence, no man forbidding him,\" and no report of the trial's outcome — as deliberate rather than accidental, since Luke's subject is the progress of the word and the life of the apostolic community, which continues past the last page in the Church Paul left behind.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the ending the same way as a literary and theological choice, while many also find in it a historical clue that Luke wrote before the case was decided. They tend to locate the book's climax in the free proclamation itself, since the final words describe the word's liberty rather than the preacher's. Both traditions agree that Acts closes forward-looking, handing the mission on rather than concluding it.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

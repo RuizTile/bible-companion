@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.27",
+  "book": "Acts",
+  "chapter": 27,
+  "canon": "protocanonical",
+  "summary": "Paul and other prisoners are delivered \"unto one named Julius, a centurion of Augustus’ band\" for the voyage to Italy. At Sidon Julius \"courteously entreated Paul\"; contrary winds drive them to Myra, where they transfer to \"a ship of Alexandria sailing into Italy.\" Having \"sailed slowly many days,\" they barely reach The fair havens, and since \"sailing was now dangerous,\" Paul warns that \"this voyage will be with hurt and much damage.\" But \"the centurion believed the master and the owner of the ship,\" and the majority vote to press on. A soft south wind flatters them until \"a tempestuous wind, called Euroclydon\" seizes the vessel; they undergird the hull and cast out the tackling, and when \"neither sun nor stars in many days appeared,\" \"all hope that we should be saved was then taken away.\" Paul stands forth with a word from the angel of God, \"whose I am, and whom I serve\": \"Fear not, Paul; thou must be brought before Cæsar: and, lo, God hath given thee all them that sail with thee.\" He adds, \"I believe God.\" Yet when the sailors try to slip off in the boat he tells the centurion, \"Except these abide in the ship, ye cannot be saved.\" At daybreak he urges them to eat, promising \"there shall not an hair fall from the head of any of you,\" then \"took bread, and gave thanks to God in presence of them all.\" All two hundred seventy-six aboard are cheered; the ship runs aground and breaks apart, and \"they escaped all safe to land.\"",
+  "takeaways": [
+    "The promise that no life would be lost did not make seamanship optional. \"Except these abide in the ship, ye cannot be saved\" shows that a guaranteed end is reached through human means rather than around them, and that trusting a promise is not the same as doing nothing.",
+    "Paul's courage rests on a specific word received and believed — \"I believe God, that it shall be even as it was told me\" — which is faith as trust in what has actually been said, not a general hopefulness about outcomes.",
+    "In the storm authority quietly passes from the owner and the centurion to the prisoner, because the man who says \"whose I am, and whom I serve\" is the only one on board with something steady to stand on. The whole company is spared in his company.",
+    "Giving thanks publicly in the middle of despair is itself an act of faith: the others become \"of good cheer\" and eat only after someone has broken bread and blessed God in front of them."
+  ],
+  "crossRefs": [
+    {
+      "target": "PSA.107",
+      "verses": "23-30",
+      "label": "Psalm 107:23-30 — they that go down to the sea in ships see the wonders of the LORD in the deep",
+      "why": "The psalm describes sailors driven to their wits' end by a storm God himself raised, who cry out and are brought \"unto their desired haven.\" It supplies the scriptural pattern behind Luke's account, where the sea is not chaos outside God's reach but a place where his works are seen.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JON.1",
+      "verses": "4-16",
+      "label": "Jonah 1:4-16 — a tempest at sea, a lightened ship, and mariners who come to fear the LORD",
+      "why": "Jonah's crew jettison cargo, plead with a God not their own, and end up worshipping him. The parallels with Acts 27 are close enough to sharpen the contrast: Jonah's presence endangers the ship, while Paul's presence is the reason God gives him \"all them that sail with thee.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.22",
+      "verses": "19",
+      "label": "Luke 22:19 — he took bread, and gave thanks, and brake it",
+      "why": "At the supper Jesus takes bread, gives thanks, and breaks it with words of self-gift. Luke uses that same sequence for Paul in the storm, which is why the Catholic tradition hears a deliberate liturgical echo in a meal that turns terror into cheer.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "LUK.21",
+      "verses": "16-19",
+      "label": "Luke 21:16-19 — there shall not an hair of your head perish",
+      "why": "Jesus promises his disciples ultimate preservation in the very sentence that warns some of them will be killed, so the promise plainly concerns something deeper than bodily safety. Paul's assurance that \"there shall not an hair fall from the head of any of you\" borrows that language and applies it to a night when the ship itself is lost.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PHP.2",
+      "verses": "12-13",
+      "label": "Philippians 2:12-13 — work out your own salvation, for it is God which worketh in you",
+      "why": "Paul holds together strenuous human effort and God's inward working as one reality rather than two competing causes. That is precisely the logic of the shipwreck, where God's pledge that all will live stands alongside the order that the sailors must stay aboard.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition this chapter is a favored illustration of providence working through secondary causes: God's promise that he \"hath given thee all them that sail with thee\" is absolutely certain, and yet Paul must still say \"Except these abide in the ship, ye cannot be saved,\" so that free human acts are neither bypassed nor made pointless by the divine decree. The tradition has also read the ship as an image of the Church, the company being kept safe together rather than each man saving himself.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally reach the same practical conclusion by a different route, holding that God ordains the means along with the end, so that the sailors staying aboard was itself decreed rather than an independent condition God had to accommodate. They tend to resist pressing the ship into an allegory of the Church, reading it as a historical vessel in a historical storm. Both traditions agree that a sure promise never licenses passivity, and that the chapter forbids setting divine sovereignty and human responsibility against each other.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading hears a eucharistic resonance in Paul taking bread, giving \"thanks to God in presence of them all,\" breaking it and eating, since Luke uses the same sequence of actions he uses for the Lord's supper and for the Emmaus meal, and since the act openly and publicly restores a despairing company.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read this as an ordinary meal opened with the customary Jewish blessing over food, noting that the two hundred and seventy-six aboard were soldiers, sailors, and prisoners rather than a believing congregation, and that no words of institution are recorded. Both traditions agree the gesture is deliberate and unmistakably Christian, a public act of thanksgiving that gives the whole ship courage before the wreck.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.26",
+  "book": "Acts",
+  "chapter": 26,
+  "canon": "protocanonical",
+  "summary": "Agrippa grants leave, \"Thou art permitted to speak for thyself,\" and Paul \"stretched forth the hand.\" He counts himself \"happy\" to plead before a king \"expert in all customs and questions which are among the Jews,\" and reframes the charge as a matter of hope: he stands \"judged for the hope of the promise made of God unto our fathers,\" the hope toward which \"our twelve tribes\" serve \"day and night.\" He puts the real question: \"Why should it be thought a thing incredible with you, that God should raise the dead?\" Then he tells his own history, how he \"verily thought\" he \"ought to do many things contrary to the name of Jesus of Nazareth,\" shutting saints in prison and being \"exceedingly mad against them.\" On the Damascus road \"At midday\" a light \"above the brightness of the sun\" throws them all down, and a voice in \"the Hebrew tongue\" asks, \"Saul, Saul, why persecutest thou me?\" and answers, \"I am Jesus whom thou persecutest.\" He is made \"a minister and a witness,\" sent \"To open their eyes, and to turn them from darkness to light.\" Paul answers, \"I was not disobedient unto the heavenly vision,\" and claims to preach nothing beyond what \"the prophets and Moses did say should come.\" Festus cries that \"much learning doth make thee mad\"; Agrippa says, \"Almost thou persuadest me to be a Christian.\" Paul wishes all present were as he is, \"except these bonds\"; the court withdraws agreeing he does \"nothing worthy of death.\"",
+  "takeaways": [
+    "Grace here is entirely unearned and unlooked-for: Christ confronts a man in the act of persecuting him, so the initiative belongs wholly to God, yet Paul summarizes his whole life afterward as a response — \"I was not disobedient unto the heavenly vision.\"",
+    "Paul presents the gospel as the fulfillment of Israel's hope rather than a departure from it, standing trial \"for the hope of the promise made of God unto our fathers\" and insisting the resurrection is what the prophets and Moses had said would come.",
+    "The commission maps the whole shape of conversion: eyes opened, a turn \"from darkness to light,\" release \"from the power of Satan unto God,\" forgiveness of sins, and \"inheritance among them which are sanctified.\"",
+    "Agrippa's \"Almost\" is the chapter's warning — real interest that stops short of surrender — while Paul's wish that his judges were as he is \"except these bonds\" shows a charity toward them untouched by his own chains."
+  ],
+  "crossRefs": [
+    {
+      "target": "ACT.9",
+      "verses": "3-6",
+      "label": "Acts 9:3-6 — the light from heaven and the voice on the Damascus road",
+      "why": "Luke's own narration of the conversion records the same light, the same question, \"Saul, Saul, why persecutest thou me?\" and the same self-naming of Jesus. Reading it beside chapter 26 shows what Paul adds when he testifies in his own voice before a king: the commission to the Gentiles is spoken directly on the road.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.22",
+      "verses": "6-15",
+      "label": "Acts 22:6-15 — Paul retells his conversion to the crowd in Jerusalem",
+      "why": "Speaking to a hostile Jewish crowd, Paul stresses that \"The God of our fathers hath chosen thee\" and that he is to be a witness \"unto all men.\" Set beside the version given to Agrippa, the two show one apostle shaping the same testimony for two audiences without altering its substance.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.42",
+      "verses": "6-7",
+      "label": "Isaiah 42:6-7 — a light of the Gentiles, to open the blind eyes and bring out the prisoners",
+      "why": "The servant is given \"for a light of the Gentiles,\" commissioned \"To open the blind eyes, to bring out the prisoners from the prison, and them that sit in darkness.\" Paul's account of his own sending borrows that vocabulary almost whole, presenting his mission as the servant's work being carried outward through him.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.24",
+      "verses": "44-47",
+      "label": "Luke 24:44-47 — thus it behoved Christ to suffer, and to rise from the dead the third day",
+      "why": "The risen Jesus explains that all things written \"in the law of Moses, and in the prophets, and in the psalms\" concern him, and that repentance and remission are to be preached \"among all nations.\" Paul's claim before Agrippa that he says only what \"the prophets and Moses did say should come\" is that lesson repeated under oath.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1TI.1",
+      "verses": "12-16",
+      "label": "1 Timothy 1:12-16 — a blasphemer and a persecutor, who obtained mercy",
+      "why": "Looking back, Paul calls himself the chief of sinners, saved so that Christ might \"shew forth all longsuffering, for a pattern to them which should hereafter believe.\" Protestant interpreters often read the Agrippa speech through this later reflection, as the clearest case that salvation is sheer unmerited mercy received by faith rather than anything the convert brought.",
+      "sources": [],
+      "tradition": "protestant"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition Paul's summary, \"I was not disobedient unto the heavenly vision,\" is read as showing that grace which is wholly gratuitous still calls for and enables a genuinely free human response, so that his lifelong obedience is truly his own act while being entirely the work of grace within him.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally stress that the encounter is unilateral, since Paul is struck down in the middle of persecuting the Church and contributes nothing to it, and they read his subsequent obedience as the fruit and evidence of a grace that effectually turns the will rather than a cooperating factor alongside it. Both traditions affirm that the initiative is entirely God's, that no merit of Paul's occasioned it, and that a grace which produced no obedience would not be the grace Paul describes.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading gives weight to the terms of the commission itself, that hearers \"should repent and turn to God, and do works meet for repentance,\" understanding conversion as a single movement completed in a changed life, so that charity in action belongs to the reality of turning to God and not merely to its aftermath.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the works as the necessary evidence of a repentance that itself receives forgiveness by faith, and they point to Paul's own summary placing \"forgiveness of sins, and inheritance among them which are sanctified\" under \"faith that is in me.\" Both traditions agree that repentance producing no changed conduct is not the repentance Paul preached, and that the forgiveness he announces is God's gift rather than a wage.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

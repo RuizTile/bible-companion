@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.20",
+  "book": "Acts",
+  "chapter": 20,
+  "canon": "protocanonical",
+  "summary": "After the uproar Paul departs for Macedonia and Greece, where a plot forces him back overland. At Troas, \"upon the first day of the week, when the disciples came together to break bread,\" he preaches until midnight in the upper chamber; Eutychus, in a window, sinks into sleep and \"fell down from the third loft, and was taken up dead.\" Paul embraces him—\"Trouble not yourselves; for his life is in him\"—then breaks bread and talks \"even till break of day,\" and the young man is brought home alive. At Miletus he sends for \"the elders of the church\" at Ephesus and gives his one recorded address to pastors. He recalls serving \"with all humility of mind, and with many tears,\" having \"kept back nothing that was profitable\" and taught \"publickly, and from house to house.\" Now he goes \"bound in the spirit unto Jerusalem,\" warned that \"bonds and afflictions abide me,\" yet resolved to \"finish my course with joy.\" Declaring himself \"pure from the blood of all men\" because he has \"not shunned to declare unto you all the counsel of God,\" he charges them, \"Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.\" He warns of \"grievous wolves\" from without and men who \"arise, speaking perverse things\" within, commends them to God, and cites the Lord: \"It is more blessed to give than to receive.\" They kneel, weep, and walk him to the ship.",
+  "takeaways": [
+    "The pastoral office is not self-chosen: \"the Holy Ghost hath made you overseers,\" and its object is a flock God \"hath purchased with his own blood,\" so authority in the Church is stewardship of what belongs to another at infinite cost.",
+    "Paul's model of teaching is exhaustive, \"publickly, and from house to house,\" keeping back nothing profitable, which is why he can claim to be \"pure from the blood of all men\"; silence about hard doctrine is itself a failure of love.",
+    "The gravest dangers to a church come from within as much as from outside, since \"grievous wolves\" enter but men also rise up \"of your own selves,\" making vigilance a permanent duty of those who lead.",
+    "The disciples gathering \"upon the first day of the week\" to break bread show the Christian Sunday assembly already formed, joining prolonged teaching and a shared table in a single act of worship."
+  ],
+  "crossRefs": [
+    {
+      "target": "EZK.34",
+      "verses": "1-10",
+      "label": "Ezekiel 34:1-10 — woe to the shepherds of Israel that feed themselves",
+      "why": "God indicts shepherds who \"feed themselves\" while the diseased, the broken, and the lost go unsought, and declares that he will require his flock at their hand. Paul's charge to the Ephesian elders is spoken directly out of this prophetic tradition of accountable shepherding.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.10",
+      "verses": "11-16",
+      "label": "John 10:11-16 — the good shepherd giveth his life for the sheep",
+      "why": "Jesus names himself the shepherd who lays down his life, unlike the hireling who abandons the sheep when the wolf comes. It stands behind Paul's language of a flock purchased with blood and of wolves the elders must not leave it to.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1PE.5",
+      "verses": "1-4",
+      "label": "1 Peter 5:1-4 — feed the flock of God, taking the oversight thereof",
+      "why": "Peter charges elders to \"Feed the flock of God which is among you, taking the oversight thereof,\" willingly rather than by constraint and \"Neither as being lords over\" those entrusted to them. The near-identical vocabulary shows a common apostolic understanding of the office rather than a view peculiar to Paul.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "TIT.1",
+      "verses": "5-9",
+      "label": "Titus 1:5-9 — ordain elders in every city, for a bishop must be blameless",
+      "why": "Titus is told to \"ordain elders in every city,\" and the qualifications that follow immediately speak of \"a bishop,\" applying both words to the same men. Protestant interpreters generally read this beside Acts 20, where the elders are called overseers, as evidence that elder and bishop named one office in the apostolic churches.",
+      "sources": [],
+      "tradition": "protestant"
+    },
+    {
+      "target": "1CO.11",
+      "verses": "23-29",
+      "label": "1 Corinthians 11:23-29 — the supper of the Lord handed on as what Paul received",
+      "why": "Paul delivers \"that which also I delivered unto you\" concerning the bread and the cup, with the words \"this is my body,\" and warns against receiving unworthily. Read with the Troas gathering, it fills in what breaking bread on the first day of the week meant in the churches Paul founded.",
+      "sources": [],
+      "tradition": "catholic"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads Paul's charge, that \"the Holy Ghost hath made you overseers, to feed the church of God,\" as the institution of a genuine pastoral office carrying divinely given responsibility to teach, govern, and sanctify, handed on from the apostles to the men they appointed, so the farewell at Miletus transfers care of the Ephesian church into their keeping.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally note that the same men are called elders and overseers within a single paragraph, and conclude that the apostolic churches knew a plurality of elders in each congregation rather than one bishop set above them, with an authority that is ministerial and always answerable to \"the word of his grace\" Paul commends them to. Both traditions affirm that the office is given by the Holy Spirit rather than seized, that pastors will answer for the flock, and that the Church belongs to the Christ who purchased it.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading takes \"upon the first day of the week, when the disciples came together to break bread\" as an early witness to the Sunday Eucharist: the assembly meets on the day of the resurrection, the word is preached at length, and the breaking of bread is the reason the community has gathered, which grounds the Church's understanding of Sunday worship as the ordinary shape of Christian life.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally agree that the first day was already the settled day of assembly and that the breaking of bread here includes the Lord's Supper, though many read the phrase as also covering an ordinary shared meal and decline to derive a binding weekly obligation from a narrative detail. Both traditions agree that Christians met from the beginning on the first day of the week for teaching and the breaking of bread, and that the practice takes its meaning from the resurrection.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

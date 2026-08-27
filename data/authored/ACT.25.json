@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.25",
+  "book": "Acts",
+  "chapter": 25,
+  "canon": "protocanonical",
+  "summary": "When Festus is \"come into the province,\" he goes up to Jerusalem, where the high priest and the chief of the Jews inform him against Paul and \"desired favour against him,\" asking that he be summoned while men are \"laying wait in the way to kill him.\" Festus keeps him at Caesarea and bids them come down and \"accuse this man, if there be any wickedness in him.\" On the judgment seat he hears \"many and grievous complaints against Paul, which they could not prove,\" while Paul answers that he has offended \"Neither against the law of the Jews, neither against the temple, nor yet against Cæsar.\" Festus, \"willing to do the Jews a pleasure,\" proposes a trial at Jerusalem; Paul refuses the trap and stands on his citizenship, \"I stand at Cæsar’s judgment seat, where I ought to be judged,\" and \"I appeal unto Cæsar.\" Festus confers and answers, \"Hast thou appealed unto Cæsar? unto Cæsar shalt thou go.\" King Agrippa and Bernice arrive, and Festus lays out the case, insisting it is \"not the manner of the Romans to deliver any man to die\" before the accused meets \"the accusers face to face,\" and admitting the dispute turns on \"one Jesus, which was dead, whom Paul affirmed to be alive.\" Agrippa says, \"I would also hear the man myself.\" The next day, amid \"great pomp,\" before chief captains and principal men, Paul is brought forth; Festus grants he has \"committed nothing worthy of death,\" yet confesses, \"I have no certain thing to write unto my lord.\"",
+  "takeaways": [
+    "Paul's appeal to Caesar shows that claiming the protection of just civil law is compatible with trust in God; grace does not require a believer to surrender legitimate rights or to court an unjust death.",
+    "Roman procedure insists that an accused man meet \"the accusers face to face, and have licence to answer for himself,\" and the chapter quietly commends that due process as a real good even when the officials administering it are self-interested.",
+    "Festus reduces the whole matter to \"certain questions\" about \"one Jesus, which was dead, whom Paul affirmed to be alive.\" Worldly power can register the resurrection as a procedural nuisance and still miss that everything hangs on whether the claim is true.",
+    "God's purposes advance through unremarkable machinery: a governor's ambition, a change of jurisdiction, a legal appeal. Providence is not only in the dramatic vision but in the delay, the paperwork, and the escort."
+  ],
+  "crossRefs": [
+    {
+      "target": "ACT.23",
+      "verses": "11",
+      "label": "Acts 23:11 — so must thou bear witness also at Rome",
+      "why": "The Lord stands by Paul in Jerusalem and promises that as he has testified there, \"so must thou bear witness also at Rome.\" Read alongside chapter 25, the appeal to Caesar becomes the visible means by which that promise is kept.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.9",
+      "verses": "15-16",
+      "label": "Acts 9:15-16 — a chosen vessel to bear my name before the Gentiles, and kings",
+      "why": "At Paul's calling the Lord says he will carry the name \"before the Gentiles, and kings, and the children of Israel,\" and will be shown \"how great things he must suffer.\" The hearing before Festus and Agrippa is that commission arriving in its literal form, suffering and royal audience together.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.21",
+      "verses": "12-15",
+      "label": "Luke 21:12-15 — brought before kings and rulers, and it shall turn to you for a testimony",
+      "why": "Jesus forewarns that his disciples will be delivered to prisons and \"brought before kings and rulers for my name’s sake,\" and that the occasion \"shall turn to you for a testimony\" with a God-given mouth and wisdom. Acts 25 stages exactly that scene, so the trial reads as opportunity rather than mere misfortune.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.13",
+      "verses": "1-4",
+      "label": "Romans 13:1-4 — the powers that be are ordained of God",
+      "why": "Paul teaches that civil authority is God's minister for good and is to be honored rather than despised. That the same apostle submits to a Roman court and invokes its protection shows the teaching lived out, and it frames Festus's flawed magistracy as still a genuine instrument of order.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.50",
+      "verses": "19-20",
+      "label": "Genesis 50:19-20 — ye thought evil against me; but God meant it unto good",
+      "why": "Joseph interprets a conspiracy against him as something God bent toward saving \"much people alive.\" The plot to ambush Paul on the Jerusalem road, and the political calculation that follows it, work the same way: hostile intent becomes the road by which God's servant reaches the place appointed for him.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition Paul's conduct here is read as a model of the right relation between the Church and lawful civil authority: the state possesses a real, God-given competence in matters of justice and public order, so a Christian may rightly submit to its courts, cooperate with its procedures, and claim its protections without compromising fidelity to Christ.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the scene the same way but press harder on the limits: Festus is \"willing to do the Jews a pleasure,\" so the passage also exposes how easily magistrates bend justice, and Paul's appeal is treated as prudent use of a flawed system rather than any endorsement of Rome. Both traditions affirm that civil government is ordained by God for justice, that its authority is real but derived and answerable, and that obedience to it never overrides obedience to God.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading gives weight to this chapter as a portrait of providence working through secondary causes: God's declared purpose that Paul reach Rome is accomplished not by suspending events but through a governor's ambition, a prisoner's own deliberate act of appeal, and the ordinary grinding of Roman law, so that the human choices are genuinely free and genuinely the means.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally frame the same events under God's sovereign decree, holding that the outcome was certain and that Paul's appeal was the appointed instrument rather than an independent contribution to it. Some also debate whether the appeal showed faith or impatience, though most read it as sober wisdom in the face of a planned ambush. Both traditions agree that the chapter's quiet, unmiraculous machinery is exactly where God is at work, and that trusting his promise does not make human decision unnecessary.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

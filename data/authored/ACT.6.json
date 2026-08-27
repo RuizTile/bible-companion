@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.6",
+  "book": "Acts",
+  "chapter": 6,
+  "canon": "protocanonical",
+  "summary": "As \"the number of the disciples was multiplied,\" \"there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.\" The twelve call the multitude together: \"It is not reason that we should leave the word of God, and serve tables.\" They tell the brethren to \"look ye out among you seven men of honest report, full of the Holy Ghost and wisdom,\" while they themselves \"give ourselves continually to prayer, and to the ministry of the word.\" The saying \"pleased the whole multitude,\" and seven are chosen: Stephen, \"a man full of faith and of the Holy Ghost,\" with Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolas, \"a proselyte of Antioch.\" Set before the apostles, \"when they had prayed, they laid their hands on them.\" Then \"the word of God increased,\" and \"a great company of the priests were obedient to the faith.\" Stephen, \"full of faith and power,\" does \"great wonders and miracles among the people,\" and men of a synagogue of \"the Libertines, and Cyrenians, and Alexandrians\" dispute with him, but \"they were not able to resist the wisdom and the spirit by which he spake.\" So they suborn men to charge him with \"blasphemous words against Moses, and against God,\" and bring him before the council, where witnesses allege he speaks against \"this holy place, and the law\" and says Jesus \"shall change the customs which Moses delivered us.\" All in the council see \"his face as it had been the face of an angel.\"",
+  "takeaways": [
+    "The Church's first recorded internal crisis is a failure of charity toward widows, and it is resolved not by silencing the complaint but by restructuring the community so that both the care of the poor and the preaching of the word receive dedicated ministers.",
+    "Apostolic ministry is shared without being surrendered: the twelve keep prayer and the word as their irreducible charge and hand on a genuine office to others through prayer and the laying on of hands, so the new ministry is derived from theirs rather than invented alongside it.",
+    "The seven are not merely administrators. They must be \"full of the Holy Ghost and wisdom,\" and Stephen immediately preaches and works wonders, showing that serving tables and bearing witness to Christ belong to a single calling.",
+    "Opposition shifts from argument to accusation once \"they were not able to resist the wisdom and the spirit by which he spake.\" The charges brought against Stephen echo those brought against Jesus, and his face like an angel's signals whose Spirit is actually speaking."
+  ],
+  "crossRefs": [
+    {
+      "target": "EXO.18",
+      "verses": "17-23",
+      "label": "Exodus 18:17-23 — Moses is counselled to appoint able men to share the burden",
+      "why": "Jethro warns Moses that he will wear himself away judging alone and tells him to provide \"able men, such as fear God\" who will bear the burden with him. The apostles do the same thing under a new covenant, keeping the greater charge and delegating the rest to men chosen for character.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "NUM.11",
+      "verses": "16-17",
+      "label": "Numbers 11:16-17 — seventy elders receive of the spirit that rested on Moses",
+      "why": "God tells Moses to gather seventy elders, promising, \"I will take of the spirit which is upon thee, and will put it upon them.\" It reads as the older pattern behind Acts 6, where authority is extended to others by God's own Spirit and not merely by administrative arrangement.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1TI.3",
+      "verses": "8-13",
+      "label": "1 Timothy 3:8-13 — the qualities required of deacons",
+      "why": "The letter lists what deacons must be, \"grave, not doubletongued,\" holding \"the mystery of the faith in a pure conscience,\" and promises them \"a good degree\" for serving well. By the time the letter is written the office is settled and named, which is why Acts 6 is so often read as its beginning.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1TI.4",
+      "verses": "14",
+      "label": "1 Timothy 4:14 — the gift given with the laying on of the hands of the presbytery",
+      "why": "Timothy is told, \"Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery,\" treating the imposition of hands as the occasion of a real and abiding gift. Read alongside Acts 6:6 it supports the understanding that the gesture confers something rather than merely announcing a decision.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "MAT.26",
+      "verses": "59-61",
+      "label": "Matthew 26:59-61 — the council seeks witnesses that Jesus threatened the temple",
+      "why": "At Jesus' trial witnesses claim he said, \"I am able to destroy the temple of God, and to build it in three days.\" The accusation brought against Stephen, that Jesus \"shall destroy this place,\" repeats the charge against the master, so the disciple's trial is deliberately shaped like the Lord's.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition the setting of the seven before the apostles, followed by prayer and the laying on of hands, is read as the institution of the diaconate and as the earliest narrative of ordination, in which a permanent ministry is conferred by the apostles rather than a temporary task assigned.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally observe that the text never calls the seven deacons and describes a practical solution to a specific problem of food distribution, so they read the laying on of hands as the congregation's commissioning and blessing of chosen servants rather than the conferral of sacramental office. Many also note that Stephen and Philip promptly preach and baptize, which suggests their work was not confined to a fixed order at all. Both traditions agree that the Church rightly sets apart particular people for particular service, that character and the Holy Spirit are prerequisites, and that this is done through the prayer and hands of those already entrusted with authority.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading gives weight to the fact that the apostles themselves determine the shape of the new ministry, define its scope, and confer it, taking this as evidence that the Church under apostolic authority can establish and adapt offices as needs arise rather than being limited to structures already spelled out in Scripture.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally emphasize that the whole multitude selects the seven and that the apostles act on a need the congregation itself raised, reading the passage as a model of local church responsibility exercised under apostolic teaching rather than as a warrant for developing offices independent of the biblical pattern. They also stress the stated rationale, that nothing should displace prayer and the ministry of the word. Both traditions agree that the arrangement existed to serve the preaching of the gospel and the care of the poor, and that it was validated by the growth that immediately followed.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

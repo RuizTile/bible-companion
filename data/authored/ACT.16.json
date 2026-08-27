@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.16",
+  "book": "Acts",
+  "chapter": 16,
+  "canon": "protocanonical",
+  "summary": "Paul returns to Derbe and Lystra, takes Timothy, \"well reported of by the brethren,\" circumcises him for the Jews there, and delivers the decrees \"ordained of the apostles and elders which were at Jerusalem,\" so the churches are \"established in the faith.\" They are \"forbidden of the Holy Ghost\" to preach in Asia and turned back from Bithynia because \"the Spirit suffered them not,\" until at Troas a vision pleads, \"Come over into Macedonia, and help us,\" swinging the mission west as the narrative shifts to \"we.\" At Philippi, at a riverside place of prayer, Lydia \"a seller of purple\" listens, \"whose heart the Lord opened,\" and \"when she was baptized, and her household,\" she constrains them to lodge with her. A slave girl with \"a spirit of divination\" trails them crying that they \"shew unto us the way of salvation,\" until Paul, \"being grieved,\" commands the spirit out. Her owners, seeing \"the hope of their gains was gone,\" drag Paul and Silas before the magistrates; they are beaten, jailed, and put in stocks. At midnight they \"prayed, and sang praises unto God\"; an earthquake opens every door; the jailer draws his sword and hears, \"Do thyself no harm: for we are all here.\" He asks, \"Sirs, what must I do to be saved?\" and hears, \"Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.\" Baptized \"he and all his, straightway,\" he feeds them, rejoicing \"believing in God with all his house.\" Paul then refuses a quiet release, claiming Roman citizenship.",
+  "takeaways": [
+    "The mission advances by the Spirit's closed doors as much as by its open ones: Paul is \"forbidden\" Asia and blocked from Bithynia before the Macedonian call comes, so guidance is often recognized only in retrospect.",
+    "Lydia's conversion is described first as God's act, \"whose heart the Lord opened,\" yet her attention, faith, and insistent hospitality are genuinely hers, holding grace and free response together.",
+    "Salvation is announced to a household, not merely to an individual: the promise runs \"and thy house,\" and baptism follows for the whole family and its dependents together.",
+    "Praise in the dark precedes the earthquake. The freedom the gospel gives is interior first, which is why the prisoners stay when the doors open and the jailer ends the night a believer rather than a suicide."
+  ],
+  "crossRefs": [
+    {
+      "target": "ACT.15",
+      "verses": "22-29",
+      "label": "Acts 15:22-29 — the decrees of the apostles and elders sent to the Gentile churches",
+      "why": "The council's letter, sent because \"it seemed good to the Holy Ghost, and to us,\" settles what Gentile believers must observe. Acts 16 shows Paul carrying those very decrees from city to city, which is why circumcising Timothy for the sake of the Jews contradicts nothing that was decided.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PHP.1",
+      "verses": "3-6",
+      "label": "Philippians 1:3-6 — thanksgiving for the Philippians' fellowship in the gospel from the first day",
+      "why": "Years later Paul writes to the church founded in this chapter, recalling \"your fellowship in the gospel from the first day until now\" and trusting that God \"will perform it until the day of Jesus Christ.\" Reading it alongside shows what grew from a riverside prayer meeting and a jailer's household.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1CO.1",
+      "verses": "13-17",
+      "label": "1 Corinthians 1:13-17 — Paul recalls baptizing the household of Stephanas",
+      "why": "Listing the few he personally baptized, Paul names \"the household of Stephanas,\" another whole house received at once. Read with Lydia and the jailer, it presents household baptism as a settled apostolic practice rather than an isolated incident.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "ROM.10",
+      "verses": "9-13",
+      "label": "Romans 10:9-13 — confess with thy mouth and believe in thine heart, and thou shalt be saved",
+      "why": "Paul states in doctrinal form what he told the jailer, that believing in the risen Lord and confessing him brings salvation to everyone who calls on his name. Protestant interpreters generally read the two texts together as making personal faith the thing that baptism presupposes and expresses.",
+      "sources": [],
+      "tradition": "protestant"
+    },
+    {
+      "target": "ACT.12",
+      "verses": "5-11",
+      "label": "Acts 12:5-11 — Peter delivered from prison while the church prays without ceasing",
+      "why": "An angel wakes Peter and \"his chains fell off from his hands\" while the church prays through the night. The deliberate parallel with Paul and Silas at midnight presents God's opening of prisons as a recurring sign that the word cannot be bound.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition the baptism of Lydia \"and her household\" and of the jailer \"he and all his\" is read as evidence that the apostles baptized entire houses, children and dependents included, on the faith of the head of the family, and this apostolic pattern is one of the scriptural grounds for infant baptism.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters are divided rather than uniform here: many Reformed, Lutheran, and Anglican readers baptize infants for much the same covenantal reasons, while Baptist and free-church interpreters note that Paul and Silas \"spake unto him the word of the Lord, and to all that were in his house,\" and that the jailer \"rejoiced, believing in God with all his house,\" suggesting that everyone baptized had first heard and believed. Both traditions affirm that baptism truly joins a person to Christ, and that the initiative belongs to God rather than to the one being baptized.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading takes \"whose heart the Lord opened, that she attended unto the things which were spoken of Paul\" as a portrait of grace going before: God moves first and interiorly, yet Lydia's listening, believing, and constraining hospitality are her own free acts, so grace enables the will rather than bypassing it.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally agree that the opening of the heart is wholly God's work, and those in the Reformed stream press it further, reading it as an effectual grace that certainly produces faith rather than merely making faith possible. Both traditions confess that no one believes unless God first acts upon the heart, and that the faith which follows is a real human response for which the believer is not a passive object.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

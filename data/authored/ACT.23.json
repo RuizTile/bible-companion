@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.23",
+  "book": "Acts",
+  "chapter": 23,
+  "canon": "protocanonical",
+  "summary": "Paul opens before the council, \"Men and brethren, I have lived in all good conscience before God until this day,\" and the high priest Ananias orders him struck on the mouth. He answers, \"God shall smite thee, thou whited wall,\" since a judge who commands a blow \"contrary to the law\" cannot judge by it; told whom he reviled, he withdraws at once, \"I wist not, brethren, that he was the high priest,\" citing the command against speaking \"evil of the ruler of thy people.\" Seeing the chamber divided, he cries, \"I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question,\" and the hearing splits, since \"the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both.\" Scribes of the Pharisees concede, \"We find no evil in this man,\" and the chief captain, fearing Paul will be \"pulled in pieces,\" hauls him back to the castle. That night the Lord stands by him: \"Be of good cheer, Paul: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome.\" More than forty men bind themselves \"under a curse\" to eat nothing until Paul is dead, but his nephew warns the captain, who moves him to Caesarea by night under heavy guard. The letter from Claudius Lysias reports him \"accused of questions of their law\" yet with \"nothing laid to his charge worthy of death.\" Felix holds him for trial when the accusers arrive.",
+  "takeaways": [
+    "Paul appeals to a conscience clear \"before God,\" not to a record clear before his accusers. Conscience in this sense is the interior court where a person answers to God, and it can acquit even when human tribunals condemn.",
+    "The quick retraction after his outburst matters as much as the outburst. He does not defend his anger; he corrects himself against the standard of Scripture, which is what a formed conscience looks like under pressure.",
+    "The resurrection is the true issue of the trial, not temple procedure. Paul names it because everything he preaches rests on it, so his defense is a confession rather than a courtroom tactic.",
+    "God's assurance comes as a commission, not as rescue from danger. \"So must thou bear witness also at Rome\" tells Paul he will survive because there is testimony still to give, which is how providence usually reaches those who suffer."
+  ],
+  "crossRefs": [
+    {
+      "target": "EXO.22",
+      "verses": "28",
+      "label": "Exodus 22:28 — thou shalt not curse the ruler of thy people",
+      "why": "The law forbids reviling and commands, \"nor curse the ruler of thy people.\" Paul cites this command to retract his own sharp words, showing that he submits his conscience to Scripture even when he believes the officeholder has just acted lawlessly.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.22",
+      "verses": "23-33",
+      "label": "Matthew 22:23-33 — Jesus answers the Sadducees, who say there is no resurrection",
+      "why": "The Sadducees pose a riddle to discredit the resurrection and are told, \"Ye do err, not knowing the scriptures, nor the power of God,\" since God \"is not the God of the dead, but of the living.\" The exchange explains the fault line that splits the council here and shows Paul standing where his Master stood.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1CO.15",
+      "verses": "12-20",
+      "label": "1 Corinthians 15:12-20 — if there be no resurrection of the dead, then is Christ not risen",
+      "why": "Paul argues that if the dead do not rise \"then is Christ not risen\" and \"your faith is also vain,\" but insists that \"now is Christ risen from the dead.\" It shows why he could tell the council that the resurrection was the whole question at issue rather than reducing the charge to a convenient party dispute.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.27",
+      "verses": "21-25",
+      "label": "Acts 27:21-25 — Fear not, Paul; thou must be brought before Caesar",
+      "why": "In the storm an angel repeats the same promise, \"Fear not, Paul; thou must be brought before Cæsar,\" and Paul urges the crew to \"be of good cheer\" because \"I believe God, that it shall be even as it was told me.\" The later scene shows the night vision here holding firm through shipwreck, so the promise of Rome governs the rest of the book.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1TI.1",
+      "verses": "18-19",
+      "label": "1 Timothy 1:18-19 — holding faith, and a good conscience",
+      "why": "Timothy is charged to war a good warfare \"Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck.\" Read with Paul's opening claim before the council, it treats a good conscience not as a feeling of innocence but as something a believer must actively keep, and whose loss endangers faith itself.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition Paul's appeal to \"all good conscience before God\" and his immediate retraction when reminded of the law are read together as a portrait of a rightly formed conscience: an inward judgment that genuinely binds and must be followed, yet is never a law unto itself, since it is answerable to God's revealed word and can be corrected by it on the spot.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally place the emphasis on Scripture as the conscience's only sure captor, so that Paul's correction illustrates a conscience bound directly by the written word rather than by any further authority. Some also note that a clear conscience is not by itself proof of innocence, since Paul once persecuted the Church with a clear one. Both traditions agree that conscience must be obeyed and must also be formed, and that Scripture is what forms it here.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading treats Paul's declaration, \"I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question,\" as a truthful confession rather than a divisive maneuver, since it presents the gospel as the fulfillment of Israel's own hope, with the Church continuing rather than replacing the promise given to the fathers.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally agree that the resurrection is the real charge, though some read the timing of the outburst as a deliberate and imperfect stratagem to fracture a hearing Paul judged to be rigged, and they stress that his hope is now defined by Christ risen rather than by his Pharisaic inheritance. Both traditions agree that the resurrection of the dead is the substance of the accusation against him and the reason the council could reach no verdict.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

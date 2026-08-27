@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.12",
+  "book": "Acts",
+  "chapter": 12,
+  "canon": "protocanonical",
+  "summary": "\"Herod the king stretched forth his hands to vex certain of the church,\" kills \"James the brother of John with the sword,\" and \"because he saw it pleased the Jews\" seizes Peter during \"the days of unleavened bread,\" guarding him with \"four quaternions of soldiers\" and intending to bring him out afterward. The church answers with prayer, \"made without ceasing of the church unto God for him.\" On the final night Peter sleeps \"between two soldiers, bound with two chains\"; an angel comes, \"a light shined in the prison,\" and Peter is told, \"Arise up quickly,\" and \"his chains fell off from his hands.\" Told to gird himself and follow, Peter obeys but \"wist not that it was true which was done by the angel,\" supposing \"he saw a vision.\" Past the two wards, \"the iron gate that leadeth unto the city\" opens \"of his own accord,\" and the angel departs. Come \"to himself,\" Peter says, \"Now I know of a surety, that the Lord hath sent his angel.\" At Mary's house, where \"many were gathered together praying,\" Rhoda knows his voice and \"opened not the gate for gladness\"; the praying church tells her \"Thou art mad,\" then guesses \"It is his angel,\" until his continued knocking astonishes them. He sends word to James and departs. Herod executes the keepers, and at Cæsarea, hailed as \"the voice of a god, and not of a man,\" is smitten \"because he gave not God the glory\" and \"eaten of worms.\" \"But the word of God grew and multiplied.\"",
+  "takeaways": [
+    "Deliverance is not uniform: James dies by the sword and Peter walks free in the same chapter, so providence cannot be read off outcomes. Both men are held by the same God, and the Church's prayer is answered on terms it does not set.",
+    "The praying church struggles to believe its own prayer has been answered, which is a candid picture of faith that keeps petitioning while doubting the result. God does not withhold the deliverance because its reception is weak.",
+    "Peter sleeping soundly on the night before his trial shows a peace not drawn from circumstances, and the chains falling off become the visible sign of a freedom already interior.",
+    "Herod's end sets human acclamation against divine glory. The ruler who accepts what belongs to God alone is undone, while the word he tried to imprison \"grew and multiplied\" beyond any power to contain it."
+  ],
+  "crossRefs": [
+    {
+      "target": "ACT.5",
+      "verses": "17-25",
+      "label": "Acts 5:17-25 — an angel opens the prison doors and the apostles are found teaching in the temple",
+      "why": "An earlier arrest ends the same way, with locked doors and posted keepers proving no obstacle. The repetition establishes a pattern in Luke's narrative: human authority can imprison preachers but cannot silence the preaching.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.10",
+      "verses": "35-40",
+      "label": "Mark 10:35-40 — James and John are told they shall drink the cup that Jesus drinks",
+      "why": "Jesus warns the sons of Zebedee that glory is reached through his own cup and baptism, which they confidently accept. Read beside Herod's sword, it shows James' death as the fulfillment of a promise he had already agreed to, not an accident of politics.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.34",
+      "verses": "6-7",
+      "label": "Psalm 34:6-7 — the angel of the LORD encampeth round about them that fear him",
+      "why": "The psalm celebrates a poor man who cried and was saved out of all his troubles by the encamping angel. It supplies the scriptural language Peter reaches for when he says the Lord has sent his angel and delivered him.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.4",
+      "verses": "23-31",
+      "label": "Acts 4:23-31 — the church prays together under threat and the place is shaken",
+      "why": "Facing official threats, the community prays not for safety but for boldness, and is filled with the Holy Ghost. It shows the practice behind the ceaseless prayer of Acts 12 and how the Church habitually responds to persecution.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DAN.4",
+      "verses": "29-33",
+      "label": "Daniel 4:29-33 — Nebuchadnezzar boasts of his majesty and is driven from men",
+      "why": "A king glories in his own power and is struck down in the very hour of his boast until he acknowledges that the most High rules. The pattern is exactly Herod's, and it frames his death as a judgment on usurped glory rather than a random calamity.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The gathered believers' guess that the figure at the gate is \"his angel\" is taken in the Catholic tradition as reflecting an early and continuing conviction that individual believers are attended by guardian angels, a belief the Church has kept and encouraged in prayer and devotion.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally treat the remark as Luke reporting what the disciples assumed rather than a doctrine he endorses, and they caution against resting a teaching on a passing reaction from people who had just called Rhoda mad. Both traditions affirm that angels are real servants of God who act concretely for his people, which this very chapter demonstrates.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading gives weight to Peter's instruction, \"Go shew these things unto James, and to the brethren,\" followed by his departure \"into another place,\" as a picture of James presiding over the local church at Jerusalem while Peter's ministry becomes wider than any one city, consistent with a universal Petrine role exercised alongside local bishops.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the same detail as a straightforward handover of leadership in one congregation, with James emerging as the leading elder at Jerusalem and no wider jurisdiction implied for Peter, who simply leaves to escape Herod. Both traditions agree that the earliest Church had recognized leaders, orderly communication between them, and continuity of care when an individual was removed.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

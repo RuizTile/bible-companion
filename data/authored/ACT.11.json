@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.11",
+  "book": "Acts",
+  "chapter": 11,
+  "canon": "protocanonical",
+  "summary": "Word reaches \"the apostles and brethren that were in Judæa\" that \"the Gentiles had also received the word of God,\" and when Peter comes up to Jerusalem \"they that were of the circumcision contended with him,\" charging, \"Thou wentest in to men uncircumcised, and didst eat with them.\" Peter answers not with argument but with narrative: he \"rehearsed the matter from the beginning, and expounded it by order.\" He describes praying at Joppa and seeing \"a great sheet, let down from heaven by four corners\" holding \"fourfooted beasts of the earth, and wild beasts, and creeping things\"; the command \"Arise, Peter; slay and eat\"; his refusal, \"Not so, Lord\"; and the answer that settles it, \"What God hath cleansed, that call not thou common,\" repeated \"three times.\" He recounts the men sent from Cæsarea, the Spirit bidding him go \"nothing doubting,\" and the angel who promised words \"whereby thou and all thy house shall be saved.\" Then the decisive evidence: \"as I began to speak, the Holy Ghost fell on them, as on us at the beginning,\" recalling the Lord's promise of baptism \"with the Holy Ghost\" and forcing the question, \"what was I, that I could withstand God?\" The objectors fall silent and glorify God. Luke turns to Antioch, where those scattered after Stephen preach to Greeks, \"the hand of the Lord was with them,\" Barnabas is sent, fetches Saul from Tarsus, and \"the disciples were called Christians first in Antioch.\" Agabus foretells \"great dearth,\" and relief is sent to Judæa.",
+  "takeaways": [
+    "The first great question about the Gentiles is settled by testimony rather than theory: Peter recounts what God did, and the dispute ends when the objectors recognize the same Spirit at work. Discernment in the Church begins by reading God's action before defending one's own position.",
+    "\"What God hath cleansed, that call not thou common\" relocates the boundary between clean and unclean around God's own act rather than inherited custom, so that purity becomes a matter of hearts opened by grace.",
+    "Peter submits to being questioned by the brethren and explains himself \"by order,\" showing that authority in the Church is exercised in the open and gives an account to the community it serves.",
+    "The name \"Christians\" is first given where Jew and Gentile were taught together for a whole year, and that same mixed church immediately sends material relief to Judæa. New identity and practical charity arrive together, not in sequence."
+  ],
+  "crossRefs": [
+    {
+      "target": "ACT.10",
+      "verses": "44-48",
+      "label": "Acts 10:44-48 — the Holy Ghost falls on the Gentiles and Peter commands them to be baptized",
+      "why": "Luke first narrates the event at Cornelius' house, where the Spirit is poured out before baptism and Peter asks, \"Can any man forbid water?\" Reading it alongside shows that Peter's defense in Jerusalem is an accurate report and not a later rationalization.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.1",
+      "verses": "4-5",
+      "label": "Acts 1:4-5 — John truly baptized with water, but ye shall be baptized with the Holy Ghost",
+      "why": "The risen Lord's promise before the ascension is the very word Peter says he remembered when the Spirit fell on the Gentiles. The link shows him interpreting a new event by an old promise rather than by improvisation.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LEV.11",
+      "verses": "1-8",
+      "label": "Leviticus 11:1-8 — the LORD distinguishes clean from unclean creatures for Israel",
+      "why": "The law itself declares certain animals \"unclean unto you,\" which is why Peter can honestly say nothing common had entered his mouth. Set beside the vision, it makes clear how startling the heavenly voice was and that the change came from God rather than from Peter's convenience.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GAL.2",
+      "verses": "11-14",
+      "label": "Galatians 2:11-14 — Paul withstands Peter at Antioch over eating with the Gentiles",
+      "why": "Paul reports Peter later withdrawing from Gentile tables \"fearing them which were of the circumcision.\" Read with Acts 11, it shows how contested the practice remained even after the principle had been accepted, and that living out a conviction can lag behind confessing it.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.15",
+      "verses": "25-27",
+      "label": "Romans 15:25-27 — Gentile churches make a contribution for the poor saints at Jerusalem",
+      "why": "Paul describes Gentile believers who have shared in Israel's \"spiritual things\" repaying in \"carnal things.\" The famine relief carried by Barnabas and Saul is the first instance of the same pattern, binding the new churches to the mother church by concrete generosity.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition Peter's account here is read as the Petrine office functioning within the apostolic body: the one to whom the door of the Gentiles was first opened gives the account that settles the question for the whole church, and the brethren fall silent and glorify God once he has laid the matter out \"by order.\"",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally emphasize that Peter is summoned and questioned by the assembly rather than issuing a ruling to it, and that what persuades them is the manifest gift of the Spirit rather than his standing. They point to his own disclaimer, \"what was I, that I could withstand God?\", as evidence that the authority in view is God's action, not an office. Both traditions agree that the decision belongs entirely to God's initiative and that Peter's testimony was the instrument by which the Church recognized it.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The Catholic tradition reads the thrice-repeated sheet and the words \"What God hath cleansed, that call not thou common\" as God himself setting aside the ceremonial separations that once marked Israel out, fulfilled now in Christ, while the moral law they served remains in force; the change is God's act received through the Church rather than a human abandonment of Scripture.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the vision as aimed chiefly at the barrier between peoples rather than at diet, since Peter applies it immediately to entering a Gentile household and eating with its members, and they are often wary of dividing the Mosaic law into tidy categories. Both traditions agree that what God has cleansed no believer may call common, and that the gospel crosses a boundary God himself has removed.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.24",
+  "book": "Acts",
+  "chapter": 24,
+  "canon": "protocanonical",
+  "summary": "After five days the high priest Ananias comes to Caesarea with elders and \"a certain orator named Tertullus,\" who flatters Felix for the \"great quietness\" of his rule before charging that Paul is \"a pestilent fellow, and a mover of sedition\" and \"a ringleader of the sect of the Nazarenes\" who \"hath gone about to profane the temple.\" Paul answers \"more cheerfully,\" factual first: only \"twelve days since I went up to Jerusalem for to worship,\" and \"Neither can they prove the things whereof they now accuse me.\" Then it turns to confession: \"after the way which they call heresy, so worship I the God of my fathers,\" believing what is \"written in the law and in the prophets,\" holding a hope his accusers share, \"that there shall be a resurrection of the dead, both of the just and unjust,\" and therefore laboring \"to have always a conscience void of offence toward God, and toward men.\" He came bringing \"alms to my nation, and offerings,\" and was found \"purified in the temple\" by accusers now absent, \"Who ought to have been here before thee.\" His one offense: the cry, \"Touching the resurrection of the dead I am called in question.\" Felix, having \"more perfect knowledge of that way,\" adjourns, grants Paul \"liberty,\" and later hears him with Drusilla \"concerning the faith in Christ.\" When Paul reasons \"of righteousness, temperance, and judgment to come, Felix trembled\" and postponed him to \"a convenient season,\" hoping for a bribe; two years on, Festus succeeds him and Felix leaves Paul bound.",
+  "takeaways": [
+    "Truth can be accused in polished language and defended in plain speech. Tertullus opens with flattery and sweeping labels, while Paul answers with dates, places, and the observation that nothing charged can be proved.",
+    "Paul does not defend himself by minimizing his faith. He concedes the name his accusers use for it and then confesses the whole of it, showing that an honest defense may concede facts but never the substance of belief.",
+    "The resurrection of \"both of the just and unjust\" means every life is finally accountable, which is why Paul says it produces the daily discipline of keeping a conscience free of offense toward God and toward neighbor alike.",
+    "Felix trembling and then deferring is one of Scripture's sharpest pictures of grace resisted. Conviction is real, the moment is genuine, and it is still possible to postpone conversion to a season that never comes."
+  ],
+  "crossRefs": [
+    {
+      "target": "DAN.12",
+      "verses": "1-3",
+      "label": "Daniel 12:1-3 — many that sleep in the dust of the earth shall awake",
+      "why": "The prophet foretells that \"many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.\" It is the clearest place in the prophets for the twofold resurrection Paul says his accusers \"themselves also allow,\" which shows his hope is not a novelty but Israel's own written expectation.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.5",
+      "verses": "28-29",
+      "label": "John 5:28-29 — the resurrection of life and the resurrection of damnation",
+      "why": "Jesus says all in the graves will hear his voice and come forth, \"they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.\" In the Catholic tradition this is read with Paul's twofold resurrection as evidence that the deeds of a life genuinely enter into the final judgment, which is why he speaks of exercising himself to keep a clear conscience.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "HEB.9",
+      "verses": "27-28",
+      "label": "Hebrews 9:27-28 — it is appointed unto men once to die, but after this the judgment",
+      "why": "The letter states plainly that death is followed by judgment, and that to \"them that look for him\" Christ will \"appear the second time without sin unto salvation.\" It supplies the doctrine behind the \"judgment to come\" that made Felix tremble, and shows that the warning was not a threat invented for the occasion.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.15",
+      "verses": "25-31",
+      "label": "Romans 15:25-31 — the collection carried to the poor saints at Jerusalem",
+      "why": "Paul writes that he goes to Jerusalem \"to minister unto the saints,\" carrying \"a certain contribution for the poor saints which are at Jerusalem,\" and asks prayer that he be delivered from those who do not believe there. It identifies the \"alms to my nation, and offerings\" mentioned only in passing here, and shows he foresaw the very danger this trial arose from.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.21",
+      "verses": "26-29",
+      "label": "Acts 21:26-29 — Paul purifying himself in the temple, and the charge about Trophimus",
+      "why": "The narrative records that Paul entered the temple \"purifying himself\" with the four men, and that the accusation of bringing Greeks in rested on a supposition about Trophimus. Reading it behind Tertullus' charge of profaning the temple lets the reader see exactly where the accusation departs from what happened.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition Paul's pairing of \"a resurrection of the dead, both of the just and unjust\" with his effort \"to have always a conscience void of offence\" is read as showing that the coming judgment takes real account of how a life has been lived, so that grace works itself out in deeds that will be weighed, and moral effort is part of salvation rather than a threat to it.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally hold that the believer's standing at that judgment rests on Christ's righteousness received by faith, with a clear conscience and good works serving as the evidence and fruit of that faith rather than as its ground. They note that Paul elsewhere insists no one is justified by the works of the law. Both traditions agree that the final judgment is real, that it takes the whole of a life into account, and that the Christian is called to a conscience free of offense before God and neighbor.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading finds in Felix, who \"trembled\" and then answered \"Go thy way for this time,\" a warning about human freedom before grace: the conviction was genuine and sufficient, yet grace can be truly offered and truly deferred, and the convenient season he waited for never comes in the narrative.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read Felix as an example of conviction without conversion, the kind of alarm the conscience can feel under preaching while the will remains unchanged, and many stress that only God's effective work turns such trembling into faith. They also note the text names his real motive, that \"he hoped also that money should have been given him.\" Both traditions agree that hearing the word and being shaken by it is not the same as repenting, and that delay in this chapter hardens into two years of leaving Paul bound.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

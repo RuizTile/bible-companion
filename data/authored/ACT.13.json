@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.13",
+  "book": "Acts",
+  "chapter": 13,
+  "canon": "protocanonical",
+  "summary": "At Antioch, among \"certain prophets and teachers\" including Barnabas, Manaen and Saul, \"as they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them.\" Having \"fasted and prayed, and laid their hands on them,\" the church sends them away \"being sent forth by the Holy Ghost.\" In Cyprus the sorcerer Bar-jesus \"withstood them\"; Saul, \"who also is called Paul,\" filled with the Holy Ghost, names him \"thou child of the devil, thou enemy of all righteousness\" and strikes him blind \"for a season,\" and the deputy believes, \"being astonished at the doctrine of the Lord.\" John leaves them at Perga. In the synagogue at Antioch in Pisidia Paul traces Israel's story from Egypt through the judges to David, \"a man after mine own heart,\" and to \"this man’s seed,\" from which God \"raised unto Israel a Saviour, Jesus.\" Jerusalem's rulers, not knowing \"the voices of the prophets which are read every sabbath day,\" fulfilled them in condemning him, \"But God raised him from the dead.\" Paul applies the psalms, \"Thou art my Son, this day have I begotten thee\" and \"Thou shalt not suffer thine Holy One to see corruption,\" announcing that in Christ \"all that believe are justified from all things, from which ye could not be justified by the law of Moses.\" Almost the whole city gathers the next sabbath; envy follows, the apostles turn \"to the Gentiles,\" and though expelled the disciples remain \"filled with joy, and with the Holy Ghost.\"",
+  "takeaways": [
+    "The mission begins inside worship: the Spirit speaks while the church is ministering and fasting. Mission is therefore not a program the Church invents but a call it hears, tests, and confirms.",
+    "Barnabas and Saul are already called by the Spirit and still receive fasting, prayer, and the laying on of hands. Divine call and churchly commissioning are not rivals; the visible act ratifies a vocation it does not manufacture.",
+    "Paul preaches the gospel as the continuation of Israel's history rather than a break from it. The God who chose the fathers, bore with them in the wilderness, and raised up David has kept the same promise by raising Jesus.",
+    "Justification is announced as something the law of Moses could not accomplish and that reaches \"all that believe,\" while the hearers remain free to \"judge yourselves unworthy of everlasting life.\" Grace offered is never grace coerced."
+  ],
+  "crossRefs": [
+    {
+      "target": "NUM.27",
+      "verses": "18-23",
+      "label": "Numbers 27:18-23 — Moses lays his hands on Joshua and gives him a charge before the congregation",
+      "why": "God commands that a man \"in whom is the spirit\" be commissioned publicly by the imposition of hands, with honour put upon him before all the people. It is the Old Testament root of the gesture at Antioch and shows the rite conveying office, not merely good wishes.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1TI.4",
+      "verses": "14",
+      "label": "1 Timothy 4:14 — the gift given by prophecy with the laying on of the hands of the presbytery",
+      "why": "Paul later describes a gift residing in Timothy that came through prophecy and the hands of the elders. Read with Acts 13, it shows the same combination of prophetic word and imposed hands becoming the settled practice of the churches Paul founded.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.2",
+      "verses": "7",
+      "label": "Psalm 2:7 — Thou art my Son; this day have I begotten thee",
+      "why": "Paul cites this decree as fulfilled in the resurrection rather than merely in Jesus' birth. Reading the psalm whole shows the enthronement of God's anointed against raging nations, which is precisely the claim Paul is making in a hostile synagogue.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.49",
+      "verses": "6",
+      "label": "Isaiah 49:6 — I will also give thee for a light to the Gentiles",
+      "why": "The servant's commission extends beyond restoring Israel to becoming God's salvation \"unto the end of the earth.\" Paul quotes it as a command laid on him and Barnabas, so the turn to the Gentiles is presented as obedience to prophecy rather than reaction to rejection.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.3",
+      "verses": "20-28",
+      "label": "Romans 3:20-28 — the righteousness of God apart from the law, for all that believe",
+      "why": "Paul's letter unfolds at length what the sermon states briefly, that no flesh is justified by the deeds of the law and that righteousness comes through faith in Christ. It is the fullest commentary Paul himself gives on his own synagogue preaching.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition the fasting, prayer and laying on of hands before Barnabas and Saul are sent out is read as an early instance of ordination: a grace and an office conferred through a visible rite performed by the leaders of the church, which is why the Church continues to ordain by prayer and the imposition of hands rather than by acclamation or self-appointment.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the gesture as a solemn commissioning and blessing for a particular missionary task rather than the conferral of a permanent sacramental character, noting that Barnabas and Saul were already reckoned among the prophets and teachers and that the church is releasing them for a journey they later come back to report on. Both traditions agree that ministry is given and confirmed by the Church acting under the Spirit, and is never self-assumed.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading takes \"by him all that believe are justified from all things, from which ye could not be justified by the law of Moses\" as teaching that justification comes wholly through Christ and never through works of the Mosaic law, while holding that the grace so given really transforms the believer, which is why Paul and Barnabas then urge their hearers \"to continue in the grace of God.\"",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally take the verse as a compact statement of justification by faith alone, reading \"all that believe\" as making faith the sole instrument by which Christ's righteousness is received, with obedience following as fruit rather than forming any part of the ground. Both traditions confess that no one is justified by law-keeping and that justification is the free gift of God in Christ.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.10",
+  "book": "Acts",
+  "chapter": 10,
+  "canon": "protocanonical",
+  "summary": "At Cæsarea the centurion Cornelius, \"one that feared God with all his house,\" sees an angel who tells him, \"Thy prayers and thine alms are come up for a memorial before God,\" and sends him to Joppa for Simon Peter. Next day, hungry and praying on a housetop, Peter falls into a trance and sees \"a great sheet knit at the four corners\" let down with \"all manner of fourfooted beasts.\" A voice says, \"Rise, Peter; kill, and eat.\" He refuses — \"Not so, Lord; for I have never eaten any thing that is common or unclean\" — and is answered, \"What God hath cleansed, that call not thou common.\" This is done \"thrice.\" While he wonders what it means, the Spirit tells him three men seek him and to go \"doubting nothing: for I have sent them.\" Peter travels to Cæsarea, lifts Cornelius from his feet — \"Stand up; I myself also am a man\" — and tells the household that though it is \"an unlawful thing\" to keep company with another nation, \"God hath shewed me that I should not call any man common or unclean.\" He preaches that \"God is no respecter of persons,\" and that \"in every nation he that feareth him, and worketh righteousness, is accepted with him,\" recounting Jesus \"who went about doing good,\" his death, his rising, and \"remission of sins\" through his name. While he still speaks, \"the Holy Ghost fell on all them which heard the word.\" Peter asks, \"Can any man forbid water,\" and commands them baptized.",
+  "takeaways": [
+    "God prepares both parties before they meet. Cornelius' prayers and alms have already \"come up for a memorial before God,\" and Peter's vision breaks open a boundary he would never have crossed on his own, so the apostle is converted along with the household.",
+    "\"What God hath cleansed, that call not thou common\" is spoken about food and applied to people. Peter does not understand the vision when he receives it; its meaning arrives with the men at the gate, which is how God's word often clarifies itself in the obeying.",
+    "Peter's refusal of Cornelius' worship, \"I myself also am a man,\" sets a limit inside apostolic authority. The office is real and God-given, yet the honor due to God is never transferable to the one who carries it.",
+    "The Spirit falls before baptism and before any question of circumcision is settled, forcing the conclusion that acceptance rests on God's own initiative rather than inherited privilege; baptism follows at once as the Church's recognition and sealing of what God has visibly begun."
+  ],
+  "crossRefs": [
+    {
+      "target": "LEV.11",
+      "verses": "44-47",
+      "label": "Leviticus 11:44-47 — the law distinguishing clean and unclean creatures",
+      "why": "The law closes by saying its purpose is \"To make a difference between the unclean and the clean,\" tied to the command \"ye shall be holy; for I am holy.\" Knowing that the distinction was a matter of holiness, not hygiene, explains why Peter's \"Not so, Lord\" is obedience rather than stubbornness.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.7",
+      "verses": "14-23",
+      "label": "Mark 7:14-23 — nothing entering a man from without can defile him",
+      "why": "Jesus teaches that defilement comes from the heart and not from food, and the evangelist adds the comment \"purging all meats.\" Peter is being shown on the housetop what his master had already taught, which is why the vision is a reminder as much as a revelation.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.11",
+      "verses": "1-18",
+      "label": "Acts 11:1-18 — Peter answers for the visit before the church at Jerusalem",
+      "why": "Challenged for eating with the uncircumcised, Peter retells the whole episode and concludes, \"what was I, that I could withstand God?\", after which his hearers glorify God. It shows that the Cornelius event had to be received by the wider Church and was not settled by one apostle's private experience.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.15",
+      "verses": "7-11",
+      "label": "Acts 15:7-11 — Peter appeals to this episode at the council in Jerusalem",
+      "why": "Peter argues that God gave the Gentiles the Holy Ghost \"even as he did unto us\" and \"put no difference between us and them, purifying their hearts by faith.\" Cornelius' household becomes the decisive precedent when the Church has to rule formally on the terms of Gentile membership.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GAL.2",
+      "verses": "11-14",
+      "label": "Galatians 2:11-14 — Paul withstands Peter at Antioch over eating with Gentiles",
+      "why": "Paul records that when men came from James, Peter \"withdrew and separated himself, fearing them which were of the circumcision,\" and that Paul rebuked him publicly. Read after Acts 10 it shows how hard the lesson was to hold, and it is often cited to stress that apostolic office does not guarantee consistent conduct.",
+      "sources": [],
+      "tradition": "protestant"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition it is significant that the opening of the Church to the Gentiles is entrusted to Peter by direct vision rather than left to local initiative, that the Spirit tells him to go \"doubting nothing,\" and that he is later the one whose testimony settles the matter for the whole assembly, which is read as the exercise of a distinctive Petrine role in confirming the faith of the Church.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read Peter's part as representative rather than jurisdictional: he is the fitting witness because he had been the leading apostle among the circumcision, and the narrative repeatedly stresses that God does the deciding while Peter follows instruction, asks what the vision means, and afterward has to answer to the church in Jerusalem. They also note that he needed correction over exactly this issue at Antioch. Both traditions agree that Peter genuinely stands first among the apostles in this account, and that every decisive move belongs to God rather than to any human authority.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading takes Peter's words, that \"in every nation he that feareth him, and worketh righteousness, is accepted with him,\" together with the acceptance of Cornelius' prayers and alms before he ever heard the gospel, as evidence that God's grace is genuinely at work in people who have not yet been reached by preaching, while still holding that such grace is ordered toward Christ and comes to its fulfillment in the gospel and baptism.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally stress that Cornelius' devotion, however sincere, did not save him, which is precisely why an angel goes to the trouble of sending for Peter: the man must still hear the message about Jesus and believe, and only then does the Spirit fall. On this reading his God-fearing life was preparation rather than sufficiency, and the chapter is finally an argument for the necessity of preaching. Both traditions agree that God was already at work in Cornelius before Peter arrived, and that salvation is received through the name of Jesus and the remission of sins Peter announces.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

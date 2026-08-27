@@ -1,0 +1,78 @@
+{
+  "ref": "ACT.1",
+  "book": "Acts",
+  "chapter": 1,
+  "canon": "protocanonical",
+  "summary": "Luke opens a second volume for \"Theophilus,\" recalling \"all that Jesus began both to do and teach\" until the day he was taken up. He had shown himself \"alive after his passion by many infallible proofs, being seen of them forty days,\" speaking of \"the things pertaining to the kingdom of God,\" and told them to stay in Jerusalem and \"wait for the promise of the Father,\" since \"ye shall be baptized with the Holy Ghost not many days hence.\" Asked whether he will \"at this time restore again the kingdom to Israel,\" he refuses the calendar—\"It is not for you to know the times or the seasons\"—and gives a map: \"ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth.\" As they watch, \"a cloud received him out of their sight,\" and two men \"in white apparel\" ask, \"why stand ye gazing up into heaven?\" promising he \"shall so come in like manner.\" Returning from Olivet, the eleven are named; with \"the women, and Mary the mother of Jesus, and with his brethren\" they continue \"with one accord in prayer and supplication.\" Peter stands among about \"an hundred and twenty,\" reads the defection of Judas as scripture fulfilled—\"his bishoprick let another take\"—and requires a replacement who companied with them from John's baptism and can \"be a witness with us of his resurrection.\" The assembly prays to the Lord \"which knowest the hearts of all men,\" casts lots, and Matthias is \"numbered with the eleven apostles.\"",
+  "takeaways": [
+    "The ascension is not Christ's disappearance but his enthronement; the same body seen for forty days is received into heaven and will return \"in like manner,\" so Christian hope is fixed on a person rather than on an idea.",
+    "Jesus deliberately withholds the timetable and hands over a task, redirecting apocalyptic curiosity into witness that begins where the disciples stand and widens outward to the whole earth.",
+    "The Church begins by waiting and praying rather than organizing, and the promised Spirit—not the disciples' zeal—is the source of the power they are told to expect.",
+    "Apostolic ministry is described as an office that can be vacated and filled, chosen through prayer and the discernment of the whole assembly, with eyewitness of the resurrection as its defining qualification."
+  ],
+  "crossRefs": [
+    {
+      "target": "LUK.24",
+      "verses": "44-53",
+      "label": "Luke 24:44-53 — the promise of the Father, and Jesus carried up into heaven",
+      "why": "Luke closes his Gospel with the same commission to be witnesses, the same instruction to \"tarry ye in the city of Jerusalem, until ye be endued with power from on high,\" and the ascension itself. Reading the two accounts together shows Acts deliberately picking up the thread where the Gospel laid it down.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.1",
+      "verses": "1-4",
+      "label": "Luke 1:1-4 — an orderly account written for most excellent Theophilus",
+      "why": "Luke's Gospel opens by naming its recipient and grounding its report in those \"which from the beginning were eyewitnesses, and ministers of the word.\" The matching address to Theophilus marks Acts as the second half of one carefully researched work, so the standard of eyewitness testimony carries straight into the apostolic story.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.109",
+      "verses": "8",
+      "label": "Psalm 109:8 — let another take his office",
+      "why": "The psalm prays that a treacherous accuser lose his days and that \"another take his office.\" Peter applies it to the vacancy left by Judas, which is why the eleven treat the replacement as something Scripture requires rather than as a matter of their own preference.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DAN.7",
+      "verses": "13-14",
+      "label": "Daniel 7:13-14 — one like the Son of man came with the clouds of heaven",
+      "why": "Daniel sees a human figure carried on clouds into the presence of the Ancient of days and given \"an everlasting dominion.\" The cloud that receives Jesus is not stage scenery but the language of enthronement, so the ascension reads as the moment that vision is fulfilled.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EPH.1",
+      "verses": "20-23",
+      "label": "Ephesians 1:20-23 — God set him at his own right hand and gave him to be the head over all things to the church",
+      "why": "Paul describes the risen Christ seated above every power and given as head to the Church, \"which is his body.\" It supplies the theological consequence of the scene in Acts: the disciples are not left leaderless when the cloud closes, because the one taken up now governs the community he leaves behind.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition the filling of the place left by Judas—\"his bishoprick let another take\"—is read as showing that apostolic ministry is a transmissible office rather than a purely personal calling, which is why the Church understands bishops as successors of the apostles and treats ordination as the ordinary way that office passes on.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally treat the choice of Matthias as a one-time restoration of the Twelve before Pentecost, noting that the stated requirement is having accompanied Jesus \"beginning from the baptism of John\" and being able to witness to the resurrection, conditions no later generation could meet. On that reading the passage does not establish a repeatable succession so much as complete the foundational apostolic circle. Both traditions agree that the Church remains bound to the apostles' testimony and that its ministry is received rather than self-appointed.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading gives weight to the naming of \"Mary the mother of Jesus\" among those who \"continued with one accord in prayer and supplication\" as she awaits the Spirit with the apostles, seeing her maternal presence at the Church's beginning as of a piece with her presence at its Lord's beginning, and as warrant for asking her prayers alongside the praying community.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally observe that Luke lists Mary here without comment among the women and the brethren, and that the narrative gives her no distinct role in what follows, so they read the verse as evidence of her faithful discipleship rather than of any mediating office. Both traditions honor her as a woman of persevering prayer who waits on the promise with the rest of the Church, and both read her presence as a sign of continuity between the Gospel and the community Christ leaves behind.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}
