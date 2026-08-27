@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": [
+          "public/styles.css"
+        ],
+        "createdAt": "2026-08-27T04:52:05.902Z",
+        "reason": "User confirmed the cross-ref Connections cards are intentional"
+      }
+    ]
+  }
+}

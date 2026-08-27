@@ -6,3 +6,7 @@ db/*.db-wal
 db/*.db-shm
 .env
 *.log
+
+# impeccable: keep shared config.json, ignore machine-local cache/consent
+.impeccable/hook.cache.json
+.impeccable/config.local.json
