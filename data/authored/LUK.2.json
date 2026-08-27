@@ -1,0 +1,77 @@
+{
+  "ref": "LUK.2",
+  "book": "Luke",
+  "chapter": 2,
+  "canon": "protocanonical",
+  "summary": "A decree from \"Cæsar Augustus, that all the world should be taxed\" brings Joseph and Mary from Nazareth to Bethlehem, \"the city of David.\" There Mary \"brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.\" Angels announce to shepherds \"good tidings of great joy, which shall be to all people,\" that \"unto you is born this day in the city of David a Saviour, which is Christ the Lord,\" and a heavenly host sings, \"Glory to God in the highest.\" The shepherds hurry to see the child, and \"Mary kept all these things, and pondered them in her heart.\" On the eighth day he is named Jesus and later presented in the temple. There Simeon, who was \"waiting for the consolation of Israel,\" takes him up and sings the Nunc Dimittis: \"Lord, now lettest thou thy servant depart in peace... for mine eyes have seen thy salvation,\" a \"light to lighten the Gentiles.\" He warns Mary that \"a sword shall pierce through thy own soul.\" The aged prophetess Anna also gives thanks. Twelve years later Jesus lingers in the temple among the doctors, telling his parents, \"wist ye not that I must be about my Father's business?\"",
+  "takeaways": [
+    "The Saviour of \"all people\" is born in poverty and revealed first to shepherds, showing that God's good news comes to the lowly.",
+    "Simeon's canticle names Jesus as salvation \"prepared before the face of all people,\" both \"a light to lighten the Gentiles, and the glory of thy people Israel.\"",
+    "Mary twice \"kept all these things\" and \"pondered them in her heart,\" modeling contemplative reception of God's word amid mystery she does not yet fully understand.",
+    "Simeon's warning of a piercing sword foreshadows the cost of the child's mission and Mary's share in it."
+  ],
+  "crossRefs": [
+    {
+      "target": "MIC.5",
+      "verses": "2",
+      "label": "Micah 5:2 — Bethlehem, birthplace of the ruler of Israel",
+      "why": "Micah foretold that from Bethlehem would come one \"to be ruler in Israel.\" Luke's account of the census bringing Joseph to \"the city of David\" shows how the birthplace of the Messiah was providentially fulfilled.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.42",
+      "verses": "6",
+      "label": "Isaiah 42:6 — a light to the Gentiles",
+      "why": "Simeon calls the child \"a light to lighten the Gentiles,\" echoing Isaiah's servant given as \"a light of the Gentiles.\" This frames the infant Jesus as the promised universal salvation reaching beyond Israel.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LEV.12",
+      "verses": "6-8",
+      "label": "Leviticus 12:6-8 — the offering after childbirth",
+      "why": "The presentation and the offering of \"a pair of turtledoves, or two young pigeons\" fulfill the law of purification, and the humble offering (the option for the poor) underscores the Holy Family's poverty and observance of the Law.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.2",
+      "verses": "1-11",
+      "label": "Matthew 2:1-11 — the wise men seek the newborn king",
+      "why": "Matthew's magi complement Luke's shepherds: the Gentile seekers and the Jewish shepherds together witness that the Saviour is revealed to all peoples, high and low.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Simeon's word to Mary, \"a sword shall pierce through thy own soul also,\" is read in the Catholic tradition as pointing to Mary's unique, sorrowful participation in her Son's saving suffering, a foundation for devotion to her as the Mother who shares in Christ's passion.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants generally read the sword as a plain prophecy of the deep grief Mary would feel watching her Son be \"spoken against\" and crucified, agreeing it marks real maternal sorrow, but they resist making her suffering co-redemptive, keeping the saving work entirely Christ's.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "That the twelve-year-old Jesus \"must be about my Father's business\" and \"was subject unto\" Mary and Joseph is read in the Catholic tradition as affirming both his divine sonship and his real, obedient participation in family life, a model that also honors the dignity of the Holy Family.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants share this reading of the scene as revealing Jesus' early awareness of his divine Father and his genuine human obedience, though they typically place the accent on the christological disclosure of his identity rather than on the family as an object of special devotion.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

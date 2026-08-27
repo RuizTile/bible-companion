@@ -1,0 +1,67 @@
+{
+  "ref": "LUK.3",
+  "book": "Luke",
+  "chapter": 3,
+  "canon": "protocanonical",
+  "summary": "Luke anchors John's ministry in world history, dating it to \"the fifteenth year of the reign of Tiberius Cæsar\" with Pilate, Herod, and the high priests Annas and Caiaphas named. \"The word of God came unto John\" in the wilderness, and he preaches \"the baptism of repentance for the remission of sins,\" fulfilling Isaiah's cry, \"Prepare ye the way of the Lord.\" He rebukes the crowds as a \"generation of vipers,\" warning that \"the axe is laid unto the root of the trees\" and calling for \"fruits worthy of repentance.\" When people, publicans, and soldiers ask, \"What shall we do?\" he gives concrete counsel: share coats and food, take no more than is appointed, and \"do violence to no man.\" John insists he is not the Christ: \"one mightier than I cometh... he shall baptize you with the Holy Ghost and with fire.\" After Herod imprisons John, Jesus is baptized; as he prays, \"the heaven was opened,\" the Holy Ghost descends \"in a bodily shape like a dove,\" and a voice declares, \"Thou art my beloved Son; in thee I am well pleased.\" The chapter closes with a genealogy tracing Jesus back through David and Abraham to \"Adam, which was the son of God.\"",
+  "takeaways": [
+    "Repentance in John's preaching is not mere feeling but concrete justice and generosity: share with the needy, deal honestly, be content.",
+    "John points entirely away from himself to the \"mightier\" one who baptizes \"with the Holy Ghost and with fire.\"",
+    "At Jesus' baptism the whole Trinity is manifest: the Father's voice, the Son in the water, and the Spirit descending as a dove.",
+    "Luke's genealogy runs back to Adam, presenting Jesus as Saviour not only of Israel but of the whole human race."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.40",
+      "verses": "3-5",
+      "label": "Isaiah 40:3-5 — the voice preparing the Lord's way",
+      "why": "Luke quotes Isaiah's \"voice of one crying in the wilderness\" and extends the citation through \"all flesh shall see the salvation of God,\" identifying John as the promised herald and stressing the universal reach of salvation.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.3",
+      "verses": "13-17",
+      "label": "Matthew 3:13-17 — the baptism of Jesus",
+      "why": "Matthew narrates the same baptism with the opened heaven, the descending Spirit, and the Father's voice, providing a parallel witness to the Trinitarian manifestation at the Jordan.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.1",
+      "verses": "1-11",
+      "label": "Mark 1:1-11 — John's preaching and Jesus' baptism",
+      "why": "Mark opens his Gospel with the same Isaiah citation, John's baptism of repentance, and the voice from heaven, showing the shared apostolic memory that grounds Luke's account.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.5",
+      "verses": "1-3",
+      "label": "Genesis 5:1-3 — the generations of Adam",
+      "why": "Luke's genealogy ends where Genesis' line of Adam begins, tracing Jesus to \"Adam, which was the son of God.\" Reading the two together frames Jesus as a new head of the human family descended from the first man.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "John's \"baptism of repentance for the remission of sins,\" together with Jesus' own baptism sanctifying the waters, is read in the Catholic tradition as anticipating and grounding sacramental baptism, an outward washing that God uses to convey the grace of forgiveness and new life.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants agree baptism is commanded and richly signifies repentance and cleansing, and many hold it truly conveys grace, but a strong strand reads John's baptism chiefly as a sign of repentance already worked by God in the heart, cautioning against treating the rite itself as the cause of forgiveness apart from faith.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

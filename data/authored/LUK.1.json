@@ -1,0 +1,77 @@
+{
+  "ref": "LUK.1",
+  "book": "Luke",
+  "chapter": 1,
+  "canon": "protocanonical",
+  "summary": "Luke opens by addressing \"most excellent Theophilus,\" explaining that he writes \"in order\" so his reader may \"know the certainty\" of what he has been taught. The narrative then turns to two annunciations. The angel Gabriel appears to the aged priest Zacharias at the altar of incense, promising that his barren wife Elisabeth will bear a son named John, who will \"go before him in the spirit and power of Elias.\" Doubting, Zacharias is struck dumb. Six months later Gabriel comes to a virgin named Mary in Nazareth, greeting her, \"Hail, thou that art highly favoured, the Lord is with thee.\" He announces that she will conceive Jesus, the \"Son of the Highest,\" whose kingdom \"there shall be no end.\" Mary answers, \"Behold the handmaid of the Lord; be it unto me according to thy word.\" Visiting Elisabeth, she is greeted, \"Blessed art thou among women,\" and responds with the Magnificat: \"My soul doth magnify the Lord.\" John is born; Zacharias regains his speech and prophesies the Benedictus, blessing \"the Lord God of Israel; for he hath visited and redeemed his people,\" and foretelling how \"the dayspring from on high hath visited us.\"",
+  "takeaways": [
+    "Luke frames his Gospel as careful, ordered testimony rooted in eyewitnesses, offered so a reader may \"know the certainty\" of the faith.",
+    "Mary's \"be it unto me according to thy word\" models faith as free consent to God, and stands in contrast to Zacharias's doubt.",
+    "The two great canticles, the Magnificat and the Benedictus, read salvation as the fulfillment of covenant promises \"to Abraham, and to his seed for ever.\"",
+    "God repeatedly works through the lowly and barren, lifting \"them of low degree\" and filling \"the hungry with good things.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "1SA.2",
+      "verses": "1-10",
+      "label": "1 Samuel 2:1-10 — the song of Hannah",
+      "why": "Hannah, once barren, sings that God \"raiseth up the poor out of the dust\" and casts down the mighty. Mary's Magnificat closely echoes its themes and phrasing, presenting her as the fulfillment of Israel's tradition of praise from the humble.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAL.4",
+      "verses": "5-6",
+      "label": "Malachi 4:5-6 — Elijah turning hearts before the day of the Lord",
+      "why": "Gabriel says John will go \"in the spirit and power of Elias, to turn the hearts of the fathers to the children,\" directly taking up Malachi's promise. This identifies John as the forerunner who prepares the Lord's way.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.18",
+      "verses": "10-14",
+      "label": "Genesis 18:10-14 — is anything too hard for the Lord?",
+      "why": "The promise of a son to aged Elisabeth recalls the promise to Sarah in her old age, and Gabriel's \"with God nothing shall be impossible\" answers the same question raised at Mamre. Luke ties John's birth to the covenant pattern of miraculous births.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.1",
+      "verses": "18-23",
+      "label": "Matthew 1:18-23 — the virginal conception announced to Joseph",
+      "why": "Matthew narrates the same conception by the Holy Ghost from Joseph's side, where Luke tells it from Mary's. Together they attest the virgin birth and the name Jesus given before conception.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Gabriel's greeting, \"Hail, thou that art highly favoured,\" together with Elisabeth's \"Blessed art thou among women\" and Mary's own \"all generations shall call me blessed,\" grounds the Catholic honor given to Mary as the one uniquely graced by God and rightly venerated by the Church.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Most Protestants agree Mary is genuinely blessed and a model of faith, and that \"all generations shall call me blessed\" is true, but they read the honor as one of grateful recognition rather than devotional veneration, stressing that the favor she receives is God's free grace and that praise ultimately terminates in God the Saviour whom her own Magnificat exalts.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Mary's fiat, \"Behold the handmaid of the Lord; be it unto me according to thy word,\" is read in the Catholic tradition as a genuinely cooperative consent, her free \"yes\" that God awaited in bringing about the Incarnation.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants likewise treasure Mary's obedient faith as exemplary, but tend to emphasize that her response is itself the fruit of God's prior grace and initiative rather than an independent contribution, so that the Incarnation remains wholly God's saving act to which she faithfully submits.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "ref": "LUK.8",
+  "book": "Luke",
+  "chapter": 8,
+  "canon": "protocanonical",
+  "summary": "Jesus travels \"throughout every city and village, preaching and shewing the glad tidings of the kingdom of God,\" accompanied by the twelve and by women who \"ministered unto him of their substance,\" among them Mary Magdalene. He tells the parable of the sower, whose seed \"is the word of God,\" and explains that only \"an honest and good heart\" keeps the word and brings \"forth fruit with patience.\" He warns, \"Take heed therefore how ye hear,\" and says his true family are \"these which hear the word of God, and do it.\" Crossing the lake, he sleeps as a storm rises; awakened with \"Master, master, we perish,\" he rebukes the wind and waves, and the disciples marvel, \"What manner of man is this!\" Among the Gadarenes he frees a man from a legion of devils, who then sits \"clothed, and in his right mind.\" Returning, he is met by Jairus, whose daughter is dying; on the way a woman with a twelve-year issue of blood touches his garment and is healed, and Jesus says, \"thy faith hath made thee whole.\" Told the girl is dead, he answers, \"Fear not: believe only,\" and raises her: \"Maid, arise.\"",
+  "takeaways": [
+    "The word of God bears fruit only in a receptive heart; how we hear determines whether faith takes root or is choked by \"cares and riches and pleasures of this life.\"",
+    "Jesus's authority extends over nature, demons, disease, and death itself, prompting the awed question, \"What manner of man is this!\"",
+    "Faith reaches out to Christ even amid a pressing crowd; the woman's trembling touch and Jairus's persistence both draw healing power from him.",
+    "Discipleship is defined not by kinship but by hearing and doing God's word, and it includes women who followed and provided for Jesus."
+  ],
+  "crossRefs": [
+    {
+      "target": "MRK.4",
+      "verses": "1-20",
+      "label": "Mark 4:1-20 — the parable of the sower and its interpretation",
+      "why": "Mark records the same parable and explanation, including the citation about seeing yet not perceiving. Comparing the accounts shows Luke's concise focus on the word being kept in \"an honest and good heart.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.6",
+      "verses": "9-10",
+      "label": "Isaiah 6:9-10 — hearing but not understanding",
+      "why": "Jesus's words that \"seeing they might not see, and hearing they might not understand\" draw on Isaiah's commission. The allusion frames the parables as both revelation to the receptive and judgment on the hardened.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.107",
+      "verses": "23-30",
+      "label": "Psalm 107:23-30 — the Lord stills the storm",
+      "why": "The psalm praises the God who \"maketh the storm a calm, so that the waves thereof are still\" for those who cry to him at sea. Jesus's calming of the tempest shows him doing what the psalm ascribes to the Lord alone.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.9",
+      "verses": "18-26",
+      "label": "Matthew 9:18-26 — Jairus's daughter and the woman with the issue of blood",
+      "why": "Matthew interweaves the same two healings, the woman touching Jesus's garment and the raising of the ruler's daughter. The parallel underlines the theme that faith, whether hidden or public, unlocks Christ's power over sickness and death.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The woman healed by touching \"the border of his garment,\" of whom Jesus says \"virtue is gone out of me,\" is read in the Catholic tradition as illustrating how divine grace can work through physical contact with the holy, supporting the intuition behind sacraments and the veneration of relics as means through which God's power reaches the believer.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants emphasize that Jesus attributes the healing to the woman's faith rather than to the cloth itself, saying \"thy faith hath made thee whole,\" and so caution against locating power in objects; both traditions agree that faith directed to Christ is what saves and that God is free to use material means.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Jesus's saying that his mother and brethren \"are these which hear the word of God, and do it\" is read in the Catholic tradition not as diminishing Mary but as praising her supremely, since she is the one who most perfectly heard and kept God's word, making her the model disciple as well as his mother.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants generally read the saying as redefining kinship around obedient faith and opening the family of God to all who hear and do the word, without singling out Mary; the traditions agree that Jesus honors doing God's word above natural relationship and that Mary herself exemplifies such obedience.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

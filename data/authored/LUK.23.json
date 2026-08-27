@@ -1,0 +1,60 @@
+{
+  "ref": "LUK.23",
+  "book": "Luke",
+  "chapter": 23,
+  "canon": "protocanonical",
+  "summary": "The council brings Jesus to Pilate, accusing him of perverting the nation and claiming to be \"Christ a King.\" Pilate declares, \"I find no fault in this man,\" and sends him to Herod, who mocks and returns him. Three times Pilate protests his innocence but yields to the crowd's cry, \"Crucify him,\" releasing Barabbas and delivering Jesus \"to their will.\" Simon of Cyrene is made to carry the cross, and Jesus warns the weeping \"daughters of Jerusalem\" to weep for themselves. At Calvary he is crucified between two malefactors and prays, \"Father, forgive them; for they know not what they do.\" Rulers and soldiers mock him, and a sign reads \"THIS IS THE KING OF THE JEWS.\" One thief rails, but the other pleads, \"Lord, remember me when thou comest into thy kingdom,\" and receives the promise, \"To day shalt thou be with me in paradise.\" Darkness covers the land, the temple veil is rent, and Jesus cries, \"Father, into thy hands I commend my spirit,\" and dies. The centurion glorifies God, calling him \"a righteous man.\" Joseph of Arimathaea, who \"waited for the kingdom of God,\" lays the body in a new tomb as the women prepare spices and rest for the sabbath.",
+  "takeaways": [
+    "Jesus is repeatedly declared innocent—by Pilate, Herod, the penitent thief, and the centurion—so that his death is shown as the unjust suffering of the righteous One.",
+    "From the cross Jesus forgives his executioners and welcomes a dying criminal into paradise, revealing mercy at the very moment of his agony.",
+    "The rent veil signals a new access to God opened by Christ's death.",
+    "Jesus dies entrusting himself wholly to the Father—\"into thy hands I commend my spirit\"—a model of faith even in death."
+  ],
+  "crossRefs": [
+    {
+      "target": "PSA.31",
+      "verses": "5",
+      "label": "Psalm 31:5 — into thine hand I commit my spirit",
+      "why": "Jesus's dying words echo this psalm of trust, praying the very language of the righteous sufferer. The link shows him fulfilling Israel's prayers and dying in perfect confidence toward the Father.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.22",
+      "verses": "16-18",
+      "label": "Psalm 22:16-18 — they pierced my hands, they part my garments and cast lots",
+      "why": "The soldiers parting Jesus's raiment and casting lots matches this psalm's depiction of the suffering righteous one. The correspondence frames the crucifixion as foretold in Israel's Scriptures.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.53",
+      "verses": "7-9",
+      "label": "Isaiah 53:7-9 — the suffering servant, silent and numbered with the wicked",
+      "why": "The innocent Jesus crucified between criminals and buried in a rich man's tomb recalls this servant song. The reference reads his passion as the prophesied atoning death of the servant.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.27",
+      "verses": "45-54",
+      "label": "Matthew 27:45-54 — the death of Jesus, darkness, and the torn veil",
+      "why": "Matthew's parallel records the darkness, the rent veil, and the centurion's confession. Comparing the accounts underscores the cosmic and revelatory significance of the moment of death.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus's promise to the penitent thief, \"To day shalt thou be with me in paradise,\" is read in the Catholic tradition as showing that heartfelt repentance and faith at the last hour can obtain salvation, consistent with the hope of deathbed conversion and the sufficiency of God's mercy.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers commonly cite this same scene as a clear picture of salvation by grace through faith alone, since the thief, unable to perform any works, is saved solely by trusting Christ. Both traditions agree the passage displays the immediacy and freeness of God's saving mercy.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-4-8", "generatedAt": "2026-08-26", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

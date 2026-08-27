@@ -1,0 +1,60 @@
+{
+  "ref": "LUK.24",
+  "book": "Luke",
+  "chapter": 24,
+  "canon": "protocanonical",
+  "summary": "On the first day of the week the women find the stone rolled away and the tomb empty; two men in \"shining garments\" ask, \"Why seek ye the living among the dead? He is not here, but is risen.\" The apostles think their report \"idle tales,\" though Peter runs to the tomb and wonders. That same day two disciples walk to Emmaus, joined by the risen Jesus, whom \"their eyes were holden\" from recognizing. Hearing their grief, he rebukes them as \"slow of heart to believe,\" and \"beginning at Moses and all the prophets\" he expounds \"the things concerning himself.\" At table, as \"he took bread, and blessed it, and brake,\" their eyes are opened and he vanishes; they recall, \"Did not our heart burn within us?\" Returning to Jerusalem, they hear \"The Lord is risen indeed.\" Jesus then stands among them all, saying \"Peace be unto you,\" shows his hands and feet, and eats fish to prove he is not a spirit. He opens their understanding of the Scriptures, commissions them that \"repentance and remission of sins should be preached in his name among all nations,\" and promises \"the promise of my Father.\" Leading them to Bethany, he blesses them and is \"carried up into heaven,\" and they return \"with great joy,\" continually praising God.",
+  "takeaways": [
+    "The resurrection is bodily and real—Jesus shows his wounds and eats before them—not a vision or a ghost.",
+    "The whole of Scripture, \"in the law of Moses, and in the prophets, and in the psalms,\" points to Christ's suffering and rising; understanding is a gift he opens.",
+    "The risen Lord is recognized \"in breaking of bread,\" joining the opened Scriptures with the shared meal.",
+    "The disciples are commissioned as witnesses to preach repentance and forgiveness to all nations, empowered by the promised Spirit."
+  ],
+  "crossRefs": [
+    {
+      "target": "ACT.1",
+      "verses": "4-11",
+      "label": "Acts 1:4-11 — the promise of the Spirit and the ascension",
+      "why": "Luke's second volume retells the ascension and the command to wait in Jerusalem for \"power from on high.\" Reading it alongside shows Luke 24 as the hinge between the Gospel and the Church's mission.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.20",
+      "verses": "19-29",
+      "label": "John 20:19-29 — Jesus appears, shows his wounds, and says Peace be unto you",
+      "why": "John records the same appearance to the gathered disciples with the greeting of peace and the display of his wounds. The parallel corroborates the bodily reality of the risen Christ.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1CO.15",
+      "verses": "3-8",
+      "label": "1 Corinthians 15:3-8 — Christ died, was buried, and rose according to the Scriptures",
+      "why": "Paul summarizes the resurrection appearances as fulfilling the Scriptures, matching Jesus's own claim that his rising was written beforehand. The reference roots the Easter proclamation in the earliest creed.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.9",
+      "verses": "22",
+      "label": "Luke 9:22 — the Son of man must suffer and be raised the third day",
+      "why": "The angels tell the women to \"remember how he spake\" in Galilee, pointing back to Jesus's own predictions of his death and resurrection. The link shows the empty tomb confirming his earlier word.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Emmaus account—Christ opening the Scriptures and then being \"known of them in breaking of bread\"—is read in the Catholic tradition as an image of the Mass, joining the liturgy of the word and the Eucharist, where the risen Lord is recognized in the breaking of bread.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters often read the \"breaking of bread\" here as an ordinary shared meal in which the risen Jesus revealed himself, emphasizing that it is the opened Scriptures that make hearts burn and disclose Christ. Both traditions affirm that the passage unites the proclaimed word with table fellowship in encountering the living Lord.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-4-8", "generatedAt": "2026-08-26", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "LUK.18",
+  "book": "Luke",
+  "chapter": 18,
+  "canon": "protocanonical",
+  "summary": "Jesus teaches \"that men ought always to pray, and not to faint\" through the parable of a widow who wearies an unjust judge into granting justice; how much more will God \"avenge his own elect, which cry day and night unto him,\" though he asks, \"when the Son of man cometh, shall he find faith on the earth?\" Next, the Pharisee and the publican pray in the temple: the Pharisee boasts of his fasting and tithes, but the publican, smiting his breast, prays, \"God be merciful to me a sinner,\" and it is he who goes home \"justified,\" for \"every one that exalteth himself shall be abased.\" Jesus welcomes infants, declaring that the kingdom must be received \"as a little child.\" A rich ruler asks what he must do to inherit eternal life; told to sell all and follow, he goes away sorrowful, prompting the saying about a camel and \"a needle's eye\" and the assurance that \"the things which are impossible with men are possible with God.\" Peter notes they have left all, and Jesus promises \"manifold more\" now and \"life everlasting.\" He foretells a third time his passion and resurrection in Jerusalem, which the disciples do not understand, and near Jericho heals a blind beggar who cries, \"Thou Son of David, have mercy on me,\" whose faith \"hath saved thee.\"",
+  "takeaways": [
+    "Persistent prayer is an act of faith in a just God who will surely vindicate his own, sustaining the disciple against discouragement.",
+    "Justification comes to the humble who plead for mercy, not to those who trust in their own righteousness and despise others.",
+    "The kingdom is received like a child, in dependence and trust; riches and self-sufficiency make entry humanly impossible but not beyond God.",
+    "Faith recognizes Jesus as the merciful Son of David, and following him may cost everything yet yields manifold reward and eternal life."
+  ],
+  "crossRefs": [
+    {
+      "target": "MAT.19",
+      "verses": "16-30",
+      "label": "Matthew 19:16-30 — the rich young man and the cost of following",
+      "why": "Matthew records the same encounter with the wealthy inquirer, the call to sell all, and the camel-and-needle saying. The parallel confirms both the seriousness of the demand and Jesus' promise of eternal reward to those who leave all for the kingdom.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.34",
+      "verses": "15-18",
+      "label": "Psalm 34:15-18 — the LORD hears the cry of the humble and contrite",
+      "why": "The publican's broken plea and the widow's persistent cry echo the psalm's assurance that God is near to the contrite and hears the afflicted. Both texts contrast the humble who are heard with the proud who are far from God.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.10",
+      "verses": "46-52",
+      "label": "Mark 10:46-52 — blind Bartimaeus healed near Jericho",
+      "why": "Mark names the Jericho beggar Bartimaeus and records the same cry, 'Son of David, have mercy on me,' and the same word, 'thy faith hath made thee whole.' The parallel highlights the beggar's messianic confession as a model of persevering faith.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.53",
+      "verses": "3-6",
+      "label": "Isaiah 53:3-6 — the Servant despised, wounded, and rejected",
+      "why": "Jesus' third passion prediction, that he will be mocked, scourged, and put to death then rise, unfolds Isaiah's portrait of the suffering Servant bearing rejection for others. The connection frames his coming death as the fulfillment of prophecy the disciples could not yet grasp.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The publican's prayer, 'God be merciful to me a sinner,' and the verdict that he went home 'justified,' have been read in the Catholic tradition as portraying justification as God's gracious response to genuine humility and contrition, a movement of the heart that disposes the sinner to receive grace, integrating faith with a repentant turning toward God.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers, especially in the Reformation stream, take this text as a prime illustration of justification by faith alone, the sinner declared righteous purely on the ground of God's mercy apart from works like the Pharisee's fasting and tithing. Both traditions agree that self-righteousness is rejected and that God justifies the humble who cast themselves on his mercy.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

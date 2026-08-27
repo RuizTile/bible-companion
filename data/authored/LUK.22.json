@@ -1,0 +1,60 @@
+{
+  "ref": "LUK.22",
+  "book": "Luke",
+  "chapter": 22,
+  "canon": "protocanonical",
+  "summary": "As Passover nears, the leaders plot Jesus's death and Satan enters Judas, who agrees to betray him for money. Jesus sends Peter and John to prepare the meal, then at table declares, \"With desire I have desired to eat this passover with you before I suffer.\" Taking bread, he gives thanks and says, \"This is my body which is given for you: this do in remembrance of me,\" and over the cup, \"This cup is the new testament in my blood, which is shed for you.\" He foretells the betrayer's hand \"with me on the table,\" rebukes the disciples' strife over greatness—\"I am among you as he that serveth\"—and warns Peter that Satan seeks to \"sift you as wheat,\" yet has prayed that his faith \"fail not.\" On the mount of Olives he prays in agony, \"not my will, but thine, be done,\" strengthened by an angel, his sweat \"as it were great drops of blood.\" Judas betrays him with a kiss; a disciple strikes off the servant's ear, which Jesus heals. Arrested, Jesus is denied three times by Peter, who \"wept bitterly.\" Mocked and beaten, he is brought before the council and answers, \"Hereafter shall the Son of man sit on the right hand of the power of God.\"",
+  "takeaways": [
+    "At the Last Supper Jesus reinterprets Passover around himself, giving his body and blood \"for you\" and commanding, \"this do in remembrance of me.\"",
+    "True greatness in his kingdom is service: \"he that is chief, as he that doth serve.\"",
+    "Jesus's agony in the garden shows genuine human dread surrendered in perfect obedience to the Father's will.",
+    "Even Peter's failure is met with intercession and a mission—\"when thou art converted, strengthen thy brethren\"; grace outlasts denial."
+  ],
+  "crossRefs": [
+    {
+      "target": "1CO.11",
+      "verses": "23-26",
+      "label": "1 Corinthians 11:23-26 — Paul's account of the Lord's Supper",
+      "why": "Paul hands on nearly the same words over the bread and cup, including \"this do in remembrance of me,\" showing the Supper's institution as bedrock apostolic tradition. The parallel anchors the Eucharistic words outside the Gospels.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.12",
+      "verses": "1-14",
+      "label": "Exodus 12:1-14 — the institution of the Passover",
+      "why": "The Supper occurs at Passover and reframes the lamb's blood of deliverance around Jesus's own blood \"shed for you.\" The reference reveals the Exodus feast as the template Christ fulfills.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.53",
+      "verses": "12",
+      "label": "Isaiah 53:12 — he was numbered with the transgressors",
+      "why": "Jesus applies \"he was reckoned among the transgressors\" to himself, citing this suffering-servant prophecy as being fulfilled in his passion. The link presents his death as the foretold vicarious suffering.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.26",
+      "verses": "36-46",
+      "label": "Matthew 26:36-46 — the agony in Gethsemane",
+      "why": "Matthew's parallel account of the garden prayer confirms Jesus's \"not my will, but thine\" and the disciples' sleep. Comparing it deepens the portrait of his obedient surrender.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads \"This is my body\" and \"This cup is the new testament in my blood\" as instituting the Eucharist in which Christ is truly and substantially present, and \"this do in remembrance of me\" as a command that establishes an enduring sacrifice offered by the Church.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant traditions vary: some hold a real spiritual presence, while many (especially in the Reformed and evangelical streams) understand the bread and cup as a memorial and sign that proclaims Christ's death rather than re-presenting his sacrifice. All agree the Supper was instituted by Christ, points to his atoning death, and is to be repeated by his followers.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-4-8", "generatedAt": "2026-08-26", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

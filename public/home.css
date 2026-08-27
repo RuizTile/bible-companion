@@ -41,7 +41,7 @@ a { color: inherit; text-decoration: none; }
     radial-gradient(120% 140% at 15% -20%, oklch(32% 0.07 30) 0%, transparent 55%),
     linear-gradient(180deg, var(--accent-deep) 0%, oklch(23% 0.05 22) 100%);
   color: var(--cream);
-  padding: clamp(2.5rem, 6vw, 4.75rem) clamp(1.25rem, 5vw, 3rem) clamp(2.75rem, 6vw, 4.5rem);
+  padding: clamp(1.5rem, 3.5vw, 2.5rem) clamp(1.25rem, 5vw, 3rem) clamp(1.75rem, 3.5vw, 2.75rem);
   overflow: hidden;
 }
 .masthead::before {
@@ -52,9 +52,30 @@ a { color: inherit; text-decoration: none; }
   background: radial-gradient(60% 80% at 85% 120%, oklch(60% 0.11 75 / 0.16) 0%, transparent 60%);
   pointer-events: none;
 }
+.top-controls {
+  position: absolute;
+  top: clamp(0.7rem, 2vw, 1.15rem);
+  right: clamp(0.75rem, 3vw, 1.5rem);
+  z-index: 2;
+  display: flex;
+  gap: 0.4rem;
+}
+.top-controls button {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--cream);
+  background: oklch(100% 0 0 / 0.08);
+  border: 1px solid oklch(90% 0.02 75 / 0.3);
+  border-radius: 8px;
+  padding: 0.35rem 0.7rem;
+  transition: background 160ms var(--ease), border-color 160ms var(--ease);
+}
+.top-controls button:hover { background: oklch(100% 0 0 / 0.16); border-color: var(--gold); }
 .masthead-inner { position: relative; max-width: 62ch; margin: 0 auto; text-align: center; }
 .mast-eyebrow {
-  margin: 0 0 1.1rem;
+  margin: 0 0 0.7rem;
   font-size: 0.74rem;
   letter-spacing: 0.22em;
   text-transform: uppercase;
@@ -65,8 +86,8 @@ a { color: inherit; text-decoration: none; }
   margin: 0;
   font-family: var(--serif);
   font-weight: 600;
-  font-size: clamp(2.6rem, 7vw, 5rem);
-  line-height: 1.02;
+  font-size: clamp(1.9rem, 4.5vw, 3.1rem);
+  line-height: 1.05;
   letter-spacing: -0.02em;
   text-wrap: balance;
 }
@@ -78,14 +99,14 @@ a { color: inherit; text-decoration: none; }
   text-wrap: pretty;
 }
 .mast-howto {
-  margin: 1.5rem auto 0;
+  margin: 1rem auto 0;
   max-width: 42ch;
   text-align: left;
   list-style: none;
   padding: 0;
   counter-reset: step;
   display: grid;
-  gap: 0.55rem;
+  gap: 0.4rem;
 }
 .mast-howto li {
   position: relative;
@@ -262,7 +283,13 @@ a { color: inherit; text-decoration: none; }
 }
 .chip:hover { transform: translateY(-2px); box-shadow: var(--shadow); }
 .chip.placeholder { border-color: var(--gold); color: var(--gold); }
-.chip.authored { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+.chip.authored {
+  background: var(--accent-tint);
+  border-color: transparent;
+  color: var(--accent-strong);
+  font-weight: 600;
+}
+.chip.authored:hover { border-color: var(--accent); }
 
 .message { color: var(--ink-soft); text-align: center; padding: 2rem; }
 

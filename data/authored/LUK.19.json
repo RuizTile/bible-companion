@@ -1,0 +1,60 @@
+{
+  "ref": "LUK.19",
+  "book": "Luke",
+  "chapter": 19,
+  "canon": "protocanonical",
+  "summary": "In Jericho, Jesus calls Zacchaeus, a rich chief publican who climbs a sycomore tree to see him. Jesus invites himself to his house, and though the crowd murmurs that he is \"guest with a man that is a sinner,\" Zacchaeus repents lavishly, giving half his goods to the poor and restoring fourfold what he took by fraud. Jesus declares, \"This day is salvation come to this house,\" summarizing his mission: \"the Son of man is come to seek and to save that which was lost.\" He then tells the parable of the pounds, warning against burying one's gifts and against those who reject his reign. Jesus ascends toward Jerusalem, entering in triumph on a colt while the disciples cry, \"Blessed be the King that cometh in the name of the Lord.\" When Pharisees object, he answers that even the stones would cry out. Drawing near, he weeps over the city, foreseeing its destruction \"because thou knewest not the time of thy visitation.\" Finally he cleanses the temple, casting out the sellers with the charge that God's house of prayer has become \"a den of thieves,\" then teaches there daily as the leaders plot his death.",
+  "takeaways": [
+    "Salvation reaches even the notorious sinner who genuinely seeks Christ; Zacchaeus's repentance shows itself in concrete restitution, not mere feeling.",
+    "God entrusts gifts to be used and multiplied; fear and passivity, like the servant who hid his pound, are judged, while faithfulness in little brings greater responsibility.",
+    "Jesus receives royal praise entering Jerusalem, yet weeps over a people who miss their moment of grace.",
+    "Zeal for God's house is proper; worship must not be corrupted into profit or exploitation."
+  ],
+  "crossRefs": [
+    {
+      "target": "MAT.21",
+      "verses": "1-11",
+      "label": "Matthew 21:1-11 — the triumphal entry into Jerusalem",
+      "why": "Matthew narrates the same entry on the colt with the crowd's acclamation, drawing explicitly on the prophecy of the king coming meek and riding on an ass. Reading them together highlights how the Gospels present Jesus as the awaited royal Messiah.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ZEC.9",
+      "verses": "9",
+      "label": "Zechariah 9:9 — thy King cometh lowly, riding upon an ass",
+      "why": "Jesus's deliberate entry on a colt fulfills the prophetic image of Zion's king arriving in humility rather than military power. The connection frames the triumphal entry as a claim to messianic kingship.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.25",
+      "verses": "14-30",
+      "label": "Matthew 25:14-30 — the parable of the talents",
+      "why": "Matthew's talents parallels Luke's pounds: both reward faithful stewardship and condemn the servant who buries his master's gift out of fear. Comparing them clarifies the shared call to invest what God gives.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.56",
+      "verses": "7",
+      "label": "Isaiah 56:7 — mine house shall be called an house of prayer",
+      "why": "Jesus quotes this prophet's words while cleansing the temple, contrasting God's intent for the temple with its corruption. The reference grounds his action in the Scriptures Israel already held.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Zacchaeus's response—half his goods to the poor and fourfold restitution—illustrates the Catholic understanding that saving faith bears fruit in works of penance and restitution, so that conversion is completed in concrete amendment of life.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant readers stress that salvation \"came\" to the house on the basis of Zacchaeus being a \"son of Abraham\" received by grace, with his generosity as the evidence and fruit of a faith already given rather than its cause. Both traditions agree the transformed conduct is inseparable from true salvation.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-4-8", "generatedAt": "2026-08-26", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

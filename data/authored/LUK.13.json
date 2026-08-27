@@ -1,0 +1,67 @@
+{
+  "ref": "LUK.13",
+  "book": "Luke",
+  "chapter": 13,
+  "canon": "protocanonical",
+  "summary": "Jesus responds to news of Galilaeans slain by Pilate and of eighteen killed when \"the tower in Siloam fell,\" refusing to read tragedy as proof of exceptional guilt. Twice he warns, \"except ye repent, ye shall all likewise perish,\" then tells the parable of the barren fig tree given one more year to bear fruit before being cut down. On the sabbath he heals a woman \"which had a spirit of infirmity eighteen years,\" calling her \"a daughter of Abraham\" whom \"Satan hath bound,\" and shames the indignant synagogue ruler. He likens the kingdom to a mustard seed grown into a great tree and to leaven hidden in \"three measures of meal.\" Journeying toward Jerusalem, he urges his hearers to \"strive to enter in at the strait gate,\" warning that many who presume familiarity will hear, \"I know you not whence ye are,\" while people \"from the east, and from the west\" feast with the patriarchs. Told Herod means to kill him, he calls Herod \"that fox\" and insists a prophet must perish in Jerusalem. The chapter closes with his lament, \"O Jerusalem, Jerusalem,\" longing to gather her children \"as a hen doth gather her brood under her wings.\"",
+  "takeaways": [
+    "Suffering is not a scoreboard of guilt; Jesus turns every calamity into a summons to repentance while there is still time.",
+    "God is patient like the vinedresser who pleads for the barren tree, yet patience has a horizon, and grace calls for fruit.",
+    "Mercy fulfills the sabbath rather than violating it; loosing a bound daughter of Abraham is exactly what the day of rest is for.",
+    "The kingdom starts small and hidden but grows irresistibly, and entering it demands present, urgent striving, not mere acquaintance with Jesus."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.5",
+      "verses": "1-7",
+      "label": "Isaiah 5:1-7 — the song of the unfruitful vineyard",
+      "why": "The fig tree in the vineyard that yields no fruit echoes Isaiah's beloved vineyard that produced wild grapes and faced ruin. Both make fruitlessness, not mere existence, the measure of judgment. Catholic reading often sees the extra year as the era of grace opened by Christ's ministry.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.13",
+      "verses": "31-33",
+      "label": "Matthew 13:31-33 — mustard seed and leaven parables",
+      "why": "Matthew records the same twin parables of the kingdom's hidden, growing power. The parallel confirms Luke's point that the reign of God begins imperceptibly yet transforms the whole, whether as a sheltering tree or as leaven working through the meal.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.7",
+      "verses": "13-14",
+      "label": "Matthew 7:13-14 — the narrow gate and the two ways",
+      "why": "Jesus' command to \"strive to enter in at the strait gate\" matches Matthew's contrast between the narrow way that leads to life and the broad road to destruction. Both stress that salvation is offered widely yet entered with effort and singleness of purpose.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.118",
+      "verses": "26",
+      "label": "Psalm 118:26 — 'Blessed is he that cometh in the name of the LORD'",
+      "why": "Jesus' closing words over Jerusalem quote this psalm, later shouted at his triumphal entry. His lament frames the city's coming acclamation and its judgment, tying his mission to the temple liturgy Israel already knew.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The barren fig tree given a final year of digging and dunging pictures God's patient offer of grace and the real possibility of losing it; the Catholic tradition reads this as a call to ongoing conversion and fruitful cooperation with grace, lest final impenitence leave one 'cut down.'",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant readers agree the parable warns against presumption and demands genuine repentance, but those in the Reformed stream stress that the fruit is the evidence of grace already given rather than a merit that secures standing. Both traditions agree the tree without fruit faces judgment and that Christ's warning is urgent and personal.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

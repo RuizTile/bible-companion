@@ -1,0 +1,67 @@
+{
+  "ref": "LUK.15",
+  "book": "Luke",
+  "chapter": 15,
+  "canon": "protocanonical",
+  "summary": "When Pharisees and scribes murmur, \"This man receiveth sinners, and eateth with them,\" Jesus answers with three parables of the lost and found. A shepherd leaves \"the ninety and nine\" to seek one lost sheep and lays it \"on his shoulders, rejoicing\"; a woman lights a candle and sweeps until she finds one lost coin; and in each case heaven rejoices \"over one sinner that repenteth.\" The climactic parable tells of a father with two sons. The younger demands his inheritance, wastes it \"with riotous living\" in a far country, and, reduced to feeding swine, \"came to himself\" and resolves to return confessing, \"Father, I have sinned against heaven, and before thee.\" While he is \"yet a great way off,\" the father runs, embraces him, and orders \"the best robe,\" a ring, shoes, and \"the fatted calf,\" declaring, \"this my son was dead, and is alive again; he was lost, and is found.\" The elder son, angry and refusing to enter, complains of his years of faithful service unrewarded. The father pleads, \"Son, thou art ever with me, and all that I have is thine,\" insisting it was right to \"make merry\" because the lost brother is found. The parable leaves the elder son's response, and the murmurers', unresolved.",
+  "takeaways": [
+    "God actively seeks the lost rather than waiting passively; the shepherd, the woman, and the running father all take the initiative to recover what was lost.",
+    "Heaven's joy over one repentant sinner reveals the true heart of God and rebukes any resentment of mercy shown to others.",
+    "Repentance begins when we 'come to ourselves' and return, and it is met not with grudging acceptance but with lavish, restoring welcome.",
+    "The elder son's cold self-righteousness is as much in need of the father's grace as the younger son's rebellion; both must choose to come inside."
+  ],
+  "crossRefs": [
+    {
+      "target": "EZK.34",
+      "verses": "11-16",
+      "label": "Ezekiel 34:11-16 — God himself will seek his scattered sheep",
+      "why": "The prophet promises that God will personally search out and gather his lost sheep, condemning shepherds who neglected them. Jesus embodies this promise in the parable of the lost sheep, presenting himself as the seeking shepherd of Ezekiel's vision.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.18",
+      "verses": "12-14",
+      "label": "Matthew 18:12-14 — the parable of the lost sheep",
+      "why": "Matthew records the lost-sheep parable in the context of not despising 'little ones,' stressing the Father's will that none should perish. The parallel confirms the shepherd's search as a window into God's care for each individual.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.103",
+      "verses": "1-5",
+      "label": "Psalm 103:1-5 — the LORD who forgives and restores",
+      "why": "The father's compassion, running to embrace and clothe his returning son, mirrors the psalm's portrait of a God who forgives iniquity and crowns with lovingkindness. Both reveal mercy that outruns and exceeds what the penitent expects.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JON.4",
+      "verses": "1-11",
+      "label": "Jonah 4:1-11 — the prophet resentful of God's mercy",
+      "why": "Jonah's anger that God spared Nineveh parallels the elder son's resentment of the father's mercy to the prodigal. Both narratives leave the resentful figure being gently questioned, holding a mirror up to those who begrudge grace given to others.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The prodigal's return, confession, and the father's restoration have long been read in the Catholic tradition as an image of the Sacrament of Reconciliation: the sinner's contrition and confession ('Father, I have sinned') meeting the Father's forgiveness that restores lost sonship, symbolized by the robe, ring, and feast.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers embrace the parable as the supreme picture of justifying grace freely received, often stressing that the father forgives before any works are performed, apart from a sacramental structure. Both traditions agree the parable teaches that God's mercy meets genuine repentance and fully restores the returning sinner as a beloved child.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

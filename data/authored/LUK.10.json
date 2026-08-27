@@ -1,0 +1,77 @@
+{
+  "ref": "LUK.10",
+  "book": "Luke",
+  "chapter": 10,
+  "canon": "protocanonical",
+  "summary": "Jesus appoints \"other seventy also\" and sends them \"two and two\" as \"lambs among wolves,\" telling them, \"The harvest truly is great, but the labourers are few.\" They are to bring peace, heal, and announce, \"The kingdom of God is come nigh unto you,\" while unrepentant cities like Chorazin and Capernaum face judgment worse than Tyre and Sidon. The seventy return rejoicing that \"even the devils are subject unto us,\" but Jesus tells them to rejoice rather \"because your names are written in heaven.\" He exults in the Spirit, thanking the Father for revealing \"these things\" to \"babes,\" and declares that \"no man knoweth who the Son is, but the Father.\" A lawyer asks how to inherit eternal life, and, pressed on \"who is my neighbour,\" Jesus tells the parable of the Good Samaritan: a priest and Levite pass by, but a despised Samaritan \"had compassion,\" tending the wounded man and paying for his care. \"Go, and do thou likewise.\" Finally, at Martha's house, Martha is \"cumbered about much serving\" while Mary sits at Jesus's feet; Jesus says, \"one thing is needful,\" and \"Mary hath chosen that good part.\"",
+  "takeaways": [
+    "The mission belongs to the Lord of the harvest, who sends laborers; disciples go in dependence, offering peace and proclaiming the nearness of God's kingdom.",
+    "The deepest joy is not in spiritual power over evil but in belonging to God, \"because your names are written in heaven.\"",
+    "Love of neighbor knows no boundary of race or status: mercy shown to the stranger, even by an outsider, fulfills the law.",
+    "Attentive listening to Christ, the \"one thing... needful,\" takes priority over anxious activity, though both hearing and serving have their place."
+  ],
+  "crossRefs": [
+    {
+      "target": "DEU.6",
+      "verses": "4-5",
+      "label": "Deuteronomy 6:4-5 — love the Lord with all your heart",
+      "why": "The lawyer's answer quotes the Shema's command to love God wholly. Jesus affirms it as the way to life, joining it to love of neighbor as the summary of the law that the parable then illustrates.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LEV.19",
+      "verses": "18",
+      "label": "Leviticus 19:18 — love thy neighbour as thyself",
+      "why": "The second half of the great commandment comes from Leviticus. The lawyer's follow-up, \"who is my neighbour,\" prompts Jesus to widen the scope of neighbor-love beyond one's own people through the parable of the Samaritan.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.11",
+      "verses": "25-27",
+      "label": "Matthew 11:25-27 — the Father revealed to babes",
+      "why": "Matthew records the same thanksgiving that God hides \"these things from the wise and prudent\" and reveals them to babes, and the mutual knowing of Father and Son. The parallel underscores that knowledge of God is gift, not achievement.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HOS.6",
+      "verses": "6",
+      "label": "Hosea 6:6 — I desired mercy, and not sacrifice",
+      "why": "The priest and Levite keep ritual distance while the Samaritan shows mercy, echoing Hosea's word that God desires mercy over sacrifice. The parable dramatizes that true religion issues in compassion.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Martha and Mary scene, where Jesus commends Mary for choosing \"that good part\" of sitting at his feet, is read in the Catholic tradition as honoring the contemplative dimension of the Christian life, prayerful attention to Christ, as having a certain priority that grounds and orders all active service.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants generally read the passage as a corrective to anxious distraction rather than an endorsement of one vocation over another, stressing that the \"one thing needful\" is attentive faith in Christ's word available to every believer; both traditions agree that listening to Jesus must not be crowded out by busyness, even good and hospitable busyness.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Jesus's command \"Go, and do thou likewise\" after the parable is read in the Catholic tradition as teaching that active works of mercy toward the neighbor are integral to inheriting eternal life, since faith is shown and lived out in concrete charity.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants agree that genuine love of neighbor is commanded and inseparable from real faith, but many read the parable as first exposing the lawyer's inability to justify himself by the law, driving him to mercy he needs before he can extend it; both traditions affirm that following Christ produces active, boundary-crossing compassion.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

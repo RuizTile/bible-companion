@@ -1,0 +1,68 @@
+{
+  "ref": "LUK.20",
+  "book": "Luke",
+  "chapter": 20,
+  "canon": "protocanonical",
+  "summary": "Teaching in the temple, Jesus is challenged by the chief priests, scribes, and elders: \"by what authority doest thou these things?\" He answers with a counter-question about John's baptism that leaves them unable to reply. He then tells the parable of the wicked husbandmen, who beat the servants sent to the vineyard and finally kill the owner's \"beloved son,\" a transparent warning that the leaders will reject and destroy him; he cites the psalm, \"The stone which the builders rejected, the same is become the head of the corner.\" Spies try to trap him on paying tribute to Caesar, but he disarms them: \"Render therefore unto Cæsar the things which be Cæsar's, and unto God the things which be God's.\" The Sadducees, who deny resurrection, pose a riddle about a woman married to seven brothers; Jesus teaches that the risen are \"equal unto the angels\" and that God \"is not a God of the dead, but of the living.\" He then poses his own question about how Christ can be both David's son and David's Lord, and warns the crowds against the scribes who \"devour widows' houses\" while making \"long prayers.\"",
+  "takeaways": [
+    "Jesus's authority is divine, not humanly delegated; those unwilling to face the truth about John cannot receive the truth about the Son.",
+    "The rejected \"stone\" becomes the cornerstone—God's plan advances even through the leaders' refusal.",
+    "Duties to civil authority and to God are distinct but not opposed; give Caesar his coin and God your whole self.",
+    "Resurrection life is real and transformed, and God is the God of the living; religion that exploits the vulnerable stands condemned."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.5",
+      "verses": "1-7",
+      "label": "Isaiah 5:1-7 — the song of the vineyard",
+      "why": "Jesus's parable of the husbandmen reworks this prophetic vineyard song, where Israel is the vineyard and God expects fruit. The echo casts the leaders as unfaithful tenants and signals looming judgment.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.118",
+      "verses": "22-23",
+      "label": "Psalm 118:22-23 — the stone which the builders refused is become the head stone",
+      "why": "Jesus quotes this psalm directly to interpret his rejection and vindication. The reference identifies him as the cornerstone of God's new work despite being spurned by the builders.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.110",
+      "verses": "1",
+      "label": "Psalm 110:1 — the LORD said unto my Lord, Sit thou on my right hand",
+      "why": "Jesus cites this psalm to show the Messiah is more than David's descendant—he is David's Lord. The passage undergirds the confession of Christ's divine sonship and exaltation.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.12",
+      "verses": "13-17",
+      "label": "Mark 12:13-17 — render unto Caesar",
+      "why": "Mark records the same tribute question and Jesus's famous reply. Comparing the accounts confirms the wording and the deft way Jesus escapes the political trap.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.3",
+      "verses": "6",
+      "label": "Exodus 3:6 — I am the God of Abraham, Isaac, and Jacob",
+      "why": "Jesus grounds the resurrection in God's self-revelation at the bush, arguing that God remains the God of the patriarchs because they live to him. The reference is the scriptural anchor of his reply to the Sadducees.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus's word \"Render therefore unto Cæsar the things which be Cæsar's, and unto God the things which be God's\" is read in the Catholic tradition as establishing a real but limited legitimacy for civil authority while reserving ultimate allegiance to God, undergirding the distinction between temporal and spiritual orders.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readings likewise affirm the legitimacy of civil government and the Christian's duty to it, sometimes emphasizing more strongly that even the state falls wholly under God's sovereignty so that \"the things which be God's\" ultimately relativize Caesar's claims. Both traditions agree obedience to God takes precedence when the two conflict.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-4-8", "generatedAt": "2026-08-26", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "LUK.16",
+  "book": "Luke",
+  "chapter": 16,
+  "canon": "protocanonical",
+  "summary": "Jesus tells of an unjust steward about to be dismissed who, to secure friends, slashes his master's debtors' bills. The master \"commended the unjust steward, because he had done wisely,\" and Jesus draws the lesson that \"the children of this world are in their generation wiser than the children of light,\" urging his hearers to \"make to yourselves friends of the mammon of unrighteousness\" so as to be received into \"everlasting habitations.\" Faithfulness \"in that which is least\" proves faithfulness in much, and \"Ye cannot serve God and mammon.\" The covetous Pharisees deride him, and he warns that \"that which is highly esteemed among men is abomination in the sight of God,\" affirms the enduring authority of the law, and forbids divorce and remarriage as adultery. The chapter closes with the rich man and Lazarus: a beggar \"laid at his gate, full of sores\" dies and is carried \"into Abraham's bosom,\" while the rich man dies and lifts up his eyes \"in hell,\" begging for a drop of water. Abraham replies that \"a great gulf\" is fixed between them and refuses to send Lazarus to warn the rich man's five brethren, for \"if they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.\"",
+  "takeaways": [
+    "Shrewdness spent on eternal ends is what Jesus commends; wealth should be used now to build relationships and mercy that outlast this life.",
+    "No one can serve two masters, and covetousness dressed up as respectability is an abomination before God who sees the heart.",
+    "The reversal of the rich man and Lazarus warns that indifference to the poor at our gate carries eternal weight.",
+    "Scripture, 'Moses and the prophets,' is sufficient to lead to repentance; those who refuse it will not be persuaded even by a resurrection."
+  ],
+  "crossRefs": [
+    {
+      "target": "AMO.6",
+      "verses": "1-7",
+      "label": "Amos 6:1-7 — woe to those at ease who ignore the afflicted",
+      "why": "Amos condemns the complacent rich who feast on couches and are 'not grieved for the affliction of Joseph,' facing exile first. The rich man who feasts 'sumptuously every day' while Lazarus starves at his gate stands under the same prophetic judgment on callous luxury.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.6",
+      "verses": "24",
+      "label": "Matthew 6:24 — 'Ye cannot serve God and mammon'",
+      "why": "This saying appears verbatim in the Sermon on the Mount, showing it as a settled teaching of Jesus rather than an isolated remark. The parallel frames the whole chapter's concern with the divided heart and the danger of wealth.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.11",
+      "verses": "43-53",
+      "label": "John 11:43-53 — a man raised from the dead met with disbelief",
+      "why": "Abraham's warning that they will not be persuaded 'though one rose from the dead' is strikingly borne out when the raising of Lazarus of Bethany hardens the authorities toward killing Jesus rather than believing. The two Lazarus accounts illuminate the theme that miracle alone cannot compel faith.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DEU.15",
+      "verses": "7-11",
+      "label": "Deuteronomy 15:7-11 — open your hand to the poor at your gate",
+      "why": "The law commands generosity toward the needy brother, warning against a hard heart and shut hand. The rich man's failure toward Lazarus 'laid at his gate' is precisely the neglect this statute forbids, underscoring that he already had 'Moses and the prophets' to instruct him.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The scene of Lazarus in 'Abraham's bosom' and the rich man in torment, separated by a fixed gulf yet conscious and communicating, has been drawn on in the Catholic tradition to affirm the reality of a conscious intermediate state after death and the fixed destinies of the damned and the blessed, supporting reflection on the particular judgment.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant interpreters read the parable primarily as a moral warning about wealth and hardness of heart rather than as a detailed map of the afterlife, cautioning against pressing narrative imagery into precise doctrine. Both traditions agree the passage teaches real, irreversible consequences after death and the sufficiency of Scripture to lead to repentance.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

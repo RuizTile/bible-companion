@@ -27,7 +27,6 @@ function group(books) {
 function bookRow(b) {
   const d = document.createElement("details");
   d.className = "book";
-  if (b.authored > 0) d.open = true;
 
   const pct = b.total ? Math.round((b.authored / b.total) * 100) : 0;
   const badge = CANON_BADGE[b.canon]
@@ -82,24 +81,6 @@ function sectionGroup(title, books, i) {
   return wrap;
 }
 
-function renderBegin(books) {
-  const authored = [];
-  for (const b of books)
-    for (const c of b.chapters)
-      if (c.status === "authored") authored.push({ book: b.book, chapter: c.chapter, ref: c.ref });
-  if (!authored.length) return;
-
-  const row = el("beginRow");
-  for (const a of authored.slice(0, 24)) {
-    const link = document.createElement("a");
-    link.className = "begin-pill";
-    link.href = `./read.html?ref=${encodeURIComponent(a.ref)}`;
-    link.innerHTML = `<span class="bk">${a.book}</span><span class="ch">${a.chapter}</span>`;
-    row.appendChild(link);
-  }
-  el("begin").hidden = false;
-}
-
 async function init() {
   let books;
   try {
@@ -117,8 +98,6 @@ async function init() {
   const totalAuth = books.reduce((s, b) => s + b.authored, 0);
   el("progress").innerHTML =
     `<b>${totalAuth}</b> of ${totalCh.toLocaleString()} chapters now have a written companion.`;
-
-  renderBegin(books);
 
   const g = group(books);
   const sections = el("sections");

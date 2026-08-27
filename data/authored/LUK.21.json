@@ -1,0 +1,60 @@
+{
+  "ref": "LUK.21",
+  "book": "Luke",
+  "chapter": 21,
+  "canon": "protocanonical",
+  "summary": "Watching the treasury, Jesus praises a poor widow who casts in \"two mites,\" declaring she \"hath cast in more than they all\" because she gave \"all the living that she had,\" while the rich gave of their abundance. When some admire the temple's \"goodly stones,\" he foretells that \"there shall not be left one stone upon another.\" Asked when this will be, he warns of deceivers, \"wars and commotions,\" earthquakes, famines, and pestilences, but says \"the end is not by and by.\" Before these, his followers will be persecuted and betrayed even by family, yet this \"shall turn to you for a testimony\"; he promises \"a mouth and wisdom\" no adversary can resist, and urges, \"In your patience possess ye your souls.\" He describes Jerusalem \"compassed with armies\" and \"trodden down of the Gentiles,\" then cosmic signs and \"the Son of man coming in a cloud with power and great glory,\" at which the faithful should \"look up\" for \"your redemption draweth nigh.\" The fig tree teaches watchfulness. He closes: \"Heaven and earth shall pass away: but my words shall not pass away,\" charging his hearers to \"watch ye therefore, and pray always.\"",
+  "takeaways": [
+    "God measures giving by sacrifice and trust, not by amount; the widow's two mites outweigh great gifts.",
+    "Coming upheavals—wars, disasters, persecution—must not terrify disciples; endurance and faithful witness are the calling.",
+    "Christ promises his own presence and wisdom to those hauled before rulers for his name's sake.",
+    "History moves toward the visible coming of the Son of man; watchfulness and prayer keep the heart ready and free from distraction."
+  ],
+  "crossRefs": [
+    {
+      "target": "MRK.13",
+      "verses": "1-37",
+      "label": "Mark 13:1-37 — the Olivet discourse on the end times",
+      "why": "Mark gives a parallel version of this discourse about the temple's fall, tribulation, and the Son of man's coming. Reading alongside it clarifies which sayings are shared and how each Gospel frames watchfulness.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DAN.7",
+      "verses": "13-14",
+      "label": "Daniel 7:13-14 — one like the Son of man coming with clouds",
+      "why": "Jesus's image of \"the Son of man coming in a cloud with power and great glory\" draws on this prophet's vision of a heavenly figure given everlasting dominion. The link identifies Jesus with that exalted, judging Son of man.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.12",
+      "verses": "41-44",
+      "label": "Mark 12:41-44 — the widow's two mites",
+      "why": "Mark records the same treasury scene and Jesus's commendation of the widow's total gift. The parallel confirms the saying and sharpens its contrast between abundance and sacrificial poverty.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.24",
+      "verses": "3-31",
+      "label": "Matthew 24:3-31 — signs of the end and the coming of the Son of man",
+      "why": "Matthew's parallel discourse expands the warnings about deceivers, tribulation, and the glorious coming. Comparing it fills out the imagery Luke condenses and shows the shared expectation of vindication.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition often reads this discourse as speaking on two horizons at once—the historical destruction of Jerusalem in A.D. 70 and the final coming of Christ at the end of the age—so that the fall of the temple prefigures the last judgment without being identical to it.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters divide on this: some (preterist-leaning) read most of the discourse as fulfilled in A.D. 70, while others (futurist-leaning) apply the cosmic signs primarily to a still-future return. Across the spectrum, both traditions agree that Christ will visibly return and that disciples are called to persevering watchfulness.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-4-8", "generatedAt": "2026-08-26", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

@@ -1,0 +1,77 @@
+{
+  "ref": "LUK.12",
+  "book": "Luke",
+  "chapter": 12,
+  "canon": "protocanonical",
+  "summary": "To an innumerable crowd Jesus warns against \"the leaven of the Pharisees, which is hypocrisy,\" for \"there is nothing covered, that shall not be revealed.\" He tells his friends to fear not those who kill the body but God alone, assuring them that \"the very hairs of your head are all numbered\" and \"ye are of more value than many sparrows.\" Whoever confesses him before men he will confess before God's angels. Asked to settle an inheritance, he warns, \"beware of covetousness,\" and tells of the rich fool who builds bigger barns only to hear, \"Thou fool, this night thy soul shall be required of thee.\" So he teaches, \"Take no thought for your life,\" pointing to ravens and lilies that God feeds and clothes: \"seek ye the kingdom of God\" and \"Fear not, little flock.\" Treasure in heaven follows the heart. He calls for watchfulness, servants with \"loins... girded\" and \"lights burning,\" ready for the Lord's return \"at an hour when ye think not,\" for \"unto whomsoever much is given, of him shall be much required.\" He came \"to send fire on the earth\" and brings not peace but \"division,\" and rebukes the crowds who read the sky yet cannot \"discern this time.\"",
+  "takeaways": [
+    "God's intimate, providential care, numbering every hair and every sparrow, frees disciples from fear of persecution and anxiety over daily needs.",
+    "Life \"consisteth not in the abundance of the things which he possesseth\"; the rich fool shows the folly of storing wealth while being \"not rich toward God.\"",
+    "Faithful discipleship means constant readiness for the Master's sudden return, with lamps burning and stewardship exercised responsibly.",
+    "Allegiance to Christ carries a cost: his coming forces decision and can even divide households, for \"much is given, of him shall be much required.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "MAT.6",
+      "verses": "25-33",
+      "label": "Matthew 6:25-33 — take no thought, seek first the kingdom",
+      "why": "Matthew records the same teaching on anxiety, with the birds and lilies and the call to seek God's kingdom first. The parallel reinforces trust in the Father's provision as the antidote to worry.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.10",
+      "verses": "28-33",
+      "label": "Matthew 10:28-33 — fear God, sparrows, confessing Christ",
+      "why": "Matthew gives the same sayings about fearing God rather than men, the value of sparrows, and confessing Christ before men. Read together they ground courage under persecution in God's care and coming vindication.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ECC.2",
+      "verses": "18-23",
+      "label": "Ecclesiastes 2:18-23 — the vanity of laboring to hoard wealth",
+      "why": "The Preacher laments leaving amassed goods to another, echoing the rich fool's question, \"whose shall those things be?\" The wisdom tradition exposes the emptiness of storing treasure that death will surrender.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MIC.7",
+      "verses": "5-6",
+      "label": "Micah 7:5-6 — division within the household",
+      "why": "Micah foretells father against son and household strife in a day of reckoning, which Jesus takes up in saying he brings \"division\" that sets family members against one another. The echo frames the crisis his coming provokes.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus's summons to \"Sell that ye have, and give alms\" and to lay up \"a treasure in the heavens that faileth not\" is read in the Catholic tradition as teaching that almsgiving and detachment from possessions are genuine goods that store up heavenly reward, part of a life of active charity flowing from grace.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants affirm generous giving and warn against covetousness, but tend to read heavenly treasure as the fruit and evidence of a heart already redirected to God rather than as merit earned; both traditions agree that \"where your treasure is, there will your heart be also\" and that discipleship reorders one's relationship to wealth.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The saying that the servant beaten with more or fewer stripes shows how \"unto whomsoever much is given, of him shall be much required\" is read in the Catholic tradition as pointing to graded accountability at judgment, where responsibility, and even the measure of reward or punishment, corresponds to the knowledge and grace one has received.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestants likewise affirm degrees of accountability and reward at judgment based on what one knew and was entrusted with, while insisting that final salvation rests on grace through faith rather than on the accounting itself; both traditions agree that greater privilege brings greater responsibility before God.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

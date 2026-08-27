@@ -1,0 +1,77 @@
+{
+  "ref": "LUK.7",
+  "book": "Luke",
+  "chapter": 7,
+  "canon": "protocanonical",
+  "summary": "In Capernaum a centurion sends elders to plead for his dying servant, then friends with the message, \"Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof.\" Jesus \"marvelled at him\" and declares, \"I have not found so great faith, no, not in Israel,\" and the servant is healed. At Nain he meets a widow burying \"the only son of his mother\"; moved with compassion he says, \"Weep not,\" touches the bier, and raises the young man, and the crowd cries, \"God hath visited his people.\" John the Baptist sends from prison to ask, \"Art thou he that should come?\" Jesus points to the works: \"the blind see, the lame walk... to the poor the gospel is preached.\" He praises John as \"much more than a prophet,\" the promised messenger, yet says \"he that is least in the kingdom of God is greater than he.\" Finally, in a Pharisee's house, a sinful woman washes Jesus's feet with tears and anoints them; Jesus tells the parable of two debtors and pronounces, \"Her sins, which are many, are forgiven; for she loved much,\" then, \"Thy faith hath saved thee; go in peace.\"",
+  "takeaways": [
+    "Faith that trusts Christ's mere word, like the centurion's, can exceed the faith found within Israel itself; Jesus honors humility that knows its own unworthiness.",
+    "Jesus's compassion reaches the powerless: a Gentile soldier's servant, a widow's only son, and a woman despised as a sinner all become objects of his saving mercy.",
+    "The works of healing and preaching to the poor are Jesus's own answer to the question of whether he is the Messiah John awaited.",
+    "Great love flows from great forgiveness: \"to whom little is forgiven, the same loveth little.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "MAT.8",
+      "verses": "5-13",
+      "label": "Matthew 8:5-13 — the centurion's servant healed",
+      "why": "Matthew narrates the same healing, likewise recording Jesus's astonishment at Gentile faith and his warning that many will come from east and west into the kingdom. Reading them together highlights Luke's emphasis on the centurion's humility mediated through the Jewish elders.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1KI.17",
+      "verses": "17-24",
+      "label": "1 Kings 17:17-24 — Elijah raises the widow's son",
+      "why": "The raising at Nain deliberately recalls Elijah restoring a widow's only son and delivering him to his mother. The crowd's cry that \"a great prophet is risen up among us\" signals that Jesus stands in and surpasses the prophetic tradition.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAL.3",
+      "verses": "1",
+      "label": "Malachi 3:1 — the messenger who prepares the way",
+      "why": "Jesus applies to John the words \"Behold, I send my messenger before thy face,\" identifying him as the prophesied forerunner. The citation frames John as the hinge between the old covenant and the dawning kingdom.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.35",
+      "verses": "5-6",
+      "label": "Isaiah 35:5-6 — eyes of the blind opened, the lame leap",
+      "why": "Jesus's list of signs for John echoes Isaiah's vision of restoration, when \"the eyes of the blind shall be opened\" and \"the lame man leap as an hart.\" His works are presented as the fulfillment of Israel's messianic hope.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The centurion's words, \"I am not worthy that thou shouldest enter under my roof: but say in a word, and my servant shall be healed,\" are taken up in the Catholic Mass as the prayer said before receiving Communion, reading his humble faith as the fitting disposition for receiving Christ himself.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants share deep admiration for the centurion's humble trust and often echo his words devotionally, but many would locate the passage's primary force in justifying faith that rests on Christ's word alone, rather than tying it specifically to Eucharistic reception; the traditions agree that the heart's confession of unworthiness is exactly what Christ commends.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Jesus's declaration to the woman, \"Thy sins are forgiven,\" and again \"Thy faith hath saved thee,\" is read in the Catholic tradition as Christ exercising a real authority to absolve sin, a power the Church understands him to entrust to his ministers, so that forgiveness is both received by faith and mediated through the Church.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants agree that Christ alone forgives sin here and that the woman's faith is the instrument by which she receives it, but they tend to stress the direct grant of forgiveness from Christ to the believer, viewing any ministerial role as a declaration of the gospel rather than a mediating power; both traditions affirm that the guests' astonished question, \"Who is this that forgiveth sins also?\", points to Jesus's divine authority.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "ref": "LUK.11",
+  "book": "Luke",
+  "chapter": 11,
+  "canon": "protocanonical",
+  "summary": "Asked, \"Lord, teach us to pray,\" Jesus gives the Our Father: \"Hallowed be thy name. Thy kingdom come... Give us day by day our daily bread. And forgive us our sins.\" With the parable of the friend at midnight he urges persistence, promising, \"Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened,\" for the Father gives \"the Holy Spirit to them that ask him.\" When accused of casting out devils \"through Beelzebub,\" he answers that \"every kingdom divided against itself is brought to desolation,\" and that his exorcisms by \"the finger of God\" show \"the kingdom of God is come upon you.\" He warns against the unclean spirit that returns to find the house \"swept and garnished,\" and, when a woman blesses his mother, replies, \"blessed are they that hear the word of God, and keep it.\" He offers only \"the sign of Jonas,\" points to \"a greater than Solomon\" and \"a greater than Jonas,\" and teaches on the single eye full of light. Dining with a Pharisee, he pronounces woes on Pharisees and lawyers who \"pass over judgment and the love of God,\" load others with burdens, and \"have taken away the key of knowledge.\"",
+  "takeaways": [
+    "Prayer is taught as trusting, persistent approach to a Father who delights to give good gifts, above all the Holy Spirit.",
+    "Jesus's power over demons is the very presence of God's kingdom breaking in: \"if I with the finger of God cast out devils... the kingdom of God is come upon you.\"",
+    "Blessing is found not merely in physical nearness to Jesus but in those who \"hear the word of God, and keep it.\"",
+    "Religion that polishes the outside while neglecting \"judgment and the love of God\" draws Christ's sharpest woes; true purity is inward."
+  ],
+  "crossRefs": [
+    {
+      "target": "MAT.6",
+      "verses": "9-13",
+      "label": "Matthew 6:9-13 — the Lord's Prayer in the Sermon on the Mount",
+      "why": "Matthew gives a fuller form of the same prayer Jesus teaches here. Comparing the two versions clarifies the core petitions and Luke's more compact wording.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JON.3",
+      "verses": "4-10",
+      "label": "Jonah 3:4-10 — Nineveh repents at Jonah's preaching",
+      "why": "Jesus offers \"the sign of Jonas\" and says the men of Nineveh will condemn his generation because \"they repented at the preaching of Jonas.\" The reference presses that a greater preacher stands before them, demanding repentance.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1KI.10",
+      "verses": "1-9",
+      "label": "1 Kings 10:1-9 — the queen of Sheba seeks Solomon's wisdom",
+      "why": "Jesus says \"the queen of the south\" came \"to hear the wisdom of Solomon,\" and that \"a greater than Solomon is here.\" The allusion contrasts her eager pursuit of wisdom with the unbelief of Jesus's own hearers.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.4",
+      "verses": "8-10",
+      "label": "Genesis 4:8-10 — the blood of Abel",
+      "why": "Jesus speaks of \"the blood of Abel\" as the first of the prophets' blood required of that generation. The reference sets the murder of the righteous within a long history of rejecting God's messengers.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The petition \"Give us day by day our daily bread,\" together with Jesus's teaching to ask persistently, is read in the Catholic tradition as embracing more than material sustenance, extending to spiritual nourishment and, in the Church's tradition, to the Eucharistic bread by which the faithful are daily fed.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants most often read the petition as an expression of daily dependence on God for ordinary provision, teaching contentment and trust, while some also hear a spiritual sense; both traditions agree that the prayer forms believers to look continually to the Father for all they need.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Jesus's reply, \"Yea rather, blessed are they that hear the word of God, and keep it,\" to the woman who blessed his mother's womb, is read in the Catholic tradition not as a rebuke of Marian devotion but as its deepest ground, since Mary is preeminently the one who heard and kept God's word.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants typically read Jesus as redirecting blessedness away from physical relationship to faithful obedience open to all, without special reference to Mary; both traditions agree that hearing and keeping God's word is the mark of true blessing, and that Mary herself models it.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

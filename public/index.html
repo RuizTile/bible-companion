@@ -17,38 +17,26 @@
   </head>
   <body>
     <header class="masthead">
+      <div class="top-controls">
+        <button id="expandAll" type="button">Expand all</button>
+        <button id="collapseAll" type="button">Collapse all</button>
+        <button id="themeToggle" type="button" data-theme-toggle aria-label="Toggle dark mode">☾</button>
+      </div>
       <div class="masthead-inner">
         <p class="mast-eyebrow">King James Version · with the Apocrypha</p>
         <h1 class="mast-title">The Chapter&nbsp;Companion</h1>
-        <ol class="mast-howto">
-          <li>Pick a book below, then a chapter.</li>
-          <li>Read the King James text.</li>
-          <li>Where a companion exists, get a short summary, a few takeaways, and links to connected passages.</li>
-        </ol>
+        <p class="mast-sub">Pick a book, then a chapter — where a companion exists you'll get a summary, a few takeaways, and links to connected passages.</p>
         <p class="mast-progress" id="progress"></p>
       </div>
       <div class="masthead-rule" aria-hidden="true"></div>
     </header>
 
     <main class="home">
-      <section class="begin" id="begin" hidden>
-        <div class="begin-head">
-          <h2>Begin here</h2>
-          <span class="begin-note">chapters with a written companion</span>
-        </div>
-        <div class="begin-row" id="beginRow"></div>
-      </section>
-
       <div class="index-bar">
         <div class="legend" aria-hidden="true">
           <span><i class="dot authored"></i> companion</span>
           <span><i class="dot placeholder"></i> draft</span>
           <span><i class="dot text"></i> text only</span>
-        </div>
-        <div class="control-btns">
-          <button id="expandAll" type="button">Expand all</button>
-          <button id="collapseAll" type="button">Collapse all</button>
-          <button id="themeToggle" type="button" data-theme-toggle aria-label="Toggle dark mode">☾</button>
         </div>
       </div>
 

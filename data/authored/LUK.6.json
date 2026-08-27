@@ -1,0 +1,67 @@
+{
+  "ref": "LUK.6",
+  "book": "Luke",
+  "chapter": 6,
+  "canon": "protocanonical",
+  "summary": "Two sabbath controversies open the chapter. When Pharisees object to the disciples plucking grain, Jesus recalls how David ate the shewbread and declares, \"the Son of man is Lord also of the sabbath.\" On another sabbath he heals a man's withered hand, asking whether it is \"lawful on the sabbath days to do good, or to do evil?\", which fills his opponents \"with madness.\" After a night of prayer on a mountain, Jesus chooses twelve apostles, named individually. Coming down to \"stood in the plain\" before a great multitude, he delivers the Sermon on the Plain. He pronounces blessings on the poor, the hungry, the weeping, and the persecuted, and matching woes on the rich, the full, the laughing, and the well-spoken-of. He commands radical love: \"Love your enemies, do good to them which hate you,\" turn the other cheek, and \"as ye would that men should do to you, do ye also to them likewise.\" He calls for mercy, \"as your Father also is merciful,\" and warns against judging, since one must first \"cast out first the beam out of thine own eye.\" A tree is known by its fruit, and a good man brings forth good \"out of the good treasure of his heart.\" He ends by contrasting the one who hears and does his sayings, building \"upon a rock,\" with the one who hears but does not, whose house falls in ruin.",
+  "takeaways": [
+    "Jesus is \"Lord also of the sabbath\": the law's purpose is life and mercy, so doing good on the sabbath fulfills rather than breaks it.",
+    "The blessings and woes overturn worldly values, promising the kingdom to the poor and hungry while warning the comfortable and admired.",
+    "Love of enemies, mercy, generosity, and the Golden Rule are the heart of the disciple's life, imitating the Father who \"is kind unto the unthankful and to the evil.\"",
+    "Genuine discipleship is proven by fruit and by doing, not merely hearing: only the doer builds a house that stands."
+  ],
+  "crossRefs": [
+    {
+      "target": "MAT.5",
+      "verses": "1-12",
+      "label": "Matthew 5:1-12 — the Beatitudes",
+      "why": "Matthew's Sermon on the Mount gives a fuller and partly parallel set of blessings. Read together with Luke's blessings and woes, it shows the shared core of Jesus' teaching on the values of the kingdom.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1SA.21",
+      "verses": "1-6",
+      "label": "1 Samuel 21:1-6 — David eats the shewbread",
+      "why": "Jesus grounds his sabbath teaching in David's eating of the consecrated bread when hungry. The precedent shows that human need and mercy take priority over ritual restriction.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LEV.19",
+      "verses": "18",
+      "label": "Leviticus 19:18 — love thy neighbour as thyself",
+      "why": "Jesus' command to treat others as you would be treated and to love even enemies extends and deepens the Law's love command, revealing its full intent in the disciple's mercy.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.7",
+      "verses": "24-27",
+      "label": "Matthew 7:24-27 — the wise and foolish builders",
+      "why": "Matthew closes his sermon with the same parable of the two houses. Its parallel placement in Luke shows both evangelists ending Jesus' great discourse with the call to hear and do his words.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Luke's stark blessings on the literally \"poor\" and \"hungry\" with corresponding woes on the \"rich\" and \"full\" are read in the Catholic tradition as a genuine call to material simplicity and solidarity with the poor, so that concern for economic justice belongs to the gospel's demands, not merely its consequences.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants agree the passage confronts complacent wealth and calls for generosity, but many read the blessings as ultimately describing spiritual dispositions of dependence on God (as Matthew's \"poor in spirit\" suggests), cautioning against equating material poverty itself with righteousness or wealth itself with condemnation.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

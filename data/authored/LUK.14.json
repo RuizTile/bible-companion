@@ -1,0 +1,67 @@
+{
+  "ref": "LUK.14",
+  "book": "Luke",
+  "chapter": 14,
+  "canon": "protocanonical",
+  "summary": "Dining in the house of a chief Pharisee on the sabbath while \"they watched him,\" Jesus heals a man with dropsy after asking, \"Is it lawful to heal on the sabbath day?\" and silences objection by noting they would rescue an ox fallen into a pit. Watching guests scramble for \"the chief rooms,\" he counsels taking the lowest place, for \"whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.\" To his host he says to invite not friends and rich neighbours but \"the poor, the maimed, the lame, the blind,\" who cannot repay, promising recompense \"at the resurrection of the just.\" The parable of the great supper follows: the invited make excuses, so the master fills his house from \"the streets and lanes\" and \"the highways and hedges,\" declaring none first bidden \"shall taste of my supper.\" Turning to the multitudes, Jesus sets the terms of discipleship: one must love him above father, mother, wife, and \"his own life also,\" must \"bear his cross,\" and must count the cost like a builder of a tower or a king going to war, forsaking \"all that he hath.\" He ends with salt that has lost its savour, fit only to be cast out.",
+  "takeaways": [
+    "True honor is received, not seized; humility that takes the lowest place is the posture God delights to exalt.",
+    "Genuine generosity gives to those who cannot repay, trading earthly recompense for reward at the resurrection.",
+    "God's invitation goes out beyond the respectable to the poor and the outsider, and refusing it forfeits a place at the feast.",
+    "Discipleship is a deliberate, total commitment; Jesus urges counting the cost so that following him is not begun and abandoned."
+  ],
+  "crossRefs": [
+    {
+      "target": "PRO.25",
+      "verses": "6-7",
+      "label": "Proverbs 25:6-7 — do not claim honor before the king",
+      "why": "Jesus' teaching to take the lowest room and wait to be invited higher directly develops this proverb's wisdom about not putting oneself forward before great men. The parallel roots his counsel on humility in Israel's own wisdom tradition.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.22",
+      "verses": "1-14",
+      "label": "Matthew 22:1-14 — the wedding feast and the refused invitation",
+      "why": "Matthew's marriage feast parallels Luke's great supper: invited guests refuse, and the host gathers replacements from the roads. Both dramatize Israel's rejection and the wide opening of the kingdom, though Matthew adds the man without a wedding garment as a further warning.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.10",
+      "verses": "37-39",
+      "label": "Matthew 10:37-39 — loving Jesus above family, taking the cross",
+      "why": "The stark demand to prefer Christ above father and mother and to bear one's cross appears here in even sharper form. Reading the two side by side shows Luke's 'hate not' as a Semitic idiom for decisive preference rather than literal hatred.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "REV.19",
+      "verses": "9",
+      "label": "Revelation 19:9 — 'Blessed are they which are called unto the marriage supper of the Lamb'",
+      "why": "The guest's exclamation, 'Blessed is he that shall eat bread in the kingdom of God,' anticipates the messianic banquet consummated in Revelation. Catholic tradition connects this eschatological feast with the Eucharist as its foretaste.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The master's command to 'compel them to come in' has been read in the Catholic tradition as underscoring the earnest, urgent breadth of God's call to the poor and the outsider, an image of the Church's missionary drive to fill the banquet hall with the least expected guests.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise take 'compel them to come in' as vigorous gospel invitation, and are careful, in light of church history where the phrase was once misused to justify coercion, to insist it means persuasive urgency, not force. Both traditions now agree the verse describes the persistence of grace, not compulsion of conscience.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

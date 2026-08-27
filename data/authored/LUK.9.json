@@ -1,0 +1,77 @@
+{
+  "ref": "LUK.9",
+  "book": "Luke",
+  "chapter": 9,
+  "canon": "protocanonical",
+  "summary": "Jesus gives the twelve \"power and authority over all devils\" and sends them to \"preach the kingdom of God, and to heal the sick,\" telling them to \"take nothing for your journey.\" Herod, hearing of Jesus, is \"perplexed\" and \"desired to see him.\" When the apostles return, Jesus feeds five thousand from five loaves and two fishes, with \"twelve baskets\" of fragments left over. Praying alone, he asks, \"Whom say ye that I am?\" and Peter answers, \"The Christ of God.\" Jesus foretells that \"the Son of man must suffer many things... and be raised the third day,\" and calls all to \"deny himself, and take up his cross daily.\" On the mountain he is transfigured, Moses and Elias appear speaking of \"his decease which he should accomplish at Jerusalem,\" and a voice declares, \"This is my beloved Son: hear him.\" He heals a demon-possessed boy the disciples could not, teaches that \"he that is least among you all, the same shall be great,\" and \"stedfastly set his face to go to Jerusalem.\" When a Samaritan village rejects him, he rebukes disciples who would call down fire, for \"the Son of man is not come to destroy men's lives, but to save them,\" and calls disciples to undivided following.",
+  "takeaways": [
+    "Confessing Jesus as \"The Christ of God\" is inseparable from accepting a suffering Messiah and a cross taken up \"daily.\"",
+    "The feeding of the five thousand shows Christ's abundant provision through the ordinary offered to him, blessed, broken, and given by the disciples.",
+    "The Transfiguration reveals Jesus's glory and the Father's command, \"hear him,\" while Moses and Elias point ahead to his saving death at Jerusalem.",
+    "True greatness in the kingdom is humble receptivity, welcoming a child and counting oneself least, not disputing over rank."
+  ],
+  "crossRefs": [
+    {
+      "target": "JHN.6",
+      "verses": "1-14",
+      "label": "John 6:1-14 — the feeding of the five thousand",
+      "why": "John recounts the same miracle and develops it into the discourse on the bread of life. Reading them together deepens the Eucharistic overtones of Jesus taking, blessing, and breaking the loaves.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.24",
+      "verses": "15-18",
+      "label": "Exodus 24:15-18 — Moses on the mountain in the cloud of glory",
+      "why": "The Transfiguration echoes Moses ascending the mountain, entering the cloud, and the glory of the Lord. The presence of Moses and Elias, and the overshadowing cloud, present Jesus as the fulfillment of the law and the prophets.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DEU.18",
+      "verses": "15,18",
+      "label": "Deuteronomy 18:15,18 — the prophet like Moses whom you shall hear",
+      "why": "The heavenly command \"hear him\" takes up Moses's promise of a coming prophet to whom Israel must listen. It identifies Jesus as that prophet, whose word now carries the Father's own authority.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.16",
+      "verses": "13-28",
+      "label": "Matthew 16:13-28 — Peter's confession and the first passion prediction",
+      "why": "Matthew records the same confession, passion prediction, and call to take up the cross. The parallel highlights Luke's addition of the word \"daily,\" pressing the continual, ongoing shape of discipleship.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus's actions at the feeding, that he \"took the five loaves... blessed them, and brake, and gave to the disciples\" to distribute, are read in the Catholic tradition as prefiguring the Eucharist, where Christ still feeds the multitude through the ministry of those he sends, the twelve baskets suggesting the fullness given to the Church.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants recognize the same take-bless-break-give pattern and often see a foreshadowing of the Lord's Supper, but many read the miracle chiefly as a sign of Jesus's messianic provision and compassion; the traditions agree that the scene reveals Christ's power to satisfy human need abundantly.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The call to \"deny himself, and take up his cross daily, and follow me\" is understood in the Catholic tradition as an ongoing, cooperative discipleship in which the believer, sustained by grace, actively unites daily suffering and self-denial to Christ's cross.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants likewise call believers to daily self-denial and cross-bearing, but tend to frame it as the fruit and evidence of a salvation already secured by grace through faith rather than as a contribution to it; both traditions agree that following Christ necessarily means embracing the way of the cross.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

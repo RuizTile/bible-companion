@@ -1,0 +1,67 @@
+{
+  "ref": "LUK.4",
+  "book": "Luke",
+  "chapter": 4,
+  "canon": "protocanonical",
+  "summary": "\"Full of the Holy Ghost,\" Jesus is \"led by the Spirit into the wilderness\" and tempted forty days by the devil. To the demand that he turn stone into bread he answers, \"man shall not live by bread alone.\" Offered all the kingdoms of the world for worship, he replies, \"Thou shalt worship the Lord thy God, and him only shalt thou serve.\" Urged to cast himself from the temple, he says, \"Thou shalt not tempt the Lord thy God.\" The devil departs \"for a season.\" Returning \"in the power of the Spirit,\" Jesus teaches in Galilee and, in the Nazareth synagogue, reads from Isaiah: \"The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor.\" He declares, \"This day is this scripture fulfilled in your ears.\" When the crowd, marveling, asks \"Is not this Joseph's son?\" he notes that \"No prophet is accepted in his own country,\" recalling how Elijah and Elisha were sent to a Gentile widow and a Syrian leper. Enraged, the people try to throw him from a hill, \"but he passing through the midst of them went his way.\" In Capernaum he casts out an unclean spirit that names him \"the Holy One of God,\" heals Simon's mother-in-law and many others, and declares, \"I must preach the kingdom of God to other cities also: for therefore am I sent.\"",
+  "takeaways": [
+    "Jesus overcomes temptation by trusting and obeying God's word, refusing to use power for himself.",
+    "The Nazareth sermon is his mission statement: he is the Spirit-anointed one sent to bring good news to the poor and liberty to the oppressed.",
+    "His reference to the Gentile widow and Naaman signals from the start that God's mercy will reach beyond Israel, provoking his own townspeople to fury.",
+    "Jesus teaches and heals \"with authority and power,\" and even unclean spirits are forced to acknowledge who he is."
+  ],
+  "crossRefs": [
+    {
+      "target": "DEU.8",
+      "verses": "3",
+      "label": "Deuteronomy 8:3 — man does not live by bread alone",
+      "why": "Jesus answers the first temptation with words from Deuteronomy, drawn from Israel's testing in the wilderness. Where Israel failed amid hunger, Jesus proves faithful, embodying the true Son.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.61",
+      "verses": "1-2",
+      "label": "Isaiah 61:1-2 — the Spirit-anointed herald of good tidings",
+      "why": "In the synagogue Jesus reads this very passage and claims its fulfillment in himself, defining his ministry as the anointed proclamation of good news to the poor and liberty to captives.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.4",
+      "verses": "1-11",
+      "label": "Matthew 4:1-11 — the temptation in the wilderness",
+      "why": "Matthew recounts the same three temptations with Jesus answering each from Scripture, offering a parallel that highlights the shared tradition and the ordering of the tests.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1KI.17",
+      "verses": "8-16",
+      "label": "1 Kings 17:8-16 — Elijah and the widow of Zarephath",
+      "why": "Jesus cites Elijah's sending to \"a woman that was a widow\" of Sidon rather than to Israel's widows. The reference grounds his claim that God's mercy reaches outsiders and explains why his hometown rejects him.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus' Nazareth proclamation, \"This day is this scripture fulfilled in your ears,\" is read in the Catholic tradition as inaugurating a mission of concrete deliverance, so that preaching the gospel to the poor includes the Church's ongoing work of mercy, justice, and care for the marginalized as integral to the good news.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants share the conviction that Jesus fulfills Isaiah and that his gospel bears fruit in mercy toward the poor, but many stress that \"the acceptable year of the Lord\" is first and foremost the announcement of spiritual liberation and forgiveness of sins, with social mercy flowing from, rather than defining, that saving message.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

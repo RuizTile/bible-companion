@@ -1,0 +1,67 @@
+{
+  "ref": "LUK.17",
+  "book": "Luke",
+  "chapter": 17,
+  "canon": "protocanonical",
+  "summary": "Jesus warns that offences will come but \"woe unto him, through whom they come,\" for it were better to be drowned with a millstone than to \"offend one of these little ones.\" He commands generous forgiveness, \"seven times in a day\" if the brother repents, and when the apostles cry, \"Increase our faith,\" he says faith like \"a grain of mustard seed\" could uproot a tree. He teaches humility with the image of servants who, having done their duty, say, \"We are unprofitable servants.\" On the way to Jerusalem, ten lepers cry, \"Jesus, Master, have mercy on us\"; all are cleansed as they go, but only one, \"a Samaritan,\" returns to glorify God, prompting Jesus' question, \"where are the nine?\" and the word, \"thy faith hath made thee whole.\" Asked when the kingdom would come, he answers it \"cometh not with observation\" but is \"within you.\" He foretells the sudden, unmistakable coming of \"the Son of man\" like lightning, preceded by his rejection and suffering. As in \"the days of Noe\" and \"the days of Lot,\" ordinary life will continue until judgment falls; he warns, \"Remember Lot's wife,\" and teaches that \"whosoever shall seek to save his life shall lose it.\" On that day one shall be taken and another left.",
+  "takeaways": [
+    "Causing others to stumble is grave, while forgiving the repentant, even repeatedly, is a non-negotiable mark of the disciple.",
+    "Faith's power lies not in its size but in its object; even a mustard seed of trust in God accomplishes what seems impossible.",
+    "Gratitude completes healing; the lone Samaritan who returns shows that faith expresses itself in thanksgiving and worship.",
+    "The kingdom is already present among us, and its final revealing will be sudden, so disciples must live ready and unattached to this world."
+  ],
+  "crossRefs": [
+    {
+      "target": "MAT.18",
+      "verses": "21-22",
+      "label": "Matthew 18:21-22 — forgive seventy times seven",
+      "why": "Peter's question about how often to forgive and Jesus' answer of 'seventy times seven' parallels Luke's command to forgive 'seven times in a day.' Both make limitless, repeated forgiveness a defining trait of life in the kingdom.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "2KI.5",
+      "verses": "9-14",
+      "label": "2 Kings 5:9-14 — Naaman the Syrian cleansed of leprosy",
+      "why": "The foreign leper Naaman, healed and moved to worship Israel's God, foreshadows the grateful Samaritan whose faith 'made thee whole.' Both stories highlight the outsider who responds to God's mercy while insiders take it for granted.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.19",
+      "verses": "15-26",
+      "label": "Genesis 19:15-26 — Lot flees Sodom; his wife looks back",
+      "why": "Jesus' terse 'Remember Lot's wife' points directly to her fatal backward glance as fire fell on Sodom. The reference reinforces his warning not to cling to what is left behind when the day of the Son of man is revealed.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.7",
+      "verses": "5-13",
+      "label": "Genesis 7:5-13 — the flood in the days of Noah",
+      "why": "Jesus compares his coming to 'the days of Noe,' when people ate and married until the flood 'destroyed them all.' The parallel stresses the suddenness of judgment breaking into ordinary, heedless life.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus' words that 'the kingdom of God is within you' have been read in parts of the Catholic tradition to mean the kingdom is present in the midst of his hearers in his own person and ministry, and interiorly as God's reign in the soul through grace, rather than as a merely future or political realm.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters are divided, with many favoring 'in your midst' (Christ standing among the Pharisees) over 'inside you,' partly to avoid an overly individualized reading addressed to hostile hearers. Both traditions agree the kingdom is inaugurated in Jesus' presence and does not arrive by outward observation or political calculation.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}
