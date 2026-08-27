@@ -1,0 +1,67 @@
+{
+  "ref": "MRK.6",
+  "book": "Mark",
+  "chapter": 6,
+  "canon": "protocanonical",
+  "summary": "In his hometown Jesus teaches with wisdom, but the people, knowing him as \"the carpenter, the son of Mary,\" are \"offended at him.\" He observes that \"a prophet is not without honour, but in his own country,\" and their unbelief limits his works there. He sends the Twelve out \"by two and two,\" giving them authority over unclean spirits and instructing them to travel light and shake off the dust from towns that reject them; they preach repentance, cast out devils, and anoint the sick. Mark then recounts how Herod, hearing of Jesus, fears John the Baptist \"risen from the dead,\" and flashes back to John's beheading: imprisoned for rebuking Herod's marriage, John is killed when Herodias's daughter dances and asks for \"the head of John the Baptist\" in a charger. When the apostles return, Jesus leads them to \"a desert place\" to rest, but crowds run ahead. \"Moved with compassion\" because they were \"as sheep not having a shepherd,\" he teaches them, then feeds five thousand men with five loaves and two fishes, with twelve baskets left over. That night he sends the disciples ahead by boat, prays alone on the mountain, and comes to them \"walking upon the sea,\" saying, \"Be of good cheer: it is I; be not afraid.\" The chapter closes with crowds seeking healing, \"but the border of his garment,\" at Gennesaret.",
+  "takeaways": [
+    "Familiarity can breed unbelief; even Jesus \"could there do no mighty work\" amid his neighbors' offense.",
+    "Mission is shared and dependent; the Twelve go out in poverty and pairs, relying on hospitality and God's power.",
+    "Jesus' compassion for leaderless people, \"as sheep not having a shepherd,\" drives him to teach and to feed them.",
+    "The feeding of the five thousand and the walking on the sea reveal Jesus as provider and Lord over creation."
+  ],
+  "crossRefs": [
+    {
+      "target": "EZK.34",
+      "verses": "5-6,23",
+      "label": "Ezekiel 34:5-6,23 — sheep without a shepherd, and the promised shepherd",
+      "why": "Jesus' compassion on the crowd \"as sheep not having a shepherd\" answers Ezekiel's indictment of Israel's failed shepherds and God's promise to set one shepherd over his flock. The feeding that follows presents Jesus as that promised shepherd who both leads and nourishes.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "2KI.4",
+      "verses": "42-44",
+      "label": "2 Kings 4:42-44 — Elisha feeds a hundred with a few loaves",
+      "why": "Elisha's multiplication of barley loaves with leftovers to spare foreshadows the feeding of the five thousand. The parallel places Jesus in continuity with the prophets while vastly surpassing them in scale, hinting at his greater identity.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.6",
+      "verses": "1-21",
+      "label": "John 6:1-21 — the feeding and the walking on the sea",
+      "why": "John narrates both the feeding of the five thousand and Jesus walking on the water, the only miracle pair found in all four Gospels besides the resurrection. In John these events lead into the Bread of Life discourse, which Catholic readers connect to the Eucharist.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.16",
+      "verses": "14-18",
+      "label": "Exodus 16:14-18 — manna in the wilderness",
+      "why": "The miraculous feeding in \"a desert place\" recalls God providing manna to Israel in the wilderness. The echo frames Jesus as continuing and fulfilling God's provision for his people, feeding the hungry crowd in the wasteland with more than enough.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In feeding the five thousand, Jesus \"took the five loaves,\" \"looked up to heaven, and blessed, and brake the loaves, and gave them to his disciples,\" a fourfold action the Catholic tradition reads as anticipating the Eucharist, especially since the disciples become the ones through whom the bread is distributed to the people.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers recognize the resonance with Jesus' later actions at the Last Supper but often read the feeding primarily as a demonstration of his messianic provision and compassion rather than as an institution of a sacrament. Both traditions see the scene as pointing beyond mere physical bread to Jesus as the true provider; they differ on how directly it establishes Eucharistic doctrine.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.20",
+  "book": "Matthew",
+  "chapter": 20,
+  "canon": "protocanonical",
+  "summary": "Jesus opens with the parable of the vineyard laborers: a householder hires workers at dawn for \"a penny a day,\" then hires others at the third, sixth, ninth, and eleventh hours, promising each \"whatsoever is right.\" At evening he pays all alike, beginning with the last, and the first murmur that those who \"wrought but one hour\" are made \"equal unto us.\" The owner answers, \"Friend, I do thee no wrong... Is it not lawful for me to do what I will with mine own? Is thine eye evil, because I am good?\"—and Jesus draws the moral, \"So the last shall be first, and the first last: for many be called, but few chosen.\" Going up to Jerusalem, He foretells a third time His betrayal, condemnation, mocking, crucifixion, and rising \"the third day.\" The mother of Zebedee's sons then asks that they sit at His right and left in the kingdom; Jesus asks whether they can \"drink of the cup\" He must drink, and says the seats are \"not mine to give, but... for whom it is prepared of my Father.\" When the ten are indignant, He overturns worldly greatness: \"whosoever will be great among you, let him be your minister,\" for the Son of man \"came not to be ministered unto, but to minister, and to give his life a ransom for many.\" Leaving Jericho, He hears two blind men crying, \"Have mercy on us, O Lord, thou Son of David\"; moved with compassion, He touches their eyes, and they see and follow Him.",
+  "takeaways": [
+    "The vineyard parable overturns a wage-and-merit logic: the householder gives the latecomers the same reward, teaching that God's generosity, not the laborer's tally of hours, sets the measure of grace.",
+    "The owner's question—\"Is thine eye evil, because I am good?\"—exposes envy as the real problem, warning against resenting God's kindness to others.",
+    "Jesus' third and most detailed passion prediction shows He goes to Jerusalem knowingly and deliberately, naming betrayal, death, and resurrection in advance.",
+    "True greatness in the kingdom is defined as service and even slavery to others, directly reversing the domination practiced by \"the princes of the Gentiles.\"",
+    "Jesus interprets His own death as ransom—He \"came... to give his life a ransom for many\"—giving the passion a redemptive, substitutionary meaning at the heart of His mission."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.53",
+      "label": "Isaiah 53 — the suffering servant who gives his life for many",
+      "why": "Jesus' saying that He came \"to give his life a ransom for many\" echoes the servant song where one bears the sins of many and pours out his soul unto death. The link frames the passion prediction and the ransom saying as the fulfillment of Isaiah's servant.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.10",
+      "label": "Mark 10:32-52 — the passion prediction, the request of James and John, and blind Bartimaeus",
+      "why": "Mark reports the same sequence, placing the request on the lips of James and John themselves and naming blind Bartimaeus. The parallel confirms the account and shows how Matthew arranges the same material around service and the cross.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PHP.2",
+      "label": "Philippians 2:5-11 — Christ who took the form of a servant",
+      "why": "Paul's hymn of Christ humbling Himself as a servant unto death gives the theological form of Jesus' teaching that greatness is service and that the Son of man came to minister. It reads Matthew 20's lesson in light of the whole self-emptying of Christ.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JON.4",
+      "label": "Jonah 4 — the prophet angry at God's mercy",
+      "why": "The murmuring laborers who resent the owner's goodness mirror Jonah's anger that God is \"gracious... and of great kindness\" toward the undeserving. Both passages confront the human offense taken at divine generosity.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads the vineyard parable as a picture of grace that cannot be earned or negotiated as strict wages. The householder keeps his contract with the first workers yet freely lavishes the same gift on the last, illustrating that eternal life is God's gift and that human cooperation, however long-labored, never places God in our debt. This coheres with the Catholic conviction that even our merit before God is itself the fruit of His prior grace, so that God \"crowns His own gifts.\"",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters warmly embrace this parable as a portrait of unmerited grace and often read it as evidence against any system of merit at all: the equal 'penny' shows that salvation is by grace through faith, wholly apart from works, and that latecomers (Gentiles, deathbed converts, the marginal) receive the full inheritance. Where they differ from the Catholic reading is in resisting the vocabulary of 'merit' entirely, even grace-enabled merit; on the Reformed view the reward is gift from first to last, and speaking of merited reward risks obscuring that. Both traditions agree the parable magnifies God's sovereign generosity over human bookkeeping.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

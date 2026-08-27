@@ -1,0 +1,74 @@
+{
+  "ref": "MAT.23",
+  "book": "Matthew",
+  "chapter": 23,
+  "canon": "protocanonical",
+  "summary": "Matthew 23 is Jesus' sustained indictment of the scribes and Pharisees, spoken to the crowds and His disciples. He begins by acknowledging their teaching office—\"The scribes and the Pharisees sit in Moses' seat\"—so \"whatsoever they bid you observe, that observe and do\"; but \"do not ye after their works: for they say, and do not.\" Their fault is hypocrisy and vanity: they \"bind heavy burdens\" on others, do their works \"to be seen of men,\" make \"broad their phylacteries,\" and crave the \"chief seats\" and the title \"Rabbi.\" Against this Jesus sets a rule of humility: \"be not ye called Rabbi,\" \"call no man your father upon the earth,\" for \"one is your Father, which is in heaven,\" and \"he that is greatest among you shall be your servant,\" for the self-exalting will be abased. He then pronounces a series of \"woes\": they shut up the kingdom, devour widows' houses, make proselytes worse than themselves, split hairs over oaths while ignoring \"the weightier matters of the law, judgment, mercy, and faith,\" \"strain at a gnat, and swallow a camel,\" clean only the outside of the cup, and are \"like unto whited sepulchres.\" They honor dead prophets while being \"the children of them which killed the prophets,\" and so guilt \"from the blood of righteous Abel\" onward will fall on \"this generation.\" The chapter closes with grief, not only anger: \"O Jerusalem, Jerusalem... how often would I have gathered thy children together... and ye would not! Behold, your house is left unto you desolate.\"",
+  "takeaways": [
+    "Jesus distinguishes teaching office from personal example: the leaders' authority in \"Moses' seat\" is honored even as their conduct is condemned—\"they say, and do not.\"",
+    "The core charge is hypocrisy: religion performed \"to be seen of men,\" hungry for titles and seats, while the inner person stays corrupt—the \"whited sepulchres.\"",
+    "True greatness is service and humility: \"he that is greatest among you shall be your servant,\" and the self-exalting \"shall be abased.\"",
+    "God's priorities are the \"weightier matters of the law, judgment, mercy, and faith\"; scrupulous tithing of herbs cannot substitute for justice and mercy—yet the small duties are \"not to leave... undone.\"",
+    "The chapter ends in lament, not only in judgment: Jesus longs to gather Jerusalem \"as a hen gathereth her chickens,\" and the coming desolation follows their refusal—\"ye would not.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "LUK.11",
+      "label": "Luke 11:37-52 — the woes against the Pharisees and lawyers",
+      "why": "Luke records a parallel set of woes—the neglect of judgment and mercy, the love of chief seats, the tombs of the prophets, and the taking away of \"the key of knowledge.\" The overlap confirms this as a fixed body of Jesus' teaching and fills out Matthew's compressed sequence.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAL.2",
+      "label": "Malachi 2:7-9 — priests who \"caused many to stumble at the law\"",
+      "why": "Malachi condemns the priests for corrupting the covenant and being \"partial in the law\" while still holding that \"the priest's lips should keep knowledge.\" This mirrors Jesus' stance in verses 2-3: the office is legitimate, but the ministers have betrayed it.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MIC.6",
+      "label": "Micah 6:8 — \"to do justly, and to love mercy, and to walk humbly\"",
+      "why": "Jesus' naming of \"judgment, mercy, and faith\" as \"the weightier matters of the law\" echoes the prophetic summary of true religion in Micah. Both subordinate ritual precision to justice, mercy, and humble faithfulness before God.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.4",
+      "label": "Genesis 4:8-10 — the blood of Abel crying from the ground",
+      "why": "When Jesus traces guilt \"from the blood of righteous Abel,\" He invokes the first murder in Scripture, whose blood \"crieth\" to God. The reference frames the leaders' hostility as the climax of a long history of shed innocent blood.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Verse 9—\"call no man your father upon the earth\"—is read by the Catholic tradition as a warning against usurping God's unique fatherhood and against vainglorious titles, not as a flat prohibition of the word 'father.' Scripture itself calls Abraham a father (Rom. 4), Paul calls himself a spiritual father to the Corinthians (\"in Christ Jesus I have begotten you through the gospel,\" 1 Cor. 4:15), and the fourth commandment presumes earthly fathers. The Catholic reading, informed by the conviction that God is the source and standard of all human fatherhood, takes the passage as forbidding the pride Jesus is condemning throughout the chapter—religious leaders craving honorific titles—while allowing honorific and spiritual fatherhood that points back to the one Father in heaven.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally agree that verse 9 targets pride and the craving for honorific titles rather than banning the ordinary word 'father,' and most acknowledge Paul's language of spiritual fatherhood. Some Protestants, however, apply the verse more strictly to religious titles and object specifically to addressing clergy as 'Father,' seeing in it exactly the kind of honorific Jesus warns against. Both traditions affirm the passage's central thrust—that no human authority may displace God's unique Fatherhood and that leaders must reject self-glorifying titles—while differing on whether calling a minister 'Father' honors or violates that principle.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Jesus' command in verses 2-3—that the crowds should observe what the scribes teach from \"Moses' seat\" even while refusing to imitate their works—is understood in the Catholic tradition to distinguish the objective authority of a teaching office from the personal worthiness of the one who holds it. The legitimacy of what is taught does not depend on the holiness of the teacher; the office endures even where the officeholder is a hypocrite. This principle undergirds the Catholic conviction that the validity of the Church's teaching and sacraments rests on Christ's authority, not on the private virtue of ministers.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise see verses 2-3 as separating the leaders' legitimate transmission of Moses' law from their corrupt example, and many take it as endorsing respect for lawful authority while refusing to imitate hypocrisy. Where emphases differ, the Reformed tradition tends to stress that all teaching must be tested against Scripture itself and that the passage does not confer an ongoing infallible teaching office, but rather commends the Mosaic law the leaders happened to be reciting. Both traditions agree that a minister's sin does not nullify the truth he faithfully hands on.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

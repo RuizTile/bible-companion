@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.27",
+  "book": "Genesis",
+  "chapter": 27,
+  "canon": "protocanonical",
+  "summary": "Genesis 27 recounts the stolen blessing. Isaac, old and \"his eyes were dim,\" tells Esau to hunt venison and make him savoury meat, \"that my soul may bless thee before I die.\" Rebekah overhears and schemes to secure the blessing for Jacob, telling him, \"obey my voice.\" She cooks goat's meat, dresses Jacob in Esau's garments, and covers his hands and neck with kid-skins to imitate his hairy brother. Jacob comes to Isaac claiming, \"I am Esau thy firstborn.\" Isaac, suspicious—\"The voice is Jacob's voice, but the hands are the hands of Esau\"—cannot see, and \"he discerned him not,\" so he eats, kisses him, and blesses him with \"the dew of heaven, and the fatness of the earth,\" lordship over his brethren, and the covenant word, \"cursed be every one that curseth thee, and blessed be he that blesseth thee.\" Jacob has barely left when Esau returns. Isaac \"trembled very exceedingly,\" realizing the deceit, yet declares, \"yea, and he shall be blessed.\" Esau cries \"a great and exceeding bitter cry,\" pleading, \"Bless me, even me also,\" but receives only a lesser word: he will live by his sword and serve his brother until he breaks the yoke. Esau resolves to kill Jacob after their father's death. Warned by Rebekah, Jacob prepares to flee to Laban in Haran, and Rebekah tells Isaac she dreads a Hittite daughter-in-law.",
+  "takeaways": [
+    "The blessing that should have come by trust in God's word ('the elder shall serve the younger') is instead seized by deception, and the whole family is wounded—every character acts out of favoritism, appetite, or fear.",
+    "God's declared purpose stands even through flawed human means: Jacob receives the blessing as God foretold, yet the deceit brings real and painful consequences that shape the rest of Genesis.",
+    "Esau's bitter, tearful plea shows that a squandered blessing cannot simply be recovered by later regret—the choices around holy things carry weight.",
+    "Deception fractures the household: Isaac trembles, Esau vows murder, Rebekah loses the son she favored to exile—sin's fruit is division, not the security it seemed to promise."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.25",
+      "verses": "23,29-34",
+      "label": "Genesis 25:23,29-34 — the oracle and the sold birthright",
+      "why": "This blessing scene fulfills the oracle 'the elder shall serve the younger' and follows Esau's earlier sale of his birthright. Together they show Jacob obtaining by scheme what was already promised, and Esau losing what he had already devalued.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.11",
+      "verses": "20",
+      "label": "Hebrews 11:20 — 'By faith Isaac blessed Jacob and Esau'",
+      "why": "Hebrews reads even this troubled blessing as an act of faith concerning things to come, affirming that Isaac's words truly conveyed the covenant future despite the deception that surrounded them.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.12",
+      "verses": "16-17",
+      "label": "Hebrews 12:16-17 — Esau found no place of repentance, though he sought it with tears",
+      "why": "Hebrews interprets Esau's 'great and exceeding bitter cry' for the lost blessing as the tragedy of a man who could not undo his contempt for his birthright, warning believers against irrevocable spiritual loss.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.32",
+      "verses": "6-11",
+      "label": "Genesis 32:6-11 — Jacob's fearful return to face Esau",
+      "why": "The murderous hatred kindled here drives Jacob's long exile and his later dread on returning home. The reconciliation that eventually comes only makes sense against the deep rupture opened in this chapter.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition holds that God's sovereign plan to bless Jacob does not sanctify the deceit used to obtain it; Scripture reports the sin without approving it, and God brings good out of human wrongdoing while leaving the wrongdoing culpable. Jacob's later hardships—his own being deceived by Laban, and his years of exile—are read as the just consequences of the deception he practiced here.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters largely share this reading: God's electing purpose stands, yet the narrative does not commend the lying and manipulation, and Jacob reaps painful consequences. Some Reformed emphases stress more strongly the mysterious sovereignty by which God accomplishes His decreed purpose even through sinful acts, while still affirming full human responsibility for the deceit.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

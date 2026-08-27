@@ -1,0 +1,75 @@
+{
+  "ref": "MRK.14",
+  "book": "Mark",
+  "chapter": 14,
+  "canon": "protocanonical",
+  "summary": "Two days before Passover the chief priests plot to take Jesus \"by craft.\" At Bethany a woman breaks an alabaster box of costly spikenard over his head; when some object to the waste, Jesus defends her: \"she is come aforehand to anoint my body to the burying,\" and her deed will be told \"for a memorial of her.\" Judas goes to betray him for money. At the Passover meal Jesus foretells, \"One of you which eateth with me shall betray me,\" then takes bread, blesses it, \"and said, Take, eat: this is my body,\" and the cup, \"This is my blood of the new testament, which is shed for many.\" On the mount of Olives he foretells that all will be offended and that Peter will deny him \"thrice.\" In Gethsemane, \"sore amazed\" and \"exceeding sorrowful unto death,\" he prays, \"Abba, Father... take away this cup from me: nevertheless not what I will, but what thou wilt,\" while the disciples sleep. Judas arrives with a kiss; Jesus is seized and all forsake him. Before the high priest he confesses, \"I am,\" and is condemned for blasphemy. Peter, questioned in the courtyard, denies him three times; the cock crows twice, and \"he wept.\"",
+  "takeaways": [
+    "The woman's extravagant anointing, done \"aforehand,\" is honored as prophetic devotion that grasps Jesus' coming death when even the disciples do not.",
+    "At the Last Supper Jesus reinterprets Passover around himself, giving his body and blood as \"the new testament\" poured out \"for many.\"",
+    "Gethsemane shows both the reality of Jesus' human dread and his perfect obedience: \"not what I will, but what thou wilt.\"",
+    "Peter's threefold denial, foretold and then bitterly wept over, exposes how self-confidence collapses and prepares the ground for later restoration."
+  ],
+  "crossRefs": [
+    {
+      "target": "EXO.24",
+      "verses": "8",
+      "label": "Exodus 24:8 — the blood of the covenant",
+      "why": "Moses sealed the covenant sprinkling \"the blood of the covenant\" on the people. Jesus' words over the cup, \"my blood of the new testament,\" deliberately echo and fulfill that Sinai rite, inaugurating a new covenant in his own blood.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ZEC.13",
+      "verses": "7",
+      "label": "Zechariah 13:7 — smite the shepherd, the sheep scattered",
+      "why": "Jesus quotes this prophecy to explain the disciples' coming desertion: \"I will smite the shepherd, and the sheep shall be scattered.\" It frames their flight as part of the written pattern of the shepherd's affliction.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.41",
+      "verses": "9",
+      "label": "Psalm 41:9 — the familiar friend who lifted up his heel",
+      "why": "The betrayal by one \"which eateth with me\" recalls the psalmist's lament over a trusted table-companion turned enemy. The Passion is portrayed as fulfilling the pattern of the righteous sufferer betrayed by an intimate.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DAN.7",
+      "verses": "13",
+      "label": "Daniel 7:13 — the Son of man on the clouds",
+      "why": "Before the high priest Jesus answers \"I am\" and speaks of \"the Son of man sitting on the right hand of power, and coming in the clouds of heaven.\" He fuses Daniel's Son of man with the enthronement of Psalm 110, which the council hears as blasphemy.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1CO.11",
+      "verses": "23-26",
+      "label": "1 Corinthians 11:23-26 — the tradition of the Lord's Supper",
+      "why": "Paul hands on the words of institution as received tradition, closely matching Mark's account of the bread and cup. The parallel shows how central the Supper was in the earliest church's worship and memory.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Over the bread Jesus says, \"Take, eat: this is my body,\" and over the cup, \"This is my blood of the new testament.\" The Catholic tradition understands these words to institute the Eucharist as a true participation in Christ's body and blood, so that the elements are not merely symbolic but really convey what they signify, and the Supper is joined to the sacrifice offered on the cross.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant traditions vary: some (such as Lutheran) affirm a real bodily presence in the Supper, while others read the words as covenantal and figurative, a memorial that nourishes faith through the Spirit rather than a change in the elements. All hold the Supper as instituted by Christ and centered on his body given and blood shed \"for many,\" so the shared ground is large even where the mode of presence is disputed.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

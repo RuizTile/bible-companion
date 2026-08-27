@@ -1,0 +1,74 @@
+{
+  "ref": "MAT.10",
+  "book": "Matthew",
+  "chapter": 10,
+  "canon": "protocanonical",
+  "summary": "Matthew 10 turns from Jesus' own ministry to the sending of the Twelve. He calls His twelve disciples, gives them \"power against unclean spirits\" and to heal every sickness, and names them—Simon Peter listed \"first,\" through Judas Iscariot \"who also betrayed him.\" For this first mission He restricts them: \"Go not into the way of the Gentiles... but go rather to the lost sheep of the house of Israel,\" preaching \"The kingdom of heaven is at hand.\" They are to travel poor—no gold, scrip, or extra coats—\"for the workman is worthy of his meat,\" resting on worthy hosts, offering peace, and shaking dust from their feet where they are refused. Jesus then widens the horizon to costly discipleship: they go \"as sheep in the midst of wolves,\" must be \"wise as serpents, and harmless as doves,\" and will be dragged before councils, governors, and kings, where the Spirit will give them words. Persecution, betrayal within families, and universal hatred await, yet \"he that endureth to the end shall be saved.\" He commands courage over fear—God numbers \"the very hairs of your head\" and no sparrow falls unnoticed—and warns that confessing or denying Him before men decides how He will answer before the Father. He came \"not to send peace, but a sword,\" demanding love for Him above father, mother, or child, and the taking up of one's cross: \"He that loseth his life for my sake shall find it.\" Finally He promises reward to any who receive His messengers—even a cup of cold water given to \"one of these little ones.\"",
+  "takeaways": [
+    "Jesus shares His own authority with the Twelve, empowering them to cast out spirits and heal, and He names them individually—establishing an ordered, sent apostolic band rather than an anonymous crowd of followers.",
+    "The first mission is deliberately narrow—\"the lost sheep of the house of Israel\"—and marked by radical poverty and dependence, so that the message and not the messengers' resources is what commends the kingdom.",
+    "Discipleship is portrayed as dangerous and divisive: sheep among wolves, betrayal by kin, hatred \"for my name's sake,\" with salvation promised to the one \"that endureth to the end.\"",
+    "Fear of God who governs body and soul replaces fear of those who can only kill the body; God's minute providence over sparrows and hairs grounds the disciple's courage.",
+    "Allegiance to Jesus is absolute—above family and life itself—and He identifies so closely with His sent ones that receiving them is receiving Him, down to \"a cup of cold water\" given to \"one of these little ones.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "MRK.6",
+      "label": "Mark 6:7-13 — the sending of the Twelve two by two",
+      "why": "Mark narrates the same commissioning with the instructions on travelling light and shaking off dust, and adds that they were sent in pairs. The parallel confirms the mission charge and fills out how it was carried out in practice.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.12",
+      "label": "Luke 12:4-9 — fear not those who kill the body; confessing Christ before men",
+      "why": "Luke preserves the same sayings about fearing God rather than man, the sparrows and numbered hairs, and confessing or denying Christ before others. The parallel shows this teaching on fearless witness circulated as a fixed unit.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MIC.7",
+      "label": "Micah 7:6 — \"the son dishonoureth the father... a man's enemies are the men of his own house\"",
+      "why": "Jesus' warning that His coming sets family members \"at variance\" and that \"a man's foes shall be they of his own household\" directly echoes Micah's lament over social breakdown, casting the division His message provokes in the language of prophetic crisis.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.28",
+      "label": "Exodus 28 — the naming and setting apart of Aaron and his sons for ministry",
+      "why": "The formal naming of the Twelve and the delegation of Jesus' authority parallels the Old Testament pattern of God appointing and consecrating specific men to a representative ministry, framing the apostles as a new ordered body sent with divine commission.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition sees in this chapter the foundation of the apostolic ministry and its authoritative sending. Jesus does not merely inspire volunteers; He constitutes a definite group of twelve, lists Peter \"first,\" hands on His own power, and declares \"He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.\" This chain of sending—Father to Son to apostles—is read as grounding the Church's teaching authority and apostolic succession, in which those sent by Christ act in His name.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters fully affirm that Jesus commissioned the Twelve with real authority and that receiving His messengers means receiving Him. Many, however, read this as a commission tied to the unique, unrepeatable role of the original apostles as eyewitnesses and foundation-layers, rather than as the establishment of an ongoing office transmitted by succession. On this view the authority of later ministers rests on faithful proclamation of the apostolic message preserved in Scripture, not on a formally handed-down office. Both traditions agree that Christ sends and empowers ministers and that they represent Him; they differ on whether apostolic authority continues through an ordained succession or through fidelity to the apostolic word.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The listing of Peter as \"the first\" (Greek prōtos) among the apostles is understood in the Catholic tradition as more than the order of calling; it signals a genuine primacy of Peter within the apostolic college, consistent with the singling out of Peter elsewhere in Matthew and read as anticipating his role as head among the Twelve.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters commonly take \"first\" here as indicating that Peter was foremost or most prominent among the disciples—a natural leader and spokesman—without implying a jurisdictional office over the others or over the later Church. They note the word simply heads the list and that leadership among the apostles was exercised collegially. Both traditions recognize Peter's prominence in the Gospel accounts; they differ on whether that prominence establishes an ongoing primacy of one see over the whole Church.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

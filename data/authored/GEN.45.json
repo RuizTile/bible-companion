@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.45",
+  "book": "Genesis",
+  "chapter": 45,
+  "canon": "protocanonical",
+  "summary": "Overcome by Judah's plea, Joseph clears the room and reveals himself: \"I am Joseph; doth my father yet live?\" His brothers are speechless, \"troubled at his presence.\" He draws them near with astonishing tenderness: \"I am Joseph your brother, whom ye sold into Egypt.\" Rather than condemn, he reframes the whole ordeal in terms of God's providence: \"be not grieved, nor angry with yourselves... for God did send me before you to preserve life.\" Twice more he insists it was God who sent him ahead to \"save your lives by a great deliverance,\" concluding, \"it was not you that sent me hither, but God.\" He urges them to hurry and bring Jacob down to dwell in Goshen, where he will nourish them through the remaining \"five years of famine.\" He falls on Benjamin's neck weeping, kisses all his brothers, and \"after that his brethren talked with him.\" Pharaoh, pleased, orders wagons and provisions and promises them \"the good of the land of Egypt.\" Joseph sends his brothers home with gifts, warning, \"See that ye fall not out by the way.\" When Jacob hears Joseph lives, \"his heart fainted, for he believed them not\" — until he sees the wagons and revives: \"It is enough; Joseph my son is yet alive: I will go and see him before I die.\"",
+  "takeaways": [
+    "Joseph interprets his suffering through providence: human malice and divine purpose can run through the same events, and God's aim was to \"preserve life.\"",
+    "Reconciliation here is generous and unforced — Joseph comforts the very brothers who sold him rather than exacting revenge.",
+    "Forgiveness names the wrong honestly (\"whom ye sold into Egypt\") yet refuses to be ruled by it.",
+    "Jacob's faith moves from disbelief to revived hope once the evidence of the wagons is before him."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.50",
+      "verses": "19-20",
+      "label": "Genesis 50:19-20 — God meant it unto good",
+      "why": "After Jacob's death Joseph restates the theology he first voices here: \"ye thought evil against me; but God meant it unto good.\" The two passages bracket the reconciliation and make providence the interpretive key to the whole Joseph story.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.8",
+      "verses": "28",
+      "label": "Romans 8:28 — all things work together for good",
+      "why": "Paul's assurance that God works all things for good to those who love him is the doctrinal expansion of Joseph's claim that God sent him ahead to preserve life. The Joseph narrative is a leading Old Testament illustration of the principle.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.7",
+      "verses": "9-14",
+      "label": "Acts 7:9-14 — Stephen recounts Joseph made known to his brethren",
+      "why": "In his defense before the council Stephen retells this reunion, noting how \"Joseph was made known to his brethren.\" His use of the story as a pattern of a rejected deliverer later vindicated shows the early church reading Joseph typologically.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.37",
+      "verses": "5-11",
+      "label": "Genesis 37:5-11 — Joseph's dreams of his brothers bowing",
+      "why": "Joseph's boyhood dreams of his family bowing to him are fulfilled in this chapter as the brothers stand before him in Egypt. The revelation of his identity confirms that God's earlier word has come to pass.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Joseph is read as a type of Christ: rejected and sold by his brethren, exalted to a throne, and then becoming the source of their salvation and reconciliation.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters broadly embrace the Joseph-as-type reading as well, since the New Testament itself invites typology. Some emphasize reading the narrative first on its own terms — as history displaying God's providence and Joseph's forgiveness — before drawing Christological parallels. Both traditions affirm the providence theme and the legitimacy of seeing Christ prefigured.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

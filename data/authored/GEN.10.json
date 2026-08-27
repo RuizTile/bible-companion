@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.10",
+  "book": "Genesis",
+  "chapter": 10,
+  "canon": "protocanonical",
+  "summary": "Often called the Table of Nations, this chapter traces \"the generations of the sons of Noah, Shem, Ham, and Japheth\" and how \"the whole earth\" was repopulated after the flood. The descendants of Japheth spread to the coastlands, so that \"by these were the isles of the Gentiles divided in their lands; every one after his tongue.\" Ham's line includes Cush, Mizraim, Phut, and Canaan, and produces Nimrod, \"a mighty one in the earth\" and \"a mighty hunter before the LORD,\" whose kingdom begins with Babel in the land of Shinar and extends to Nineveh and other great cities. The Canaanite families spread across the land that would later be promised to Abraham's seed. Shem, \"the father of all the children of Eber,\" heads the line that will lead to Israel; in the days of his descendant Peleg \"was the earth divided.\" The genealogy is not a dry list but a theological map: it presents every nation as one human family descended from Noah, ordered \"after their families, after their tongues, in their countries.\" It sets the stage for Babel in the next chapter and for God's plan to bless all these nations through one chosen line.",
+  "takeaways": [
+    "All peoples are shown to descend from a single family, affirming the unity of the human race under one Creator.",
+    "The mention of nations \"after their tongues\" anticipates the scattering at Babel, framing the genealogy around the origin of diverse languages.",
+    "Nimrod's kingdom, beginning at Babel and reaching Nineveh, links the mighty cities of empire to a spirit of self-exaltation that Scripture later judges.",
+    "The line of Shem is quietly highlighted as the channel through which God's redemptive purpose will run toward Abraham."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.11",
+      "verses": "1-9",
+      "label": "Genesis 11:1-9 — the tower of Babel and the confusion of tongues",
+      "why": "The Table of Nations repeatedly notes families \"after their tongues,\" and the very next chapter narrates why languages were divided. Babel explains the scattering already presupposed here, so the two chapters interpret one another.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1CH.1",
+      "verses": "5-23",
+      "label": "1 Chronicles 1:5-23 — the parallel genealogy of the nations",
+      "why": "The Chronicler reproduces this Table of Nations almost verbatim, showing its enduring importance as Israel's account of world origins. The repetition underscores that Israel understood itself within the whole family of humanity.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.17",
+      "verses": "26",
+      "label": "Acts 17:26 — God made all nations of one blood",
+      "why": "Paul tells the Athenians that God \"hath made of one blood all nations of men,\" and set the bounds of their habitation. This preaching draws on the Genesis vision of a single human family spread across the earth by divine ordering.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "REV.7",
+      "verses": "9",
+      "label": "Revelation 7:9 — a multitude from every nation and tongue",
+      "why": "John's vision of a great multitude \"of all nations, and kindreds, and people, and tongues\" gathered before the throne answers the scattering catalogued here. The diversity of peoples in Genesis 10 finds its redemptive goal in a worshiping unity in Christ.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The universal scope of the Table of Nations is read by Catholic tradition as grounding the catholicity, or universality, of God's saving plan: election of Shem's line serves the eventual blessing of all seventy nations, fulfilled when the Church is sent to all peoples.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise see the nations of Genesis 10 as the intended recipients of the Abrahamic blessing and the missionary mandate, while placing stronger emphasis on the Great Commission and the gospel's spread to individuals in every nation. Both traditions affirm that God's election of one line aims at blessing all peoples.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

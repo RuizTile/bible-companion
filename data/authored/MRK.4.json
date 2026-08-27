@@ -1,0 +1,67 @@
+{
+  "ref": "MRK.4",
+  "book": "Mark",
+  "chapter": 4,
+  "canon": "protocanonical",
+  "summary": "Teaching from a boat to a crowd on the shore, Jesus tells the parable of the sower: seed falls by the wayside, on stony ground, among thorns, and on good ground, yielding \"some thirty, and some sixty, and some an hundred.\" To his inner circle he explains that \"unto you it is given to know the mystery of the kingdom of God,\" while to outsiders all comes in parables. He then decodes the parable: the seed is \"the word,\" and the soils are hearts variously robbed by Satan, scorched by shallowness, choked by \"the cares of this world, and the deceitfulness of riches,\" or fruitful. He adds sayings about a candle not hidden \"under a bushel,\" about the measure one uses being measured back, and about growth: the kingdom is like seed that sprouts while a man sleeps, \"he knoweth not how,\" and like \"a grain of mustard seed,\" least of seeds yet becoming the greatest of herbs. That evening, crossing the lake, \"there arose a great storm of wind,\" and the terrified disciples wake him: \"Master, carest thou not that we perish?\" He rebukes the wind, \"Peace, be still,\" and calm falls. \"Why are ye so fearful? how is it that ye have no faith?\" he asks, as they marvel, \"What manner of man is this, that even the wind and the sea obey him?\"",
+  "takeaways": [
+    "The word bears fruit only in receptive hearts; the same seed meets soils hardened, shallow, crowded, or good.",
+    "The kingdom grows by God's hidden power, small as a mustard seed yet destined to become the greatest.",
+    "What is spoken in parable is meant finally to be revealed: \"there is nothing hid, which shall not be manifested.\"",
+    "Faith answers fear; Jesus' command over the storm reveals a power that belongs to God alone."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.6",
+      "verses": "9-10",
+      "label": "Isaiah 6:9-10 — seeing they may see, and not perceive",
+      "why": "Jesus quotes this prophecy to explain why he teaches in parables, so that \"seeing they may see, and not perceive.\" The reference frames parables as both revelation to the receptive and judgment on hardened hearts, echoing Isaiah's own commission.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.107",
+      "verses": "23-30",
+      "label": "Psalm 107:23-30 — the Lord stills the storm",
+      "why": "The psalm praises the Lord who calms the sea for storm-tossed sailors so that \"the waves thereof are still.\" When Jesus stills the tempest, he does what the psalm ascribes to God, prompting the disciples' awe over \"what manner of man is this.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.13",
+      "verses": "1-23",
+      "label": "Matthew 13:1-23 — the sower and its explanation",
+      "why": "Matthew preserves the sower parable and Jesus' interpretation in close parallel, confirming its centrality. Reading the versions together enriches the picture of how the word is received and what threatens its fruitfulness.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DAN.4",
+      "verses": "10-12",
+      "label": "Daniel 4:10-12 — a great tree sheltering the birds",
+      "why": "The mustard seed growing so that \"the fowls of the air may lodge under the shadow of it\" echoes the imagery of a kingdom-tree in Daniel. The allusion casts God's kingdom as a shelter for the nations, growing from humble beginnings to vast reach.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The parable of the seed growing secretly, where the earth bears fruit \"of herself\" while the sower sleeps, is read as an image of grace at work beyond human effort, a note the Catholic tradition connects to the mysterious cooperation of God's initiative and the ordinary life of the believer who cannot fully see or control the growth of the kingdom within.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise stress that growth is God's doing and not the fruit of human striving, often emphasizing it as reassurance of God's sovereign work. The traditions agree that the increase belongs to God; any difference is one of emphasis on how human response and divine grace interrelate, not on the parable's basic meaning.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

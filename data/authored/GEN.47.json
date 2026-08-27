@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.47",
+  "book": "Genesis",
+  "chapter": 47,
+  "canon": "protocanonical",
+  "summary": "Joseph presents five of his brothers to Pharaoh, who asks their occupation; they answer that they are shepherds seeking to sojourn because \"the famine is sore in the land of Canaan.\" Pharaoh grants them the best of the land, Goshen, and invites able men to oversee his cattle. Joseph then brings in aged Jacob, who \"blessed Pharaoh\" and, asked his age, calls his years \"few and evil\" — \"the days of the years of my pilgrimage are an hundred and thirty years.\" As the famine deepens, Joseph administers Egypt's survival: he gathers all the money for grain, then the cattle, then the land itself and the people, so \"the land became Pharaoh's.\" He resettles the population and gives them seed, establishing the enduring law that Pharaoh receive \"the fifth part\" of the harvest, with the priests' land exempt. The people gladly submit: \"Thou hast saved our lives.\" Meanwhile Israel dwells in Goshen, gains possessions, and \"grew, and multiplied exceedingly.\" Jacob lives seventeen years in Egypt to age 147. Sensing death near, he makes Joseph swear, hand under thigh, to \"bury me not... in Egypt\" but with his fathers in Canaan. Joseph vows to do so, and \"Israel bowed himself upon the bed's head.\"",
+  "takeaways": [
+    "Joseph's wise stewardship turns catastrophe into survival, feeding Egypt and the surrounding lands through the famine.",
+    "Jacob calls his life a \"pilgrimage\" of \"few and evil\" days, framing earthly life as a sojourn toward a promised inheritance.",
+    "Even in Egypt's plenty, Jacob's dying wish is to be buried in Canaan — his hope is anchored in God's covenant land, not Egypt.",
+    "Israel prospers and multiplies in Goshen, setting the stage for both the nation's growth and its later bondage."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.41",
+      "verses": "33-40",
+      "label": "Genesis 41:33-40 — Joseph's plan to store grain for the famine",
+      "why": "Joseph's administration in chapter 47 executes the very plan he proposed to Pharaoh: appoint a wise overseer and store grain against the coming years. The land-buying policy is the outworking of the strategy that first raised him to power.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.50",
+      "verses": "24-25",
+      "label": "Genesis 50:24-25 — Joseph's own burial oath toward Canaan",
+      "why": "Jacob's insistence on burial in Canaan rather than Egypt is echoed at the book's close when Joseph likewise binds Israel by oath to carry his bones out of Egypt. Both point beyond Egypt to the promised land and God's covenant faithfulness.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.11",
+      "verses": "13,21",
+      "label": "Hebrews 11:13,21 — the patriarchs as pilgrims and strangers",
+      "why": "Hebrews names the patriarchs \"strangers and pilgrims on the earth\" and singles out Jacob's blessing near death by faith. Jacob's own word \"pilgrimage\" and his burial request embody the forward-looking faith the New Testament celebrates.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.1",
+      "verses": "8-11",
+      "label": "Exodus 1:8-11 — the later enslavement of Israel in Egypt",
+      "why": "Joseph settles his family in Egypt where they multiply, but Exodus reports a new king \"which knew not Joseph\" enslaving them. The prosperity here foreshadows the reversal to come, tying this chapter to the larger arc of descent and deliverance.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jacob's description of life as a \"pilgrimage\" and his refusal to rest in Egypt are read as expressing the pilgrim character of the people of God, whose true homeland is the inheritance God has promised.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers share this pilgrim theology, often citing the same Hebrews 11 language of strangers seeking a heavenly country. Some also read Joseph's land-consolidation policy more critically or descriptively as ancient administration rather than a model to imitate. Both traditions agree that Jacob's burial hope expresses faith in God's covenant promise of the land.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "ref": "MRK.16",
+  "book": "Mark",
+  "chapter": 16,
+  "canon": "protocanonical",
+  "summary": "When the sabbath is past, Mary Magdalene, Mary the mother of James, and Salome bring spices to anoint the body. Coming \"very early in the morning the first day of the week,\" they wonder who will roll away the great stone, but find it already rolled back. Inside, a young man in a long white garment tells them, \"Be not affrighted... he is risen; he is not here,\" and sends them to tell the disciples \"and Peter\" that he goes before them into Galilee. They flee, trembling and amazed, \"neither said they any thing to any man; for they were afraid.\" The longer ending follows: Jesus appears first to Mary Magdalene, \"out of whom he had cast seven devils,\" but the mourning disciples \"believed not.\" He appears \"in another form\" to two walking into the country, and again they are disbelieved. Then he appears to the eleven, upbraiding \"their unbelief and hardness of heart,\" and commissions them, \"Go ye into all the world, and preach the gospel to every creature.\" He promises signs to follow believers, is \"received up into heaven, and sat on the right hand of God,\" and the disciples go forth preaching \"every where, the Lord working with them, and confirming the word with signs following.\"",
+  "takeaways": [
+    "The resurrection is announced first to women who came to serve the dead, and the message explicitly includes \"Peter,\" hinting at the restoration of the one who denied him.",
+    "The women's fear and silence underscore that the empty tomb provokes awe before it produces bold proclamation.",
+    "The commission \"preach the gospel to every creature\" universalizes the mission, sending the good news to all the world.",
+    "The chapter ends with the ascension and the church already in motion, \"the Lord working with them,\" so that the risen Christ continues to act through his witnesses."
+  ],
+  "crossRefs": [
+    {
+      "target": "MAT.28",
+      "verses": "1-10,16-20",
+      "label": "Matthew 28:1-10,16-20 — the empty tomb and the Great Commission",
+      "why": "Matthew narrates the same discovery by the women and closes with the commission to make disciples of all nations. The parallel reinforces the sending to \"all the world\" and the promise of Christ's continued presence with his church.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.24",
+      "verses": "13-35",
+      "label": "Luke 24:13-35 — the road to Emmaus",
+      "why": "Mark's brief note that Jesus appeared \"in another form unto two of them, as they walked\" is told fully in Luke's Emmaus account. The parallel illuminates how the risen Lord was recognized only gradually by disciples slow to believe.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.20",
+      "verses": "11-18",
+      "label": "John 20:11-18 — the risen Lord appears to Mary Magdalene",
+      "why": "John expands Mark's report that Jesus \"appeared first to Mary Magdalene,\" making her the first witness sent to the disciples. Reading them together highlights her singular role in the resurrection accounts.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.1",
+      "verses": "6-11",
+      "label": "Acts 1:6-11 — the ascension of Jesus",
+      "why": "Mark's statement that Jesus \"was received up into heaven, and sat on the right hand of God\" is narrated at length in Acts, where the ascension launches the church's worldwide mission. The link ties the Gospel's close to the beginning of the apostolic era.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.110",
+      "verses": "1",
+      "label": "Psalm 110:1 — sit thou at my right hand",
+      "why": "The image of the risen Christ seated \"on the right hand of God\" fulfills the psalm Jesus himself had cited earlier in Mark. It confirms his exaltation and enthronement as Lord after his suffering.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The longer ending of Mark (verses 9-20) is absent from some of the oldest surviving manuscripts, which end at verse 8 with the women's fear. The Catholic tradition receives these verses as part of the canonical, inspired text of Scripture, affirming their authority within the church's settled canon while acknowledging the textual questions about their origin.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant Bibles print verses 9-20 but flag them with a note that the earliest and best manuscripts omit them, and interpreters often treat them cautiously, especially the promises about handling serpents and drinking deadly things. Both traditions read the passage in light of the clearer resurrection accounts in the other Gospels, and the disagreement is about textual history and canonical weight rather than the central fact of the resurrection itself.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

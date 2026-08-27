@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.50",
+  "book": "Genesis",
+  "chapter": 50,
+  "canon": "protocanonical",
+  "summary": "Genesis closes at the graveside. Joseph falls on his dead father's face weeping, then has the physicians embalm him over forty days, and Egypt mourns Jacob seventy days. Gaining Pharaoh's leave, Joseph leads a great funeral procession — \"all the servants of Pharaoh, the elders of his house,\" chariots and horsemen — up to Canaan. At the threshingfloor of Atad they mourn so grievously the Canaanites name the place Abel-mizraim. His sons bury Jacob in the cave of Machpelah, the ancestral burying place, and return to Egypt. With their father gone, the brothers fear reprisal: \"Joseph will peradventure hate us, and will certainly requite us all the evil which we did.\" They send word begging forgiveness, and Joseph weeps. When they fall before him offering to be his servants, he gives the book's climactic word of grace: \"Fear not: for am I in the place of God? But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.\" He comforts them and pledges to nourish them. Joseph lives to 110, sees his great-grandchildren, and dying, looks beyond Egypt: \"God will surely visit you, and bring you out of this land\" to the promised land. He binds Israel by oath to carry up his bones. \"So Joseph died... and he was put in a coffin in Egypt.\"",
+  "takeaways": [
+    "Joseph's final word to his brothers crowns the book's theology: \"ye thought evil against me; but God meant it unto good.\"",
+    "True forgiveness refuses the seat of judgment — \"am I in the place of God?\" — leaving vengeance to the Lord.",
+    "Genesis ends on hope deferred: Joseph dies in a coffin in Egypt, trusting God will \"surely visit\" and bring Israel home.",
+    "The oath about Joseph's bones binds the book forward to the Exodus, keeping the promise of the land alive."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.45",
+      "verses": "5-8",
+      "label": "Genesis 45:5-8 — God sent me to preserve life",
+      "why": "Joseph's climactic \"God meant it unto good\" restates and confirms what he first told his brothers at the reunion: God sent him ahead to preserve life. The repetition after Jacob's death seals the providence theme as the settled meaning of his suffering.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.12",
+      "verses": "19-21",
+      "label": "Romans 12:19-21 — leave vengeance to God, overcome evil with good",
+      "why": "Paul urges believers not to avenge themselves but to leave room for God's judgment and overcome evil with good. Joseph's refusal to \"requite\" his brothers, asking \"am I in the place of God?\", is a living model of that ethic.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.13",
+      "verses": "19",
+      "label": "Exodus 13:19 — Moses carries Joseph's bones",
+      "why": "Joseph made Israel swear to carry his bones out of Egypt, and Exodus records Moses fulfilling that oath at the Exodus. The dying charge here reaches directly into the deliverance to come, binding Genesis to Israel's redemption.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.11",
+      "verses": "22",
+      "label": "Hebrews 11:22 — Joseph's faith about the departure from Egypt",
+      "why": "Hebrews commends that \"by faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.\" It reads his final words as an act of faith in God's promise of the land.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Joseph's declaration that God turned intended evil into good is read as a classic statement of divine providence, and his freely offered forgiveness prefigures the reconciling mercy of Christ toward those who wronged him.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise treat this verse as a keystone text on providence and God's sovereignty over human evil, often pairing it with Romans 8:28. Both traditions affirm that God's good purpose does not excuse the brothers' sin, and both see Joseph's mercy as an exemplar of forgiveness; the Christ-typology is widely shared though emphasized in varying degrees.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

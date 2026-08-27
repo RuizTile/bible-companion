@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.21",
+  "book": "Matthew",
+  "chapter": 21,
+  "canon": "protocanonical",
+  "summary": "Approaching Jerusalem, Jesus sends two disciples for an ass and a colt, so \"it might be fulfilled which was spoken by the prophet\": \"thy King cometh unto thee, meek, and sitting upon an ass.\" The crowds spread garments and branches, crying, \"Hosanna to the Son of David: Blessed is he that cometh in the name of the Lord.\" Entering the temple, He casts out the buyers and sellers and overturns the moneychangers' tables, declaring, \"My house shall be called the house of prayer; but ye have made it a den of thieves.\" He heals the blind and lame there, and when the chief priests object to the children's praise, He answers from Scripture, \"Out of the mouth of babes... thou hast perfected praise.\" The next morning He curses a barren fig tree, which withers at once, and teaches on faith and prayer. In the temple the chief priests and elders demand, \"By what authority doest thou these things?\"; He counters with a question about John's baptism they dare not answer. He then tells the parable of the two sons—one who refused but went, one who agreed but did not—warning that \"the publicans and the harlots go into the kingdom of God before you.\" The parable of the wicked husbandmen follows: tenants who beat the servants and kill the heir, so \"the kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof,\" with Jesus as \"the stone which the builders rejected\" become \"the head of the corner.\"",
+  "takeaways": [
+    "Jesus enters Jerusalem deliberately fulfilling prophecy as the meek King on a donkey, and accepts the crowds' \"Hosanna to the Son of David,\" openly presenting Himself as the promised Messiah.",
+    "The cleansing of the temple is an act of prophetic authority: Jesus claims God's house as \"the house of prayer\" and judges the corruption that has made it \"a den of thieves.\"",
+    "When challenged on His authority, Jesus refuses to answer on demand and turns the question back on the leaders' own refusal to accept John, exposing that their unbelief is a matter of will, not evidence.",
+    "The parable of the two sons teaches that doing the Father's will, not merely professing it, is what counts—so repentant sinners outrun those who say \"I go, sir\" and do not.",
+    "The parable of the husbandmen casts the leaders as murderous tenants and Jesus as the rejected heir and cornerstone, announcing that the kingdom will be entrusted to those who bring forth its fruits."
+  ],
+  "crossRefs": [
+    {
+      "target": "ZEC.9",
+      "label": "Zechariah 9:9 — \"thy King cometh... lowly, and riding upon an ass\"",
+      "why": "Matthew explicitly presents the triumphal entry as the fulfillment of this prophecy, so the cross-reference supplies the very text Jesus enacts. It shows His kingship is deliberately humble, not the militant deliverance many expected.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.118",
+      "label": "Psalm 118:22-26 — the rejected stone and \"Blessed is he that cometh\"",
+      "why": "Both the crowd's cry (\"Blessed is he that cometh in the name of the Lord\") and Jesus' saying about the rejected cornerstone quote this psalm. The link ties the entry and the husbandmen parable together around a single Scripture Jesus applies to Himself.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.5",
+      "label": "Isaiah 5:1-7 — the song of the vineyard that yielded no fruit",
+      "why": "The parable of the wicked husbandmen draws its imagery of a planted, hedged, and winepressed vineyard directly from Isaiah's vineyard song, where Israel is the vineyard God tends. The reference reveals the parable as a covenant lawsuit the leaders would have recognized.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.56",
+      "label": "Isaiah 56:7 — \"my house shall be called an house of prayer for all people\"",
+      "why": "Jesus quotes this verse (with Jeremiah 7:11) when cleansing the temple. The reference grounds His action in the prophetic vision of the temple as a place of prayer open to the nations, which the traffic in the courts had betrayed.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads the parable of the wicked husbandmen, climaxing in \"the kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof\" (v. 43), together with the rejected-stone saying, as pointing to the constitution of the Church—a people gathered from Jew and Gentile around Christ the cornerstone—as the new tenants entrusted with God's vineyard. On this reading the passage is not about God abandoning His covenant people but about the stewardship of the kingdom passing to the Church built on Christ, an image the tradition connects with the Church as God's vineyard and building.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally agree that Jesus indicts the current religious leadership and that the vineyard's stewardship passes to a people who bear fruit. Many, however, frame the recipient less as an institutional Church and more as all who respond in faith—the true, believing people of God across Jew and Gentile—emphasizing personal faith in Christ the cornerstone over membership in a visible hierarchical body. Some also press strongly against any reading that would sever God's ongoing purposes for ethnic Israel (appealing to Romans 11). Both traditions affirm that fruitfulness, not privilege, marks those to whom the kingdom is given.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

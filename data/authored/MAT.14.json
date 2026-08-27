@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.14",
+  "book": "Matthew",
+  "chapter": 14,
+  "canon": "protocanonical",
+  "summary": "Matthew 14 opens with the death of John the Baptist and moves to two great signs of Jesus' authority over nature and provision. Herod the tetrarch, hearing of Jesus' fame, fears He is John \"risen from the dead,\" and Matthew recounts how Herod had beheaded John—imprisoned for rebuking Herod's unlawful marriage to Herodias—after a rash oath sworn at his birthday feast. John's disciples bury him and \"went and told Jesus.\" Withdrawing \"into a desert place,\" Jesus is followed by crowds; \"moved with compassion,\" He heals their sick. When evening comes and the disciples urge Him to send the people away, He instead says, \"give ye them to eat.\" With five loaves and two fishes, He looks up to heaven, blesses, breaks, and gives to the disciples to distribute; about five thousand men \"beside women and children\" eat and are filled, and twelve baskets of fragments remain. Jesus then sends the disciples ahead by ship and withdraws \"into a mountain apart to pray.\" In the fourth watch He comes to them \"walking on the sea\"; they cry out in fear, and He answers, \"Be of good cheer; it is I; be not afraid.\" Peter walks toward Him on the water but, seeing the wind, begins to sink and cries, \"Lord, save me\"; Jesus catches him: \"O thou of little faith, wherefore didst thou doubt?\" When they enter the ship the wind ceases, and those aboard worship Him: \"Of a truth thou art the Son of God.\" At Gennesaret the sick are made whole by touching \"the hem of his garment.\"",
+  "takeaways": [
+    "John the Baptist dies a martyr to the truth, beheaded because Herod would not break a rash, prideful oath—a sober warning about vows sworn without regard for righteousness.",
+    "The feeding of the five thousand shows Jesus' provision flowing through the disciples' hands: He blesses and breaks, but \"gave the loaves to his disciples, and the disciples to the multitude.\"",
+    "Jesus' compassion is practical—He heals the sick and refuses to send the hungry away—but it is rooted in withdrawal to \"a mountain apart to pray.\"",
+    "Walking on the sea and stilling the wind display a power over creation that belongs to God alone, and the disciples respond with the confession, \"Of a truth thou art the Son of God.\"",
+    "Peter's brief walk and near-sinking dramatize faith and doubt together: he steps out at Jesus' word yet falters when he looks at the storm, and Jesus' hand, not Peter's strength, saves him."
+  ],
+  "crossRefs": [
+    {
+      "target": "MRK.6",
+      "label": "Mark 6:14-52 — John's death, the feeding, and the walking on water",
+      "why": "Mark narrates the same sequence in fuller detail, including that Jesus taught the crowd \"many things\" and that the disciples' hearts were hardened about the loaves. The parallel confirms Matthew's compressed account and its ordering of the two signs.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.6",
+      "label": "John 6:1-21 — the feeding of the five thousand and the Bread of Life discourse",
+      "why": "John records the same miracle and then draws out its Eucharistic meaning in the Bread of Life discourse, providing the interpretive key many readers hear behind Matthew's fourfold pattern of taking, blessing, breaking, and giving.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.107",
+      "label": "Psalm 107:23-30 — those who go down to the sea, and God who stills the storm",
+      "why": "The psalm praises the LORD who calms the tempest so the waves are still and brings sailors to their haven; Jesus' walking on the sea and stilling the contrary wind enacts what the psalm ascribes to God alone, reinforcing the disciples' confession of Him as Son of God.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "2KI.4",
+      "label": "2 Kings 4:42-44 — Elisha feeds a hundred with twenty loaves, and food is left over",
+      "why": "Elisha multiplies bread for a crowd with a remnant left over, a prophetic foreshadowing that Jesus surpasses: where Elisha fed a hundred, Jesus feeds thousands, marking Him as greater than the prophets.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads the feeding of the five thousand as a deliberate anticipation of the Eucharist. Matthew's careful sequence—Jesus \"took the five loaves... blessed, and brake, and gave\" (v. 19)—mirrors the actions of the Last Supper (Matthew 26:26), and the twelve baskets of fragments gathered are seen as a sign of abundance entrusted to the Twelve. On this reading the miracle is not merely a display of provision but a sacramental sign that Christ himself is the bread who nourishes the multitude through the ministry of the apostles.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant interpreters affirm that the fourfold pattern of taking, blessing, breaking, and giving echoes the later Supper, but read the feeding primarily as a demonstration of Jesus' messianic compassion and divine power to provide, in line with the manna in the wilderness and Elisha's miracle. They tend to caution against reading a developed Eucharistic doctrine into the narrative itself, locating the Bread of Life teaching in John 6 and holding that the sign chiefly reveals Jesus as the one who satisfies both physical and spiritual hunger. Both traditions agree the language foreshadows the Supper; they differ on how much sacramental theology the passage itself is meant to carry.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

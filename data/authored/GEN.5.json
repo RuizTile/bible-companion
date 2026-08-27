@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.5",
+  "book": "Genesis",
+  "chapter": 5,
+  "canon": "protocanonical",
+  "summary": "\"This is the book of the generations of Adam,\" a genealogy tracing ten generations from Adam to Noah. It opens by recalling that God \"created man, in the likeness of God made he him; male and female created he them,\" then follows a steady rhythm: each patriarch lives, begets a son, lives many more years begetting \"sons and daughters,\" and dies. The refrain \"and he died\" tolls again and again, a sober echo of the sentence in Eden that man would return to dust. Yet the chapter also carries names of long memory: Adam lived \"nine hundred and thirty years,\" Methuselah the longest at \"nine hundred sixty and nine years.\" Two moments break the pattern. Enoch \"walked with God: and he was not; for God took him,\" the only figure not said to die. And Lamech names his son Noah, saying, \"This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.\" The chapter ends poised for what follows: \"Noah begat Shem, Ham, and Japheth.\"",
+  "takeaways": [
+    "Humanity continues to bear the divine likeness across generations, even after the fall; the image of God is passed on, not erased.",
+    "The repeated \"and he died\" is a quiet sermon on mortality, showing that Eden's sentence now governs every life.",
+    "Enoch, who \"walked with God\" and was taken, holds out the hope that death is not the final word for those who live in fellowship with God.",
+    "The naming of Noah voices a longing for relief from the curse, setting up the flood narrative and God's coming action to renew the earth."
+  ],
+  "crossRefs": [
+    {
+      "target": "HEB.11",
+      "verses": "5",
+      "label": "Hebrews 11:5 — Enoch translated by faith",
+      "why": "Hebrews interprets Enoch's mysterious end: \"By faith Enoch was translated that he should not see death.\" The passage draws out the significance of the man who \"was not; for God took him.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JUD.1",
+      "verses": "14-15",
+      "label": "Jude 14-15 — Enoch as prophet",
+      "why": "Jude names Enoch \"the seventh from Adam\" and reports a prophecy of coming judgment. This shows how the brief notice of Enoch here grew into a figure of prophetic authority in later tradition.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.3",
+      "verses": "36-38",
+      "label": "Luke 3:36-38 — the genealogy back to Adam",
+      "why": "Luke's genealogy of Jesus runs back through these same patriarchs to \"Adam, which was the son of God.\" The reference links this ancient line directly to Christ, tying the family of humanity to its redeemer.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1CH.1",
+      "verses": "1-4",
+      "label": "1 Chronicles 1:1-4 — the line from Adam to Noah",
+      "why": "Chronicles reprises this genealogy in compressed form, from Adam to \"Noah, Shem, Ham, and Japheth.\" It shows Israel's later historians preserving these names as the foundation of their national memory.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Enoch, who \"walked with God\" and was taken without dying, is read as a sign that communion with God overcomes death, and in Christian tradition he is often paired with Elijah as a figure who anticipates the resurrection and the possibility of being drawn wholly into God's life.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers share the view that Enoch's translation testifies to hope beyond death and reward for a life of faith, while generally being cautious about elaborating on his ongoing role. Both traditions treat Enoch as an early witness that fellowship with God is not ended by the grave.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.7",
+  "book": "Genesis",
+  "chapter": 7,
+  "canon": "protocanonical",
+  "summary": "The flood arrives. God tells Noah, \"Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation,\" and directs him to take clean beasts \"by sevens\" and unclean \"by two,\" with fowls also \"to keep seed alive upon the face of all the earth.\" After seven days of warning, the waters come. Noah is six hundred years old when \"all the fountains of the great deep\" are \"broken up, and the windows of heaven were opened,\" and \"the rain was upon the earth forty days and forty nights.\" On \"the selfsame day\" Noah, his family, and the animals enter, \"two and two of all flesh, wherein is the breath of life,\" and then a tender detail: \"the LORD shut him in.\" The waters rise and \"bare up the ark,\" prevailing until \"all the high hills, that were under the whole heaven, were covered.\" Every living thing on dry land dies: \"all in whose nostrils was the breath of life... died.\" The devastation is total but for one refuge, \"Noah only remained alive, and they that were with him in the ark.\" The waters prevail \"an hundred and fifty days.\"",
+  "takeaways": [
+    "God preserves the righteous through judgment rather than merely from it; Noah passes through the flood inside the ark, not around it.",
+    "\"The LORD shut him in\" shows that salvation is secured by God's own hand, not by human effort to hold the door.",
+    "The flood is portrayed as a reversal of creation, waters above and below overwhelming the ordered world, underscoring the seriousness of sin.",
+    "Obedience preceded rescue: Noah \"did according unto all that the LORD commanded him\" before the first drop fell."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.1",
+      "verses": "6-7",
+      "label": "Genesis 1:6-7 — waters above and below divided",
+      "why": "Creation had separated the waters above from the waters below by the firmament; here \"the windows of heaven\" and \"the fountains of the great deep\" reopen. The flood reads as a partial un-creation, reversing the order God had established.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1PE.3",
+      "verses": "20-21",
+      "label": "1 Peter 3:20-21 — saved through water, a figure of baptism",
+      "why": "Peter says the eight \"were saved by water\" and calls it \"the like figure whereunto even baptism doth also now save us.\" The passage reads the ark's passage through the flood as a type of Christian baptism.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.17",
+      "verses": "26-27",
+      "label": "Luke 17:26-27 — the flood came and took them all",
+      "why": "Jesus recalls that people ate and drank \"until the day that Noe entered into the ark, and the flood came, and destroyed them all.\" He uses the suddenness of this chapter's judgment to warn of the day of the Son of man.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.24",
+      "verses": "38-39",
+      "label": "Matthew 24:38-39 — heedlessness until the flood",
+      "why": "Jesus points to those who \"knew not until the flood came, and took them all away\" as the pattern for his coming. The reference frames the total destruction described here as a template for future accountability.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The passage of Noah and his family safely through the deadly waters is read as a type of baptism, in which the waters that would destroy become, in God's hand, the means of salvation for those inside the ark, understood in Catholic tradition as prefiguring the saving waters administered in the Church.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers, following the same passage in 1 Peter, generally accept the flood as a figure of baptism, but often emphasize that Peter locates the saving power not in the water itself but in \"the answer of a good conscience toward God\" through Christ's resurrection. Both traditions agree the flood narrative points forward to baptismal salvation.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

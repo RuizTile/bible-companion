@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.19",
+  "book": "Genesis",
+  "chapter": 19,
+  "canon": "protocanonical",
+  "summary": "Two angels come to Sodom at evening, and Lot, sitting in the gate, urges them into his house and makes them a feast. Before they lie down, the men of the city, \"both old and young, all the people from every quarter,\" surround the house demanding to abuse the guests. Lot pleads, \"do not so wickedly,\" and shockingly offers his daughters, but the mob turns on him: \"This one fellow came in to sojourn, and he will needs be a judge.\" The angels pull Lot inside, strike the crowd with blindness, and reveal their mission: \"the LORD hath sent us to destroy it.\" At dawn they seize Lot, his wife, and daughters by the hand, \"the LORD being merciful unto him,\" and command, \"look not behind thee.\" Lot flees to little Zoar, and the LORD rains \"brimstone and fire\" on Sodom and Gomorrah. Lot's wife looks back and \"became a pillar of salt.\" God \"remembered Abraham\" and spared Lot. Afraid to stay in Zoar, Lot lives in a cave, where his daughters, thinking the world ended, make him drunk and conceive Moab and Ben-ammi, fathers of the Moabites and Ammonites. Judgment, mercy, and human frailty stand starkly together.",
+  "takeaways": [
+    "Persistent, grievous sin invites real judgment: God does not overlook the outcry against Sodom.",
+    "God's mercy rescues Lot not on his own merit but because \"God remembered Abraham,\" showing the power of an intercessor's covenant standing.",
+    "Deliverance requires decisive, forward-looking obedience; Lot's wife perishes by clinging to what is being destroyed.",
+    "Even after rescue, the story ends in shame and dysfunction, a sober reminder that surviving judgment is not the same as living rightly."
+  ],
+  "crossRefs": [
+    {
+      "target": "LUK.17",
+      "verses": "28-33",
+      "label": "Luke 17:28-33 — \"Remember Lot's wife\"",
+      "why": "Jesus points to Sodom's sudden destruction and to Lot's wife as warnings for readiness at his coming, and adds, \"Whosoever shall seek to save his life shall lose it.\" This makes Genesis 19 a paradigm of eschatological watchfulness and non-attachment.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "2PE.2",
+      "verses": "6-9",
+      "label": "2 Peter 2:6-9 — Sodom made an example, righteous Lot delivered",
+      "why": "Peter reads the overthrow as an example set for the ungodly and stresses that the Lord knows how to deliver the godly out of trials. It supplies the New Testament's moral framing of both the judgment and Lot's rescue.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.18",
+      "verses": "23-33",
+      "label": "Genesis 18:23-33 — Abraham's bargaining for the city",
+      "why": "The destruction is the direct sequel to Abraham's intercession; there were not even ten righteous, yet God still \"remembered Abraham\" in sparing Lot. Reading the chapters together shows intercession honored even when the city cannot be saved.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EZK.16",
+      "verses": "49-50",
+      "label": "Ezekiel 16:49-50 — the sin of Sodom named as pride and neglect",
+      "why": "Ezekiel diagnoses Sodom's guilt as pride, fullness of bread, and refusal to help the poor, alongside abomination. It broadens the reading of Genesis 19 beyond a single vice to a whole culture of injustice and inhospitality.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads Sodom's judgment as a warning against grave and unrepented sin while insisting that God's justice is always joined to mercy, honoring the intercession of the righteous; the narrative also cautions against reducing Sodom's guilt to one sin alone, since Scripture itself names pride and cruelty to the needy.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise affirm both the reality of judgment and God's mercy toward Lot, and many similarly hold that Sodom's sins were manifold rather than singular. Debate across and within both traditions concerns exactly which sins the text foregrounds, but all agree the passage teaches that persistent grievous evil meets divine judgment while God preserves those he means to save.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

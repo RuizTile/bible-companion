@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.25",
+  "book": "Genesis",
+  "chapter": 25,
+  "canon": "protocanonical",
+  "summary": "Genesis 25 marks generational transition. Abraham takes another wife, Keturah, who bears him further sons, but \"Abraham gave all that he had unto Isaac,\" sending the sons of the concubines eastward with gifts. Abraham dies \"in a good old age, an old man, and full of years,\" at a hundred and seventy-five, and his sons Isaac and Ishmael together bury him in the cave of Machpelah beside Sarah. God then blesses Isaac. The generations of Ishmael are listed—twelve princes, fulfilling the earlier promise—and Ishmael dies at a hundred and thirty-seven. The narrative turns to Isaac's line: he prays for barren Rebekah, and \"the LORD was intreated of him,\" so she conceives. The children \"struggled together within her,\" and God tells her, \"Two nations are in thy womb... and the elder shall serve the younger.\" Esau is born red and hairy; Jacob follows, gripping his brother's heel. Esau becomes a hunter and \"a man of the field,\" Jacob \"a plain man, dwelling in tents.\" Isaac loves Esau, but Rebekah loves Jacob. Coming in faint from the field, Esau begs for Jacob's red pottage, and Jacob demands the birthright in exchange. Esau, saying \"what profit shall this birthright do to me?\", swears it away for bread and lentils: \"thus Esau despised his birthright.\"",
+  "takeaways": [
+    "Abraham dies satisfied and blessed, and the covenant line passes cleanly to Isaac, while the other sons are provided for yet sent away—God's promise runs through the chosen heir.",
+    "Isaac's prayer for barren Rebekah shows that the covenant children come as answered prayer and gift, not merely by natural course.",
+    "God's word to Rebekah—\"the elder shall serve the younger\"—reveals that His choice does not simply follow human custom of birth order, setting up the whole Jacob-and-Esau story.",
+    "Esau trades his lasting birthright for immediate appetite; the text's verdict, \"Esau despised his birthright,\" warns against sacrificing enduring blessing for momentary craving."
+  ],
+  "crossRefs": [
+    {
+      "target": "ROM.9",
+      "verses": "10-13",
+      "label": "Romans 9:10-13 — God's choice of Jacob before the twins were born",
+      "why": "Paul cites the oracle \"the elder shall serve the younger\" and God's love of Jacob to teach election by God's purpose, not human works or birth order. This chapter is Paul's Old Testament ground for divine choice.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.12",
+      "verses": "16-17",
+      "label": "Hebrews 12:16-17 — Esau, a profane person who sold his birthright",
+      "why": "Hebrews reads Esau's sale of the birthright for one meal as a warning against profanity and irreversible loss, directly interpreting this chapter's \"Esau despised his birthright\" as a spiritual failure.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAL.1",
+      "verses": "2-3",
+      "label": "Malachi 1:2-3 — \"I loved Jacob, and I hated Esau\"",
+      "why": "Malachi looks back on the twins as representative nations, contrasting God's covenant love for Jacob with judgment on Edom (Esau). It confirms that the two struggling children became \"two nations,\" as Rebekah was told.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.17",
+      "verses": "20",
+      "label": "Genesis 17:20 — the promise of twelve princes from Ishmael",
+      "why": "The genealogy of Ishmael's twelve princes in this chapter fulfills God's earlier pledge to bless Ishmael and make him a great nation, showing God keeps even the promises that fall outside the chosen covenant line.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition holds together God's sovereign election of Jacob and Esau's real moral responsibility: the oracle 'the elder shall serve the younger' expresses God's free, unmerited choice, yet Esau genuinely 'despised his birthright' by a free and culpable act. Grace and human freedom are not opposed; God's prior choice does not excuse Esau's contempt for holy things.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Reformed Protestant readings, following Paul in Romans 9, tend to stress the priority and unconditional character of God's electing choice made before the twins had done good or evil, sometimes placing greater weight on sovereign grace than on the interplay with free cooperation. Both traditions affirm that Esau's contempt for the birthright was truly sinful; the difference lies in how election and human freedom are balanced.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

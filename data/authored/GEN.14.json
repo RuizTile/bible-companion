@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.14",
+  "book": "Genesis",
+  "chapter": 14,
+  "canon": "protocanonical",
+  "summary": "A coalition of four eastern kings led by \"Chedorlaomer king of Elam\" makes war on five kings of the plain, including the kings of Sodom and Gomorrah, who had rebelled after twelve years of servitude. The invaders defeat them in the vale of Siddim, plunder Sodom and Gomorrah, and carry off \"Lot, Abram's brother's son, who dwelt in Sodom.\" When Abram hears his kinsman is captive, he arms \"three hundred and eighteen\" trained servants, pursues the kings by night, defeats them near Damascus, and \"brought back all the goods, and also brought again his brother Lot.\" On his return, two kings meet him. The king of Sodom offers him the recovered goods, but first \"Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God,\" and blessed Abram and God \"which hath delivered thine enemies into thy hand.\" Abram gives him \"tithes of all.\" To the king of Sodom, however, Abram refuses even \"a thread even to a shoelatchet,\" so that no man could say, \"I have made Abram rich.\" The chapter presents Abram as a courageous deliverer and a man of principled integrity, and introduces the mysterious priest-king Melchizedek.",
+  "takeaways": [
+    "Abram risks himself to rescue Lot, showing loyalty to kin even after their separation.",
+    "Melchizedek, priest of \"the most high God,\" blesses Abram and receives his tithe, prefiguring a priesthood beyond Israel's later Levitical order.",
+    "Abram refuses the king of Sodom's wealth so that God alone, not a pagan king, receives credit for his prosperity.",
+    "Victory and blessing are attributed to God, \"which hath delivered thine enemies into thy hand,\" not to Abram's strength."
+  ],
+  "crossRefs": [
+    {
+      "target": "PSA.110",
+      "verses": "4",
+      "label": "Psalm 110:4 — a priest after the order of Melchizedek",
+      "why": "The psalm declares the messianic king to be \"a priest for ever after the order of Melchizedek.\" This single verse takes the fleeting figure of Genesis 14 and makes him the pattern for an eternal priesthood, later applied to Christ.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.7",
+      "verses": "1-10",
+      "label": "Hebrews 7:1-10 — Melchizedek and Christ's priesthood",
+      "why": "Hebrews expounds Melchizedek at length, noting his kingship of Salem, his blessing of Abram, and the tithe he received, to argue that Christ's priesthood surpasses the Levitical. It reads Genesis 14 as a deliberate foreshadowing of Christ.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.26",
+      "verses": "26-28",
+      "label": "Matthew 26:26-28 — the bread and wine of the Last Supper",
+      "why": "Melchizedek's offering of bread and wine as priest of the most high God is read by Catholic tradition as a type of the Eucharist that Christ institutes with bread and wine. The connection joins the priest-king of Salem to Christ the eternal high priest.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "GEN.28",
+      "verses": "20-22",
+      "label": "Genesis 28:20-22 — Jacob vows a tithe",
+      "why": "Abram's giving of \"tithes of all\" to Melchizedek is echoed when Jacob vows to give God a tenth. Together they show tithing among the patriarchs as an act of worship well before the law of Moses.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Catholic tradition sees Melchizedek's bread and wine, offered as priest of the most high God, as a prefigurement of the Eucharist and of Christ's eternal priesthood, and Melchizedek is named in the Roman Canon of the Mass as a type of the sacrifice offered by the Church.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers, guided by Hebrews, focus on Melchizedek as a type of Christ's superior and eternal priesthood but generally do not read the bread and wine as instituting a sacrificial Eucharist, viewing the offering rather as hospitality and blessing. Both traditions agree that Melchizedek prefigures Christ the priest-king.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

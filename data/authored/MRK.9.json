@@ -1,0 +1,67 @@
+{
+  "ref": "MRK.9",
+  "book": "Mark",
+  "chapter": 9,
+  "canon": "protocanonical",
+  "summary": "After promising that some standing there will see \"the kingdom of God come with power,\" Jesus is transfigured before Peter, James, and John: His raiment becomes \"shining, exceeding white as snow,\" and Elias with Moses appear talking with Him. Peter offers to build three tabernacles, but a cloud overshadows them and a voice declares, \"This is my beloved Son: hear him.\" Descending, Jesus explains that Elias has already come, and heals a boy with a \"dumb spirit\" his disciples could not cast out; the father's cry—\"Lord, I believe; help thou mine unbelief\"—models faith, and Jesus teaches that \"this kind can come forth by nothing, but by prayer and fasting.\" He again foretells that \"the Son of man is delivered into the hands of men,\" though they understand not. When the disciples dispute who is greatest, He sets a child before them: \"If any man desire to be first, the same shall be last of all, and servant of all.\" He forbids stopping an outsider casting out devils in His name—\"he that is not against us is on our part\"—and warns solemnly against causing \"one of these little ones\" to stumble, using stark images of cutting off hand or foot rather than being cast into the fire \"that never shall be quenched.\" He closes: \"Have salt in yourselves, and have peace one with another.\"",
+  "takeaways": [
+    "The Transfiguration reveals Jesus' hidden glory and divine sonship, with the Father's command \"hear him\" placing Jesus above even Moses and Elias, the Law and the Prophets.",
+    "Faith and honest dependence go together: the father's \"Lord, I believe; help thou mine unbelief\" shows that even weak faith, brought to Jesus, is met with power.",
+    "Greatness in the kingdom is measured by lowly service—\"the same shall be last of all, and servant of all\"—not by rank or precedence.",
+    "Jesus warns with utmost seriousness against causing others to sin, calling for radical vigilance over whatever leads one into evil."
+  ],
+  "crossRefs": [
+    {
+      "target": "EXO.24",
+      "verses": "15-18",
+      "label": "Exodus 24:15-18 — the cloud covers the mount and God's glory as Moses ascends",
+      "why": "The overshadowing cloud and voice on the mount of Transfiguration echo Sinai, where Moses entered the cloud of God's glory. The parallel presents Jesus as greater than Moses, now the one to whom the Father says \"hear him.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAL.4",
+      "verses": "5-6",
+      "label": "Malachi 4:5-6 — Elijah sent before the great day of the Lord",
+      "why": "The disciples' question about Elias coming first, and Jesus' reply that \"Elias is indeed come,\" rest on Malachi's promise of an Elijah figure who restores. Jesus identifies this fulfillment with John the Baptist's ministry preceding His own.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.17",
+      "verses": "1-23",
+      "label": "Matthew 17:1-23 — the Transfiguration, the healing of the boy, and the passion foretold",
+      "why": "Matthew narrates the same mountain vision, the failure to heal, and the second passion prediction. Reading the parallel clarifies details of the exorcism and confirms the tight sequence of glory followed by the way of the cross.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.66",
+      "verses": "24",
+      "label": "Isaiah 66:24 — where their worm dieth not and the fire is not quenched",
+      "why": "Jesus' repeated warning that in hell \"their worm dieth not, and the fire is not quenched\" quotes Isaiah's closing image of final judgment. The cross-reference shows Him drawing the gravity of His warning straight from prophetic Scripture.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition often takes Jesus' teaching that \"this kind can come forth by nothing, but by prayer and fasting\" as scriptural warrant for fasting as a genuine spiritual discipline, joined to prayer, that disposes the believer to God's power against evil. Fasting is understood not as earning God's action but as an ascetical practice that purifies desire and strengthens petition.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters affirm prayer and fasting as legitimate practices but tend to caution against treating fasting as a technique that secures results, stressing that deliverance rests on God's power and faith rather than on ritual observance. Some note textual questions about the phrase's transmission. Both traditions agree that dependence on God in prayer is central and that fasting can rightly accompany earnest prayer; they differ on the weight and necessity assigned to the practice itself.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.46",
+  "book": "Genesis",
+  "chapter": 46,
+  "canon": "protocanonical",
+  "summary": "Israel sets out for Egypt but stops first at Beer-sheba to offer \"sacrifices unto the God of his father Isaac.\" In a night vision God calls, \"Jacob, Jacob,\" and reassures him: \"fear not to go down into Egypt; for I will there make of thee a great nation.\" God promises to go down with him and \"surely bring thee up again,\" and that Joseph \"shall put his hand upon thine eyes.\" With that word the family travels down — Jacob, his sons, their wives and children, cattle and goods. The chapter then catalogs \"the names of the children of Israel, which came into Egypt,\" clan by clan: the sons of Leah (thirty-three), of Zilpah (sixteen), of Rachel (fourteen), and of Bilhah (seven). Counting Joseph's household already in Egypt, \"all the souls of the house of Jacob, which came into Egypt, were threescore and ten.\" Jacob sends Judah ahead \"to direct his face unto Goshen.\" Joseph readies his chariot, goes up to meet his father, and \"fell on his neck, and wept on his neck a good while.\" Israel says, \"Now let me die, since I have seen thy face.\" Joseph then coaches his family: tell Pharaoh you are shepherds who tend cattle, \"that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.\"",
+  "takeaways": [
+    "God meets Jacob's fear at the threshold of exile with a covenant promise: he will go down with them and surely bring them up again.",
+    "The careful census of seventy souls marks the seed from which the great nation of Israel will grow in Egypt.",
+    "Jacob worships before he journeys, seeking God's word before committing the whole family to Egypt.",
+    "Settling in Goshen, apart from the Egyptians who despise shepherds, preserves the family's distinct identity."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.15",
+      "verses": "13-14",
+      "label": "Genesis 15:13-14 — the prophecy of sojourn in a strange land",
+      "why": "God had told Abram his seed would be strangers in a land not theirs, afflicted, then brought out with great substance. The descent into Egypt here begins the fulfillment of that ancient promise, framing the move as part of God's long plan.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.1",
+      "verses": "1-7",
+      "label": "Exodus 1:1-7 — the seventy multiply in Egypt",
+      "why": "Exodus opens by naming the same sons who came down and counting the seventy souls, then reporting that they \"multiplied, and waxed exceeding mighty.\" God's promise here to make Jacob a great nation is realized as the setting for the Exodus.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DEU.26",
+      "verses": "5",
+      "label": "Deuteronomy 26:5 — a wandering Aramean went down to Egypt",
+      "why": "The creed Israel recites at the offering of firstfruits remembers the ancestor who \"went down into Egypt... few in number\" and became a great nation. It liturgically preserves the memory of the descent narrated in this chapter.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.7",
+      "verses": "14-15",
+      "label": "Acts 7:14-15 — Stephen recalls Jacob's household of seventy-five",
+      "why": "Stephen recounts Joseph calling Jacob and \"all his kindred, threescore and fifteen souls\" into Egypt, referencing this migration. The passage shows the descent remembered as a hinge in Israel's salvation history within the New Testament.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The count of seventy souls is read as a symbolically complete number, marking the whole house of Israel entering Egypt as the seed of the coming nation and prefiguring later gatherings of the people of God.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers note the well-known textual variation between seventy and seventy-five (as cited in Acts), usually explained by whether certain descendants are included. Most emphasize the historical reality of the family's descent and God's providence over symbolic numerology, though many acknowledge seventy carries a sense of fullness. Both traditions affirm this as the origin of the nation Israel.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

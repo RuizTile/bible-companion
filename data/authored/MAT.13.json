@@ -1,0 +1,74 @@
+{
+  "ref": "MAT.13",
+  "book": "Matthew",
+  "chapter": 13,
+  "canon": "protocanonical",
+  "summary": "Matthew 13 gathers Jesus' parables of the kingdom, taught from a boat to crowds on the shore. The parable of the sower describes seed falling on the wayside, stony ground, thorns, and good soil, yielding \"an hundredfold, some sixtyfold, some thirtyfold.\" Asked why He teaches in parables, Jesus explains that \"the mysteries of the kingdom of heaven\" are given to the disciples but veiled from those whose hearts have \"waxed gross,\" fulfilling Isaiah; He then interprets the sower as the varied reception of \"the word of the kingdom,\" defeated by the wicked one, shallow rooting, or \"the care of this world, and the deceitfulness of riches.\" The parable of the wheat and tares teaches patient coexistence of good and evil until the harvest, lest the wheat be uprooted—later explained as the Son of man's field (the world), with angels gathering out \"all things that offend\" at \"the end of the world.\" The mustard seed and leaven show the kingdom's hidden, expansive growth from small beginnings. Jesus speaks only in parables to the crowd, fulfilling the prophet's word about uttering \"things which have been kept secret.\" Three brief parables follow—the hidden treasure and the pearl of great price, worth selling all to obtain, and the dragnet gathering every kind, later sorted. He commends the instructed scribe who brings \"things new and old.\" The chapter closes at Nazareth, where His own townsfolk, offended that this is \"the carpenter's son,\" reject Him, and \"he did not many mighty works there because of their unbelief.\"",
+  "takeaways": [
+    "The parable of the sower locates the difference not in the seed—the same word of the kingdom—but in the soil of the human heart, naming the specific threats of the evil one, shallow roots, and worldly cares and riches.",
+    "Parables both reveal and conceal: they open the kingdom's mysteries to receptive disciples while leaving the hardened in their chosen blindness, so that the response exposes the hearer.",
+    "The wheat and tares counsel patience with a mixed world and a mixed community, deferring final separation to God's harvest through His angels rather than premature human judgment.",
+    "The kingdom grows from tiny, hidden beginnings—mustard seed and leaven—into something vast and pervasive, and it is worth more than everything else, like treasure or a pearl worth selling all to gain.",
+    "Familiarity breeds unbelief: Jesus' own townspeople are \"offended in him,\" and their lack of faith limits the mighty works done among them—\"a prophet is not without honour, save in his own country.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.6",
+      "label": "Isaiah 6:9-10 — \"hearing ye shall hear, and shall not understand\"",
+      "why": "Jesus quotes Isaiah's commissioning to explain why He teaches in parables: the people's dull hearts and closed eyes fulfill the prophet's word. The citation frames parabolic teaching as both judgment on hardened hearing and mercy toward the receptive.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.78",
+      "label": "Psalm 78:2 — \"I will open my mouth in a parable... dark sayings of old\"",
+      "why": "Matthew cites this psalm to interpret Jesus' parabolic method as fulfilling Scripture's pattern of uttering \"things which have been kept secret from the foundation of the world,\" tying His teaching to Israel's tradition of instructive, revelatory speech.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.4",
+      "label": "Mark 4:1-34 — the sower, the lamp, the seed, and the mustard seed",
+      "why": "Mark tells the same seaside parable discourse, including the sower with its interpretation and the mustard seed, along with the purpose of parables. The parallel confirms this as a fixed collection of kingdom parables and supplies Mark's additional imagery.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DAN.4",
+      "label": "Daniel 4:10-12 — the great tree with birds lodging in its branches",
+      "why": "The mustard seed becoming a tree \"so that the birds of the air come and lodge in the branches thereof\" echoes Daniel's imagery of a kingdom pictured as a sheltering tree, casting the kingdom of heaven's growth in the language of an expanding dominion that shelters many.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The parable of the wheat and tares—\"Let both grow together until the harvest\"—is read in the Catholic tradition as teaching that the Church on earth is a mixed body containing both saints and sinners, and that this coexistence is to be borne patiently until God's final judgment rather than resolved by human attempts to create a perfectly pure community. The Catholic tradition famously invoked this parable against rigorists who would purge the Church of all the unworthy.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readings agree the parable counsels patience against premature judgment, but many emphasize Jesus' own explanation that \"the field is the world\" rather than specifically the Church, taking the parable primarily as a statement about good and evil coexisting in the world until the end, not chiefly as a charter for the mixed nature of the visible church. Some Reformation traditions distinguish the invisible church of true believers from the visible mixed body. Both traditions affirm that final separation belongs to God at the harvest and warn against zealous human uprooting; they differ on whether the field is read as the world or as the Church.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The parables of the hidden treasure and the pearl of great price—where a man \"selleth all that he hath\" to obtain the kingdom—are understood in the Catholic tradition as commending a wholehearted, costly response to grace: having found the surpassing worth of the kingdom, one gladly reorders one's whole life around it. This informs the tradition's esteem for total self-gift, including the evangelical counsels embraced in consecrated life.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters likewise see these parables as portraying the incomparable value of the kingdom and the joyful, all-in response it deserves. Many stress that the 'selling all' is a vivid image of the kingdom's supreme worth and of counting all else as loss for Christ, applicable to every believer, rather than a basis for a distinct class of counsels beyond the ordinary Christian life. Both traditions affirm that the kingdom is worth everything and calls for a decisive, joyful response; they differ on whether this grounds a special vocation of counsels.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

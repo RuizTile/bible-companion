@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.16",
+  "book": "Genesis",
+  "chapter": 16,
+  "canon": "protocanonical",
+  "summary": "Sarai, still childless, tries to secure an heir by human means. Because \"the LORD hath restrained me from bearing,\" she gives her Egyptian handmaid Hagar to Abram as a wife, and \"Abram hearkened to the voice of Sarai.\" Hagar conceives, then despises her mistress, and the household fractures into jealousy and blame: \"My wrong be upon thee,\" Sarai charges. Abram cedes the matter, Sarai deals harshly, and the pregnant Hagar flees into the wilderness. There the angel of the LORD finds her by a fountain on the way to Shur and sends her back with a promise that her seed will be multiplied beyond number. He names the child before birth, \"Ishmael; because the LORD hath heard thy affliction,\" and foretells a restless life: \"he will be a wild man.\" Astonished to have been seen by God in her distress, Hagar names him \"Thou God seest me,\" and the well is called Beer-lahai-roi. She returns and bears Ishmael when Abram is eighty-six. The chapter shows faith stumbling into scheming, yet also God's tenderness toward the outcast and the afflicted, hearing a slave woman's cry when no one else does.",
+  "takeaways": [
+    "Trying to force God's promise by human means bred jealousy, cruelty, and lasting family strife.",
+    "God hears the afflicted even when they are lowly and forgotten: Ishmael's name means the LORD heard Hagar's affliction.",
+    "God sees the outcast personally; Hagar is the first person in Scripture to give God a name, \"Thou God seest me.\"",
+    "Divine mercy sends Hagar back to a hard situation with a blessing, showing that God's care does not always mean escape from difficulty."
+  ],
+  "crossRefs": [
+    {
+      "target": "GAL.4",
+      "verses": "21-31",
+      "label": "Galatians 4:21-31 — Hagar and Sarah as an allegory of two covenants",
+      "why": "Paul reads Hagar the bondwoman and Sarah the freewoman as figures of two covenants: the slavery of the flesh versus the freedom of the promise. This makes Genesis 16 a lens for the whole gospel debate over law and grace, and it grounds a distinctly Christian typological reading of the story.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.21",
+      "verses": "9-21",
+      "label": "Genesis 21:9-21 — Hagar and Ishmael sent away and rescued",
+      "why": "The later expulsion mirrors this first flight: again Hagar is in the wilderness, again God hears the boy and provides water and a promise of a great nation. Reading the two together shows a consistent divine pattern of hearing and providing for the outsider.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.17",
+      "verses": "18-21",
+      "label": "Genesis 17:18-21 — the covenant established with Isaac, not Ishmael",
+      "why": "God blesses Ishmael and makes him a nation, yet fixes the covenant line in Isaac. This clarifies that Genesis 16 produced a real son and real blessing, but not the child of promise, distinguishing God's general kindness from his covenant election.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.34",
+      "verses": "6,15,18",
+      "label": "Psalm 34:6,15,18 — the LORD hears the cry of the afflicted",
+      "why": "The psalmist's refrain that the LORD hears the poor and is near the brokenhearted echoes the theology behind Ishmael's very name. Hagar's wilderness encounter becomes a narrative embodiment of the promise the psalm later sings.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The angel of the LORD who speaks to Hagar with divine authority, making promises in the first person as God (\"I will multiply thy seed\"), is often read in the Catholic and broader Christian tradition as a manifestation of God himself, and by many Fathers as a foreshadowing of the eternal Word who would appear in the flesh.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant readers agree the angel speaks and acts as God, and some likewise see a pre-incarnate appearance of the Son; others prefer to read \"the angel of the LORD\" simply as a commissioned messenger who conveys God's own words. Both traditions affirm that it is truly God's authority and promise that reach Hagar, differing mainly on how directly to identify the messenger with a divine Person.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

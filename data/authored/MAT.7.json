@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.7",
+  "book": "Matthew",
+  "chapter": 7,
+  "canon": "protocanonical",
+  "summary": "Matthew 7 brings the Sermon on the Mount to its close with pointed teachings and a final call to decision. Jesus begins, \"Judge not, that ye be not judged,\" warning that the measure we use will be measured back to us, and illustrating self-deceived criticism with the mote and the beam: remove your own beam first, and then you will see clearly to help your brother. He counsels discernment—do not give what is holy to dogs or cast pearls before swine—then encourages persistent prayer: \"Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened,\" for a Father who is good gives good things to those who ask, far more than earthly fathers do. This grounds the Golden Rule: \"all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.\" Jesus then presses toward choice: enter by the strait gate, for the narrow way leads to life and few find it. He warns of false prophets, \"ravening wolves\" in sheep's clothing, known \"by their fruits,\" and cautions that saying \"Lord, Lord\" is not enough—only the one who does the Father's will enters the kingdom. He closes with the parable of the two builders: hearing and doing His words is a house on rock that stands the storm, while hearing without doing is a house on sand that falls. The crowds are astonished, for He taught \"as one having authority.\"",
+  "takeaways": [
+    "\"Judge not\" forbids hypocritical, self-blind condemnation—cast the beam from your own eye first—yet the same passage assumes real discernment, since one must eventually \"see clearly\" and not cast pearls before swine.",
+    "Persistent prayer is answered by a good Father: \"ask... seek... knock,\" for if evil fathers give good gifts, \"how much more\" will the heavenly Father give good things to those who ask.",
+    "The Golden Rule—doing to others what you would have them do to you—is presented by Jesus as the summation of \"the law and the prophets.\"",
+    "Discipleship is a costly, narrow way that few find, and it must be tested by fruit: false prophets are known \"by their fruits,\" and mere confession of \"Lord, Lord\" without doing the Father's will does not enter the kingdom.",
+    "The Sermon ends with a demand for action: hearing Jesus' words and doing them builds on rock and survives the storm; hearing without doing builds on sand and collapses—and the crowds recognize His authority."
+  ],
+  "crossRefs": [
+    {
+      "target": "LUK.6",
+      "label": "Luke 6:37-49 — judging, the Golden Rule, and the two builders",
+      "why": "Luke's Sermon on the Plain gathers the same sayings—do not judge, the mote and beam, the tree known by its fruit, and the wise and foolish builders. The strong overlap confirms these as a coherent body of Jesus' teaching preserved in more than one Gospel tradition.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JAS.2",
+      "label": "James 2:14-26 — faith without works is dead",
+      "why": "James develops Jesus' warning that saying \"Lord, Lord\" and hearing without doing is worthless, insisting that living faith produces works. The Catholic tradition especially reads this as continuous with Jesus' demand for obedience, not merely profession.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DEU.30",
+      "label": "Deuteronomy 30:15-19 — the two ways: life and death",
+      "why": "Jesus' contrast of the strait gate and narrow way against the broad road to destruction echoes the ancient \"two ways\" set before Israel, where choosing obedience is choosing life. The pattern frames the Sermon's closing appeal as a covenant-style decision.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GAL.5",
+      "label": "Galatians 5:22-23 — the fruit of the Spirit",
+      "why": "Jesus says a good tree is known by its good fruit; Paul names the specific fruit the Spirit produces. The link shows how the apostolic teaching fills out what \"good fruit\" looks like in the life of a believer.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads the Sermon's close—especially the builder who \"heareth these sayings of mine, and doeth them\" and the warning that only \"he that doeth the will of my Father\" enters the kingdom—as teaching that saving faith is necessarily obedient and fruitful, so that good works done in grace genuinely matter for entering the kingdom. This coheres with the Catholic understanding that justification and sanctification are joined and that final judgment considers works done in charity.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters affirm that genuine faith produces obedience and good fruit, but classically hold that a person is justified by faith alone, with works as the evidence and fruit of that faith rather than a contributing cause of salvation. On this reading, 'doing the will of the Father' and building on the rock describe the necessary evidence of true, saving faith, not a merit that adds to Christ's finished work. Both traditions insist that hearing without doing is dead; they differ on the precise relation of works to justification.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

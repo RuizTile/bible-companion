@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.32",
+  "book": "Genesis",
+  "chapter": 32,
+  "canon": "protocanonical",
+  "summary": "As Jacob journeys home, \"the angels of God met him,\" and he names the place Mahanaim, \"God's host.\" Dreading his reunion with Esau, he sends messengers ahead, only to learn Esau approaches with four hundred men. \"Greatly afraid and distressed,\" Jacob divides his people into two bands and prays one of Scripture's great prayers: \"I am not worthy of the least of all the mercies... for with my staff I passed over this Jordan; and now I am become two bands,\" pleading God's own promise to make his seed \"as the sand of the sea.\" He sends a lavish gift of livestock ahead to appease his brother. Then, alone at night by the ford Jabbok, \"there wrestled a man with him until the breaking of the day.\" Though his thigh is put out of joint, Jacob refuses to release his opponent: \"I will not let thee go, except thou bless me.\" He is renamed Israel, \"for as a prince hast thou power with God and with men, and hast prevailed.\" Jacob names the place Peniel, \"for I have seen God face to face, and my life is preserved,\" and limps into the dawn a changed man.",
+  "takeaways": [
+    "Jacob's prayer models humility and confidence together: he confesses unworthiness while holding God to His own promise.",
+    "The night wrestling marks a decisive transformation, giving Jacob the covenant name Israel and a permanent limp as a mark of the encounter.",
+    "\"I will not let thee go, except thou bless me\" has become an enduring image of persevering, tenacious prayer.",
+    "Seeing God \"face to face\" and surviving signals both awe at God's nearness and His mercy in preserving mortal life."
+  ],
+  "crossRefs": [
+    {
+      "target": "HOS.12",
+      "verses": "3-4",
+      "label": "Hosea 12:3-4 — he had power with God and prevailed",
+      "why": "Hosea explicitly interprets this scene, saying Jacob \"had power with God\" and \"had power over the angel, and prevailed.\" The prophet reads the wrestling as a spiritual struggle answered by grace, confirming the encounter's lasting significance.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.35",
+      "verses": "9-10",
+      "label": "Genesis 35:9-10 — the name Israel confirmed at Bethel",
+      "why": "God later reaffirms the new name given here, saying \"thy name shall not be called any more Jacob, but Israel.\" The Peniel renaming is ratified at Bethel, underscoring its covenantal weight.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.33",
+      "verses": "18-23",
+      "label": "Exodus 33:18-23 — no man can see God's face and live",
+      "why": "Jacob marvels that he saw God \"face to face\" and lived, while Moses is later told \"there shall no man see me, and live.\" The tension frames the mystery of divine encounters and the mercy shown to Jacob.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.18",
+      "verses": "1-7",
+      "label": "Luke 18:1-7 — the parable of persistent prayer",
+      "why": "Jesus teaches that people \"ought always to pray, and not to faint,\" much as Jacob refuses to release his blessing. The chapter is a classic Old Testament type of the persistent, wrestling prayer Christ commends.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Catholic tradition often reads the night at Peniel as a paradigm of persevering prayer and spiritual combat: the mysterious \"man\" is understood as a divine encounter (frequently as a theophany or angel of the Lord), and Jacob's refusal to let go until blessed models the soul's tenacious struggle with God that ends in transformation and a new name.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters broadly share the reading of Jacob's wrestling as persevering prayer and a genuine divine encounter, and many likewise see the pre-incarnate Christ or the angel of the Lord in the \"man.\" Differences are matters of emphasis rather than substance; both traditions affirm that Jacob emerges humbled, renamed, and blessed by God alone.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.2",
+  "book": "Genesis",
+  "chapter": 2,
+  "canon": "protocanonical",
+  "summary": "After the six days of creation, \"the heavens and the earth were finished, and all the host of them,\" and God rests on the seventh day, which he \"blessed\" and \"sanctified.\" The chapter then zooms in on humanity's making: \"the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.\" God plants \"a garden eastward in Eden,\" watered by a river that parts into four heads, and sets within it \"the tree of life\" and \"the tree of knowledge of good and evil.\" Man is placed there \"to dress it and to keep it\" and given one prohibition, with a warning: \"in the day that thou eatest thereof thou shalt surely die.\" Judging that \"it is not good that the man should be alone,\" God brings the animals for Adam to name, but no fitting companion is found. So God fashions woman from Adam's rib, and Adam rejoices: \"This is now bone of my bones, and flesh of my flesh.\" The chapter closes with the charter of marriage, \"they shall be one flesh,\" and a note of innocence: the two \"were both naked... and were not ashamed.\"",
+  "takeaways": [
+    "The Sabbath rest is woven into creation itself: God blesses and sanctifies the seventh day, grounding the rhythm of work and rest in the divine pattern.",
+    "The human person is a union of earth and spirit, dust animated by God's own breath, and so possesses a dignity distinct from the rest of creation.",
+    "Work and moral responsibility are gifts of Eden, not consequences of sin: man is placed in the garden to tend it and given a genuine command to obey.",
+    "Marriage is presented as a one-flesh union established by God, complementary and mutual, a foundational institution rather than a later human invention."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.1",
+      "verses": "26-28",
+      "label": "Genesis 1:26-28 — humanity made in God's image, male and female",
+      "why": "This chapter's intimate account of forming man from dust and woman from his side complements the first chapter's declaration that God made humanity in his own image. Read together, they present both the dignity and the relational nature of the human person.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.19",
+      "verses": "4-6",
+      "label": "Matthew 19:4-6 — Jesus cites the one-flesh union",
+      "why": "Jesus grounds his teaching on marriage directly in this chapter, quoting that a man shall \"cleave to his wife\" and \"they twain shall be one flesh.\" His appeal to Genesis 2 shows the passage functions as the enduring charter of marriage.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EPH.5",
+      "verses": "31-32",
+      "label": "Ephesians 5:31-32 — one flesh as image of Christ and the Church",
+      "why": "Paul quotes \"they two shall be one flesh\" and calls it a \"great mystery\" concerning Christ and the Church. Catholic tradition especially reads the marriage of Eden as pointing toward the union of Christ with his people.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "REV.22",
+      "verses": "1-2",
+      "label": "Revelation 22:1-2 — river and tree of life restored",
+      "why": "The river flowing from Eden and the tree of life reappear at the end of Scripture, where a river of life flows and the tree of life yields fruit for the healing of the nations. Eden's imagery frames both the beginning and the consummation of God's plan.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The forming of man from dust and the breathing in of \"the breath of life\" so that \"man became a living soul\" is read as the special creation of a rational, spiritual soul, distinguishing the human person from the animals God also formed \"out of the ground.\"",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise affirm humanity's unique creation and God-given life, though many emphasize the whole person becoming a \"living soul\" rather than a distinct component added to the body. Both traditions agree the human person bears a dignity above the rest of creation and owes life directly to God's breath.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

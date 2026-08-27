@@ -1,0 +1,74 @@
+{
+  "ref": "MAT.12",
+  "book": "Matthew",
+  "chapter": 12,
+  "canon": "protocanonical",
+  "summary": "Matthew 12 sharpens the conflict with the Pharisees around the Sabbath and the source of Jesus' power. When the disciples pluck grain on the Sabbath, Jesus defends them by David's eating the shewbread and the priests who \"profane the sabbath, and are blameless,\" declaring \"in this place is one greater than the temple\" and \"the Son of man is Lord even of the sabbath day.\" Quoting Hosea—\"I will have mercy, and not sacrifice\"—He then heals a withered hand, reasoning that rescuing a fallen sheep proves \"it is lawful to do well on the sabbath days.\" The Pharisees plot His death; Jesus withdraws and heals the crowds quietly, fulfilling Isaiah's servant song: \"A bruised reed shall he not break.\" When He frees a blind and mute demoniac, the crowds wonder if He is \"the son of David,\" but the Pharisees charge that He casts out devils \"by Beelzebub.\" Jesus exposes the absurdity—\"every kingdom divided against itself is brought to desolation\"—and declares that if He casts out devils \"by the Spirit of God, then the kingdom of God is come.\" He warns that blasphemy against the Holy Ghost \"shall not be forgiven,\" that a tree is known by its fruit, and that we answer for \"every idle word.\" Refusing a sign, He points to \"the sign of the prophet Jonas\"—three days in the earth—and warns that Nineveh and the queen of the south will condemn this generation. The chapter ends with the parable of the returning unclean spirit and Jesus redefining His family: \"whosoever shall do the will of my Father... the same is my brother, and sister, and mother.\"",
+  "takeaways": [
+    "Jesus asserts a stunning personal authority—greater than the temple and \"Lord even of the sabbath day\"—reframing the Sabbath around mercy and doing good rather than rigid restriction.",
+    "The healing of the withered hand shows that active compassion honors God's law: \"it is lawful to do well on the sabbath days,\" answering legalism with the priority of mercy over mere observance.",
+    "Jesus interprets His exorcisms as evidence that \"the kingdom of God is come,\" and He binds the 'strong man' Satan; to attribute this work of the Spirit to the devil is the grave sin of blasphemy against the Holy Ghost.",
+    "Words reveal the heart: \"out of the abundance of the heart the mouth speaketh,\" and every idle word will be accountable, so that a person is justified or condemned by the fruit their speech betrays.",
+    "Jesus refuses spectacle, offering only \"the sign of the prophet Jonas\"—His death and resurrection—and redefines kinship around obedience: those who do the Father's will are His true family."
+  ],
+  "crossRefs": [
+    {
+      "target": "1SA.21",
+      "label": "1 Samuel 21:1-6 — David eats the shewbread",
+      "why": "Jesus grounds His defense of the disciples in David's precedent, when he and his men ate the consecrated bread \"which was not lawful\" for them. The appeal shows mercy and necessity overriding ceremonial restriction within Israel's own Scriptures.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.42",
+      "label": "Isaiah 42:1-4 — the gentle servant who will not break the bruised reed",
+      "why": "Matthew explicitly cites this servant song to interpret Jesus' quiet, non-combative healing ministry. It presents His refusal of confrontation and His gentleness with the weak as the fulfillment of the promised Spirit-anointed servant who brings justice to the Gentiles.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HOS.6",
+      "label": "Hosea 6:6 — \"I desired mercy, and not sacrifice\"",
+      "why": "Jesus quotes Hosea to rebuke the Pharisees for condemning \"the guiltless,\" grounding His Sabbath teaching in the prophetic insistence that God prizes mercy above ritual. The same citation anchors His mission of compassion elsewhere in Matthew.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JON.1",
+      "label": "Jonah 1:17 — Jonah three days and nights in the fish",
+      "why": "Jesus names \"the sign of the prophet Jonas\" as the only sign given: as Jonah was three days in the whale, so the Son of man will be three days \"in the heart of the earth.\" Jonah's ordeal becomes a prophetic type of Christ's death and resurrection.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus' words \"whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother\" are read in the Catholic tradition not as a slighting of Mary but as her highest praise: she is the disciple who most perfectly does the Father's will, so that her spiritual motherhood in faith surpasses even the physical bond. The tradition also reads \"his brethren\" (v. 46) in light of the wider Semitic use of 'brother' for close kin, consistent with belief in Mary's perpetual virginity.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read this scene as Jesus teaching that spiritual kinship through obedience to God transcends natural family ties, without any special implication for Mary's status. Many also take the references to Jesus' 'brethren' here and elsewhere as most naturally denoting biological siblings, and therefore do not hold to Mary's perpetual virginity. Both traditions agree that Jesus elevates doing the Father's will as the mark of belonging to His family; they differ on whether Mary is thereby singled out as the model disciple and on the identity of His 'brethren.'",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The 'unforgivable' blasphemy against the Holy Ghost is understood in the Catholic tradition not as a single utterance that God is unable or unwilling to pardon, but as the settled, willful refusal of the Spirit's saving work—attributing the manifest goodness of God to evil and thereby closing oneself off from the repentance and mercy through which forgiveness is received. God's mercy remains infinite; the sin is 'unforgivable' because it rejects the very means of forgiveness.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant interpreters agree substantially, understanding the sin against the Spirit as a hardened, deliberate rejection of the Spirit's testimony to Christ—seen concretely in the Pharisees' calling His Spirit-empowered works demonic—rather than a random blasphemous word. Some place greater stress on its specific context in Jesus' earthly ministry. Both traditions affirm that the sin is grave precisely because it persistently spurns the Spirit who brings people to repentance, and that anyone anxious about having committed it has not.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.15",
+  "book": "Genesis",
+  "chapter": 15,
+  "canon": "protocanonical",
+  "summary": "The word of the LORD comes to Abram in a vision: \"Fear not, Abram: I am thy shield, and thy exceeding great reward.\" Abram voices his deepest anxiety, that he remains childless and his heir is a servant, Eliezer of Damascus. God answers that his own son will be his heir, then brings him outside: \"Look now toward heaven, and tell the stars, if thou be able to number them... So shall thy seed be.\" Then comes one of Scripture's pivotal verses: \"And he believed in the LORD; and he counted it to him for righteousness.\" To confirm the promise of the land, God directs a solemn covenant ceremony. Abram divides animals, and as the sun sets \"a deep sleep\" and \"an horror of great darkness\" fall on him. God foretells that his seed will be strangers and afflicted \"four hundred years\" in a land not theirs, then delivered \"with great substance,\" for \"the iniquity of the Amorites is not yet full.\" A \"smoking furnace, and a burning lamp\" pass between the divided pieces, and \"the LORD made a covenant with Abram,\" granting the land \"from the river of Egypt unto the great river, the river Euphrates.\" God alone passes through, binding himself unconditionally.",
+  "takeaways": [
+    "Abram's faith, \"counted... for righteousness,\" becomes the foundational biblical picture of justification by trusting God's promise.",
+    "God binds himself alone in the covenant ceremony, passing between the pieces as a \"smoking furnace\" and \"burning lamp,\" making the promise unconditional.",
+    "God foretells the Egyptian bondage and exodus centuries in advance, revealing his sovereign command of history.",
+    "The delay of judgment on the Amorites shows God's patience, waiting until \"the iniquity of the Amorites is not yet full.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "ROM.4",
+      "verses": "3,9",
+      "label": "Romans 4:3,9 — Abraham believed and it was counted for righteousness",
+      "why": "Paul quotes Genesis 15:6 as the cornerstone of his teaching that righteousness comes by faith, not works. He argues that Abraham was justified by believing God before circumcision, making this verse central to the doctrine of justification.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JAS.2",
+      "verses": "21-23",
+      "label": "James 2:21-23 — faith working with works fulfilled the Scripture",
+      "why": "James also cites Genesis 15:6, but reads it alongside Abraham's obedient offering of Isaac, teaching that faith is made complete by works. The pairing of James and Romans on this verse frames a major interpretive discussion.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.12",
+      "verses": "40-41",
+      "label": "Exodus 12:40-41 — the sojourn in Egypt ends",
+      "why": "God's prediction that Abram's seed would be afflicted in a land not theirs and then come out \"with great substance\" is fulfilled when Israel departs Egypt after generations of bondage. The covenant here forecasts the exodus in detail.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GAL.3",
+      "verses": "16-18",
+      "label": "Galatians 3:16-18 — the covenant of promise not annulled by the law",
+      "why": "Paul insists the covenant God confirmed to Abraham cannot be annulled by the later law, resting on the unconditional promise sealed in this chapter. The one-sided ceremony where God alone passes through supports the reading of grace as pure promise.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Catholic tradition understands \"he believed in the LORD; and he counted it to him for righteousness\" as describing a living faith that is the beginning and root of justification, a faith that includes trust and is expressed in obedience, as James shows in Abraham's later offering of Isaac.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant tradition, especially in the Reformation, reads this verse as the classic statement of justification by faith alone, with Abraham declared righteous by believing God apart from works, and understands James as describing the evidence of true faith rather than a second ground of justification. Both traditions affirm that Abraham's faith is genuine and that righteousness is God's gift received by faith.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

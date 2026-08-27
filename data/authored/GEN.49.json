@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.49",
+  "book": "Genesis",
+  "chapter": 49,
+  "canon": "protocanonical",
+  "summary": "Jacob gathers his twelve sons to tell them \"that which shall befall you in the last days.\" One by one he pronounces their destinies. Reuben, the firstborn, forfeits preeminence — \"unstable as water\" — for defiling his father's bed. Simeon and Levi are rebuked for violence: \"cursed be their anger... I will divide them in Jacob, and scatter them in Israel.\" Then comes the great blessing of Judah: \"thou art he whom thy brethren shall praise... Judah is a lion's whelp.\" Most famously, \"The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be\" — a royal, messianic promise. Jacob continues through Zebulun, Issachar, Dan (\"a serpent by the way\"), interjecting a prayer, \"I have waited for thy salvation, O LORD.\" He blesses Gad, Asher, Naphtali, and lavishly Joseph, \"a fruitful bough,\" strengthened \"by the hands of the mighty God of Jacob,\" recipient of blessings \"unto the utmost bound of the everlasting hills.\" Benjamin \"shall ravin as a wolf.\" These are \"the twelve tribes of Israel.\" Finally Jacob charges his sons to bury him in the cave of Machpelah with Abraham, Isaac, and their wives; then \"he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.\"",
+  "takeaways": [
+    "Jacob's deathbed oracles fix the future character and destiny of each tribe, tying the family's future to their fathers' deeds.",
+    "The prophecy over Judah — the enduring sceptre \"until Shiloh come\" — becomes a cornerstone of messianic hope.",
+    "Sin has consequences across generations: Reuben, Simeon, and Levi lose standing for past wrongs.",
+    "Even amid tribal blessings Jacob breaks off in prayer, \"I have waited for thy salvation, O LORD,\" naming hope in God as the deeper theme."
+  ],
+  "crossRefs": [
+    {
+      "target": "REV.5",
+      "verses": "5",
+      "label": "Revelation 5:5 — the Lion of the tribe of Judah",
+      "why": "John hears that \"the Lion of the tribe of Juda... hath prevailed,\" directly echoing Jacob's image of Judah as a lion's whelp. The New Testament identifies the enduring royal line of Judah with the triumphant Christ.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.1",
+      "verses": "1-3",
+      "label": "Matthew 1:1-3 — Jesus in the line of Judah",
+      "why": "Matthew traces Jesus' genealogy through Judah and his son Pharez, grounding Christ's royal claim in Jacob's blessing. The unbroken sceptre of Judah finds its fulfillment in the Messiah descended from that tribe.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "NUM.24",
+      "verses": "17",
+      "label": "Numbers 24:17 — a sceptre out of Israel",
+      "why": "Balaam's oracle foresees \"a Sceptre... out of Israel,\" reinforcing the royal-messianic language Jacob applies to Judah. The two prophecies together shape Israel's expectation of a coming king.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DEU.33",
+      "verses": "1-7",
+      "label": "Deuteronomy 33:1-7 — Moses blesses the tribes",
+      "why": "Moses' farewell blessing of the tribes deliberately parallels Jacob's, offering a later prophetic word over the same people. Comparing the two shows how Israel's tribal identity and destinies were carried forward in her tradition.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The prophecy that \"the sceptre shall not depart from Judah... until Shiloh come\" is read as a messianic prophecy pointing to Christ, the promised king of Judah's line to whom the nations gather.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters overwhelmingly agree this is a messianic text fulfilled in Christ, and much Christian tradition reads \"Shiloh\" as a title of the Messiah. Some note the Hebrew of the phrase is debated and offer alternate renderings (such as \"until he comes to whom it belongs\"), but the messianic sense is common ground. Both traditions see Judah's royal line culminating in Christ.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

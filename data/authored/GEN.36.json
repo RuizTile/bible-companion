@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.36",
+  "book": "Genesis",
+  "chapter": 36,
+  "canon": "protocanonical",
+  "summary": "This chapter is the genealogy of Esau, \"who is Edom,\" documenting the nation descended from Jacob's brother before the narrative returns to Jacob's line. It records Esau's Canaanite and Ishmaelite wives, Adah, Aholibamah, and Bashemath, and his sons Eliphaz, Reuel, and others born in Canaan. Because \"their riches were more than that they might dwell together,\" Esau moves away from his brother and settles \"in mount Seir,\" the text repeating \"Esau is Edom.\" It then lists his grandsons and the tribal chiefs, or \"dukes,\" that came of them, including Amalek, born to Eliphaz's concubine Timna. The chapter also catalogs the earlier inhabitants, the sons of Seir the Horite, and their dukes, whom Edom displaced. Finally it names \"the kings that reigned in the land of Edom, before there reigned any king over the children of Israel,\" a succession of eight rulers, and closes with a further list of Edomite dukes \"according to their habitations in the land of their possession: he is Esau the father of the Edomites.\" The record fulfills God's word that nations would come from both twin brothers.",
+  "takeaways": [
+    "Esau's line flourishes into a full nation with chiefs and kings, showing God's blessing extends even to the brother outside the chosen covenant line.",
+    "The separation of Esau to Seir because the land \"could not bear them\" peacefully resolves the brothers' story after their reconciliation.",
+    "The mention of Amalek plants the seed of a people who will become bitter enemies of Israel.",
+    "Recording that Edom had kings \"before there reigned any king over the children of Israel\" quietly notes Israel's own future monarchy."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.25",
+      "verses": "23-25",
+      "label": "Genesis 25:23-25 — two nations in Rebekah's womb",
+      "why": "God foretold that \"two nations\" were in Rebekah's womb and that the elder would serve the younger. This genealogy documents the fulfillment as Esau becomes the nation of Edom, distinct from Israel.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.17",
+      "verses": "8-16",
+      "label": "Exodus 17:8-16 — Amalek attacks Israel",
+      "why": "Amalek, whose birth is recorded here among Esau's descendants, later ambushes Israel in the wilderness, provoking perpetual enmity. The genealogy's brief note takes on weight in the light of that later conflict.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "OBA.1",
+      "verses": "1-4",
+      "label": "Obadiah 1:1-4 — prophecy against Edom",
+      "why": "Obadiah's whole prophecy is directed against Edom, Esau's nation catalogued here, for its pride and violence against its brother Jacob. This chapter identifies the people the prophet will one day judge.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAL.1",
+      "verses": "2-4",
+      "label": "Malachi 1:2-4 — Jacob loved, Esau hated",
+      "why": "Malachi contrasts God's covenant love for Jacob with His rejection of Esau and the laying waste of Edom's heritage. The nation whose founding this chapter records becomes the prophet's image of a line under judgment.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads Esau's genealogy as a testament to God's faithfulness beyond the elect line: the promise that nations would come from Isaac's sons is honored in Edom's prosperity, even as the chapter sets Esau's worldly line apart from the covenant lineage that carries the promise of salvation.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers, often citing Paul's later reflection on Jacob and Esau, tend to stress the theme of divine election, that God's redemptive purpose runs through Jacob's line by grace rather than birthright. Both traditions agree that Esau is genuinely blessed with descendants and land while the covenant of promise continues through Israel; the emphasis differs on how strongly to foreground election.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

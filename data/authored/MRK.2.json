@@ -1,0 +1,67 @@
+{
+  "ref": "MRK.2",
+  "book": "Mark",
+  "chapter": 2,
+  "canon": "protocanonical",
+  "summary": "Back in Capernaum, a crowd packs the house until \"there was no room to receive them.\" Four men, unable to reach Jesus, tear open the roof and lower a paralytic. Seeing \"their faith,\" Jesus says, \"Son, thy sins be forgiven thee.\" The scribes reason inwardly that this is blasphemy, \"for who can forgive sins but God only?\" Jesus answers by healing the man visibly, \"that ye may know that the Son of man hath power on earth to forgive sins,\" and the paralytic rises and walks. Jesus then calls Levi the tax collector from \"the receipt of custom\" and dines with \"publicans and sinners,\" answering critics with the memorable line, \"They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance.\" Questioned about fasting, he speaks of the bridegroom's presence and of new cloth and \"new wine\" that cannot be forced into old forms. Finally, when his disciples pluck grain on the sabbath, he cites David eating the shewbread and declares, \"The sabbath was made for man, and not man for the sabbath: therefore the Son of man is Lord also of the sabbath.\" Each scene deepens the collision between his authority and the religious establishment.",
+  "takeaways": [
+    "Jesus claims a divine prerogative, forgiving sins, then proves it with a visible healing, revealing who he is.",
+    "The gospel targets the sick and the sinner: \"I came not to call the righteous, but sinners to repentance.\"",
+    "New life in Christ cannot be contained by old, rigid structures; \"new wine must be put into new bottles.\"",
+    "Sabbath and law serve human flourishing under God, not the reverse, and the Son of man is their Lord."
+  ],
+  "crossRefs": [
+    {
+      "target": "1SA.21",
+      "verses": "1-6",
+      "label": "1 Samuel 21:1-6 — David eats the shewbread",
+      "why": "Jesus appeals to this episode to defend his disciples' sabbath grain-plucking, arguing that human need and mercy take precedence over ritual strictness. The reference grounds his authority in Scripture the Pharisees themselves revered.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.103",
+      "verses": "3",
+      "label": "Psalm 103:3 — the Lord who forgiveth all thine iniquities",
+      "why": "The scribes rightly hold that God alone forgives sins, an idea the Psalms confess directly. By forgiving the paralytic, Jesus implicitly claims the very prerogative this psalm ascribes to the Lord, sharpening the question of his identity.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.5",
+      "verses": "17-39",
+      "label": "Luke 5:17-39 — parallel: paralytic, Levi, fasting, new wine",
+      "why": "Luke recounts the same sequence of controversies almost step for step, confirming the tradition. Comparing the accounts shows how the early Church preserved these disputes as a unified portrait of Jesus' authority to forgive and to reinterpret the law.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HOS.6",
+      "verses": "6",
+      "label": "Hosea 6:6 — I desired mercy, and not sacrifice",
+      "why": "Jesus' welcome of \"publicans and sinners\" and his preference for the sick over the self-righteous embodies the prophetic principle that God values mercy above ritual. The connection frames his table fellowship as fulfillment of Israel's own deepest teaching.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "That Jesus, seeing the men's faith, both forgives sins and heals is read in the Catholic tradition as pointing toward the Church's ministry of reconciliation, in which Christ's authority to forgive sins on earth is exercised through his appointed ministers, so that the visible act signifies a real interior grace.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers emphasize that the text shows Christ himself, as \"the Son of man,\" possessing and exercising the power to forgive, and stress direct forgiveness through faith in him. Both traditions agree the passage proves Jesus' divine authority; they differ on whether and how that authority is mediated through the Church's ordained ministry thereafter.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

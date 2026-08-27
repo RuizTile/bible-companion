@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.37",
+  "book": "Genesis",
+  "chapter": 37,
+  "canon": "protocanonical",
+  "summary": "The story of Joseph begins as Jacob “loved Joseph more than all his children, because he was the son of his old age,” and marked him out with “a coat of many colours.” The favoritism breeds resentment: his brethren “hated him, and could not speak peaceably unto him.” Joseph deepens the rift by recounting two dreams in which sheaves, then “the sun and the moon and the eleven stars,” make obeisance to him. Even his father rebukes him, yet “observed the saying.” Sent to check on his brothers at Dothan, Joseph is seen “afar off,” and they conspire, “Behold, this dreamer cometh... let us slay him.” Reuben intervenes to save his life, urging they only cast him into a pit; Judah then proposes selling him rather than shedding blood. The brothers sell Joseph to passing traders “for twenty pieces of silver,” and he is carried into Egypt. They dip his coat in goat’s blood and deceive their father, who mourns inconsolably: “I will go down into the grave unto my son mourning.” The chapter closes with Joseph sold to Potiphar, setting the stage for a providential reversal.",
+  "takeaways": [
+    "Parental favoritism and unchecked jealousy fracture a family, showing how sin ripens from resentment into conspiracy and violence.",
+    "God’s purposes advance even through human malice: the very act meant to destroy Joseph’s dreams becomes the path to their fulfillment.",
+    "Joseph’s dreams of obeisance mark him as a chosen instrument, though suffering and exile precede exaltation.",
+    "Deception has a long reach: Jacob who once deceived his own father with a goat and a garment is now deceived by his sons with the same."
+  ],
+  "crossRefs": [
+    {
+      "target": "ACT.7",
+      "verses": "9-10",
+      "label": "Acts 7:9-10 — Stephen recounts the patriarchs selling Joseph",
+      "why": "Stephen names the brothers’ envy as the reason Joseph was sold into Egypt, yet “God was with him,” framing the episode as part of salvation history. This ties Genesis 37 directly to the early Church’s reading of Israel’s story.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.50",
+      "verses": "20",
+      "label": "Genesis 50:20 — “ye thought evil against me; but God meant it unto good”",
+      "why": "Joseph’s later verdict interprets the whole arc that begins here: the brothers’ harm is woven by God into deliverance. It supplies the theological key to the suffering set in motion in this chapter.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.27",
+      "verses": "3-9",
+      "label": "Matthew 27:3-9 — Judas and the pieces of silver",
+      "why": "Christian tradition, especially in Catholic typology, reads Joseph — the beloved son betrayed by his brethren and sold for silver — as a foreshadowing of Christ, betrayed by Judas for silver. The parallel of the innocent one handed over is drawn out in the Gospel.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "PSA.105",
+      "verses": "16-19",
+      "label": "Psalm 105:16-19 — Joseph “sold for a servant”",
+      "why": "The psalmist rehearses Joseph’s sale and imprisonment as God’s providential preparation before famine. It shows Israel’s worship remembering this chapter as a testimony to divine faithfulness.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Catholic tradition reads Joseph as a type (praefiguration) of Christ: the beloved son, rejected and sold by his own brethren, who descends into a “pit” and exile only to become the savior of those who wronged him.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally affirm the same Christ-pointing pattern of providence and foreshadowing, while cautioning against pressing every detail into allegory. Both traditions agree the primary sense is historical and that the theme of God bringing good out of evil is the chapter’s clearest lesson.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

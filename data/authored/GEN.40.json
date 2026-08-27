@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.40",
+  "book": "Genesis",
+  "chapter": 40,
+  "canon": "protocanonical",
+  "summary": "In prison Joseph is charged with two of Pharaoh’s disgraced officers, the chief butler and the chief baker, who each dream a dream in a single night and wake troubled: “there is no interpreter of it.” Joseph turns their despair toward God: “Do not interpretations belong to God? tell me them, I pray you.” The butler describes a vine with three branches and Pharaoh’s cup; Joseph declares the three branches are three days, after which Pharaoh “shall lift up thine head, and restore thee unto thy place.” Encouraged, the baker recounts three white baskets of bakemeats that birds devour; Joseph must give a grim reading — within three days Pharaoh “shall lift up thy head from off thee, and shall hang thee on a tree.” Joseph asks the butler to remember him: “think on me when it shall be well with thee... make mention of me unto Pharaoh.” On Pharaoh’s birthday the interpretations come true exactly: the butler is restored, the baker is hanged. Yet the chapter ends on a note of forgotten kindness — “Yet did not the chief butler remember Joseph, but forgat him.”",
+  "takeaways": [
+    "Joseph credits God as the source of true interpretation, deflecting glory away from himself even while imprisoned.",
+    "God gives insight that is precisely fulfilled, confirming that events unfold under his sovereign timing.",
+    "Human gratitude is fickle — the butler forgets his benefactor — but God’s remembrance does not fail.",
+    "Faithful service and honest speech, even the hard word to the baker, mark Joseph’s character in obscurity."
+  ],
+  "crossRefs": [
+    {
+      "target": "DAN.2",
+      "verses": "27-30",
+      "label": "Daniel 2:27-30 — interpretation belongs to God alone",
+      "why": "Like Joseph, Daniel insists to a pagan king that no wise man can reveal the mystery, “but there is a God in heaven that revealeth secrets.” Both exiles rise by God-given interpretation of dreams, a shared pattern of the faithful in foreign courts.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.41",
+      "verses": "9-13",
+      "label": "Genesis 41:9-13 — the butler finally remembers Joseph",
+      "why": "The forgotten kindness of this chapter is redeemed when the butler, at Pharaoh’s crisis, recalls the Hebrew who interpreted rightly. God’s timing overrides human forgetfulness to bring Joseph before Pharaoh.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.37",
+      "verses": "5-9",
+      "label": "Genesis 37:5-9 — Joseph’s own dreams",
+      "why": "The one whose dreams provoked his brothers now interprets others’ dreams from a prison cell. The reversal shows Joseph as both dreamer and God-given interpreter, threads that converge in his rise.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.105",
+      "verses": "19",
+      "label": "Psalm 105:19 — “the word of the LORD tried him”",
+      "why": "The psalm interprets Joseph’s long testing as the refining of God’s word within him before his exaltation. The prison and its dreams are part of that trial that proves faithful.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Some in the Catholic and patristic tradition see the restored butler and executed baker as a figure of the two thieves crucified with Christ — one lifted up to life, one to death — and read the three days until each man’s fate as an echo of the three days to resurrection.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters tend to focus on the plain narrative meaning — God’s power to reveal the future and Joseph’s faithful witness — treating any typological reading of the three days as a secondary, devotional application rather than the text’s primary sense. Both traditions agree the fulfilled interpretations vindicate God as the giver of true knowledge.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

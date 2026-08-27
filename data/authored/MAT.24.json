@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.24",
+  "book": "Matthew",
+  "chapter": 24,
+  "canon": "protocanonical",
+  "summary": "Matthew 24 opens the \"Olivet Discourse.\" As the disciples admire the temple, Jesus foretells its total ruin: \"There shall not be left here one stone upon another.\" On the Mount of Olives they ask three things: \"when shall these things be? and what shall be the sign of thy coming, and of the end of the world?\" Jesus answers first with warnings against deception—\"Take heed that no man deceive you\"—for \"many shall come in my name\" and \"false prophets shall rise.\" Wars, famines, earthquakes, and persecution are only \"the beginning of sorrows\"; \"because iniquity shall abound, the love of many shall wax cold,\" yet \"he that shall endure unto the end, the same shall be saved,\" and \"this gospel of the kingdom shall be preached in all the world\" before the end. He points to \"the abomination of desolation, spoken of by Daniel,\" urging flight from Judaea in \"great tribulation.\" His coming will be unmistakable and universal—\"as the lightning cometh out of the east\"—following cosmic signs, when \"they shall see the Son of man coming in the clouds of heaven with power and great glory\" and His angels \"gather together his elect from the four winds.\" The fig tree teaches watchfulness: when these signs appear, \"it is near, even at the doors.\" Yet \"of that day and hour knoweth no man, no, not the angels... but my Father only.\" So the disciples must \"watch,\" ready like a householder against a thief, and be the \"faithful and wise servant\" found doing his lord's work rather than the \"evil servant\" who presumes on delay.",
+  "takeaways": [
+    "Jesus foretells the temple's destruction—\"not... one stone upon another\"—fulfilled in AD 70, which frames the whole discourse and prompts the disciples' questions.",
+    "The dominant command is discernment and endurance: guard against deceivers and false christs, and \"he that shall endure unto the end, the same shall be saved.\"",
+    "The gospel's worldwide proclamation precedes the end—\"preached in all the world for a witness unto all nations; and then shall the end come.\"",
+    "Christ's return will be public, glorious, and unmistakable—\"as the lightning\"—not a secret arrival to be found \"in the desert\" or \"in the secret chambers.\"",
+    "The timing is hidden even from the angels—\"of that day and hour knoweth no man... but my Father only\"—so the fitting response is constant watchfulness and faithful service."
+  ],
+  "crossRefs": [
+    {
+      "target": "DAN.9",
+      "label": "Daniel 9:27 — the \"abomination that maketh desolate\"",
+      "why": "Jesus explicitly names \"the abomination of desolation, spoken of by Daniel the prophet\" (v. 15). Daniel's prophecy of a desecration of the sanctuary is the source text Jesus tells readers to \"understand,\" anchoring the discourse in Israel's prophetic expectation.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DAN.7",
+      "label": "Daniel 7:13-14 — \"one like the Son of man\" coming with the clouds",
+      "why": "Jesus' picture of \"the Son of man coming in the clouds of heaven with power and great glory\" (v. 30) draws directly on Daniel's vision of a human figure receiving an everlasting kingdom. It identifies His return with the enthronement of the Danielic Son of man.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.7",
+      "label": "Genesis 7 — the flood in the days of Noah",
+      "why": "Jesus compares His coming to \"the days of Noe,\" when people \"knew not until the flood came, and took them all away\" (vv. 37-39). The flood narrative supplies the model of sudden judgment overtaking a heedless world, underscoring the call to watchfulness.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.13",
+      "label": "Isaiah 13:10 — sun darkened, moon and stars withholding light",
+      "why": "The cosmic signs of verse 29—sun darkened, moon giving no light, stars falling—echo the prophetic \"day of the LORD\" imagery in Isaiah. Jesus casts His coming in the language of Israel's prophets, where cosmic upheaval signals decisive divine judgment.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic interpretive tradition reads the Olivet Discourse as layered rather than referring to a single event: Jesus answers a compound question (v. 3) and blends the near judgment on Jerusalem and its temple (AD 70) with the far horizon of His final coming and \"the end of the world.\" On this reading, verse 34—\"This generation shall not pass, till all these things be fulfilled\"—applies especially to the temple's destruction within the disciples' lifetime, while the cosmic coming of the Son of man (vv. 29-31) opens onto the Last Judgment. This preserves the truthfulness of Jesus' words about \"this generation\" without requiring that the visible second coming occurred in the first century.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters divide on this chapter. Many futurist readers agree with the two-horizon approach, taking verse 34 to refer to the temple's fall while the coming of the Son of man remains future. Others—including preterist-leaning Reformed interpreters—argue that most of the discourse, including the coming \"in the clouds,\" was fulfilled in the judgment of AD 70, reading verse 34 strictly of the first-century generation. Dispensational readers, by contrast, locate the great tribulation and the gathering of the elect in a still-future period. All camps take Jesus' warning against deception and His call to endurance as directly binding, and all affirm a real final return of Christ; they differ chiefly on how much of Matthew 24 describes AD 70 versus the end of history.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

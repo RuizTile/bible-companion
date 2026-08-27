@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.28",
+  "book": "Genesis",
+  "chapter": 28,
+  "canon": "protocanonical",
+  "summary": "Genesis 28 sends Jacob out and gives him a vision of heaven. Isaac blesses Jacob openly this time, charging him not to marry a Canaanite but to go to Padan-aram to Laban's house, and invoking \"the blessing of Abraham\" so that he may \"inherit the land wherein thou art a stranger.\" Esau, seeing that Canaanite wives displease his parents, marries a daughter of Ishmael. Jacob leaves Beer-sheba toward Haran and, at a certain place, uses a stone for a pillow and sleeps. He dreams of \"a ladder set up on the earth, and the top of it reached to heaven,\" with \"the angels of God ascending and descending on it.\" The LORD stands above it and renews the covenant: \"I am the LORD God of Abraham thy father, and the God of Isaac,\" promising the land, descendants \"as the dust of the earth,\" blessing to \"all the families of the earth,\" and personal protection: \"I am with thee, and will keep thee in all places whither thou goest.\" Jacob awakes in awe: \"Surely the LORD is in this place; and I knew it not... this is none other but the house of God, and this is the gate of heaven.\" He sets up the stone as a pillar, pours oil on it, names the place Beth-el (\"house of God\"), and vows that if God keeps him, \"then shall the LORD be my God,\" pledging a tenth of all he receives.",
+  "takeaways": [
+    "The covenant promised to Abraham and Isaac is now spoken directly to fleeing, fearful Jacob, showing that God's electing grace reaches the undeserving exile, not only the settled patriarch.",
+    "God meets Jacob with presence and protection—'I am with thee, and will keep thee'—precisely when he is most alone and vulnerable, on the run from the brother he wronged.",
+    "The ladder linking earth and heaven, with angels ascending and descending, reveals that God bridges the gap between His holiness and human life; heaven is nearer than Jacob knew.",
+    "Jacob responds with worship and commitment: he consecrates the place as Beth-el, vows loyalty to the LORD, and pledges a tithe, turning an encounter with God into a lasting devotion."
+  ],
+  "crossRefs": [
+    {
+      "target": "JHN.1",
+      "verses": "51",
+      "label": "John 1:51 — 'the angels of God ascending and descending upon the Son of man'",
+      "why": "Jesus applies the imagery of Jacob's ladder directly to Himself, identifying the Son of Man as the true meeting point of heaven and earth. Christian tradition thus reads Bethel's ladder as foreshadowing Christ, the one Mediator.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.12",
+      "verses": "2-3",
+      "label": "Genesis 12:2-3 — the original Abrahamic promise of blessing to all families",
+      "why": "God's words to Jacob at Bethel—descendants like the dust and blessing to 'all the families of the earth'—directly renew the promise first made to Abraham, showing the covenant passing to the third generation.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.35",
+      "verses": "1-7",
+      "label": "Genesis 35:1-7 — Jacob returns to Bethel to fulfill his vow",
+      "why": "God later calls Jacob back to Bethel to build an altar 'unto God, that appeared unto thee when thou fleddest,' completing the vow he made here. The two passages frame Jacob's journey out and home again around this holy place.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.13",
+      "verses": "5",
+      "label": "Hebrews 13:5 — 'I will never leave thee, nor forsake thee'",
+      "why": "The New Testament assurance of God's abiding presence echoes His promise to Jacob, 'I am with thee... I will not leave thee.' Believers are invited to claim the same accompanying presence Jacob received at Bethel.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads Bethel as a figure of sacred place and sacramental presence: Jacob's cry 'this is the house of God, and this is the gate of heaven' has long been applied to the Church and its holy places, where heaven and earth meet, and his anointing of the stone pillar prefigures the consecration of altars and churches. The ladder is seen as a type of Christ, and also of Mary in some devotional readings, as the way by which God descends and humanity ascends.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters affirm that the ladder points to Christ as the mediator, following John 1:51, and value Bethel as a genuine encounter with God. They tend to be more reticent about extending 'house of God' and 'gate of heaven' to consecrated buildings, stressing that under the New Covenant God's dwelling is with His people and in Christ rather than in a physical location.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

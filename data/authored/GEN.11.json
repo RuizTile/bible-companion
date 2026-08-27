@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.11",
+  "book": "Genesis",
+  "chapter": 11,
+  "canon": "protocanonical",
+  "summary": "The chapter opens when \"the whole earth was of one language, and of one speech.\" Migrating to a plain in Shinar, humanity resolves, \"Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad.\" Their unity becomes an instrument of pride and self-sufficiency. The LORD \"came down to see the city and the tower,\" and, judging that \"nothing will be restrained from them,\" he confounds their language so \"that they may not understand one another's speech.\" The unfinished city is named Babel, \"because the LORD did there confound the language of all the earth,\" and the people are scattered across the world. The second half turns from judgment to promise. A genealogy from Shem to Terah narrows the whole human story down to one family, noting that \"Sarai was barren; she had no child.\" Terah takes Abram, Sarai, and Lot from \"Ur of the Chaldees\" toward Canaan, settling in Haran. From the scattered nations and a childless couple, God prepares the line through which he will begin to gather the world back to himself.",
+  "takeaways": [
+    "Human pride seeks to \"make us a name,\" but God alone gives an enduring name, and self-exaltation invites judgment.",
+    "The confusion of languages is both a judgment and a mercy, checking humanity's unified capacity for evil.",
+    "The narrowing genealogy from Shem to Abram shows God moving from the scattered nations to a single chosen line.",
+    "Sarai's barrenness sets up the central tension of the Abraham story: God's promise will depend on his power, not human ability."
+  ],
+  "crossRefs": [
+    {
+      "target": "ACT.2",
+      "verses": "1-11",
+      "label": "Acts 2:1-11 — Pentecost reverses Babel",
+      "why": "At Pentecost the Spirit enables the apostles to be understood by people \"out of every nation,\" each in their own tongue. The early Church saw this as the reversal of Babel: where sin scattered by confusing speech, the Spirit gathers by making the gospel understood.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.12",
+      "verses": "1-3",
+      "label": "Genesis 12:1-3 — the call and blessing of Abram",
+      "why": "The Babel builders wanted to make their own name great; immediately after, God promises Abram, \"I will make thy name great.\" The genealogy of chapter 11 leads directly into this call, contrasting human ambition with divine gift.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JOS.24",
+      "verses": "2-3",
+      "label": "Joshua 24:2-3 — Abraham brought from beyond the river",
+      "why": "Joshua recalls that Abraham's fathers dwelt beyond the river and served other gods, and that God took Abraham from that land. This looks back to the departure from Ur and Haran recorded here, framing the call as pure divine initiative.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.11",
+      "verses": "8",
+      "label": "Hebrews 11:8 — Abraham's faith in leaving his country",
+      "why": "Hebrews praises Abraham for obeying God's call to go out \"not knowing whither he went.\" The journey from Ur toward Canaan described in Genesis 11 becomes the pattern of faith commended in the New Testament.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Catholic tradition reads Babel and Pentecost together liturgically: the scattering of Babel is healed by the Holy Spirit at Pentecost, when the Church, gathered from many tongues, becomes the sign of restored human unity in Christ.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers also see Pentecost as answering Babel, but often stress that the miracle is the intelligibility of the gospel proclamation rather than the founding of an institutional unity. Both traditions agree that God overcomes the division of Babel through the Spirit and the spread of the gospel.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

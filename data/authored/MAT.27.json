@@ -1,0 +1,74 @@
+{
+  "ref": "MAT.27",
+  "book": "Matthew",
+  "chapter": 27,
+  "canon": "protocanonical",
+  "summary": "Matthew 27 carries Jesus from dawn condemnation to the sealed tomb. The chief priests bind Him and hand Him to Pilate. Judas, seeing Jesus condemned, \"repented himself,\" returns the thirty pieces of silver confessing \"I have betrayed the innocent blood,\" and hangs himself; the priests buy the potter's field with the blood-money, which Matthew reads as fulfilling prophecy. Before Pilate, Jesus answers the charge \"Art thou the King of the Jews?\" with \"Thou sayest,\" then keeps silence \"to never a word.\" Pilate, warned by his wife about \"that just man\" and knowing the leaders acted \"for envy,\" offers Barabbas or Jesus; the crowd, persuaded by the priests, demands crucifixion. Pilate washes his hands—\"I am innocent of the blood of this just person\"—and the people answer, \"His blood be on us, and on our children.\" Barabbas is released; Jesus is scourged, mocked with a scarlet robe and crown of thorns, and led out. Simon of Cyrene bears the cross to Golgotha, where Jesus is crucified between two thieves under the title \"THIS IS JESUS THE KING OF THE JEWS.\" He refuses the drugged vinegar; His garments are parted by lot. Reviled by passers-by and priests to \"come down from the cross,\" He cries \"Eli, Eli, lama sabachthani?\" and \"yielded up the ghost.\" The temple veil tears top to bottom, the earth quakes, graves open, and the centurion confesses, \"Truly this was the Son of God.\" Joseph of Arimathaea lays Him in a new tomb; the priests set a watch and seal the stone.",
+  "takeaways": [
+    "Jesus dies as an innocent condemned man: Judas confesses he betrayed \"innocent blood,\" Pilate's wife calls Him \"that just man,\" and Pilate himself protests he is \"innocent of the blood of this just person\"—the text presses His guiltlessness from every side.",
+    "His silence before Pilate—answering \"to never a word\"—shows a chosen, sovereign submission rather than helplessness, echoing the Servant who \"opened not his mouth.\"",
+    "The mockery is dense with irony: the scarlet robe, thorn-crown, reed-sceptre, and the placard \"KING OF THE JEWS\" proclaim, in scorn, the very truth they deny—Jesus reigns from the cross.",
+    "The cry \"My God, my God, why hast thou forsaken me?\" opens Psalm 22, voicing the depth of His suffering while invoking a psalm that ends in vindication and the praise of God among the nations.",
+    "The death is marked by cosmic and covenantal signs—darkness, the temple veil rent top to bottom, earthquake, and opened graves—culminating in a Gentile centurion's confession, \"Truly this was the Son of God.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "PSA.22",
+      "label": "Psalm 22 — \"My God, my God, why hast thou forsaken me\" and \"they parted my garments\"",
+      "why": "Jesus' cry from the cross is the opening line of Psalm 22, and Matthew explicitly notes the soldiers casting lots for His garments as the psalm foretold. The whole psalm—mockery, pierced hands, dividing of clothes, and a final turn to vindication and worldwide worship—stands behind the crucifixion scene, so the cry is a lament that already reaches toward hope.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.53",
+      "label": "Isaiah 53 — the Suffering Servant who \"opened not his mouth\"",
+      "why": "Jesus' silence before His accusers, His numbering with transgressors (the two thieves), His death for others though innocent, and His burial with a rich man all map onto Isaiah's Servant song. Matthew's passion reads as the enactment of the Servant who is \"wounded for our transgressions.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.10",
+      "label": "Hebrews 10:19-22 — access to the sanctuary \"through the veil, that is to say, his flesh\"",
+      "why": "The tearing of the temple veil from top to bottom at Jesus' death is interpreted by Hebrews as the opening of a \"new and living way\" into God's presence through the flesh of Christ. The physical sign in Matthew corresponds to the theological claim in Hebrews that direct access to God is now granted through the crucified body of Jesus.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ZEC.11",
+      "label": "Zechariah 11:12-13 — thirty pieces of silver cast to the potter",
+      "why": "The thirty pieces of silver, thrown down in the temple and used to buy the potter's field, closely echo Zechariah's prophecy of the shepherd's wage cast \"to the potter in the house of the LORD.\" Matthew attributes the fulfillment to Jeremiah, but the wording draws chiefly on Zechariah, tying Judas's betrayal-money to Israel's prophetic history.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Verse 25—\"His blood be on us, and on our children\"—has a fraught history of being read as a curse on the Jewish people. The Catholic Church, especially since the Second Vatican Council, explicitly rejects that reading: neither all Jews present at the Passion, nor Jews of later ages, may be charged with Christ's death as a collective guilt. The Church teaches that the responsibility for Jesus' suffering falls on the sins of all humanity, and that Christians bear the gravest responsibility, since it is for their sins that Christ died. The verse records a self-imprecation by a manipulated crowd, not a divine verdict on a nation.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Mainstream Protestant interpreters likewise repudiate any antisemitic use of this verse and reject the notion of an inherited collective guilt on the Jewish people, reading verse 25 as the tragic cry of a particular crowd in a particular moment. Some Reformed readers additionally see the line, in Matthew's ironic literary register, as unwittingly true in a redemptive sense—that Christ's blood, far from condemning, is precisely what cleanses those who repent—so that the mob asks for what could become their salvation. Both traditions agree the verse is not a warrant for blaming Jews across history and that Jesus dies for the sins of all.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The rending of the temple veil \"from the top to the bottom\" is read in the Catholic tradition as more than a portent of judgment on the old temple: it signals that in Christ's death the barrier between God and humanity is opened from God's side downward. The Holy of Holies is no longer sealed; access to the Father is now given through the offered body of Christ, a truth the Church sees carried forward in the Eucharistic sacrifice that re-presents Calvary.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters share the core reading—that the torn veil, rent from top to bottom by God rather than by human hands, signifies that free access to God is now opened through Christ's finished sacrifice (as Hebrews teaches). They typically emphasize that this access is granted once for all by Christ's single atoning death and received directly by faith, and would not tie the sign to an ongoing sacrificial re-presentation in worship. Both traditions affirm that the crucified Christ is the sole way into God's presence.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

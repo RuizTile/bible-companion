@@ -1,0 +1,57 @@
+{
+  "ref": "MAT.5",
+  "book": "Matthew",
+  "chapter": 5,
+  "canon": "protocanonical",
+  "summary": "Matthew 5 opens the Sermon on the Mount, Jesus' foundational teaching to His disciples. Seeing the crowds, He goes up a mountain and begins with the Beatitudes, blessing the poor in spirit, those who mourn, the meek, those who hunger for righteousness, the merciful, the pure in heart, the peacemakers, and those persecuted for righteousness' sake—each with a promised reward, from the kingdom of heaven to seeing God. He tells the disciples they are \"the salt of the earth\" and \"the light of the world,\" a city on a hill whose good works should glorify the Father. Jesus then declares He came not to destroy the Law and the Prophets but to fulfill them, insisting that not one jot or tittle will pass and that His followers' righteousness must exceed that of the scribes and Pharisees. He intensifies the Law through a series of contrasts (\"Ye have heard... but I say unto you\"): anger is likened to murder, lustful looking to adultery, and He teaches against easy divorce, against swearing oaths, and against retaliation—commanding instead to turn the other cheek, give freely, and go the extra mile. The chapter climaxes with the command to love enemies and pray for persecutors, so as to be children of the Father who sends sun and rain on all, ending with the call: \"Be ye therefore perfect, even as your Father which is in heaven is perfect.\"",
+  "takeaways": [
+    "The Beatitudes redefine blessedness around humility, mercy, purity, and peacemaking rather than power or status, promising the kingdom to the poor in spirit and the persecuted.",
+    "Disciples are \"salt of the earth\" and \"light of the world\": their good works are meant to be visible so that others glorify the Father, not to win praise for themselves.",
+    "Jesus fulfills rather than abolishes the Law and Prophets—not one \"jot or tittle\" passes away—and He demands a righteousness that exceeds that of the scribes and Pharisees.",
+    "Through the six \"ye have heard... but I say unto you\" contrasts, Jesus moves the Law inward to the heart: anger is akin to murder, a lustful look to adultery, and He teaches against retaliation, false oaths, and easy divorce.",
+    "The chapter's summit is love of enemies and prayer for persecutors, imitating the Father who \"maketh his sun to rise on the evil and on the good,\" and the call, \"Be ye therefore perfect, even as your Father which is in heaven is perfect.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "LUK.6",
+      "label": "Luke 6:20-49 — the Sermon on the Plain",
+      "why": "Luke records a parallel discourse with its own version of the Beatitudes (and matching woes) and the command to love enemies, offering a companion account of the same core teaching of Jesus.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.20",
+      "label": "Exodus 20 — the Ten Commandments",
+      "why": "Jesus' \"ye have heard... but I say unto you\" antitheses directly engage commandments such as \"Thou shalt not kill\" and \"Thou shalt not commit adultery,\" which He deepens rather than discards, showing His relationship to the Mosaic Law.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LEV.19",
+      "label": "Leviticus 19:18 — \"Thou shalt love thy neighbour\"",
+      "why": "Jesus quotes the command to love one's neighbor and then extends it beyond the popular addition \"hate thine enemy,\" commanding love of enemies as the mark of the children of God.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic reading, verse 48—\"Be ye therefore perfect\"—together with the Beatitudes forms a genuine call to holiness and growth in charity, cooperating with grace. The Sermon is seen as a true way of life for disciples, and the Beatitudes are traditionally read as describing the path of Christian perfection and the fruit of the theological and moral virtues.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant (especially Reformed) interpreters emphasize that the Sermon's radical demands, including 'be perfect,' expose human inability and drive the hearer to grace and justification by faith, functioning first to reveal the standard of the Law rather than as an attainable program. Others across the Protestant spectrum read it as genuine discipleship ethics for the regenerate. Both traditions affirm the text is authoritative teaching of Jesus; they differ on how far it functions as attainable ethic versus a mirror exposing need for grace.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

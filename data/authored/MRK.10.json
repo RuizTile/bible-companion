@@ -1,0 +1,67 @@
+{
+  "ref": "MRK.10",
+  "book": "Mark",
+  "chapter": 10,
+  "canon": "protocanonical",
+  "summary": "In Judæa the Pharisees test Jesus on divorce. Where Moses \"suffered to write a bill of divorcement\" for \"the hardness of your heart,\" Jesus appeals to creation: \"from the beginning of the creation God made them male and female,\" and \"they twain shall be one flesh\"—therefore \"What God hath joined together, let not man put asunder.\" He blesses the children brought to Him, teaching that one must \"receive the kingdom of God as a little child.\" A rich man asks how to inherit eternal life; keeping the commandments is not enough—\"One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor\"—but he goes away grieved, \"for he had great possessions.\" Jesus marvels how hard it is for the rich to enter, \"easier for a camel to go through the eye of a needle,\" yet \"with God all things are possible.\" He promises the hundredfold, \"with persecutions,\" to those who leave all. A third time He foretells His death and rising. When James and John seek seats of glory, He teaches that greatness is service: \"whosoever will be great among you, shall be your minister,\" for \"the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.\" At Jericho, blind Bartimæus cries, \"Thou Son of David, have mercy on me,\" and is healed—\"thy faith hath made thee whole.\"",
+  "takeaways": [
+    "Marriage is rooted in God's creating purpose—one flesh, joined by God—so Jesus restores its permanence beyond Moses' concession to hard hearts.",
+    "The kingdom belongs to those who come like little children and who hold possessions loosely; riches easily become an obstacle to entering it.",
+    "Discipleship reorders greatness into service: the Son of man Himself came \"to minister, and to give his life a ransom for many.\"",
+    "Bartimæus shows persevering faith that cries out to the \"Son of David\" and, once healed, follows Jesus \"in the way.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.2",
+      "verses": "24",
+      "label": "Genesis 2:24 — a man leaves father and mother and cleaves to his wife, one flesh",
+      "why": "Jesus quotes the creation account word for word to establish the permanence and unity of marriage. By returning \"to the beginning,\" He grounds His teaching on divorce in God's original design rather than in Moses' concession.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.20",
+      "verses": "12-16",
+      "label": "Exodus 20:12-16 — the commandments against killing, adultery, theft, and false witness",
+      "why": "Jesus recites the Decalogue to the rich man as the known path of life before calling him beyond it. The cross-reference shows the commandments as the assumed foundation on which Jesus' further demand of wholehearted surrender rests.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.19",
+      "verses": "3-30",
+      "label": "Matthew 19:3-30 — divorce, the children, and the rich young man",
+      "why": "Matthew reports the same sequence of teachings with additional detail, including the exception clause in the divorce saying. Comparing the accounts illuminates Mark's compressed narrative and the shared demands of the kingdom.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.53",
+      "verses": "10-12",
+      "label": "Isaiah 53:10-12 — the servant pours out his soul and bears the sin of many",
+      "why": "Jesus' saying that He gives \"his life a ransom for many\" echoes the suffering servant who bears the sin of many and justifies them. The cross-reference frames His death as the redemptive self-offering foretold by the prophet.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads Jesus' teaching on marriage as establishing its indissolubility: what God has joined, no human authority may dissolve, so a valid, consummated sacramental marriage cannot be ended by divorce and remarriage. Mark's account, which records no exception clause, is often taken as the plainest form of this teaching, undergirding the Church's discipline that later remarriage after such a union involves adultery.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant interpreters hold that Jesus reaffirms marriage's lifelong intent while allowing, in limited cases, that divorce and remarriage may be permissible—commonly appealing to Matthew's \"except for fornication\" clause and to Paul's teaching on desertion. In this view the ideal is permanence, but a broken covenant may in certain circumstances be recognized. Both traditions affirm that marriage is meant to be lifelong and that God joins husband and wife; they differ on whether any exceptions to indissolubility are granted.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

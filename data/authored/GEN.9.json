@@ -1,0 +1,77 @@
+{
+  "ref": "GEN.9",
+  "book": "Genesis",
+  "chapter": 9,
+  "canon": "protocanonical",
+  "summary": "After the flood, God renews the creation mandate to Noah and his sons: \"Be fruitful, and multiply, and replenish the earth.\" Humanity is granted animals for food but forbidden to eat \"flesh with the life thereof, which is the blood thereof,\" and God requires an accounting for shed human blood, \"for in the image of God made he man.\" God then establishes an everlasting covenant, not only with Noah but with \"every living creature,\" promising never again to destroy the earth by flood. The sign of this covenant is the rainbow: \"I do set my bow in the cloud.\" The chapter closes with a sobering scene. Noah, now a husbandman, plants a vineyard, drinks the wine, and lies uncovered in his tent. Ham sees his father's nakedness and reports it, while Shem and Japheth walk backward to cover Noah without looking. Upon waking, Noah pronounces a curse on Canaan and blessings on Shem and Japheth, words that shape the destinies of nations. Noah lives \"three hundred and fifty years\" after the flood and dies at nine hundred and fifty. The chapter joins fresh grace with human frailty, showing that even the saved remain in need of mercy.",
+  "takeaways": [
+    "God's covenant with Noah reaches beyond humanity to \"every living creature,\" grounding a universal, unconditional promise of divine restraint.",
+    "Human life carries unique dignity because man is made \"in the image of God\"; this is the stated reason for prohibiting murder.",
+    "The rainbow is a sacramental sign: a visible token pointing to an invisible pledge that God will remember his covenant.",
+    "Even the righteous Noah falls, showing that salvation from judgment does not remove the need for ongoing grace."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.1",
+      "verses": "27-28",
+      "label": "Genesis 1:27-28 — the original creation mandate and the image of God",
+      "why": "God's words to Noah deliberately echo the first blessing to Adam and Eve, presenting the post-flood world as a renewed creation. The reason given for protecting human life, being made in God's image, is drawn directly from the creation account.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.54",
+      "verses": "9-10",
+      "label": "Isaiah 54:9-10 — God recalls his oath to Noah",
+      "why": "Isaiah names \"the waters of Noah\" as the pledge of God's unbreakable covenant of peace. The prophet uses the flood promise to assure Israel that God's mercy is more enduring than the mountains, reading Genesis 9 as a guarantee of steadfast love.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1PE.3",
+      "verses": "20-21",
+      "label": "1 Peter 3:20-21 — the flood as a figure of baptism",
+      "why": "Peter reads Noah's deliverance through water as prefiguring baptism, which now saves. Catholic tradition especially emphasizes this typology, seeing the ark and the waters as a sign of the Church and the sacrament that brings believers safely through judgment.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "REV.4",
+      "verses": "3",
+      "label": "Revelation 4:3 — the rainbow around the throne",
+      "why": "John sees a rainbow encircling God's throne, echoing the bow set in the cloud after the flood. The image carries the covenant sign of mercy into the heavenly vision, linking God's ancient pledge to his eternal reign.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The prohibition against consuming blood and the reverence for blood as the seat of life is often read by Catholic tradition as foreshadowing the sanctity of Christ's blood and the reverence owed to the Eucharist, where believers receive life through his blood.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers generally agree that blood signifies life and points forward to the atoning blood of Christ, but tend to treat the Noahic blood law as a ceremonial and moral safeguard fulfilled in Christ rather than as a direct anticipation of eucharistic reception. Both traditions affirm that life belongs to God and that Christ's blood is central to salvation.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The curse on Canaan after Ham's act is understood as directed at Canaan and his descendants for a moral offense, not as a warrant for enslaving any people group.",
+      "tradition": "shared",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "shared",
+        "summary": "Across traditions, careful readers reject the historical misuse of this text to justify racial slavery, noting the curse falls specifically on Canaan and functions within the narrative to explain later Israel-Canaan relations. Interpreters differ on why Canaan rather than Ham is named, but agree the passage gives no basis for oppressing peoples.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

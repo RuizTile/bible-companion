@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.25",
+  "book": "Matthew",
+  "chapter": 25,
+  "canon": "protocanonical",
+  "summary": "Matthew 25 continues the Olivet Discourse with three teachings on being ready for the Son of man's coming. First, the ten virgins: all take lamps to meet the bridegroom, but only five \"wise\" bring extra oil, while the \"foolish\" do not. \"While the bridegroom tarried, they all slumbered\"; at midnight the cry comes, and the foolish, out of oil, go to buy—too late. \"The door was shut,\" and to their plea, \"Lord, Lord, open to us,\" he answers, \"I know you not.\" The lesson: \"Watch therefore, for ye know neither the day nor the hour.\" Second, the talents: a man entrusts his servants with five, two, and one talents \"according to his several ability.\" The first two trade and double their sums and hear, \"Well done, thou good and faithful servant... enter thou into the joy of thy lord.\" The third, afraid, buries his one talent and is condemned as \"wicked and slothful\"; his talent is taken and he is cast \"into outer darkness,\" for \"unto every one that hath shall be given.\" Third, the sheep and the goats: when the Son of man comes \"in his glory,\" He gathers \"all nations\" and separates them \"as a shepherd divideth his sheep from the goats.\" The blessed inherit the kingdom because \"I was an hungred, and ye gave me meat\"; the cursed depart \"into everlasting fire\" for neglecting the same. The measure is love shown to \"the least of these\": \"Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.\"",
+  "takeaways": [
+    "The ten virgins teach sustained readiness: watchfulness is personal and cannot be borrowed at the last moment—\"the door was shut,\" and delay proves costly.",
+    "The talents teach faithful, active stewardship: gifts are given \"according to his several ability\" and must be risked and used, not buried out of fear.",
+    "Judgment turns on what was done with what was given; the sobering \"I know you not\" and \"outer darkness\" warn that presumption and passivity end in exclusion.",
+    "The sheep and goats make concrete mercy the criterion of final judgment—feeding, clothing, welcoming, and visiting \"the least of these.\"",
+    "Christ identifies Himself with the needy: \"Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me,\" so love of neighbor is love of Christ."
+  ],
+  "crossRefs": [
+    {
+      "target": "LUK.19",
+      "label": "Luke 19:12-27 — the parable of the pounds (minas)",
+      "why": "Luke's parable of a nobleman entrusting money to servants closely parallels the talents, with the same reward for faithful trading and judgment on the servant who hid his portion. The comparison highlights the shared lesson that entrusted gifts must be used, not preserved in idle fear.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EZK.34",
+      "label": "Ezekiel 34:17 — God judging \"between cattle and cattle, between the rams and the he goats\"",
+      "why": "The image of the Son of man separating sheep from goats as a shepherd draws on Ezekiel, where God Himself shepherds the flock and judges between the animals. It presents the final judgment as the promised shepherd sorting His scattered people.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PRO.19",
+      "label": "Proverbs 19:17 — \"He that hath pity upon the poor lendeth unto the LORD\"",
+      "why": "The wisdom saying that kindness to the poor is a loan to the LORD anticipates Jesus' teaching that mercy shown to \"the least of these\" is done to Him. Both make care for the needy an act rendered directly to God.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JAS.2",
+      "label": "James 2:15-17 — \"faith, if it hath not works, is dead\"",
+      "why": "James insists that a faith that ignores the hungry and unclothed is dead, echoing the judgment scene where the cursed are condemned for concrete works of mercy left undone. The connection illuminates how Matthew 25 joins genuine faith to active love.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The judgment of the sheep and the goats (vv. 31-46) is read in the Catholic tradition as strong scriptural warrant that concrete works of mercy are integral to salvation, not merely its optional evidence. Because the King grounds both the inheritance of the kingdom and the sentence to \"everlasting fire\" explicitly on what was done or left undone for \"the least of these,\" the tradition sees here support for its teaching that living faith is one that \"worketh by love,\" and that the corporal works of mercy—feeding, sheltering, clothing, visiting—bear directly on one's standing before Christ the Judge.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters agree that this passage makes works of mercy essential and take the neglect of the needy as damning. Within a framework of justification by faith alone, most read the works here as the necessary fruit and evidence of a genuine, saving faith rather than as the meritorious cause of salvation: the righteous act as they do because they have already been transformed by grace, and their deeds reveal—rather than earn—their standing. Both traditions insist that a faith indifferent to the hungry and imprisoned is no saving faith at all; they differ on whether the works of mercy are the ground of the verdict or its manifestation.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

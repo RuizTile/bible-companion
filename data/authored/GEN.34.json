@@ -1,0 +1,59 @@
+{
+  "ref": "GEN.34",
+  "book": "Genesis",
+  "chapter": 34,
+  "canon": "protocanonical",
+  "summary": "This is a dark chapter of violation and violent revenge. Dinah, Leah's daughter, \"went out to see the daughters of the land,\" and Shechem, prince of the country, \"took her, and lay with her, and defiled her.\" Yet his soul \"clave unto Dinah,\" and he sought her as a wife, his father Hamor proposing intermarriage and shared land between the two peoples. Jacob's sons, grieved that Shechem \"had wrought folly in Israel,\" answer \"deceitfully\": they will consent only if every male of the city is circumcised. Hamor and Shechem persuade their townsmen, eyeing the newcomers' cattle and substance, and all are circumcised. \"On the third day, when they were sore,\" Simeon and Levi take their swords, fall upon the city, and \"slew all the males,\" killing Hamor and Shechem and taking Dinah back. Jacob's other sons plunder the city, its flocks, wealth, women, and children. Jacob rebukes Simeon and Levi for making him \"to stink among the inhabitants of the land\" and endangering his few household. But they have the last, defiant word: \"Should he deal with our sister as with an harlot?\"",
+  "takeaways": [
+    "The chapter unflinchingly records both a grievous crime against Dinah and a disproportionate, treacherous vengeance by her brothers.",
+    "Sacred covenant sign (circumcision) is abused as a weapon of deceit, deepening the moral gravity of Simeon and Levi's act.",
+    "Jacob's concern is largely for his own safety and reputation, while his sons appeal to their sister's honor, leaving the moral reckoning unresolved.",
+    "The violence here is remembered and judged later, shaping the destinies of Simeon and Levi within Israel."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.49",
+      "verses": "5-7",
+      "label": "Genesis 49:5-7 — Jacob curses the anger of Simeon and Levi",
+      "why": "On his deathbed Jacob condemns the pair for their cruelty, \"for in their anger they slew a man,\" and dooms them to be scattered in Israel. This chapter's massacre is the very deed that draws that lasting censure.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.17",
+      "verses": "10-14",
+      "label": "Genesis 17:10-14 — circumcision as the covenant sign",
+      "why": "Circumcision was given as the token of God's covenant with Abraham's line. Its cynical use here as a ruse to disable a whole city perverts a holy sign, sharpening the chapter's condemnation of deceit.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.35",
+      "verses": "1-5",
+      "label": "Genesis 35:1-5 — God shields Jacob after the massacre",
+      "why": "Jacob feared the surrounding peoples would gather against him, yet \"the terror of God\" fell on the cities so none pursued. The next chapter shows God protecting the household despite the sons' rash violence.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic reading treats this narrative as descriptive rather than prescriptive: Scripture honestly reports grave sin on all sides, the rape of Dinah and the murderous, sacrilegious revenge, and the moral verdict is supplied later when Jacob curses the brothers' fury, so the passage warns against vengeance that exceeds justice.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters read the chapter in essentially the same way, stressing that the Bible narrates the deeds without endorsing them and that the brothers' defiant closing question does not settle the ethics. Both traditions locate the divine judgment in Jacob's later curse and treat the episode as a sober account of human sin, not a model for imitation.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

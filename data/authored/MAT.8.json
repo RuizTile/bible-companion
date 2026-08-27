@@ -1,0 +1,53 @@
+{
+  "ref": "MAT.8",
+  "book": "Matthew",
+  "chapter": 8,
+  "canon": "protocanonical",
+  "summary": "Matthew 8 moves from the words of the Sermon on the Mount to deeds of power, presenting Jesus as one whose authority extends over disease, distance, nature, and demons. Coming down the mountain before great multitudes, He touches and cleanses a leper, then instructs him to show himself to the priest \"for a testimony.\" A Roman centurion begs help for his paralyzed servant, professing, \"Lord, I am not worthy that thou shouldest come under my roof: but speak the word only,\" reasoning from his own experience of authority. Jesus marvels at faith not found \"in Israel\" and declares that many will come from east and west to sit with Abraham, Isaac, and Jacob, while \"the children of the kingdom\" may be cast out. He heals Peter's mother-in-law, and at evening casts out spirits and heals all the sick, so \"that it might be fulfilled which was spoken by Esaias.\" When would-be followers approach, Jesus warns of the cost—\"the Son of man hath not where to lay his head\"—and calls another to \"let the dead bury their dead.\" Crossing the sea, He sleeps through a great tempest; awakened by frightened disciples, He rebukes them as \"of little faith\" and stills the winds and sea, prompting the awe: \"What manner of man is this?\" On the far shore He casts a legion of devils out of two fierce men into a herd of swine that rushes into the sea, and the whole city, more troubled than grateful, begs Him to depart.",
+  "takeaways": [
+    "Jesus' authority is comprehensive: over leprosy, paralysis, fever, demons, and even wind and sea—so that the disciples ask in awe, \"What manner of man is this, that even the winds and the sea obey him!\"",
+    "The centurion's faith—\"speak the word only\"—draws Jesus' marvel and the warning that \"many shall come from the east and west\" into the kingdom while presumed insiders are cast out; faith, not lineage, marks the true heir.",
+    "Jesus' healing of the leper by touch, His command to show himself to the priest, and Matthew's citation of Isaiah frame the miracles as the promised Servant bearing \"our infirmities\" and \"our sicknesses.\"",
+    "Following Jesus is costly and urgent: the Son of man has \"not where to lay his head,\" and the call \"Follow me\" takes precedence even over burying one's father.",
+    "The stilling of the storm and the deliverance of the demoniacs reveal both Jesus' lordship over chaos and evil and the mixed human response—disciples \"of little faith\" and a city that begs Him to leave."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.53",
+      "label": "Isaiah 53:4 — \"he hath borne our griefs\"",
+      "why": "Matthew explicitly ties the evening of healings to Isaiah's Servant who \"took our infirmities, and bare our sicknesses,\" reading Jesus' ministry as the fulfillment of the Suffering Servant prophecy and linking His healings to His redemptive mission.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.7",
+      "label": "Luke 7:1-10 — the centurion at Capernaum",
+      "why": "Luke recounts the same centurion whose faith astonishes Jesus, with added detail about Jewish elders interceding. The parallel underscores the significance of a Gentile's exemplary faith and anticipates the wider inclusion of the nations.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LEV.14",
+      "label": "Leviticus 14 — the cleansing of the leper before the priest",
+      "why": "Jesus tells the healed leper to \"offer the gift that Moses commanded,\" pointing to the Levitical rite for a cleansed leper. This shows Jesus honoring the Law even as His touch accomplishes what the ritual could only certify.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.107",
+      "label": "Psalm 107:23-30 — He stills the storm and the waves are calm",
+      "why": "The psalm praises the LORD who calms the tempest at sea for terrified sailors. When Jesus rebukes the winds and sea, He does what the psalm ascribes to God alone, so the disciples' question \"What manner of man is this?\" points toward His divine identity.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

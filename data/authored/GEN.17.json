@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.17",
+  "book": "Genesis",
+  "chapter": 17,
+  "canon": "protocanonical",
+  "summary": "Thirteen years after Ishmael's birth, God appears to ninety-nine-year-old Abram as \"the Almighty God\" and calls him to \"walk before me, and be thou perfect.\" He formally establishes the covenant, renaming him Abraham, \"for a father of many nations have I made thee,\" and promising kings, fruitfulness, and the land of Canaan \"for an everlasting possession.\" The covenant is unconditional in its grant yet asks a response: circumcision, \"a token of the covenant,\" to be given to every male at eight days old, so that \"my covenant shall be in your flesh for an everlasting covenant.\" Sarai too is renamed Sarah and blessed to become \"a mother of nations.\" Abraham falls on his face and laughs, wondering how a hundred-year-old and a ninety-year-old could bear a child, and pleads, \"O that Ishmael might live before thee!\" God answers that Ishmael will be blessed and fruitful, father of twelve princes, but the covenant will be established with Isaac, to be born \"at this set time in the next year.\" That same day Abraham obeys, circumcising himself, Ishmael, and every male of his house. The chapter binds promise to sign, and grace to obedience.",
+  "takeaways": [
+    "God binds himself by covenant, promising to be \"a God unto thee, and to thy seed after thee\" as an everlasting relationship, not a one-time transaction.",
+    "New names, Abraham and Sarah, signal transformed identities and destinies given by God.",
+    "Circumcision is given as a visible, bodily sign that the covenant is real and generational: \"my covenant shall be in your flesh.\"",
+    "Abraham's same-day obedience shows that received grace calls for immediate, costly response."
+  ],
+  "crossRefs": [
+    {
+      "target": "ROM.4",
+      "verses": "9-13",
+      "label": "Romans 4:9-13 — Abraham justified by faith before circumcision",
+      "why": "Paul argues that Abraham was reckoned righteous by faith while still uncircumcised, so that circumcision is a \"seal\" of a righteousness already received. This shapes how Christians read the sign in Genesis 17 as pointing to a prior faith, and it undergirds the debate over what the covenant sign accomplishes.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "COL.2",
+      "verses": "11-12",
+      "label": "Colossians 2:11-12 — circumcision made without hands, linked to baptism",
+      "why": "Paul connects a spiritual \"circumcision of Christ\" with baptism, letting the covenant sign of Genesis 17 be read as anticipating a new-covenant sign of belonging to God's people. This is a key text in Christian reflection on continuity between the covenants.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.15",
+      "verses": "5-6,18",
+      "label": "Genesis 15:5-6,18 — the covenant of the stars, believed and cut",
+      "why": "The earlier covenant scene, where Abraham believes God and it is counted for righteousness, is now formalized and sealed with a sign. Reading them together shows one unfolding covenant, first sworn, then marked in the flesh.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.9",
+      "verses": "6-9",
+      "label": "Romans 9:6-9 — \"in Isaac shall thy seed be called\"",
+      "why": "Paul cites the choice of Isaac over Ishmael to explain that the true children of promise are not merely physical descendants. Genesis 17's distinction between Ishmael's blessing and Isaac's covenant becomes the basis for a theology of election.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In Catholic teaching, circumcision as the covenant sign for the old people of God finds its fulfillment in baptism, which incorporates the believer, including infants, into the new covenant of Christ; the eighth-day circumcision of male children is read as a fitting antecedent to infant baptism.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Reformed and other paedobaptist Protestants likewise draw a covenantal parallel between circumcision and baptism, supporting infant baptism; Baptist and many other Protestants reject that parallel, holding that the new-covenant sign belongs to those who personally profess faith. All sides agree circumcision was a genuine covenant sign in Genesis 17, differing on which sign now corresponds to it and who should receive it.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

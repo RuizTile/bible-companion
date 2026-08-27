@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.26",
+  "book": "Genesis",
+  "chapter": 26,
+  "canon": "protocanonical",
+  "summary": "Genesis 26 shows the covenant promises renewed to Isaac. A famine drives him toward Gerar, but the LORD warns, \"Go not down into Egypt,\" and repeats Abraham's blessing: \"unto thy seed, I will give all these countries... and in thy seed shall all the nations of the earth be blessed,\" grounding it in the fact that \"Abraham obeyed my voice.\" In Gerar, fearing for his life, Isaac calls Rebekah his sister—echoing his father's fault—until Abimelech discovers the truth and forbids his people to touch them. Isaac sows and reaps \"an hundredfold,\" and \"the LORD blessed him,\" so that he grows very great and the Philistines envy him, stopping up the wells his father had dug. Sent away by Abimelech, Isaac reopens Abraham's wells and digs new ones. The herdmen strive over the first two, named Esek (\"contention\") and Sitnah (\"enmity\"), but the third goes uncontested and he names it Rehoboth: \"For now the LORD hath made room for us.\" At Beer-sheba the LORD appears again: \"Fear not, for I am with thee.\" Isaac builds an altar and calls on God's name. Abimelech then comes seeking a covenant of peace, recognizing \"the LORD was with thee.\" The chapter ends noting Esau's Hittite wives, \"a grief of mind unto Isaac and to Rebekah.\"",
+  "takeaways": [
+    "God renews to Isaac the very promises made to Abraham, showing the covenant is not tied to one man but passes faithfully to the next generation for Abraham's sake.",
+    "Isaac repeats his father's 'she is my sister' deception under fear, a reminder that inherited faith does not erase inherited weakness—yet God still guards the family.",
+    "Isaac responds to strife over wells not with violence but by yielding and digging again, until God 'made room'; peaceableness under provocation is honored with blessing.",
+    "The blessing on Isaac becomes visible even to outsiders: Abimelech seeks a covenant precisely because 'the LORD was with thee,' so that God's favor bears public witness."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.12",
+      "verses": "10-20",
+      "label": "Genesis 12:10-20 — Abraham calls Sarah his sister in Egypt",
+      "why": "Isaac's 'she is my sister' ruse in Gerar closely repeats Abraham's earlier deceptions born of fear. The parallel highlights a recurring family failing and God's persistent protection despite it.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.22",
+      "verses": "16-18",
+      "label": "Genesis 22:16-18 — the oath sworn to Abraham for his obedience",
+      "why": "God explicitly renews to Isaac the oath He swore to Abraham—land, multiplied seed, and blessing to all nations—because 'Abraham obeyed my voice.' This chapter shows that oath being carried forward to the heir.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GAL.3",
+      "verses": "8,16",
+      "label": "Galatians 3:8,16 — 'in thy seed' fulfilled in Christ",
+      "why": "The promise repeated to Isaac, that 'in thy seed shall all the nations of the earth be blessed,' is identified by Paul as fulfilled in Christ, the true seed through whom the nations are blessed by faith.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.5",
+      "verses": "9",
+      "label": "Matthew 5:9 — 'Blessed are the peacemakers'",
+      "why": "Isaac's choice to withdraw and dig again rather than fight over the wells, until God 'made room for us,' embodies the peacemaking Jesus later blesses. His yielding leads to peace and enlargement rather than loss.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Catholic reading emphasizes that God's covenant faithfulness to Isaac flows 'for my servant Abraham's sake,' displaying how blessing and grace can be extended on account of the merits and faith of another—an anticipation of the communion of saints and of intercession, whereby God honors the faithful even in their descendants.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters agree that God blesses Isaac in fulfillment of promises made to Abraham, but tend to frame this as God's unwavering faithfulness to His own covenant word rather than as merit transferred from Abraham. Both traditions affirm that Isaac's blessing rests on God's prior promise to Abraham; they differ on whether to describe it in the language of another's merit.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

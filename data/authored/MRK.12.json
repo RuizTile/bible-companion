@@ -1,0 +1,75 @@
+{
+  "ref": "MRK.12",
+  "book": "Mark",
+  "chapter": 12,
+  "canon": "protocanonical",
+  "summary": "Jesus opens with the parable of the vineyard let out to husbandmen who beat the owner's servants and finally kill \"his wellbeloved\" son, saying, \"This is the heir; come, let us kill him.\" He warns that the lord will \"destroy the husbandmen, and will give the vineyard unto others,\" and cites the psalm, \"The stone which the builders rejected is become the head of the corner.\" The leaders know \"he had spoken the parable against them.\" A series of tests follows. Pharisees and Herodians ask about tribute; Jesus answers, \"Render to Cæsar the things that are Cæsar's, and to God the things that are God's.\" Sadducees, denying resurrection, pose a riddle about seven brothers; he replies that they \"know not the scriptures, neither the power of God,\" for the risen \"are as the angels,\" and God \"is not the God of the dead, but the God of the living.\" A scribe asks the first commandment, and Jesus names love of God \"with all thy heart\" and neighbour \"as thyself.\" He then poses how David can call the Christ \"Lord,\" warns against the scribes who \"devour widows' houses,\" and praises a poor widow who \"of her want did cast in all that she had.\"",
+  "takeaways": [
+    "The vineyard parable casts salvation history as God's patience with rejected messengers, climaxing in the sending of the beloved Son and the transfer of the vineyard \"unto others.\"",
+    "\"Render to Cæsar\" distinguishes legitimate civil duty from the total claim God has on the person made in his image, refusing both rebellion and idolatry of the state.",
+    "The two great commandments bind love of God and love of neighbour together as the summary of the whole law, \"more than all whole burnt offerings and sacrifices.\"",
+    "God measures the widow's two mites by sacrifice, not amount: she gave \"all her living,\" while the rich gave \"of their abundance.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.5",
+      "verses": "1-7",
+      "label": "Isaiah 5:1-7 — the song of the vineyard",
+      "why": "Jesus draws his parable from Isaiah's song, where the vineyard is \"the house of Israel\" and God looks for fruit but finds none. The imagery would have been unmistakable to his hearers, framing the coming judgment as a continuation of prophetic warning.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.118",
+      "verses": "22-23",
+      "label": "Psalm 118:22-23 — the rejected stone made head of the corner",
+      "why": "Jesus quotes this psalm directly to interpret his own rejection and vindication. Early Christian preaching returned to it repeatedly to show that God overturns the verdict of the builders, making the rejected one foundational.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DEU.6",
+      "verses": "4-5",
+      "label": "Deuteronomy 6:4-5 — the Shema and love of God",
+      "why": "Jesus answers the scribe by quoting the Shema, \"Hear, O Israel; The Lord our God is one Lord,\" and its command to love God wholly. He roots the greatest commandment squarely in Israel's confession of the one God.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LEV.19",
+      "verses": "18",
+      "label": "Leviticus 19:18 — love thy neighbour as thyself",
+      "why": "The second commandment Jesus names is drawn verbatim from the Levitical holiness code. By joining it to the Shema he makes neighbour-love inseparable from the love of God, a pairing the scribe affirms.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.110",
+      "verses": "1",
+      "label": "Psalm 110:1 — the LORD said unto my Lord",
+      "why": "Jesus cites David's words to show the Messiah is more than merely David's son. The verse became a cornerstone text for confessing Christ's exaltation to God's right hand, and the crowd \"heard him gladly.\"",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the resurrection debate Jesus grounds the life of the dead in God's covenant name, \"I am the God of Abraham,\" and describes the risen as being \"as the angels which are in heaven.\" Catholic teaching reads this as affirming a bodily resurrection into a transformed, glorified state where earthly marriage is transcended, and it hears in Jesus' argument a warrant for hope in those who have died in the faith.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers fully agree on the bodily resurrection and the transformed state \"as the angels,\" and share the confession that God \"is not the God of the dead, but the God of the living.\" The difference is chiefly one of emphasis, with Protestant commentary tending to stress the direct scriptural refutation of the Sadducees over later devotional applications to the departed.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

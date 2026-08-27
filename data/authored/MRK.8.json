@@ -1,0 +1,67 @@
+{
+  "ref": "MRK.8",
+  "book": "Mark",
+  "chapter": 8,
+  "canon": "protocanonical",
+  "summary": "Moved with compassion for a great multitude who \"have nothing to eat,\" Jesus feeds four thousand from seven loaves and a few fishes, with \"seven baskets\" of fragments left over. Crossing to Dalmanutha, He refuses the Pharisees who, \"tempting him,\" seek a sign from heaven: \"There shall no sign be given unto this generation.\" In the ship He warns, \"beware of the leaven of the Pharisees, and of the leaven of Herod\"; the disciples, worrying they have no bread, miss His meaning, and He presses them—\"Having eyes, see ye not? and having ears, hear ye not?\"—recalling both feedings. At Bethsaida He heals a blind man in stages, who first sees \"men as trees, walking\" before seeing clearly. On the way to Cæsarea Philippi He asks, \"whom say ye that I am?\" and Peter confesses, \"Thou art the Christ.\" Jesus then teaches plainly that \"the Son of man must suffer many things\" and rise; when Peter rebukes Him, He answers, \"Get thee behind me, Satan.\" He calls the crowd to discipleship: \"Whosoever will come after me, let him deny himself, and take up his cross, and follow me,\" for \"whosoever will save his life shall lose it,\" and \"what shall it profit a man, if he shall gain the whole world, and lose his own soul?\"",
+  "takeaways": [
+    "The feeding of the four thousand reveals Jesus' compassion and abundant provision, a second bread-sign He expects the disciples to remember and understand.",
+    "A sign-seeking, unbelieving generation is refused a spectacle; faith is not compelled by wonders but grows from perceiving who Jesus is.",
+    "Peter's confession \"Thou art the Christ\" is the hinge of the Gospel, immediately joined to Jesus' first plain prediction of His suffering, death, and resurrection.",
+    "Discipleship means self-denial and the cross: gaining the whole world profits nothing if one loses his own soul."
+  ],
+  "crossRefs": [
+    {
+      "target": "MRK.6",
+      "verses": "35-44",
+      "label": "Mark 6:35-44 — the feeding of the five thousand",
+      "why": "Jesus explicitly recalls this earlier miracle when questioning the disciples about the loaves and baskets. The two feedings together form the backdrop against which He rebukes their failure to perceive who provides their bread.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.16",
+      "verses": "13-28",
+      "label": "Matthew 16:13-28 — Peter's confession, the passion prediction, and taking up the cross",
+      "why": "Matthew reports the same confession at Cæsarea Philippi and the same call to self-denial, adding the promise of the keys to Peter. The parallel underscores the pivotal significance of Peter's declaration and the cost of following Jesus.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.9",
+      "verses": "18-27",
+      "label": "Luke 9:18-27 — the confession, the cross, and losing one's life to save it",
+      "why": "Luke gives a compact parallel to the confession and the discipleship sayings. Comparing the three Synoptics shows how firmly this teaching on suffering and the cross was preserved at the heart of Jesus' ministry.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.53",
+      "verses": "3-5",
+      "label": "Isaiah 53:3-5 — the suffering servant despised, rejected, and wounded for others",
+      "why": "Jesus' announcement that the Son of man \"must suffer many things, and be rejected\" draws on the servant of Isaiah who is despised and stricken. The cross-reference roots the passion prediction in prophecy that the Messiah would save through suffering.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition sees in Peter's confession, \"Thou art the Christ,\" the first of the Gospels' testimonies to Peter's distinctive role among the apostles, read alongside Matthew's fuller account where Jesus names him the rock and gives him the keys. On this view Peter's leading voice here anticipates a real primacy of teaching and pastoral office within the college of the apostles.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read Peter as the representative spokesman of the apostles rather than the holder of a transmissible office of supremacy. Many stress that Mark's own account offers no promise of keys and that Peter is rebuked as \"Satan\" moments later, cautioning against building an institutional primacy on this scene. Both traditions honor Peter's confession as a true and pivotal recognition of Jesus as the Christ; they differ on what enduring authority, if any, that role confers.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

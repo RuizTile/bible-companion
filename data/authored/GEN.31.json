@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.31",
+  "book": "Genesis",
+  "chapter": 31,
+  "canon": "protocanonical",
+  "summary": "Sensing Laban's turned countenance and hearing his sons complain, Jacob receives God's command: \"Return unto the land of thy fathers, and to thy kindred; and I will be with thee.\" He summons Rachel and Leah to the field and recounts how Laban \"changed my wages ten times; but God suffered him not to hurt me,\" crediting the flocks' increase to the God of Bethel. His wives, feeling counted as \"strangers\" and sold by their father, agree to leave. Jacob departs secretly while Laban is shearing sheep, and Rachel steals her father's household \"images.\" Laban pursues seven days, but God warns him in a dream to \"speak not to Jacob either good or bad.\" A tense confrontation follows: Laban searches for his gods, unaware Rachel has hidden them beneath the camel's furniture. Jacob, wroth, defends his twenty years of faithful, costly service, invoking \"the God of Abraham, and the fear of Isaac.\" The two men make a covenant, raising a heap of stones called Galeed and Mizpah: \"The LORD watch between me and thee, when we are absent one from another.\" They share a meal, and Laban departs in peace at dawn.",
+  "takeaways": [
+    "God directs and protects Jacob's departure, both by explicit command and by restraining Laban in a dream.",
+    "Jacob attributes his prosperity to God's justice against Laban's repeated deceit, not to his own cunning alone.",
+    "The Mizpah covenant establishes a boundary of peace between two parties who no longer trust each other, sworn before God as witness.",
+    "Rachel's theft of the household gods hints at lingering idolatry within Jacob's own family, a thread taken up in the next chapters."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.28",
+      "verses": "18-22",
+      "label": "Genesis 28:18-22 — Jacob's vow at Bethel",
+      "why": "God identifies Himself as \"the God of Beth-el, where thou anointedst the pillar, and where thou vowedst a vow unto me.\" This directly recalls Jacob's earlier vow, showing God keeping faith with the promise made at that place.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.35",
+      "verses": "2-4",
+      "label": "Genesis 35:2-4 — Jacob buries the strange gods",
+      "why": "Rachel's stolen \"images\" foreshadow the later purge, when Jacob commands his household to \"put away the strange gods\" and buries them. The idolatry hidden here is dealt with there.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JOS.24",
+      "verses": "2-3",
+      "label": "Joshua 24:2-3 — the fathers served other gods beyond the river",
+      "why": "Joshua recalls that Abraham's kindred \"served other gods\" beyond the river, the very region Laban still inhabits with his teraphim. The stolen images fit this backdrop of ancestral idolatry that the covenant calls Israel to leave behind.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.32",
+      "verses": "1-2",
+      "label": "Genesis 32:1-2 — angels of God meet Jacob",
+      "why": "Immediately after the peaceful parting from Laban, God's angels meet Jacob as he continues home. The covenant of separation from Laban leads directly into fresh assurance of divine escort toward Esau.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Mizpah pillar and heap function as a solemn covenant witnessed by God, illustrating the biblical practice of erecting visible signs and invoking the divine name to bind human agreements, a pattern the Catholic tradition sees continued in sacramental signs that make grace and commitment tangible.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise honor the pillar as a genuine covenant marker and a memorial to God's oversight, while typically stressing that the sign points to the underlying oath and to God's own faithfulness rather than possessing efficacy in itself. Both traditions agree the stones testify that God watches between parted parties.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.9",
+  "book": "Matthew",
+  "chapter": 9,
+  "canon": "protocanonical",
+  "summary": "Matthew 9 continues the display of Jesus' authority, now joining power over sickness with power to forgive sins and a widening controversy with the religious leaders. A paralytic is brought to Jesus, who—\"seeing their faith\"—first declares his sins forgiven; when scribes charge blasphemy, He heals the man's body \"that ye may know that the Son of man hath power on earth to forgive sins.\" He then calls Matthew from the tax booth and dines with \"publicans and sinners,\" answering the Pharisees' objection with mercy: \"They that be whole need not a physician,\" and \"I am not come to call the righteous, but sinners to repentance.\" Asked about fasting, He speaks of the bridegroom's presence and of new wine needing new bottles, signaling the newness of what He brings. A synagogue ruler pleads for his dead daughter; on the way, a woman with a twelve-year issue of blood is healed by touching His garment—\"thy faith hath made thee whole\"—and Jesus raises the girl, saying she \"sleepeth.\" He gives sight to two blind men \"according to your faith\" and casts a demon from a mute man, drawing both wonder and the accusation that He works \"through the prince of the devils.\" The chapter ends with Jesus touring the towns, teaching, preaching the gospel of the kingdom, and healing; \"moved with compassion\" for crowds like \"sheep having no shepherd,\" He calls the disciples to pray the Lord of the harvest to send laborers.",
+  "takeaways": [
+    "Jesus claims and demonstrates a distinctly divine prerogative: the healing of the paralytic proves \"that the Son of man hath power on earth to forgive sins,\" answering the scribes' charge of blasphemy.",
+    "The call of Matthew and the meal with \"publicans and sinners\" reveal Jesus' mission of mercy—\"I am not come to call the righteous, but sinners to repentance\"—and His preference for mercy over mere sacrifice.",
+    "The images of the bridegroom, new cloth, and new wine announce that Jesus brings something genuinely new that cannot simply be patched onto the old forms.",
+    "Faith is repeatedly the channel of healing: the friends' faith, the woman's touch of His garment, and the blind men healed \"according to your faith\" all show trust reaching out to Jesus' power.",
+    "Jesus' compassion on the crowds as \"sheep having no shepherd\" issues in a missionary charge—\"the harvest truly is plenteous, but the labourers are few\"—setting up the sending of the disciples."
+  ],
+  "crossRefs": [
+    {
+      "target": "HOS.6",
+      "label": "Hosea 6:6 — \"I desired mercy, and not sacrifice\"",
+      "why": "Jesus quotes Hosea to justify eating with sinners, grounding His mission of mercy in the prophets' insistence that God values compassion over ritual observance. The citation shows His practice as the fulfillment, not the abandonment, of Israel's Scriptures.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.5",
+      "label": "Mark 5:21-43 — Jairus's daughter and the woman with the issue of blood",
+      "why": "Mark tells the same intertwined miracles in fuller detail, including the ruler's name and the woman's long suffering. The parallel confirms the paired account and enriches Matthew's more compressed version.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EZK.34",
+      "label": "Ezekiel 34 — the scattered sheep and the promised shepherd",
+      "why": "Jesus' compassion on crowds like \"sheep having no shepherd\" echoes Ezekiel's indictment of Israel's failed shepherds and God's promise to shepherd the flock Himself. It casts Jesus as the promised shepherd gathering the scattered people.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.5",
+      "label": "Luke 5:27-39 — the call of Levi and the question of fasting",
+      "why": "Luke narrates the same call of the tax collector and the sayings on the bridegroom, new cloth, and new wine. The parallel underscores these as a fixed teaching about the newness Jesus brings and the mercy that seeks sinners.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition draws attention to verse 8, where the multitudes glorify God \"which had given such power unto men\" (plural). Read alongside Jesus' declaration that \"the Son of man hath power on earth to forgive sins,\" this is understood to support the conviction that Christ's authority to forgive sins can be exercised through human ministers, a scriptural thread that undergirds the Catholic understanding of the sacrament of reconciliation.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Most Protestant interpreters read verse 8 as the crowd's amazement that God had granted such authority to Jesus, the Son of man, and understand the plural 'men' as a general reference to the wonder that God works among humanity rather than as a grant of forgiving authority to ordained ministers. On this view, the passage demonstrates Jesus' unique divine authority to forgive sins directly, and confession is made to God rather than mediated through a priest. Both traditions affirm that only God forgives sins and that Jesus here exercises that divine authority; they differ on whether and how that authority is extended to the Church's ministers.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

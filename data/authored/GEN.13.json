@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.13",
+  "book": "Genesis",
+  "chapter": 13,
+  "canon": "protocanonical",
+  "summary": "Abram returns from Egypt \"very rich in cattle, in silver, and in gold\" and journeys back to Bethel, to the altar he had made \"at the first,\" where again \"Abram called on the name of the LORD.\" The prosperity of both Abram and Lot creates a problem: \"the land was not able to bear them,\" and strife breaks out between their herdsmen while \"the Canaanite and the Perizzite dwelled then in the land.\" Abram, though the elder and the one with the promise, refuses to quarrel: \"Let there be no strife... for we be brethren.\" He generously offers Lot first choice of the land. Lot \"lifted up his eyes\" and, seeing the well-watered plain of Jordan, chooses it and pitches his tent toward Sodom, where \"the men of Sodom were wicked and sinners before the LORD exceedingly.\" After Lot departs, the LORD tells Abram to look in every direction, promising, \"all the land which thou seest, to thee will I give it, and to thy seed for ever,\" and to make his seed \"as the dust of the earth.\" Abram moves to the plain of Mamre in Hebron and builds another altar. The chapter contrasts Abram's faith-filled generosity with Lot's sight-driven choice.",
+  "takeaways": [
+    "Abram's willingness to yield the choicest land reflects a faith that trusts God to keep the promise rather than grasping for advantage.",
+    "Lot chooses by sight, judging \"all the plain of Jordan\" by appearance and drifting toward Sodom's wickedness.",
+    "God's promise of land and innumerable seed is renewed and enlarged precisely when Abram has just given up his claim.",
+    "Worship marks Abram's journey: he repeatedly builds altars and calls on the name of the LORD."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.19",
+      "verses": "24-29",
+      "label": "Genesis 19:24-29 — the destruction of Sodom",
+      "why": "The narrator's note that Lot chose the plain \"before the LORD destroyed Sodom and Gomorrah\" points ahead to the judgment that Lot's proximity to Sodom will endanger. The chapters together warn of the cost of settling near evil for the sake of prosperity.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.22",
+      "verses": "17",
+      "label": "Genesis 22:17 — seed as the stars and the sand",
+      "why": "God's promise here to make Abram's seed \"as the dust of the earth\" is reaffirmed and expanded at Moriah as stars of heaven and sand of the sea. The land and offspring pledged in this chapter recur as the enduring covenant refrain.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.5",
+      "verses": "5",
+      "label": "Matthew 5:5 — the meek shall inherit the earth",
+      "why": "Abram's deferral to Lot, then receiving the whole land by God's gift, illustrates Jesus' beatitude that the meek inherit the earth. The one who does not grasp is the one to whom God grants the inheritance.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "2PE.2",
+      "verses": "7-8",
+      "label": "2 Peter 2:7-8 — righteous Lot vexed in Sodom",
+      "why": "Peter calls Lot \"righteous\" yet daily grieved by the wickedness around him, the result of the tent pitched toward Sodom recorded here. The reference deepens the portrait of Lot as a man endangered by his own choice of surroundings.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The contrast between Abram, who chooses by faith in God's promise, and Lot, who \"lifted up his eyes\" and chose by sight, is read across traditions as a lesson that the life of faith trusts an unseen promise over visible advantage.",
+      "tradition": "shared",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "shared",
+        "summary": "Catholic and Protestant readers agree on the moral: Abram's generosity flows from trust in God, while Lot's choice by appearance leads him toward danger. Some emphasize Abram's virtue of detachment and peacemaking, others his justifying faith, but both hold up his conduct as exemplary and Lot's as a cautionary drift.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

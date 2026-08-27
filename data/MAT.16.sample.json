@@ -1,0 +1,57 @@
+{
+  "ref": "MAT.16",
+  "book": "Matthew",
+  "chapter": 16,
+  "canon": "protocanonical",
+  "kjvNumbering": "MAT.16",
+  "verses": [
+    { "n": 13, "text": "When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?" },
+    { "n": 14, "text": "And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremias, or one of the prophets." },
+    { "n": 15, "text": "He saith unto them, But whom say ye that I am?" },
+    { "n": 16, "text": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God." },
+    { "n": 17, "text": "And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven." },
+    { "n": 18, "text": "And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it." },
+    { "n": 19, "text": "And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven." },
+    { "n": 20, "text": "Then charged he his disciples that they should tell no man that he was Jesus the Christ." }
+  ],
+  "summary": "[PLACEHOLDER — layout demo only, not authored content] At Caesarea Philippi, Jesus asks his disciples who people say he is, then who they say he is. Peter confesses him as the Christ, the Son of the living God. Jesus calls the confession a revelation from the Father, renames Simon 'Peter' (rock), promises to build his Church on this rock, and gives Peter the keys of the kingdom with the authority to bind and loose. This partial sample carries verses 13-20; Phase 1 ingests the full chapter from a public-domain KJV source.",
+  "takeaways": [
+    "[PLACEHOLDER] Peter's confession is presented as given by the Father, not worked out by 'flesh and blood.'",
+    "[PLACEHOLDER] The 'keys' and 'bind/loose' language signals delegated authority within the Church.",
+    "[PLACEHOLDER] Jesus accepts the title Christ but charges silence — the cross must reframe what 'Messiah' means."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.22",
+      "label": "Isaiah 22:22 — the key of the house of David laid on Eliakim's shoulder",
+      "why": "[PLACEHOLDER] The single 'key' given to a royal steward who opens and shuts is the Old Testament pattern behind 'the keys of the kingdom' handed to Peter — an office of delegated stewardship under the king.",
+      "sources": ["Haydock", "Catena (Chrysostom)"],
+      "tradition": "catholic"
+    },
+    {
+      "target": "JHN.21",
+      "label": "John 21:15-17 — 'Feed my sheep'",
+      "why": "[PLACEHOLDER] The pastoral charge to Peter after the resurrection is read as the enactment of the authority promised here at Caesarea Philippi.",
+      "sources": ["Haydock"],
+      "tradition": "catholic"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The 'rock' is Peter and the office founded on him.",
+      "tradition": "catholic",
+      "sources": ["Haydock on Matt 16:18", "CCC 552"],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many read 'this rock' as Peter's confession of faith (or Christ himself), not Peter's person or a transmissible office.",
+        "sources": ["Enduring Word on Matthew 16"]
+      }
+    }
+  ],
+  "authoring": {
+    "model": null,
+    "generatedAt": null,
+    "reviewedBy": null,
+    "status": "placeholder"
+  }
+}

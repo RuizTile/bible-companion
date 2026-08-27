@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.18",
+  "book": "Genesis",
+  "chapter": 18,
+  "canon": "protocanonical",
+  "summary": "The LORD appears to Abraham at Mamre as three men in the heat of the day. Abraham runs to greet them, bows, and lavishes hospitality: water for their feet, rest under the tree, freshly baked cakes, butter and milk, and a tender calf, \"and they did eat.\" His guests ask after Sarah and renew the promise, \"lo, Sarah thy wife shall have a son.\" Sarah, listening at the tent door, laughs within herself at the thought, for she and Abraham \"were old and well stricken in age.\" The LORD exposes her secret laugh and answers with the chapter's great question, \"Is any thing too hard for the LORD?\" Turning toward Sodom, the LORD chooses to disclose his intentions to Abraham because he is called to \"command his children and his household after him\" in \"the way of the LORD, to do justice and judgment.\" Learning that Sodom's outcry is grievous, Abraham draws near and intercedes, bargaining the city's fate down from fifty righteous to ten, appealing to God's own justice: \"Shall not the Judge of all the earth do right?\" The LORD grants each request, and their communing ends. The chapter joins hospitality, promise, and bold intercessory prayer.",
+  "takeaways": [
+    "Generous hospitality to strangers becomes the occasion for encountering God and receiving his promise.",
+    "God's power is not limited by human impossibility: \"Is any thing too hard for the LORD?\"",
+    "God confides in his friend Abraham because he is entrusted with teaching his household justice and righteousness.",
+    "Abraham models bold, persistent, yet humble intercession, appealing to God's justice on behalf of others."
+  ],
+  "crossRefs": [
+    {
+      "target": "HEB.13",
+      "verses": "2",
+      "label": "Hebrews 13:2 — entertaining angels unawares",
+      "why": "The exhortation to show hospitality because some have thereby entertained angels alludes to scenes like Abraham's welcome at Mamre. It turns Genesis 18 into a model for Christian openness to strangers as a sacred duty.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.1",
+      "verses": "37",
+      "label": "Luke 1:37 — \"with God nothing shall be impossible\"",
+      "why": "Gabriel's word to Mary at another impossible conception directly echoes the LORD's question to Sarah. The link ties Isaac's promised birth to Jesus', framing both as God overriding barrenness and virginity by his power.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JAS.2",
+      "verses": "23",
+      "label": "James 2:23 — Abraham called the friend of God",
+      "why": "The title \"friend of God\" illuminates why the LORD asks, \"Shall I hide from Abraham that thing which I do?\" Friendship with God is shown here as intimacy that shares plans and invites intercession.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EZK.18",
+      "verses": "23,30-32",
+      "label": "Ezekiel 18:23,30-32 — God takes no pleasure in the death of the wicked",
+      "why": "The LORD's willingness to spare a whole city for a few righteous, and Abraham's confidence in divine justice, anticipate the prophetic insistence that God desires repentance rather than destruction. It deepens the portrait of the Judge who does right.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Many in the Catholic and Eastern Christian tradition have seen in the three visitors at Mamre a veiled intimation of the Trinity, since the singular LORD is present in three figures, while the passage also grounds the Church's high view of intercessory prayer and of the saints pleading for others.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the scene as the LORD accompanied by two angels (identified in chapter 19), cautioning against pressing a full Trinitarian reading onto the text, though some grant a suggestive foreshadowing. Both traditions affirm that God himself truly speaks here and that Abraham's intercession is real and effective; they differ on how much Trinitarian meaning to draw from the three men.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "ref": "MAT.26",
+  "book": "Matthew",
+  "chapter": 26,
+  "canon": "protocanonical",
+  "summary": "Matthew 26 begins the Passion. Jesus foretells that \"after two days\" the Passover comes and \"the Son of man is betrayed to be crucified,\" while the chief priests plot to \"take Jesus by subtilty, and kill him.\" At Bethany a woman anoints His head with \"very precious ointment\"; over the disciples' objection He defends her—\"she hath wrought a good work upon me\"—for she has anointed His body \"for my burial,\" a deed to be told \"for a memorial of her.\" Judas then bargains to betray Him for \"thirty pieces of silver.\" At the Passover meal Jesus announces, \"one of you shall betray me,\" and institutes the Eucharist: taking bread, \"this is my body\"; taking the cup, \"this is my blood of the new testament, which is shed for many for the remission of sins.\" On the Mount of Olives He foretells that all will be \"offended\" and that Peter will deny Him \"thrice\" before the cock crows. In Gethsemane He is \"sorrowful and very heavy,\" praying, \"let this cup pass from me: nevertheless not as I will, but as thou wilt,\" while the disciples sleep—\"the spirit indeed is willing, but the flesh is weak.\" Judas arrives with a kiss and an armed crowd; Jesus heals none but rebukes the sword—\"all they that take the sword shall perish\"—and submits \"that the scriptures... might be fulfilled.\" The disciples flee. Before Caiaphas, false witnesses fail, but Jesus affirms He is \"the Christ, the Son of God\"; charged with blasphemy, He is condemned, spat upon, and struck. Outside, Peter denies Him three times, then hears the cock and \"wept bitterly.\"",
+  "takeaways": [
+    "Jesus goes to His death knowingly and willingly: He predicts the betrayal and crucifixion in advance and repeatedly submits so \"that the scriptures of the prophets might be fulfilled.\"",
+    "At the Last Supper He institutes the Eucharist—\"this is my body\" and \"this is my blood of the new testament\"—linking the meal to His sacrificial death \"for the remission of sins.\"",
+    "Gethsemane shows Jesus' true human dread and perfect obedience: \"let this cup pass from me: nevertheless not as I will, but as thou wilt.\"",
+    "Betrayal and failure surround Him—Judas's kiss for silver, the sleeping disciples, the fleeing Eleven, Peter's threefold denial—yet He remains faithful.",
+    "Peter's collapse and bitter weeping foreshadow repentance: presumption (\"I will never be offended\") gives way to grief when the cock crows."
+  ],
+  "crossRefs": [
+    {
+      "target": "EXO.12",
+      "label": "Exodus 12 — the institution of the Passover",
+      "why": "The Last Supper is set at \"the feast of the passover,\" and Jesus reinterprets its bread and cup around His own body and blood. The Passover lamb whose blood spared Israel supplies the framework for understanding Jesus' blood \"shed for many for the remission of sins.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ZEC.13",
+      "label": "Zechariah 13:7 — \"smite the shepherd, and the sheep shall be scattered\"",
+      "why": "Jesus quotes this verse (v. 31) to foretell that the disciples will be \"offended\" and scattered that night. The prophecy frames His arrest as a divinely foreseen striking of the shepherd, connecting the disciples' flight to Scripture.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.41",
+      "label": "Psalm 41:9 — \"mine own familiar friend... hath lifted up his heel against me\"",
+      "why": "The betrayal by Judas, who \"dippeth his hand with me in the dish,\" echoes the lament of a trusted table companion turning traitor. The psalm supplies the pattern of the righteous sufferer betrayed by an intimate, fulfilled in Judas.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DAN.7",
+      "label": "Daniel 7:13 — \"the Son of man... came with the clouds of heaven\"",
+      "why": "Before the high priest, Jesus declares they will \"see the Son of man sitting on the right hand of power, and coming in the clouds of heaven\" (v. 64). His claim fuses Daniel's Son of man with the enthroned Lord of Psalm 110, which the council hears as blasphemy.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The words of institution—\"this is my body\" and \"this is my blood of the new testament\" (vv. 26-28)—are read in the Catholic tradition as establishing the Real Presence: the bread and wine truly become the body and blood of Christ, so that the whole Christ is understood to be truly and substantially present in the Eucharist, a change the Church calls transubstantiation. Jesus' phrase \"shed for many for the remission of sins\" is taken to bind the Supper directly to His sacrificial death, so that the Mass re-presents that one sacrifice rather than merely recalling it. On this reading the \"new testament\" (new covenant) is sealed in Christ's blood and made present whenever the Church does what He commanded.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants divide on these words. Lutherans hold a real, bodily presence 'in, with, and under' the bread and wine (sacramental union) without transubstantiation. Reformed and Calvinist interpreters affirm a true but spiritual presence received by faith, reading \"this is my body\" as covenantal and symbolic language. Many evangelical and Baptist traditions take the Supper as primarily a memorial—\"this do in remembrance of me\"—in which the elements represent Christ's body and blood. Common to Protestant readings is a rejection of transubstantiation and of the Mass as a re-presented sacrifice, while affirming that the Supper genuinely proclaims and applies Christ's atoning death. Both traditions treat the Supper as central to Christian worship and tied to \"the remission of sins\"; they differ on the mode of Christ's presence and the sacrificial character of the rite.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Jesus' rebuke of the disciple who drew the sword—\"Put up again thy sword... for all they that take the sword shall perish with the sword\" (v. 52)—together with His statement that He could summon \"more than twelve legions of angels\" but chooses not to, is read in the Catholic tradition as revealing that His Passion is freely and voluntarily embraced, not imposed by force. His refusal of armed defense and His deference to the fulfillment of Scripture underscore that the atonement is an act of self-offering love, not the mere defeat of a helpless victim.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters share this reading almost entirely: Jesus' power to call legions of angels shows His arrest is a willing submission to the Father's plan, and His rebuke of the sword affirms that the kingdom does not advance by violence. There is little confessional difference here; both traditions emphasize the voluntary, substitutionary character of Christ's suffering and His deliberate choice to let the Scriptures be fulfilled rather than resist.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

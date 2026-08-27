@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.11",
+  "book": "Matthew",
+  "chapter": 11,
+  "canon": "protocanonical",
+  "summary": "Matthew 11 opens with John the Baptist imprisoned, sending disciples to ask, \"Art thou he that should come, or do we look for another?\" Jesus answers not with a title but with evidence drawn from Isaiah's hope: \"the blind receive their sight, and the lame walk, the lepers are cleansed... and the poor have the gospel preached to them,\" adding a beatitude for whoever is \"not... offended in me.\" He then praises John to the crowds as more than a prophet, the promised messenger who prepares the way, and \"Elias, which was for to come\"—yet declares that \"he that is least in the kingdom of heaven is greater than he.\" He rebukes \"this generation\" as fickle children who reject both John's austerity and the Son of man's table fellowship, slandering the one as demon-possessed and the other as \"a man gluttonous, and a winebibber,\" concluding \"wisdom is justified of her children.\" Jesus then upbraids Chorazin, Bethsaida, and Capernaum for refusing to repent despite His mighty works, warning that Tyre, Sidon, and even Sodom will fare better at judgment. The chapter closes with two of the Gospel's tenderest passages: Jesus thanks the Father for hiding \"these things from the wise and prudent\" and revealing them \"unto babes,\" claims that \"no man knoweth the Son, but the Father\" and the Father only through the Son, and issues His great invitation: \"Come unto me, all ye that labour and are heavy laden, and I will give you rest... Take my yoke upon you... for my yoke is easy, and my burden is light.\"",
+  "takeaways": [
+    "Jesus answers John's doubt not with proofs of identity but with the signs of Isaiah's promised age—healing and good news to the poor—inviting faith rather than demanding it: \"blessed is he, whosoever shall not be offended in me.\"",
+    "John is honored as the greatest of those \"born of women\" and the prophesied forerunner, yet the least in the kingdom is greater still, showing the surpassing gift of belonging to the new age Jesus inaugurates.",
+    "The generation is judged for its perverse refusal of every messenger—rejecting John's fasting and Jesus' feasting alike—so that unbelief, not the message, is exposed as the problem.",
+    "Privilege intensifies responsibility: the towns that saw Jesus' \"mighty works\" and did not repent face heavier judgment than notoriously wicked cities that never received such light.",
+    "Christ reveals a unique, mutual knowledge between Father and Son and extends a personal invitation to the weary to find rest under His gentle yoke—strength offered to the lowly, not the self-sufficient."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.35",
+      "label": "Isaiah 35:5-6 — the eyes of the blind opened, the lame leaping",
+      "why": "Jesus' reply to John catalogues exactly the signs Isaiah promised for the coming age of salvation. By pointing to these works He identifies His ministry as the fulfillment of that prophetic hope, answering \"Art thou he?\" through Scripture already known to John.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAL.3",
+      "label": "Malachi 3:1 — \"I will send my messenger, and he shall prepare the way before me\"",
+      "why": "Jesus applies Malachi's prophecy of the messenger who prepares the Lord's way directly to John, grounding John's identity as forerunner in the closing words of the prophets and linking his coming to the arrival of the Lord Himself.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAL.4",
+      "label": "Malachi 4:5 — Elijah sent before the great day of the Lord",
+      "why": "Jesus' statement that John \"is Elias, which was for to come\" draws on Malachi's promise of Elijah's return before the day of the Lord, interpreting that expectation as fulfilled in John's Elijah-like ministry of calling Israel to repentance.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JER.6",
+      "label": "Jeremiah 6:16 — \"ask for the old paths... and ye shall find rest for your souls\"",
+      "why": "Jesus' promise that the yoke-bearer \"shall find rest unto your souls\" echoes Jeremiah's call to walk in God's ways and find rest, presenting discipleship to Christ as the true fulfillment of that longstanding invitation to rest in God.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus' invitation—\"Come unto me... and I will give you rest. Take my yoke upon you... for my yoke is easy, and my burden is light\"—is read in the Catholic tradition as a call to enter His discipline of grace, where obedience to Christ is not the abolition of law but its transformation into a life-giving relationship sustained by grace. The 'yoke' language, familiar from rabbinic speech for the yoke of the Law, is taken up and made light because it is borne with and through Christ, whose grace enables the very obedience He asks.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters likewise treasure this invitation as pure gospel and rest for the weary, but many stress that the 'rest' Jesus offers is chiefly relief from the burden of trying to earn God's favor by law-keeping. On this reading the lightness of the yoke lies in resting on Christ's finished work by faith, so that the emphasis falls on receiving rest as gift rather than on grace enabling ongoing obedience. Both traditions affirm that the rest is Christ's free gift and that discipleship follows; they differ in emphasis on how obedience relates to that rest.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

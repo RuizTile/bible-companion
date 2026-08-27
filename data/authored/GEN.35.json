@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.35",
+  "book": "Genesis",
+  "chapter": 35,
+  "canon": "protocanonical",
+  "summary": "God calls Jacob back to Bethel to build the altar he vowed long ago. Jacob first purifies his household: \"Put away the strange gods that are among you, and be clean, and change your garments,\" burying their idols and earrings under the oak by Shechem. As they journey, \"the terror of God\" protects them from pursuit. At Bethel Jacob builds an altar and calls it El-beth-el. Deborah, Rebekah's nurse, dies and is buried under an oak. God appears again, confirming the name Israel and renewing the covenant: \"I am God Almighty: be fruitful and multiply; a nation and a company of nations shall be of thee, and kings shall come out of thy loins,\" with the land promised to his seed. Jacob sets up a stone pillar with drink offering and oil. Then sorrow: on the road to Ephrath Rachel dies in hard labor bearing a son she names Ben-oni, \"but his father called him Benjamin,\" and she is buried near Bethlehem. Reuben defiles his father's bed. The twelve sons are listed, and finally Jacob comes home to Isaac at Hebron; Isaac dies \"old and full of days,\" and Esau and Jacob together bury him.",
+  "takeaways": [
+    "Genuine return to God requires putting away idols and being made clean, an inner reform matching the outward journey to Bethel.",
+    "God renews the Abrahamic covenant with Jacob, promising nations, kings, and the land to his seed.",
+    "The chapter holds joy and grief together: covenant renewal alongside the deaths of Deborah, Rachel, and Isaac.",
+    "The full roster of the twelve sons marks the completion of the family that becomes the nation of Israel."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.28",
+      "verses": "10-22",
+      "label": "Genesis 28:10-22 — Jacob's dream and vow at Bethel",
+      "why": "God sends Jacob back to fulfill the vow he made when he first saw the ladder to heaven and anointed the pillar. This chapter completes the arc opened at Bethel, with Jacob returning to worship where God first appeared.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MIC.5",
+      "verses": "2",
+      "label": "Micah 5:2 — Bethlehem, birthplace of the ruler",
+      "why": "Rachel is buried \"in the way to Ephrath, which is Beth-lehem,\" the town Micah names as the birthplace of Israel's coming ruler. The location quietly links this grave to the later hope centered on Bethlehem.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JER.31",
+      "verses": "15",
+      "label": "Jeremiah 31:15 — Rachel weeping for her children",
+      "why": "Jeremiah pictures Rachel weeping near her burial place for the exiled children of Israel. Her death here becomes the enduring image of maternal grief the prophet, and later Matthew, draws upon.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.49",
+      "verses": "3-4,28",
+      "label": "Genesis 49:3-4,28 — Reuben's forfeited birthright; the twelve tribes",
+      "why": "Reuben's sin with Bilhah, noted here, costs him his firstborn preeminence in Jacob's final blessing. The listing of the twelve sons here anticipates the tribal blessings and destinies pronounced later.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jacob's command to \"put away the strange gods\" and be clean before ascending to Bethel is read in the Catholic tradition as a pattern of conversion and purification preceding worship, prefiguring the interior cleansing and repentance the Church calls for before approaching the altar.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise see here a call to repentance and the removal of idols as the fitting preparation for encountering God, emphasizing the heart's return to the LORD. Both traditions agree that Jacob's reform models turning from false gods to sincere worship; the difference is chiefly in how each frames the connection to later liturgical practice.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

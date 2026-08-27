@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.12",
+  "book": "Genesis",
+  "chapter": 12,
+  "canon": "protocanonical",
+  "summary": "God's call to Abram opens the great arc of salvation history: \"Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee.\" The command comes with a sevenfold promise, land, a great nation, blessing, a great name, and the sweeping pledge that \"in thee shall all families of the earth be blessed.\" Abram, seventy-five years old, obeys and departs with Sarai and Lot, entering Canaan though \"the Canaanite was then in the land.\" At Shechem the LORD appears and promises the land to his seed, and Abram builds an altar and \"called upon the name of the LORD.\" When famine strikes, Abram goes down to Egypt and, fearing for his life, tells Sarai to say she is his sister. Pharaoh takes her into his house, but the LORD \"plagued Pharaoh and his house with great plagues because of Sarai.\" Pharaoh rebukes Abram and sends him away with all he has. The chapter shows both the boldness of faith that leaves everything at God's word and the frailty of a man who, under fear, resorts to deceit, yet whom God protects for the sake of his promise.",
+  "takeaways": [
+    "God's covenant with Abram is universal in aim: through one man \"all families of the earth\" are to be blessed.",
+    "Faith responds to God's word with concrete obedience, leaving security behind for a promise not yet seen.",
+    "Abram's building of altars and calling on the LORD marks worship as central to the life of the man of faith.",
+    "Even a great patriarch fails through fear, yet God's faithfulness to his promise is not overturned by human weakness."
+  ],
+  "crossRefs": [
+    {
+      "target": "GAL.3",
+      "verses": "8-9",
+      "label": "Galatians 3:8-9 — the gospel promised beforehand to Abraham",
+      "why": "Paul calls the promise that \"in thee shall all nations be blessed\" the gospel preached in advance to Abraham. He reads Genesis 12:3 as the charter for the inclusion of the Gentiles through faith in Christ.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.11",
+      "verses": "8-10",
+      "label": "Hebrews 11:8-10 — Abraham obeyed by faith",
+      "why": "Hebrews holds up Abraham's departure as the model of faith, going out to an inheritance \"not knowing whither he went\" and looking for a city with foundations. The chapter's account of his obedience becomes the paradigm of trusting God's unseen promise.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.20",
+      "verses": "1-7",
+      "label": "Genesis 20:1-7 — Abraham again calls Sarah his sister",
+      "why": "Abraham repeats the sister ruse with Abimelech, and God again intervenes to protect Sarah. The parallel highlights a recurring flaw in Abraham and God's consistent guarding of the woman through whom the promised seed will come.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.12",
+      "verses": "31-36",
+      "label": "Exodus 12:31-36 — Israel plundered and sent out of Egypt",
+      "why": "Abram's descent into Egypt, the plagues on Pharaoh, and his departure enriched foreshadow Israel's later sojourn and exodus. The narrative pattern of famine, oppression, plague, and release anticipates the nation's own story.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Catholic tradition reads the promise that \"in thee shall all families of the earth be blessed\" as fulfilled in Christ and mediated through the Church, so that the blessing of Abraham reaches the nations sacramentally and through the ongoing life of the covenant people.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers, following Paul closely, emphasize that the Abrahamic blessing comes to the nations by faith in Christ, the singular seed, and is received directly through justifying faith. Both traditions agree that Christ is the fulfillment of the promise and that Gentiles are included in Abraham's blessing.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.44",
+  "book": "Genesis",
+  "chapter": 44,
+  "canon": "protocanonical",
+  "summary": "Joseph stages one final test of his brothers. He orders his steward to fill their sacks with food, return their money, and hide his own silver cup in Benjamin's sack. When the brothers depart, the steward overtakes them and accuses them: \"Wherefore have ye rewarded evil for good?\" Confident of their innocence, they vow that whoever holds the cup should die and the rest become bondmen. The search begins \"at the eldest\" and ends at the youngest, and \"the cup was found in Benjamin's sack.\" They rend their clothes and return. Judah confesses not the theft but a deeper truth: \"God hath found out the iniquity of thy servants.\" Then comes one of Scripture's great speeches. Judah recounts their aged father's fragile love for Benjamin, whose \"life is bound up in the lad's life,\" and pleads to take Benjamin's place: \"let thy servant abide instead of the lad a bondman to my lord; and let the lad go up with his brethren.\" The same man who once sold Joseph now offers himself as surety and substitute, unwilling to watch his father's \"gray hairs\" go down \"with sorrow to the grave.\" The test has done its work; repentance has become self-sacrifice.",
+  "takeaways": [
+    "The staged crisis reveals genuine change: the brothers who once betrayed Joseph now refuse to abandon Benjamin.",
+    "Judah's offer to become a bondman in the lad's place is a portrait of substitution and self-giving love.",
+    "Judah reads their trouble as divine reckoning — \"God hath found out the iniquity of thy servants\" — confessing old guilt without excuse.",
+    "Costly intercession for a brother, rooted in a father's love, drives the whole plea."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.37",
+      "verses": "26-28",
+      "label": "Genesis 37:26-28 — Judah proposes selling Joseph",
+      "why": "Judah once engineered Joseph's sale for profit and shrugged off their father's grief. His plea here to be enslaved so Benjamin can go free measures how far he has come. The two scenes form a deliberate before-and-after of Judah's character.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.43",
+      "verses": "8-9",
+      "label": "Genesis 43:8-9 — Judah's pledge of surety for Benjamin",
+      "why": "Judah had personally guaranteed Benjamin's safe return, saying he would bear the blame forever. His speech in chapter 44 is him making good on that surety, refusing to return to Jacob without the boy.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.15",
+      "verses": "13",
+      "label": "John 15:13 — greater love lays down its life",
+      "why": "Jesus teaches that the greatest love is to lay down one's life for one's friends. Judah's willingness to take Benjamin's punishment enacts that principle within the family, and Christian readers see in it a shadow of Christ's substitution.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.5",
+      "verses": "8",
+      "label": "Romans 5:8 — Christ died for us while we were sinners",
+      "why": "Paul frames salvation as one bearing the penalty owed by the guilty. Judah, an offender himself, offering to be enslaved so the innocent may go free anticipates the pattern of vicarious love that the New Testament attributes supremely to Christ.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Judah's offer to substitute himself for Benjamin is read as a foreshadowing of Christ, who from the tribe of Judah offers himself in the place of the guilty.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise honor Judah's substitution as a moral and typological high point, and many see it prefiguring atonement. Some caution against pressing every detail into a Christ-figure, reading it first as an authentic account of repentance and transformed character; both traditions agree the scene displays real conversion and self-giving love.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

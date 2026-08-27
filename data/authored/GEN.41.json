@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.41",
+  "book": "Genesis",
+  "chapter": 41,
+  "canon": "protocanonical",
+  "summary": "Two years later Pharaoh dreams of seven fat cattle devoured by seven lean ones, and seven full ears of corn swallowed by seven thin ears. His spirit is troubled and no magician can interpret; only then does the butler remember Joseph. Brought hastily from the dungeon, shaved and reclothed, Joseph disclaims all credit: “It is not in me: God shall give Pharaoh an answer of peace.” He declares both dreams to be one — seven years of great plenty followed by seven years of grievous famine — doubled because “the thing is established by God.” He counsels Pharaoh to appoint “a man discreet and wise” to store a fifth of the harvest against the coming dearth. Recognizing “a man in whom the Spirit of God is,” Pharaoh sets Joseph over all Egypt, arraying him in fine linen, a gold chain, and the royal ring, second only to the throne. Joseph, now thirty, marries Asenath and gathers grain “as the sand of the sea.” Two sons, Manasseh and Ephraim, are born. When famine spreads over all the earth, “all countries came into Egypt to Joseph for to buy corn,” fulfilling his childhood dreams.",
+  "takeaways": [
+    "Joseph consistently gives God the glory — “It is not in me” — refusing to claim wisdom as his own.",
+    "God raises the humble in his own time: the forgotten prisoner becomes ruler of Egypt in a single day.",
+    "Wise stewardship in plenty prepares for scarcity; discernment issues in practical, life-saving action.",
+    "The naming of Manasseh (“forget all my toil”) and Ephraim (“fruitful in the land of my affliction”) shows Joseph interpreting his own suffering as redeemed by God."
+  ],
+  "crossRefs": [
+    {
+      "target": "DAN.2",
+      "verses": "46-48",
+      "label": "Daniel 2:46-48 — a Hebrew exile exalted for interpreting a king’s dream",
+      "why": "As with Joseph, Daniel’s God-given interpretation lifts him from obscurity to high office in a pagan empire. Both accounts show God placing his servants in power to preserve his people.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.105",
+      "verses": "20-22",
+      "label": "Psalm 105:20-22 — the king loosed him and made him lord of his house",
+      "why": "The psalm celebrates exactly this reversal: Pharaoh frees Joseph and sets him over all his possessions. It reads the exaltation as God’s deliberate provision before the famine.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.37",
+      "verses": "7-9",
+      "label": "Genesis 37:7-9 — the dreams of obeisance",
+      "why": "The coming of “all countries” to Joseph for corn sets in motion the fulfillment of his boyhood dreams that his family would bow to him. This chapter provides the machinery by which those dreams come true.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.7",
+      "verses": "9-14",
+      "label": "Acts 7:9-14 — Stephen: God gave Joseph favor and wisdom before Pharaoh",
+      "why": "Stephen’s sermon compresses Joseph’s rise and Egypt’s provision into a single account of God’s faithfulness to Israel. It shows the Church reading this exaltation as a key stage of salvation history.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Pharaoh’s recognition of “a man in whom the Spirit of God is” has been read in the Catholic tradition as testimony that God’s Spirit equips and elevates his servants for the good of many, and Joseph’s stewardship is upheld as a model of the virtue of prudence in public office.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers similarly affirm the Spirit’s work in Joseph and stress divine providence orchestrating events for the preservation of God’s people, sometimes highlighting the sovereignty of God over nations more than the language of infused virtue. Both traditions agree Joseph’s wisdom is a gift of God, not merely native talent.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

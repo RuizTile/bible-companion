@@ -1,0 +1,63 @@
+{
+  "ref": "MAT.16",
+  "book": "Matthew",
+  "chapter": 16,
+  "canon": "protocanonical",
+  "summary": "Matthew 16 turns on the question of Jesus' identity. The Pharisees and Sadducees demand a sign from heaven, and Jesus rebukes them: they can read the sky but not the \"signs of the times,\" and no sign will be given but that of Jonah. Crossing the lake, He warns the disciples against \"the leaven of the Pharisees and of the Sadducees\"; when they think He means literal bread, He reminds them of the miraculous feedings, and they grasp He means false doctrine. At Caesarea Philippi, Jesus asks who people say He is—John the Baptist, Elijah, Jeremiah, or a prophet—then asks the disciples directly. Simon Peter answers, \"Thou art the Christ, the Son of the living God.\" Jesus calls him blessed, because \"flesh and blood hath not revealed it unto thee, but my Father which is in heaven.\" He then declares, \"Thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it,\" giving Peter \"the keys of the kingdom of heaven\" and the power to bind and loose. He charges the disciples to tell no one He is the Christ. Jesus then foretells His suffering, death, and resurrection at Jerusalem. Peter rebukes Him, and Jesus answers sharply, \"Get thee behind me, Satan.\" He teaches that discipleship means self-denial and taking up one's cross, for whoever loses his life for Christ's sake will find it, closing with the promise of the Son of man coming in glory to reward each according to his works.",
+  "takeaways": [
+    "Jesus rebukes the demand for a sign and warns against \"the leaven of the Pharisees and of the Sadducees\"—their false doctrine—calling His hearers to discern the \"signs of the times\" rather than seek spectacle.",
+    "Peter's confession—\"Thou art the Christ, the Son of the living God\"—is revealed by the Father, not attained by \"flesh and blood,\" and stands at the center of the chapter.",
+    "Jesus promises to build His Church on the rock and gives Peter the keys of the kingdom with authority to bind and loose, language of delegated stewardship within the kingdom.",
+    "Right confession must be joined to the cross: moments after being blessed, Peter is rebuked as \"Satan\" for refusing Jesus' path of suffering, and true discipleship is defined as self-denial and taking up one's cross."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.22",
+      "label": "Isaiah 22:20-22 — the key of the house of David laid on Eliakim's shoulder",
+      "why": "A single royal steward is given \"the key of the house of David\" to open and shut with the king's authority. This is the Old Testament background for \"the keys of the kingdom\" entrusted to Peter—an office of delegated stewardship under the King, not merely a private honor.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.21",
+      "label": "John 21:15-17 — \"Feed my sheep\"",
+      "why": "The risen Christ three times commissions Peter to shepherd His flock. Catholic tradition reads this as the enactment of the pastoral authority promised at Caesarea Philippi, tying the keys and the shepherding charge together.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "MAT.18",
+      "label": "Matthew 18:18 — binding and loosing given to the disciples",
+      "why": "The same \"bind and loose\" authority spoken to Peter is later extended to the community of disciples, framing how Peter's role relates to the wider Church and clarifying the scope of the power granted here.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JON.2",
+      "label": "Jonah — the sign of Jonah and three days",
+      "why": "Jesus points to \"the sign of the prophet Jonas\" as the only sign His generation will receive; elsewhere He explains it as His three days in the tomb, so the reference anticipates the death and resurrection He predicts later in this same chapter.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic reading understands \"this rock\" as Peter himself: Jesus renames Simon \"Peter\" (rock) and builds His Church upon him, giving him the keys and the power to bind and loose. This is read as the scriptural basis for the Petrine office and, in developed Catholic doctrine, for the papacy. The Aramaic play on 'Kepha' (rock) reinforces that the rock and the man are the same.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant interpreters hold that \"this rock\" refers primarily to Peter's confession of faith (or to Christ Himself, the true foundation), noting the Greek shift from Petros (Peter) to petra (rock). Even where Peter is granted a personal role, most Protestants deny that a transmissible office or papal succession follows from the text. Both traditions agree the passage is central and that Peter is genuinely singled out; they differ over what the rock is and whether an enduring office is established.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

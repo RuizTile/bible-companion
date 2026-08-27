@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.28",
+  "book": "Matthew",
+  "chapter": 28,
+  "canon": "protocanonical",
+  "summary": "Matthew 28 is the resurrection and the sending. As the sabbath ends and the first day of the week dawns, Mary Magdalene and \"the other Mary\" come to see the sepulchre. A great earthquake accompanies an angel of the Lord, who descends, rolls back the stone, and sits upon it; his \"countenance was like lightning\" and his raiment \"white as snow,\" and the guards shake and \"became as dead men.\" The angel tells the women, \"Fear not\"—\"He is not here: for he is risen, as he said\"—invites them to see the empty place, and sends them to tell the disciples that Jesus goes before them into Galilee. They leave \"with fear and great joy,\" and Jesus Himself meets them: \"All hail.\" They hold His feet and worship, and He repeats, \"Be not afraid,\" calling the disciples \"my brethren.\" Meanwhile the watch reports to the chief priests, who bribe the soldiers to spread the story that the disciples stole the body while they slept—a rumor Matthew notes is still told \"until this day.\" Finally the eleven go to the appointed mountain in Galilee; seeing Jesus they worship, \"but some doubted.\" Jesus declares, \"All power is given unto me in heaven and in earth,\" and commissions them: \"Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost,\" teaching obedience to all He commanded, with the promise, \"lo, I am with you alway, even unto the end of the world.\"",
+  "takeaways": [
+    "The resurrection is announced first to women—Mary Magdalene and \"the other Mary\"—who become the first witnesses and messengers of the risen Lord, a detail of striking weight in that culture.",
+    "\"He is not here: for he is risen, as he said\" anchors the resurrection both in the empty tomb they can \"come, see\" and in Jesus' own prior promises, so the event is presented as fulfillment rather than surprise.",
+    "The women depart \"with fear and great joy\" and worship the risen Jesus by holding His feet, showing the resurrection meets real bodily encounter, not merely a vision.",
+    "The guards' bribed cover-story—that the disciples stole the body—shows Matthew addressing an actual counter-claim, and even the honest note \"but some doubted\" underscores that faith and worship coexist with lingering doubt.",
+    "The Great Commission joins Jesus' universal authority (\"All power is given unto me\") to a universal mission—baptizing \"all nations\" in the threefold divine name and teaching obedience—sealed by His abiding presence \"unto the end of the world.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "DAN.7",
+      "label": "Daniel 7:13-14 — the Son of man given everlasting dominion over all peoples",
+      "why": "Jesus' claim \"All power is given unto me in heaven and in earth\" echoes Daniel's vision of the Son of man receiving universal, everlasting dominion over \"all people, nations, and languages.\" The commission to disciple \"all nations\" flows directly from that granted authority, reading the resurrection as the enthronement Daniel foresaw.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.16",
+      "label": "Mark 16:1-8 — the women at the empty tomb and the angel's message",
+      "why": "Mark records the same visit of the women, the rolled-back stone, and the angelic announcement that Jesus is risen and goes before them to Galilee. The parallel confirms the core resurrection tradition and lets Matthew's fuller ending (the guards, the mountain, the commission) be read alongside a second witness.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.12",
+      "label": "Genesis 12:1-3 — \"in thee shall all families of the earth be blessed\"",
+      "why": "The command to disciple \"all nations\" brings to completion the promise to Abraham that in his seed all the families of the earth would be blessed. The universal scope of the commission is the harvest of that ancient covenant, now opened to every people through the risen Christ.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.1",
+      "label": "Matthew 1:23 — \"they shall call his name Emmanuel,... God with us\"",
+      "why": "The Gospel opened by naming Jesus \"Emmanuel, God with us,\" and it closes with His own promise, \"lo, I am with you alway, even unto the end of the world.\" The inclusio frames the whole book: the God-with-us of the incarnation remains present with His Church until the end.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads Jesus' command to baptize \"in the name of the Father, and of the Son, and of the Holy Ghost\" as the dominical foundation of both the sacrament of baptism and the revelation of the Trinity. The singular \"name\" over three persons expresses the one God in three, and the Church holds this Trinitarian formula to be the normative, valid form for baptism. Because baptism is here commanded by the risen Lord as integral to making disciples, it is understood not as a mere symbol but as an efficacious means of incorporation into Christ.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestants universally affirm the Trinitarian baptismal formula and honor the Great Commission as the Church's charter for evangelism, and most retain the threefold name in practice. They differ on baptism's inner working: many Reformed and evangelical traditions read baptism as a sign and seal of a grace received through faith rather than a channel that itself confers regeneration, and some limit valid baptism to professing believers. Both traditions agree that Christ commands baptism into the one triune God and that discipleship of all nations is the Church's abiding mission.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.43",
+  "book": "Genesis",
+  "chapter": 43,
+  "canon": "protocanonical",
+  "summary": "As the famine grows “sore in the land,” Jacob urges his sons to return for more food, but Judah reminds him the governor swore, “Ye shall not see my face, except your brother be with you.” Judah personally offers himself as guarantor for Benjamin: “I will be surety for him... let me bear the blame for ever.” Israel relents, sending a present of the land’s best fruits, double money, and Benjamin, with the prayer, “God Almighty give you mercy before the man... If I be bereaved of my children, I am bereaved.” Seeing Benjamin, Joseph orders a feast prepared. The brothers, fearing they are trapped over the returned money, explain themselves to the steward, who reassures them: “Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks.” He restores Simeon. When Joseph arrives, they bow and present their gift; he asks after their father and, seeing Benjamin, “his mother’s son,” is so moved that “his bowels did yearn upon his brother,” and he withdraws to weep. Composing himself, he seats them in birth order to their amazement and honors Benjamin with a portion “five times so much as any of theirs,” and they feast merrily together.",
+  "takeaways": [
+    "Judah’s pledge to be surety for Benjamin marks his moral transformation from the brother who once sold Joseph.",
+    "Jacob’s surrender, “If I be bereaved... I am bereaved,” models faith that releases what it loves into God’s hands.",
+    "The steward’s word points beneath the surface to God’s providence: it is “your God” who has given them treasure.",
+    "Joseph’s tender emotion at seeing Benjamin reveals that his testing is driven by love, not lingering resentment."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.44",
+      "verses": "18-34",
+      "label": "Genesis 44:18-34 — Judah offers himself for Benjamin",
+      "why": "Judah’s surety here is put to the test in the next chapter, where he begs to become a slave in Benjamin’s place. The two passages together display his full repentance and self-sacrifice.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.37",
+      "verses": "26-28",
+      "label": "Genesis 37:26-28 — Judah proposes selling Joseph",
+      "why": "The Judah who once sold a brother into slavery for silver now stakes himself as surety for a brother’s safe return. The contrast measures the change God has worked in him.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.42",
+      "verses": "24",
+      "label": "Genesis 42:24 — Joseph turns aside to weep",
+      "why": "Joseph’s weeping recurs as he sees Benjamin, deepening the emotion first shown when he overheard his brothers’ confession. The repeated tears reveal the affection behind his stern disguise.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1JN.4",
+      "verses": "18",
+      "label": "1 John 4:18 — perfect love casteth out fear",
+      "why": "The brothers arrive gripped by fear, but are met with peace, restored money, and a shared table. Their movement from dread to feasting anticipates the way love overcomes fear in reconciliation.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Judah’s willingness to become surety for Benjamin is read in the Christian and Catholic tradition as foreshadowing Christ, the Lion of the tribe of Judah, who becomes surety for his brethren and bears the blame in their place.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters frequently draw the same connection between Judah’s suretyship and Christ’s substitutionary work, while grounding it primarily in the narrative’s portrayal of genuine repentance and sacrificial love. Both traditions see Judah’s pledge as a high point of moral and typological significance in the Joseph story.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

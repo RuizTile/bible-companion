@@ -1,0 +1,74 @@
+{
+  "ref": "MAT.19",
+  "book": "Matthew",
+  "chapter": 19,
+  "canon": "protocanonical",
+  "summary": "Leaving Galilee for Judaea beyond Jordan, Jesus heals the multitudes and is tested by Pharisees who ask whether a man may \"put away his wife for every cause.\" He answers not from Moses but from creation: \"he which made them at the beginning made them male and female,\" and \"they twain shall be one flesh.\" His conclusion is decisive—\"What therefore God hath joined together, let not man put asunder.\" Moses' bill of divorcement, He says, was a concession \"because of the hardness of your hearts,\" \"but from the beginning it was not so.\" When the disciples recoil that it may be better not to marry, Jesus speaks of those who become \"eunuchs\" for the kingdom's sake, a saying only some \"can receive.\" He then welcomes little children, rebuking the disciples: \"of such is the kingdom of heaven.\" A rich young man asks what good thing he must do for eternal life; Jesus points to the commandments, then to more: \"If thou wilt be perfect, go and sell that thou hast, and give to the poor... and come and follow me.\" The man leaves sorrowful, prompting the saying that it is \"easier for a camel to go through the eye of a needle\" than for a rich man to be saved—yet \"with God all things are possible.\" To Peter's question about their reward, Jesus promises thrones in \"the regeneration\" and a hundredfold to all who have forsaken much, closing with the reversal: \"many that are first shall be last; and the last shall be first.\"",
+  "takeaways": [
+    "Jesus grounds marriage in creation rather than in the law of Moses, appealing to \"the beginning\" so that the one-flesh union is God's own design, not a merely human contract.",
+    "The saying \"What God hath joined together, let not man put asunder\" presents the marriage bond as something established by God and therefore not at man's disposal to dissolve.",
+    "Jesus receives the little children and makes them a model of the kingdom—\"of such is the kingdom of heaven\"—valuing lowliness and dependence over status.",
+    "The rich young man keeps the commandments yet lacks one thing; Jesus' call to sell all and follow Him shows that discipleship can demand a total surrender beyond mere rule-keeping.",
+    "Wealth is a real obstacle to the kingdom (\"easier for a camel...\"), but salvation rests finally on God's power—\"with God all things are possible\"—and self-denial for Christ's name is answered with a hundredfold and eternal life."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.2",
+      "label": "Genesis 2:24 — \"they shall be one flesh\"",
+      "why": "Jesus quotes this verse directly to settle the divorce question, tracing marriage back to the Creator's original act. The cross-reference shows His argument is not novel legislation but a recovery of God's design \"from the beginning.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DEU.24",
+      "label": "Deuteronomy 24:1-4 — the bill of divorcement Moses permitted",
+      "why": "The Pharisees appeal to this Mosaic provision, and Jesus explains it as a concession to \"the hardness of your hearts\" rather than the original will of God. The link clarifies the tension Jesus resolves between the Law's permission and creation's intent.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.10",
+      "label": "Mark 10:2-31 — the parallel teaching on divorce, children, and the rich man",
+      "why": "Mark reports the same sequence of encounters, sometimes with sharper detail (\"Jesus beholding him loved him\"). The parallel confirms this as a fixed unit of teaching and enriches Matthew's account of each scene.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.18",
+      "label": "Luke 18:15-30 — children blessed and the ruler who kept the commandments",
+      "why": "Luke narrates the blessing of the children and the rich ruler with the same camel-and-needle saying, reinforcing the paired themes of childlike reception of the kingdom and the peril of riches.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads Jesus' words in verses 4-6 as teaching the indissolubility of a valid, consummated marriage: because God Himself joins the spouses into \"one flesh,\" no human authority can dissolve the bond. The Catechism presents this passage as Jesus restoring marriage to its unbreakable original meaning, which grounds the Church's refusal to recognize the dissolution of a sacramental marriage and its practice of examining, through annulment, whether a true bond ever existed rather than dissolving one that did.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Most Protestant interpreters likewise affirm that Jesus upholds the permanence of marriage and calls divorce a departure from God's original design. Many, however, read the phrase \"except it be for fornication\" (v. 9) as an explicit exception clause that permits divorce and remarriage in cases of marital unfaithfulness, and some Reformed and evangelical traditions add desertion as a further ground (appealing to 1 Corinthians 7). On this view divorce is a grave concession to sin but is genuinely permitted in limited cases, so the disagreement with Catholic teaching is less about the goodness of permanence than about whether the bond itself can ever be broken.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The Catholic tradition finds in Jesus' invitation to the rich young man—\"If thou wilt be perfect, go and sell that thou hast\"—a scriptural root of the evangelical counsels (voluntary poverty, chastity, obedience). Read together with the saying on those who make themselves \"eunuchs... for the kingdom of heaven's sake\" (v. 12), this passage is understood to distinguish the commandments binding on all from a further, freely embraced call to perfection that undergirds the consecrated and religious life.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally resist a two-tier reading that separates ordinary Christians from a higher class pursuing 'perfection.' They tend to see Jesus exposing the young man's particular idol—his wealth—and calling every disciple to the same wholehearted surrender and treasure in heaven, not issuing an optional counsel for a spiritual elite. Celibacy 'for the kingdom' is honored as a genuine gift for some (echoing 1 Corinthians 7), but not as a higher state of life; the single call to follow Christ is understood to bind all believers equally.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.48",
+  "book": "Genesis",
+  "chapter": 48,
+  "canon": "protocanonical",
+  "summary": "Told his father is sick, Joseph brings his two Egyptian-born sons, Manasseh and Ephraim, to the dying Jacob. Israel rallies, sits up, and recalls the promise God Almighty gave him at Luz: fruitfulness, a multitude of people, and \"this land to thy seed after thee for an everlasting possession.\" Then Jacob adopts Joseph's sons as his own: \"thy two sons, Ephraim and Manasseh... are mine; as Reuben and Simeon, they shall be mine.\" This grants Joseph a double portion among the tribes. Half-blind, Jacob embraces the boys, marveling, \"I had not thought to see thy face: and, lo, God hath shewed me also thy seed.\" Joseph positions the elder Manasseh at Jacob's right and Ephraim at his left, but Jacob deliberately crosses his hands, laying his right hand on Ephraim, the younger, \"guiding his hands wittingly.\" He blesses them, invoking \"the God which fed me all my life long\" and \"the Angel which redeemed me from all evil.\" When Joseph objects and tries to switch the hands, Jacob refuses: \"I know it, my son... but truly his younger brother shall be greater.\" He sets Ephraim before Manasseh and blesses them so that in them Israel would bless. Finally he assures Joseph, \"God shall be with you, and bring you again unto the land of your fathers,\" and grants him \"one portion above thy brethren.\"",
+  "takeaways": [
+    "God's pattern of choosing the younger over the elder continues: Jacob's crossed hands deliberately favor Ephraim.",
+    "By adopting Ephraim and Manasseh as his own, Jacob gives Joseph a double portion and grafts his grandsons directly into Israel.",
+    "Jacob blesses out of a lifetime of experienced grace — the God who fed him and the Angel who redeemed him from all evil.",
+    "The dying patriarch looks past Egypt to the covenant: God will bring his descendants back to \"the land of your fathers.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.25",
+      "verses": "23",
+      "label": "Genesis 25:23 — the elder shall serve the younger",
+      "why": "God told Rebekah that \"the elder shall serve the younger,\" and Jacob himself received the blessing meant for the firstborn Esau. In blessing Ephraim over Manasseh, Jacob perpetuates the divine pattern of grace overturning natural precedence that shaped his own life.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.28",
+      "verses": "12-15",
+      "label": "Genesis 28:12-15 — God's promise to Jacob at Luz (Bethel)",
+      "why": "Jacob explicitly recalls God Almighty appearing to him \"at Luz\" with promises of land and offspring. His blessing of Ephraim and Manasseh passes that same covenant hope down to the next generation.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.11",
+      "verses": "21",
+      "label": "Hebrews 11:21 — Jacob blessed Joseph's sons by faith",
+      "why": "Hebrews singles out this very act: \"By faith Jacob, when he was a dying, blessed both the sons of Joseph.\" It commends the crossed-hands blessing as an exemplary act of faith looking to God's future promises.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JOS.14",
+      "verses": "4",
+      "label": "Joshua 14:4 — Ephraim and Manasseh reckoned as tribes",
+      "why": "In the allotment of the land, the sons of Joseph become two tribes, Manasseh and Ephraim, receiving their own inheritance. This fulfills Jacob's adoption of the boys as full tribal heirs in place of Joseph.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jacob's crossed hands, favoring the younger Ephraim, are read as a sign of God's sovereign freedom in election, prefiguring how divine grace repeatedly bypasses natural or legal precedence.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers, especially in the Reformed tradition, strongly emphasize this scene as an illustration of unmerited election and God's sovereign choice. Both traditions read the reversal as intentional and God-guided rather than a mistake by a blind old man, and both connect it to the wider biblical pattern of the younger being chosen.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

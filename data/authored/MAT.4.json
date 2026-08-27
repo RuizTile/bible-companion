@@ -1,0 +1,53 @@
+{
+  "ref": "MAT.4",
+  "book": "Matthew",
+  "chapter": 4,
+  "canon": "protocanonical",
+  "summary": "Immediately after His baptism, Jesus is led by the Spirit into the wilderness to be tempted by the devil. After fasting forty days and forty nights, He is hungry, and the tempter approaches with three trials. First, he urges Jesus to turn stones into bread; Jesus answers from Scripture, \"Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.\" Next, the devil sets Him on the pinnacle of the temple and, quoting Scripture himself, dares Him to cast Himself down; Jesus replies, \"Thou shalt not tempt the Lord thy God.\" Finally, from a high mountain the devil offers Him all the kingdoms of the world in exchange for worship; Jesus dismisses him, \"Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.\" The devil departs, and angels minister to Him. Hearing that John has been imprisoned, Jesus withdraws to Galilee, leaving Nazareth to dwell in Capernaum, fulfilling Isaiah's word that people in darkness by the sea should see a great light. From then He begins to preach, \"Repent: for the kingdom of heaven is at hand.\" Walking by the Sea of Galilee, He calls Simon Peter and Andrew, then James and John, promising to make them \"fishers of men\"; they leave nets, boat, and father to follow at once. Jesus then goes throughout Galilee, teaching, preaching the gospel of the kingdom, and healing every sickness, drawing great multitudes.",
+  "takeaways": [
+    "Jesus, tempted after His baptism and fast, overcomes the devil not by displays of power but by the word of God, answering each temptation with Scripture and modeling faithful resistance.",
+    "The three temptations—appetite, presumption, and power through idolatry—probe the core of human trial; Jesus succeeds where Israel failed in the wilderness, reversing that pattern of unfaithfulness.",
+    "Notably, the devil himself quotes Scripture, showing that sacred words can be twisted; Jesus counters not by rejecting Scripture but by interpreting it rightly, refusing to tempt God.",
+    "Jesus' move to Capernaum and His preaching of repentance fulfill Isaiah's prophecy of a great light dawning on Galilee, extending His mission toward 'Galilee of the Gentiles.'",
+    "The immediate response of the first disciples—leaving nets, boat, and father to follow—illustrates the total, prompt claim of Jesus' call and His purpose to make them 'fishers of men.'"
+  ],
+  "crossRefs": [
+    {
+      "target": "DEU.8",
+      "label": "Deuteronomy 8:3 — \"man doth not live by bread only\"",
+      "why": "Jesus answers the first temptation by quoting this verse from Israel's wilderness instruction; the connection frames His forty days as a faithful re-living of Israel's forty years, succeeding where the people had grumbled and failed.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DEU.6",
+      "label": "Deuteronomy 6:13, 16 — worship God alone, do not tempt Him",
+      "why": "Jesus' replies to the second and third temptations both draw on Deuteronomy 6, showing His deliberate use of the Law's call to exclusive worship of God as the decisive answer to idolatry and presumption.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.9",
+      "label": "Isaiah 9:1-2 — light dawning on Galilee of the Gentiles",
+      "why": "Matthew cites this prophecy to interpret Jesus' relocation to Capernaum, presenting His ministry as the promised light rising over a darkened land and signaling the kingdom's reach toward the nations.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.3",
+      "label": "Genesis 3:1-6 — the serpent's temptation of Adam and Eve",
+      "why": "The wilderness testing echoes and reverses Eden: where the first humans yielded to the tempter's distortion of God's word, Jesus, the new Adam, resists, undoing humanity's original failure and modeling obedience.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

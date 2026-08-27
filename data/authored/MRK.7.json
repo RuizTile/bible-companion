@@ -1,0 +1,77 @@
+{
+  "ref": "MRK.7",
+  "book": "Mark",
+  "chapter": 7,
+  "canon": "protocanonical",
+  "summary": "Pharisees and scribes from Jerusalem fault Jesus' disciples for eating with \"unwashen hands,\" neglecting \"the tradition of the elders.\" Jesus answers with Isaiah: \"This people honoureth me with their lips, but their heart is far from me,\" charging them with \"teaching for doctrines the commandments of men.\" He exposes how their Corban rule—declaring goods a \"gift\" to God—lets a man refuse aid to father and mother, \"making the word of God of none effect through your tradition.\" To the crowd He teaches the deeper principle: \"There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man.\" Privately He explains that from the heart proceed \"evil thoughts, adulteries, fornications, murders\" and more—\"these evil things come from within, and defile the man.\" Departing to Tyre and Sidon, He is met by a Greek, Syrophenician woman pleading for her demon-vexed daughter. Her humble faith—\"yet the dogs under the table eat of the children's crumbs\"—wins her request, and the devil leaves. Returning through Decapolis, He heals a deaf man with an impediment, sighing \"Ephphatha, that is, Be opened.\" The crowd marvels: \"He hath done all things well.\"",
+  "takeaways": [
+    "True defilement is moral, not ceremonial: what defiles proceeds \"from within, out of the heart of men,\" not from unwashed hands or foods.",
+    "Human tradition must never void God's command; the Corban abuse is condemned for using religious devotion to escape the duty to honor parents.",
+    "The Syrophenician woman's persistent, humble faith crosses the boundary between Jew and Gentile and secures her daughter's deliverance.",
+    "Jesus' healings evoke wonder that \"He hath done all things well,\" echoing the goodness of God's creating and restoring work."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.29",
+      "verses": "13",
+      "label": "Isaiah 29:13 — lips honor God while the heart is removed far away",
+      "why": "Jesus quotes Isaiah directly to expose worship that is outwardly correct but inwardly hollow. The citation grounds His critique of \"the commandments of men\" in Israel's own prophets and frames the whole hand-washing controversy.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.20",
+      "verses": "12",
+      "label": "Exodus 20:12 — Honour thy father and thy mother",
+      "why": "Jesus appeals to the Decalogue command that the Corban practice nullifies. The cross-reference anchors His charge that a human tradition can be used to overturn the very commandment of God.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.15",
+      "verses": "1-28",
+      "label": "Matthew 15:1-28 — the same controversy over tradition and the Gentile woman's faith",
+      "why": "Matthew reports the parallel dispute and the healing of the Gentile woman's daughter, calling her a Canaanite. Reading the two together fills out the shared teaching that the heart, not the hands, defiles.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.35",
+      "verses": "5-6",
+      "label": "Isaiah 35:5-6 — the ears of the deaf unstopped and the dumb tongue set to sing",
+      "why": "The healing of the deaf man with a speech impediment enacts Isaiah's portrait of the age of salvation, when the deaf hear and the dumb speak. The crowd's amazement signals that God's promised restoration is arriving in Jesus.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads Jesus' rebuke as aimed at corrupt human traditions that nullify God's word—the Corban abuse specifically—not at the principle of authoritative tradition itself. His condemnation falls on \"the commandments of men\" that make \"the word of God of none effect,\" while the broader Catholic conviction holds that authentic apostolic Tradition faithfully hands on and safeguards revelation rather than opposing it.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters, especially in the Reformed and evangelical streams, read the passage as a sharp warning against elevating any human tradition alongside or above Scripture. Under sola scriptura, God's written word alone is the final rule of faith, and traditions are legitimate only as they are tested by and submitted to it. Both traditions agree that Jesus condemns traditions that contradict God's command; they differ on whether an authoritative, binding Tradition beside Scripture is endorsed or implicitly relativized here.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Mark's parenthetical remark that Jesus was \"purging all meats\" is widely taken to mean He declared all foods clean, so that the Jewish dietary distinctions no longer bind His followers. This reading sees the saying as opening the way for the later inclusion of the Gentiles, exemplified in the very next scene with the Syrophenician woman.",
+      "tradition": "shared",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "shared",
+        "summary": "Interpreters broadly agree on the point that inner disposition, not ritual purity, is what defiles; disagreement is mostly about emphasis. Some stress that Jesus' immediate concern is the tradition of hand-washing rather than the Mosaic food laws as such, and that the full application to Gentile inclusion becomes explicit only later (as in Peter's vision in Acts). Both readings hold that the heart is the true source of defilement.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

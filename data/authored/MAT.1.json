@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.1",
+  "book": "Matthew",
+  "chapter": 1,
+  "canon": "protocanonical",
+  "summary": "Matthew opens his Gospel with the genealogy of Jesus Christ, deliberately titled \"the book of the generation of Jesus Christ, the son of David, the son of Abraham.\" These two names frame the whole line: Jesus is heir to Abraham, in whom all nations are blessed, and to David, whose royal throne was promised forever. The list runs from Abraham through Isaac and Jacob, down the kingly line of David and Solomon, through the Babylonian exile, to Joseph the husband of Mary. Matthew notes an ordered pattern of three sets of fourteen generations, and unusually names four women—Thamar, Rachab, Ruth, and \"her that had been the wife of Urias\"—weaving Gentiles and irregular histories into the Messiah's ancestry. The genealogy then pivots at verse 16: Joseph does not \"beget\" Jesus; rather Jesus is born \"of\" Mary. The chapter turns to the manner of the birth: Mary is found with child of the Holy Ghost before she and Joseph come together. Joseph, \"a just man,\" resolves to divorce her quietly, but an angel reassures him in a dream that the child is conceived of the Holy Ghost, and directs him to name the boy Jesus, \"for he shall save his people from their sins.\" Matthew presents this as fulfilling Isaiah's sign of a virgin bearing Emmanuel, \"God with us.\" Joseph obeys, takes Mary as his wife, and names the child Jesus.",
+  "takeaways": [
+    "Matthew anchors Jesus in Israel's history as \"son of David\" and \"son of Abraham,\" presenting Him as the promised royal Messiah and the heir through whom the covenant blessing reaches all nations.",
+    "The stylized three-times-fourteen structure signals that Jesus' coming is the ordered climax of salvation history, not a random event, spanning promise, monarchy, and exile.",
+    "The inclusion of four women—some Gentile, several with irregular stories—shows God's grace working through unexpected people, foreshadowing a salvation open beyond Israel.",
+    "The careful shift at verse 16 (Joseph does not beget Jesus; Jesus is born of Mary) safeguards the virginal conception, which the angel attributes explicitly to the Holy Ghost.",
+    "The name Jesus is given its meaning—\"he shall save his people from their sins\"—and Isaiah's \"Emmanuel\" declares the identity behind the mission: God with us."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.7",
+      "label": "Isaiah 7:14 — \"a virgin shall conceive\"",
+      "why": "Matthew explicitly cites this prophecy as fulfilled in the virginal conception, presenting the birth of Jesus as the promised sign of Emmanuel, \"God with us.\" The connection grounds the Incarnation in prophetic expectation rather than novelty.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "2SA.7",
+      "label": "2 Samuel 7:12-16 — the everlasting throne promised to David",
+      "why": "The Davidic covenant promises David a descendant whose kingdom endures forever; Matthew's stress on Jesus as \"son of David\" presents Him as the one who fulfills that royal promise, which matters for His identity as Messiah-King.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.22",
+      "label": "Genesis 22:18 — \"in thy seed shall all the nations be blessed\"",
+      "why": "By naming Jesus \"son of Abraham,\" Matthew links Him to the promise that Abraham's seed would bless all nations, framing the Messiah as the channel of universal blessing and anticipating the Gospel's reach to the Gentiles.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.3",
+      "label": "Luke 3:23-38 — Luke's genealogy of Jesus",
+      "why": "Luke traces a genealogy back to Adam and God, complementing Matthew's descent from Abraham through the royal line; comparing the two illumines how each evangelist frames Jesus' identity for a different audience and emphasis.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads verse 25—\"knew her not till she had brought forth her firstborn son\"—as fully compatible with the perpetual virginity of Mary. \"Till/until\" in Scriptural idiom marks what was true up to a point without implying a change afterward, and \"firstborn\" is a legal-cultic status term (tied to the consecration of the first male, cf. Exodus 13) that does not require later children. This chapter is thus read alongside the constant belief that Mary remained ever-virgin.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestants take \"till\" and \"firstborn\" in their plainer sense and, together with later references to Jesus' \"brethren,\" read the text as leaving open—or positively suggesting—that Mary and Joseph had further children after Jesus' birth. Some Protestants (including several Reformers) nonetheless affirmed perpetual virginity, so the divide is not absolute; the disagreement is over whether the grammar here settles the question. Both traditions agree the verse affirms that Jesus was conceived virginally and that Joseph had no marital relations with Mary before the birth.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

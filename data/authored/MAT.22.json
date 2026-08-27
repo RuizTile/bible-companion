@@ -1,0 +1,74 @@
+{
+  "ref": "MAT.22",
+  "book": "Matthew",
+  "chapter": 22,
+  "canon": "protocanonical",
+  "summary": "Jesus tells the parable of the marriage feast: a king prepares a wedding for his son, but the invited guests refuse, ignore, or kill his servants, so the king destroys them and sends servants \"into the highways\" to gather \"both bad and good\" until the hall is filled. One guest, though, has no wedding garment and is bound and cast \"into outer darkness,\" for \"many are called, but few are chosen.\" Then come three tests. The Pharisees and Herodians ask whether it is lawful to pay tribute to Caesar; seeing the coin's \"image and superscription,\" Jesus answers, \"Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's.\" The Sadducees, who deny resurrection, pose the woman married to seven brothers; Jesus replies, \"Ye do err, not knowing the scriptures, nor the power of God,\" for in the resurrection people \"neither marry, nor are given in marriage, but are as the angels,\" and God \"is not the God of the dead, but of the living.\" A lawyer asks the greatest commandment, and Jesus joins love of God \"with all thy heart, and with all thy soul, and with all thy mind\" to love of neighbor \"as thyself,\" for \"on these two commandments hang all the law and the prophets.\" Finally Jesus asks the Pharisees whose son the Christ is; since David in the psalm calls Him \"Lord,\" the Messiah is more than merely David's son—and no one dares question Him further.",
+  "takeaways": [
+    "The wedding-feast parable pictures the kingdom as a royal invitation that many refuse, opening the doors to \"both bad and good\" from the highways—yet the guest without a wedding garment shows that being gathered in still requires being rightly clothed.",
+    "\"Render... unto Caesar the things which are Caesar's; and unto God the things that are God's\" affirms legitimate civil obligation while reserving to God what bears His image—setting limits on the state's claims.",
+    "Against the Sadducees, Jesus defends the resurrection from Scripture and the \"power of God,\" teaching that risen life is transformed—\"as the angels\"—not a mere continuation of earthly arrangements.",
+    "The double command to love God wholly and neighbor as oneself is the hinge on which \"all the law and the prophets\" hang, unifying the whole of God's law under love.",
+    "By pressing that David calls the Messiah \"Lord,\" Jesus points beyond a merely Davidic-king expectation toward His own divine dignity, silencing His questioners."
+  ],
+  "crossRefs": [
+    {
+      "target": "DEU.6",
+      "label": "Deuteronomy 6:4-5 — \"love the LORD thy God with all thine heart\"",
+      "why": "Jesus names this Shema text as the first and great commandment, so the reference gives the very words He cites. It shows His teaching does not replace the Law but identifies its beating heart.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LEV.19",
+      "label": "Leviticus 19:18 — \"thou shalt love thy neighbour as thyself\"",
+      "why": "The second great commandment is drawn directly from Leviticus, and Jesus binds it to the first as \"like unto it.\" The link demonstrates that love of neighbor is not a New Testament novelty but the summation of the Law.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.110",
+      "label": "Psalm 110:1 — \"The LORD said unto my Lord, Sit thou on my right hand\"",
+      "why": "Jesus quotes this psalm to show that David calls the Messiah 'Lord,' making the Christ greater than a mere descendant. The reference is the crux of His closing riddle and a key Old Testament witness to the divinity of the Messiah.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.3",
+      "label": "Exodus 3:6 — \"I am the God of Abraham... Isaac... and Jacob\"",
+      "why": "Jesus refutes the Sadducees by citing God's self-identification at the burning bush, arguing that since God is God \"of the living,\" the patriarchs must live to Him. The reference supplies the Scripture on which His whole resurrection argument turns.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition takes Jesus' reply to the Sadducees—\"God is not the God of the dead, but of the living\" (v. 32)—as a strong scriptural witness to the reality of life beyond death and the resurrection of the body, since God's covenant faithfulness to Abraham, Isaac, and Jacob implies they still live to Him. The tradition also hears in \"as the angels of God in heaven\" (v. 30) support for the honor given to consecrated virginity and celibacy as an anticipation of the risen state, where the goods of marriage give way to undivided union with God.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters fully affirm Jesus' defense of the resurrection here and His argument from God as 'the God of the living.' They generally do not, however, draw from verse 30 a distinct exaltation of consecrated celibacy as an anticipated 'angelic' state; they read the saying more narrowly as teaching that marriage as an institution belongs to this age and will not be reconstituted in the resurrection, without implying a superior earthly vocation. On the resurrection itself the two traditions are in close agreement; the divergence is over the celibacy inference sometimes attached to the verse.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The Catholic tradition reads \"Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's\" (v. 21) as establishing a real but limited legitimacy of civil authority alongside the supreme claim of God. Because the coin bears Caesar's image while the human person bears God's image, the saying is understood to found the distinction between the temporal and spiritual orders and the duty of just obedience to the state—while insisting that when the state usurps what belongs to God, obedience to God takes precedence.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters broadly share this two-kingdoms reading and likewise affirm both civil obedience (echoing Romans 13) and the higher claim of God when the two conflict (Acts 5:29). Differences are chiefly in emphasis and in how church and state relate institutionally, rather than in the core meaning of the verse; there is wide agreement that Jesus neither sanctifies the state absolutely nor calls for its rejection, but subordinates all earthly authority to God.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

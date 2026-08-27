@@ -1,0 +1,75 @@
+{
+  "ref": "MRK.13",
+  "book": "Mark",
+  "chapter": 13,
+  "canon": "protocanonical",
+  "summary": "As Jesus leaves the temple, a disciple marvels at its stones, and Jesus foretells, \"there shall not be left one stone upon another, that shall not be thrown down.\" On the mount of Olives, Peter, James, John, and Andrew ask privately when \"these things\" will be. Jesus answers with his longest discourse in Mark, warning first, \"Take heed lest any man deceive you,\" for many will come in his name. Wars, earthquakes, and famines are only \"the beginnings of sorrows.\" His followers will be delivered to councils, beaten, and hated \"for my name's sake,\" yet \"the gospel must first be published among all nations,\" and \"he that shall endure unto the end, the same shall be saved.\" He speaks of \"the abomination of desolation\" prompting flight from Judaea, of unequalled affliction shortened \"for the elect's sake,\" and of false Christs. Then \"the sun shall be darkened,\" and \"they see the Son of man coming in the clouds with great power and glory,\" gathering the elect from the four winds. The parable of the fig tree teaches watchfulness: \"of that day and that hour knoweth no man,\" so the charge is repeated, \"Watch ye therefore,\" and finally, \"Watch.\"",
+  "takeaways": [
+    "Jesus interweaves the temple's fall with warnings about deception, so that no calamity should be mistaken for a signal to abandon vigilance or trust in false messiahs.",
+    "Persecution is presented not as a sign of failure but as an occasion of witness, with the promise that \"it is not ye that speak, but the Holy Ghost.\"",
+    "The permanence of Jesus' word is set above the cosmos itself: \"Heaven and earth shall pass away: but my words shall not pass away.\"",
+    "Because the day and hour remain hidden even from \"the Son,\" the discourse ends not in speculation but in the repeated command to watch."
+  ],
+  "crossRefs": [
+    {
+      "target": "DAN.9",
+      "verses": "27",
+      "label": "Daniel 9:27 — the abomination that makes desolate",
+      "why": "Jesus names \"the abomination of desolation, spoken of by Daniel the prophet.\" Daniel's oracle of a desolating sacrilege in the sanctuary supplies the language and the urgency of the flight Jesus commands.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DAN.7",
+      "verses": "13-14",
+      "label": "Daniel 7:13-14 — one like the Son of man in the clouds",
+      "why": "The vision of the Son of man \"coming in the clouds\" and receiving dominion underlies Jesus' promise that they will see him come \"with great power and glory.\" It identifies his return with the everlasting kingdom of Daniel's vision.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.13",
+      "verses": "9-10",
+      "label": "Isaiah 13:9-10 — sun, moon, and stars darkened in the day of the LORD",
+      "why": "The cosmic signs Jesus describes echo the prophetic day-of-the-Lord imagery in which the heavenly lights fail. Isaiah's oracle against Babylon supplies the pattern of judgment now applied to the coming of the Son of man.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.24",
+      "verses": "3-31",
+      "label": "Matthew 24:3-31 — the Olivet discourse parallel",
+      "why": "Matthew records the same discourse with fuller detail, including added parables of watchfulness. Reading the parallel clarifies how the tradition preserved and expanded Jesus' teaching on the end and his coming.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.21",
+      "verses": "20-28",
+      "label": "Luke 21:20-28 — Jerusalem encompassed with armies",
+      "why": "Luke frames the same warning around Jerusalem \"compassed with armies,\" sharpening the historical reference to the city's fall. The parallel helps hold together the near judgment on the temple and the final coming of the Son of man.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus says of the last day, \"of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.\" Catholic tradition reads this within Christ's full divinity: as God the Son he knows all things, but in his human nature and mission he does not disclose the day, and the saying serves the practical end of commanding watchfulness rather than defining the limits of his divine knowledge.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters share the confession of Christ's true divinity and the pastoral purpose of the verse, agreeing that its aim is vigilance, not timetable. Some place greater weight on the reality of Jesus' human limitation in the incarnation, reading the words as a genuine expression of what the incarnate Son, in his self-emptying, chose not to know; the two traditions converge far more than they differ here.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

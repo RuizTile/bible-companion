@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.20",
+  "book": "Genesis",
+  "chapter": 20,
+  "canon": "protocanonical",
+  "summary": "Sojourning in Gerar, Abraham again passes Sarah off as his sister, and Abimelech the king takes her. God intervenes in a dream by night: \"Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man's wife.\" Abimelech, who \"had not come near her,\" protests his innocence, and God acknowledges it, saying he had withheld the king from sinning: \"therefore suffered I thee not to touch her.\" God commands restoration, calling Abraham \"a prophet\" whose prayer will heal, and warns of death if Sarah is not returned. Confronted, Abraham gives his tangled defense, that Sarah is truly his half-sister and that fear of godless people led to the ruse, \"Surely the fear of God is not in this place.\" Abimelech responds with generosity, restoring Sarah with sheep, oxen, servants, and a thousand pieces of silver as \"a covering of the eyes.\" Abraham prays, and God heals Abimelech's household, \"for the LORD had fast closed up all the wombs\" because of Sarah. The chapter protects the mother of the promised child on the eve of Isaac's birth, and shows God guarding his covenant even through the patriarch's failures, while a pagan king acts with striking integrity.",
+  "takeaways": [
+    "God faithfully protects his promise even when the recipient of it acts out of fear and deception.",
+    "A pagan king shows more evident integrity than the patriarch here, a reminder that God works with the conscience of outsiders too.",
+    "Abraham is named a \"prophet\" whose intercession heals, showing that God's calling stands despite personal failure.",
+    "Repeated sin, this is Abraham's second sister-ruse, exposes patterns of fear that grace must keep overriding."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.12",
+      "verses": "10-20",
+      "label": "Genesis 12:10-20 — the earlier sister-ruse in Egypt",
+      "why": "Abraham used the same deception with Pharaoh before, and God rescued Sarah then too. Reading the two together reveals a recurring weakness and God's steadfast protection of the covenant line across both episodes.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.26",
+      "verses": "6-11",
+      "label": "Genesis 26:6-11 — Isaac repeats the ruse with Abimelech",
+      "why": "Isaac later tells the same lie about Rebekah in Gerar, showing the sin passed down a generation. The parallel underscores how family patterns of fear recur and how God restrains harm each time.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.105",
+      "verses": "14-15",
+      "label": "Psalm 105:14-15 — \"touch not mine anointed, and do my prophets no harm\"",
+      "why": "The psalm summarizes God's protection of the patriarchs against kings, echoing God's warning to Abimelech and his naming of Abraham as prophet. It frames Genesis 20 as part of God's providential guarding of his chosen.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JAS.5",
+      "verses": "16",
+      "label": "James 5:16 — the effectual prayer of a righteous man",
+      "why": "Abraham's prayer that heals Abimelech's household illustrates the power of righteous intercession that James commends. It shows prophetic prayer as a means of restoration even for those outside the covenant.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition highlights that God credits Abimelech's \"integrity of heart\" and \"innocency of hands,\" affirming that a genuinely uninformed conscience lessens guilt, while still teaching that objective wrong was averted only by God's restraint; this coheres with the Church's careful distinctions about conscience and culpability.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers similarly note that God recognizes Abimelech's sincerity and that God, not the king's virtue, prevented the sin, often emphasizing that even sincere conscience needs God's grace and truth. Both traditions read the chapter as affirming the reality of conscience while grounding rescue from wrongdoing in divine providence rather than human merit.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

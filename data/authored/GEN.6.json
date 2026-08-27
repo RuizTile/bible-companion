@@ -1,0 +1,77 @@
+{
+  "ref": "GEN.6",
+  "book": "Genesis",
+  "chapter": 6,
+  "canon": "protocanonical",
+  "summary": "As humanity multiplies, corruption spreads. \"The sons of God saw the daughters of men that they were fair,\" and there were \"giants in the earth in those days,\" mighty \"men of renown.\" God limits human days and then surveys the world with grief: \"the wickedness of man was great in the earth, and... every imagination of the thoughts of his heart was only evil continually.\" So \"it repented the LORD that he had made man on the earth, and it grieved him at his heart,\" and he resolves to blot out humanity and the creatures with them. One exception stands out: \"But Noah found grace in the eyes of the LORD.\" Noah is \"a just man and perfect in his generations,\" and \"Noah walked with God.\" Because \"the earth was filled with violence,\" God announces the flood but pledges to preserve Noah: \"with thee will I establish my covenant.\" He gives precise instructions to build an ark of \"gopher wood\" with detailed dimensions, and to bring in \"two of every sort\" of living creature, male and female, with food for all. The chapter ends with quiet obedience: \"Thus did Noah; according to all that God commanded him, so did he.\"",
+  "takeaways": [
+    "Human sin can pervade a whole society, corrupting hearts and filling the earth with violence, and it genuinely grieves the heart of God.",
+    "Divine judgment is not arbitrary rage but a righteous response to entrenched evil, tempered by the resolve to save.",
+    "Grace precedes rescue: Noah finds favor and is called just, but his deliverance rests on God's initiative to \"establish my covenant.\"",
+    "Faith expresses itself in obedience; Noah's righteousness is shown in doing \"all that God commanded him\" without recorded objection."
+  ],
+  "crossRefs": [
+    {
+      "target": "MAT.24",
+      "verses": "37-39",
+      "label": "Matthew 24:37-39 — as the days of Noah",
+      "why": "Jesus compares his own coming to Noah's time, when people carried on heedless \"until the day that Noah entered into the ark.\" The reference reads this chapter as a warning pattern for the final judgment.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.11",
+      "verses": "7",
+      "label": "Hebrews 11:7 — Noah's faith moved him to build",
+      "why": "Hebrews credits Noah's ark-building to faith: \"warned of God of things not seen as yet, moved with fear, prepared an ark.\" It interprets the chapter's obedience as the fruit of trust in God's word.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1PE.3",
+      "verses": "20",
+      "label": "1 Peter 3:20 — the patience of God and the ark",
+      "why": "Peter recalls \"the longsuffering of God\" waiting \"while the ark was a preparing,\" when \"few, that is, eight souls were saved by water.\" This links God's patience here to the salvation offered through the ark, and, in Christian reading, to baptism.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EZK.14",
+      "verses": "14",
+      "label": "Ezekiel 14:14 — Noah among the righteous",
+      "why": "Ezekiel lists Noah with Daniel and Job as men whose righteousness could deliver only themselves, invoking Noah as the archetype of the just man in a corrupt age. The reference confirms how Noah's character in this chapter became proverbial.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The ark is widely read in Catholic tradition as a figure of the Church, the vessel of salvation carrying the faithful through the waters of judgment, so that being \"saved by water\" prefigures baptism and membership in the community God preserves.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers also see the ark as a picture of salvation and connect Noah's flood to baptism, following 1 Peter, but often place the stress on Christ himself as the refuge into which the believer is brought by faith rather than on the institutional Church. Both traditions agree the ark points to God-provided rescue from judgment.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The statement that \"it repented the LORD\" is understood not as God changing his mind or being surprised, but as Scripture's way of expressing God's real grief over sin in language accommodated to human understanding.",
+      "tradition": "shared",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Across traditions this is read as anthropomorphic language safeguarding both God's constancy and his genuine relational sorrow; some interpreters emphasize the reality of God's responsive emotion more strongly than others, but all reject the idea that God erred in creating.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

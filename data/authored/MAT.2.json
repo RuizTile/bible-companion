@@ -1,0 +1,60 @@
+{
+  "ref": "MAT.2",
+  "book": "Matthew",
+  "chapter": 2,
+  "canon": "protocanonical",
+  "summary": "After Jesus is born in Bethlehem during the reign of Herod, wise men (magi) from the east arrive in Jerusalem asking, \"Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.\" Herod is troubled, and all Jerusalem with him. Gathering the chief priests and scribes, he learns from the prophecy that the Christ is to be born in Bethlehem of Judaea, out of which shall come a Governor to rule Israel. Herod secretly summons the wise men, learns when the star appeared, and sends them on with the deceitful request to report back so that he too may \"worship.\" The star leads them to the house, where they find the young child with Mary His mother, fall down and worship Him, and present gold, frankincense, and myrrh. Warned in a dream, they return home another way. An angel then warns Joseph in a dream to flee into Egypt with the child and His mother, for Herod means to destroy Him; this fulfills, \"Out of Egypt have I called my son.\" Enraged at being mocked, Herod slaughters the boys of Bethlehem two years old and under, fulfilling Jeremiah's word of Rachel weeping for her children. After Herod dies, an angel calls the family back; wary of Archelaus in Judaea, Joseph is directed to Galilee and settles in Nazareth, that Jesus \"shall be called a Nazarene.\"",
+  "takeaways": [
+    "The magi—Gentiles guided by a star—come to worship the newborn King, signaling from the outset that Jesus' kingship draws the nations, while Jerusalem's leaders remain indifferent or hostile.",
+    "Their three gifts of gold, frankincense, and myrrh are traditionally read as confessions of who Jesus is: royalty, divinity worthy of worship, and a life destined for sacrificial death.",
+    "Herod embodies the threatened, murderous power of the world; his feigned desire to 'worship' masks intent to kill, contrasting sharply with the sincere worship of the magi.",
+    "Matthew repeatedly frames events as fulfillment of prophecy (Bethlehem, out of Egypt, Rachel weeping, called a Nazarene), presenting Jesus as the deliberate goal of Israel's Scriptures.",
+    "The flight into Egypt and the return echo Israel's own story, casting Jesus as the true Son called out of Egypt who relives and redeems His people's history."
+  ],
+  "crossRefs": [
+    {
+      "target": "MIC.5",
+      "label": "Micah 5:2 — Bethlehem, whence the ruler comes",
+      "why": "The chief priests answer Herod by citing this prophecy that the ruler of Israel would come from Bethlehem; Matthew uses it to show Jesus' birthplace fulfills Scripture and to identify Him as the promised shepherd-king.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HOS.11",
+      "label": "Hosea 11:1 — \"Out of Egypt have I called my son\"",
+      "why": "Matthew applies Israel's exodus language to Jesus, presenting Him as the true Son of God who recapitulates and fulfills Israel's story, so that His flight and return carry redemptive-historical weight.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JER.31",
+      "label": "Jeremiah 31:15 — Rachel weeping for her children",
+      "why": "Matthew cites this lament to interpret the massacre at Bethlehem; the original oracle sits within a promise of restoration, so the connection frames the tragedy within a larger hope of God gathering His people.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.1",
+      "label": "Exodus 1:22 — Pharaoh's order to kill the Hebrew boys",
+      "why": "Herod's slaughter of the infants mirrors Pharaoh's massacre, casting Herod as a new Pharaoh and Jesus as a new Moses delivered from a tyrant, which deepens the exodus typology running through the chapter.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.72",
+      "label": "Psalm 72:10-11 — kings bringing gifts and bowing to the King",
+      "why": "This royal psalm envisions distant kings offering gifts and homage to God's anointed; the magi's gifts and worship are traditionally read as an early fulfillment, underscoring the universal scope of Christ's reign.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

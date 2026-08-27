@@ -1,0 +1,67 @@
+{
+  "ref": "MRK.11",
+  "book": "Mark",
+  "chapter": 11,
+  "canon": "protocanonical",
+  "summary": "Approaching Jerusalem, Jesus sends two disciples for a colt \"whereon never man sat,\" and rides into the city as crowds spread garments and branches, crying, \"Hosanna; Blessed is he that cometh in the name of the Lord\" and \"Blessed be the kingdom of our father David.\" He surveys the temple and withdraws to Bethany. The next day, hungry, He finds a fig tree \"having leaves\" but \"nothing but leaves,\" and says, \"No man eat fruit of thee hereafter for ever.\" Entering the temple, He drives out those who sold and bought, overturns the moneychangers' tables, and teaches, \"My house shall be called of all nations the house of prayer? but ye have made it a den of thieves.\" The chief priests \"sought how they might destroy him,\" fearing Him because the people were astonished at His doctrine. Next morning the fig tree is \"dried up from the roots,\" and Jesus teaches on faith and prayer: \"Have faith in God,\" for whoever believes without doubting \"shall have whatsoever he saith\"; \"when ye pray, believe that ye receive them, and ye shall have them\"; and \"when ye stand praying, forgive.\" When the chief priests, scribes, and elders demand His authority, He counters with a question about John's baptism—\"from heaven, or of men?\"—which they dare not answer, so He too withholds His answer.",
+  "takeaways": [
+    "The triumphal entry publicly presents Jesus as the promised king who \"cometh in the name of the Lord,\" fulfilling the crowd's Davidic hope even as He comes humbly on a colt.",
+    "The cursing of the fruitless fig tree and the cleansing of the temple together enact a judgment on outward religion that bears leaves but no fruit.",
+    "Jesus reclaims the temple as \"the house of prayer\" for \"all nations,\" confronting the commerce that had displaced true worship.",
+    "Effective prayer rests on genuine faith in God and a forgiving heart: \"when ye stand praying, forgive, if ye have ought against any.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "ZEC.9",
+      "verses": "9",
+      "label": "Zechariah 9:9 — thy King cometh, lowly, riding upon a colt",
+      "why": "The entry on a never-ridden colt fulfills Zechariah's prophecy of the humble king coming to Zion. The cross-reference shows the crowd's acclamation greeting Jesus as the peaceful messianic king the prophet foretold.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.118",
+      "verses": "25-26",
+      "label": "Psalm 118:25-26 — Save now (Hosanna); blessed is he that cometh in the name of the Lord",
+      "why": "The pilgrims' cry of \"Hosanna\" and \"Blessed is he that cometh in the name of the Lord\" quotes this festal psalm directly. The citation frames the entry as the arrival of the awaited one whom Israel's worship had long anticipated.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.56",
+      "verses": "7",
+      "label": "Isaiah 56:7 — mine house shall be called an house of prayer for all people",
+      "why": "Jesus quotes Isaiah when He cleanses the temple, insisting it be \"the house of prayer\" for \"all nations.\" The cross-reference exposes how the marketplace had betrayed the temple's God-given purpose and its openness to the Gentiles.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JER.7",
+      "verses": "11",
+      "label": "Jeremiah 7:11 — is this house become a den of robbers in your eyes?",
+      "why": "Jesus' charge that they made the temple \"a den of thieves\" echoes Jeremiah's temple sermon against a corrupt worship presuming on God's presence. The allusion carries Jeremiah's warning of coming judgment into Jesus' own confrontation.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition typically reads the cursed fig tree and the temple cleansing as a linked prophetic sign: the fruitless tree symbolizes a religious establishment that displays outward observance without the fruit of true faith, and its withering signals judgment on that barrenness. This framing sees Jesus acting as a prophet enacting God's verdict, not merely reacting in frustration.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters broadly share this symbolic reading, and many also draw out Jesus' explicit lesson on faith and prayer that immediately follows the withered tree, stressing believing, forgiving prayer as the chapter's practical point. Some caution against over-allegorizing the tree beyond the judgment-on-fruitlessness theme. Both traditions agree that the fig tree and the temple episode form a single enacted parable of judgment on empty religion; they differ mainly in emphasis between the prophetic sign and the ensuing call to faith.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.15",
+  "book": "Matthew",
+  "chapter": 15,
+  "canon": "protocanonical",
+  "summary": "Matthew 15 sets Jesus' teaching on true defilement against the traditions of the elders, then extends His mercy beyond Israel. Scribes and Pharisees from Jerusalem challenge Him because His disciples \"wash not their hands when they eat bread.\" Jesus turns the charge back on them: by their tradition of \"Corban\"—declaring goods a \"gift\" to God—they let people dishonor father and mother, and so \"made the commandment of God of none effect.\" Citing Isaiah, He calls them hypocrites who honor God \"with their lips\" while their heart is far off, \"teaching for doctrines the commandments of men.\" To the crowd He declares the principle: \"Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth.\" Privately He explains that evil thoughts, murders, adulteries, thefts, false witness, and blasphemies \"proceed out of the heart\" and are what truly defile. Departing to Tyre and Sidon, He meets a Canaanite woman crying for mercy for her demon-vexed daughter. He first tests her—\"I am not sent but unto the lost sheep of the house of Israel\"—and speaks of the children's bread not being cast \"to dogs.\" Her humble, persistent answer—\"yet the dogs eat of the crumbs which fall from their masters' table\"—draws His praise: \"O woman, great is thy faith,\" and her daughter is healed. Returning to Galilee, Jesus heals the lame, blind, dumb, and maimed, so the multitude \"glorified the God of Israel,\" and He feeds four thousand men \"beside women and children\" with seven loaves and a few fishes, with seven baskets left over.",
+  "takeaways": [
+    "Jesus locates true defilement in the heart, not in ritual cleanness: \"that which cometh out of the mouth, this defileth a man,\" flowing from evil thoughts within.",
+    "Human tradition must never nullify God's command; the Corban practice is condemned precisely because it used religious devotion to evade the duty to honor parents.",
+    "The Canaanite woman models persistent, humble faith that will not be turned away, and Jesus honors it: \"O woman, great is thy faith.\"",
+    "Jesus' mission moves outward from \"the lost sheep of the house of Israel\" to a Gentile woman, foreshadowing the gospel's reach to all nations.",
+    "The feeding of the four thousand shows Jesus' compassion for a hungry crowd who \"continue with me now three days,\" a second bread-sign distinct from the feeding of the five thousand."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.29",
+      "label": "Isaiah 29:13 — \"this people draw near me with their mouth... but have removed their heart far from me\"",
+      "why": "Jesus quotes Isaiah directly to expose the Pharisees' hypocrisy, grounding His critique of empty worship in the prophet's own words. The citation shows His teaching as the fulfillment of Israel's Scriptures against merely external religion.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MRK.7",
+      "label": "Mark 7:1-30 — the tradition of the elders, defilement, and the Syrophoenician woman",
+      "why": "Mark tells the same controversy and healing, adding that Jesus \"purging all meats\" declared foods clean, and names the woman a Syrophoenician. The parallel clarifies Matthew's compressed argument and confirms the paired episodes.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.20",
+      "label": "Exodus 20:12 — \"Honour thy father and thy mother\"",
+      "why": "Jesus appeals to the Decalogue command (and its penalty in Exodus 21:17) to show that the Corban tradition contradicts God's own law. The cross-reference anchors His charge that their tradition overturns the commandment itself.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.35",
+      "label": "Isaiah 35:5-6 — the eyes of the blind opened, the lame man leaping, the dumb singing",
+      "why": "The summary of healings—dumb speaking, maimed made whole, lame walking, blind seeing—enacts Isaiah's portrait of the age of salvation, so that the crowd \"glorified the God of Israel\" as the prophecy is fulfilled before them.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition insists that Jesus' rebuke of the Pharisees targets corrupt human traditions that nullify God's word—not the principle of authoritative tradition as such. His charge is against \"the commandments of men\" that void the commandment of God, exemplified by the Corban abuse. On this reading the passage condemns a specific misuse (traditions that contradict divine law), while the wider Catholic conviction holds that authentic apostolic Tradition faithfully hands on and safeguards God's revelation rather than opposing it.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters, especially in the Reformed and evangelical streams, read this passage as a sharp warning against elevating any human tradition to the level of Scripture. In the sola scriptura framework, God's written word alone is the final rule of faith, and traditions are legitimate only insofar as they are tested by and subordinate to Scripture. Many see here a caution that even sincerely held ecclesial customs can, over time, obscure or displace the plain command of God. Both traditions agree that Jesus condemns traditions that contradict God's word; they differ on whether an authoritative, binding Tradition alongside Scripture is itself endorsed or implicitly relativized by this text.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

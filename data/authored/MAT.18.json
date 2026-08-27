@@ -1,0 +1,64 @@
+{
+  "ref": "MAT.18",
+  "book": "Matthew",
+  "chapter": 18,
+  "canon": "protocanonical",
+  "summary": "Matthew 18 is Jesus' discourse on life within the community of disciples—humility, care for the weak, correction, and forgiveness. Asked \"Who is the greatest in the kingdom of heaven?\" Jesus sets a little child in their midst and says that unless they \"be converted, and become as little children,\" they cannot enter; the one who humbles himself like the child is greatest. He warns solemnly against causing \"one of these little ones which believe in me\" to stumble—\"it were better for him that a millstone were hanged about his neck\"—and urges radical self-denial: better to enter life \"halt or maimed\" than to be cast into \"everlasting fire.\" These little ones must not be despised, \"for... their angels do always behold the face of my Father,\" and the Son of man \"is come to save that which was lost.\" The parable of the lost sheep shows the Father's will \"that one of these little ones should perish\" is none. Jesus then gives a procedure for reconciliation: go privately to an offending brother; if he will not hear, bring \"one or two more\"; if still unheard, \"tell it unto the church\"; if he refuses even the church, treat him \"as an heathen man and a publican.\" To this community He grants authority: \"Whatsoever ye shall bind on earth shall be bound in heaven,\" and promises His presence \"where two or three are gathered together in my name.\" When Peter asks how often to forgive—\"till seven times?\"—Jesus answers \"until seventy times seven,\" and tells the parable of the unforgiving servant: forgiven an unpayable debt, he throttles a fellow servant over a small one and is handed to the tormentors. \"So likewise\" will the Father do to those who do not \"from your hearts forgive.\"",
+  "takeaways": [
+    "Greatness in the kingdom is measured by childlike humility, not status: \"Whosoever therefore shall humble himself as this little child, the same is greatest.\"",
+    "Jesus fiercely protects \"these little ones,\" warning that causing them to sin invites terrible judgment and demanding radical vigilance against whatever leads to sin.",
+    "The lost-sheep parable reveals a seeking Father whose will is that not one of the little ones \"should perish,\" so the Son of man comes \"to save that which was lost.\"",
+    "Jesus gives an ordered, merciful process for correcting a sinning brother—private, then witnessed, then before the church—aimed at gaining the brother, not condemning him.",
+    "Forgiveness must be limitless and heartfelt; the unforgiving servant shows that those forgiven an immeasurable debt by God are bound to forgive the smaller debts owed to them."
+  ],
+  "crossRefs": [
+    {
+      "target": "EZK.34",
+      "label": "Ezekiel 34:11-16 — God who seeks the lost and strayed sheep",
+      "why": "The parable of the one straying sheep echoes Ezekiel's promise that God Himself will \"seek that which was lost, and bring again that which was driven away,\" grounding Jesus' teaching about the Father's will that none of the little ones perish.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.15",
+      "label": "Luke 15:3-7 — the parable of the lost sheep and joy over the one restored",
+      "why": "Luke tells the lost-sheep parable in the setting of Jesus welcoming sinners, matching Matthew's application to the little ones and reinforcing the theme of the seeking shepherd who rejoices over the recovered one.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DEU.19",
+      "label": "Deuteronomy 19:15 — \"at the mouth of two or three witnesses shall the matter be established\"",
+      "why": "Jesus' step of bringing \"one or two more\" so that \"in the mouth of two or three witnesses every word may be established\" quotes the Mosaic law of witnesses, showing His reconciliation procedure is rooted in and fulfills Israel's judicial wisdom.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.16",
+      "label": "Matthew 16:19 — the keys of the kingdom and binding and loosing given to Peter",
+      "why": "The binding-and-loosing authority given here to the gathered church parallels the promise to Peter two chapters earlier; the two texts together are central to how the Church's authority to reconcile, discipline, and teach is understood.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition sees in this chapter the granting of real disciplinary and reconciling authority to the Church. Jesus commands that unresolved offenses be brought \"unto the church,\" and to that same community He gives the power to \"bind\" and \"loose,\" with heaven ratifying its decisions. This is understood to establish the Church's authority to govern, to correct, and to reconcile sinners—the scriptural foundation for ecclesial discipline and, together with the mission to forgive sins, for the sacrament of reconciliation. The promise that Christ is present \"where two or three are gathered\" in His name assures that this authority is exercised in His abiding presence.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters affirm that Jesus here authorizes genuine church discipline and the corporate binding-and-loosing of the local congregation, but many read \"the church\" as the gathered assembly of believers rather than a hierarchical or sacramental institution. In this view binding and loosing chiefly concerns declaring and applying the gospel—admitting the repentant and excluding the unrepentant—on the basis of God's word, not a distinct priestly power of absolution. The presence of Christ \"where two or three are gathered\" is often taken as assurance for ordinary believing communities. Both traditions agree Jesus grants the church real authority to reconcile and discipline; they differ on whether that authority is vested in an ordained ministry with sacramental power or in the congregation applying the word.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

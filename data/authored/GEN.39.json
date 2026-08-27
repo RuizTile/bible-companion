@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.39",
+  "book": "Genesis",
+  "chapter": 39,
+  "canon": "protocanonical",
+  "summary": "Joseph is sold to Potiphar, “an officer of Pharaoh, captain of the guard,” and the refrain that governs the chapter sounds at once: “the LORD was with Joseph, and he was a prosperous man.” Potiphar sees that God prospers all Joseph does and makes him overseer of the whole household, so that “the LORD blessed the Egyptian’s house for Joseph’s sake.” Joseph, “a goodly person, and well favoured,” becomes the object of his master’s wife, who presses him day after day: “Lie with me.” He refuses on the grounds of both loyalty and piety: “how then can I do this great wickedness, and sin against God?” When she seizes his garment, he flees, leaving it in her hand. Turning her rejection into an accusation, she frames him before the household and her husband, whose “wrath was kindled” and who casts Joseph into prison. Yet even in the dungeon the refrain persists: “the LORD was with Joseph, and shewed him mercy,” granting him favor with the keeper, who entrusts all the prisoners to his hand — “because the LORD was with him.”",
+  "takeaways": [
+    "God’s presence, not outward circumstance, defines Joseph’s success — he prospers as slave and as prisoner alike.",
+    "Integrity may cost the innocent dearly in the short run; Joseph’s virtue lands him in prison, yet it preserves his conscience before God.",
+    "Sexual temptation is resisted by naming it rightly: sin “against God,” not merely against a man.",
+    "Faithfulness in unseen and unrewarded circumstances is itself a form of trust in providence."
+  ],
+  "crossRefs": [
+    {
+      "target": "1CO.6",
+      "verses": "18-20",
+      "label": "1 Corinthians 6:18-20 — “Flee fornication”",
+      "why": "Paul’s command to flee sexual immorality is vividly enacted by Joseph, who literally flees and leaves his garment behind. His body belongs to God, echoing Joseph’s refusal to “sin against God.”",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.105",
+      "verses": "17-22",
+      "label": "Psalm 105:17-22 — Joseph’s feet hurt with fetters",
+      "why": "The psalm sings that Joseph was “laid in iron” until God’s word tried him, then exalted. It frames his imprisonment here as a testing appointed within God’s larger plan.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.37",
+      "verses": "23,31-33",
+      "label": "Genesis 37:23,31-33 — Joseph’s coat stripped and used against him",
+      "why": "Twice Joseph loses a garment that becomes false evidence against him — first the coat dipped in blood, now the garment in Potiphar’s wife’s hand. The recurring motif underscores how his innocence is repeatedly turned into an instrument of harm.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.8",
+      "verses": "28",
+      "label": "Romans 8:28 — God works all things together for good",
+      "why": "Paul’s assurance that God works all things for the good of those who love him gives the theological summary of Joseph’s reversals. The seeming disaster of the prison becomes the doorway to deliverance.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The fivefold refrain that “the LORD was with Joseph” frames chastity and integrity not as mere willpower but as fruit of God’s abiding presence; Catholic tradition holds up Joseph as a model of the virtue of chastity sustained by grace.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise honor Joseph’s chastity and stress his personal conviction that adultery is “sin against God,” emphasizing individual moral responsibility and reliance on God’s help. Both traditions agree that his integrity flows from his relationship with God rather than from circumstance.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

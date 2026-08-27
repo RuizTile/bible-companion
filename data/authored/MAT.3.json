@@ -1,0 +1,53 @@
+{
+  "ref": "MAT.3",
+  "book": "Matthew",
+  "chapter": 3,
+  "canon": "protocanonical",
+  "summary": "John the Baptist appears preaching in the wilderness of Judaea, \"Repent ye: for the kingdom of heaven is at hand.\" Matthew identifies him as the voice foretold by Isaiah, crying, \"Prepare ye the way of the Lord, make his paths straight.\" John's austere life—camel's-hair raiment, a leather girdle, and a diet of locusts and wild honey—marks him as a prophet in the old mold. Crowds from Jerusalem and all Judaea stream out to be baptized in the Jordan, confessing their sins. When many Pharisees and Sadducees come, John rebukes them as a \"generation of vipers,\" demanding \"fruits meet for repentance\" and warning that descent from Abraham secures nothing, for God can raise up children to Abraham from stones. Already the axe is at the root; every fruitless tree will be cut down and burned. John distinguishes his baptism of water for repentance from the greater One coming after him, whose sandals he is unworthy to carry, who will baptize with the Holy Ghost and with fire, and who will winnow the threshing floor, gathering wheat and burning the chaff with unquenchable fire. Then Jesus comes from Galilee to be baptized. John objects, needing baptism himself, but Jesus insists, \"thus it becometh us to fulfil all righteousness,\" and John yields. As Jesus rises from the water, the heavens open, the Spirit of God descends like a dove, and a voice from heaven declares, \"This is my beloved Son, in whom I am well pleased.\"",
+  "takeaways": [
+    "John's message—repentance because the kingdom is at hand—makes conversion the necessary preparation for the coming of the Messiah, framing baptism as an outward act joined to confession of sin.",
+    "Genuine repentance must bear fruit; John rejects presumption on ancestry ('We have Abraham to our father'), insisting that God judges by real change, not inherited privilege.",
+    "John points beyond himself to a mightier One whose baptism with the Holy Ghost and fire surpasses his baptism of water, distinguishing the forerunner from the Christ.",
+    "Jesus' baptism, undertaken not for His own sin but 'to fulfil all righteousness,' shows Him identifying with sinful humanity and inaugurating His public mission in humility.",
+    "The theophany at the Jordan—Father speaking, Son baptized, Spirit descending as a dove—is a foundational manifestation of the Trinity and a divine attestation of Jesus as beloved Son."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.40",
+      "label": "Isaiah 40:3 — \"Prepare ye the way of the Lord\"",
+      "why": "Matthew explicitly identifies John with this prophetic voice; the connection casts John as the herald who readies Israel for God's own coming, tying his ministry directly to the prophetic hope of the Lord's arrival.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAL.3",
+      "label": "Malachi 3:1; 4:5 — the messenger sent before the Lord",
+      "why": "Malachi promises a messenger, later identified with an Elijah figure, to prepare the Lord's way and refine His people; John fulfills this role, and the refining 'fire' imagery echoes Malachi, illuminating John's warning of coming judgment.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.17",
+      "label": "Matthew 17:5 — the Father's voice at the Transfiguration",
+      "why": "The heavenly declaration 'This is my beloved Son' recurs at the Transfiguration, linking the baptism and the mountain as twin divine attestations of Jesus' identity that frame His public ministry.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.2",
+      "label": "Acts 2:1-4 — baptism with the Holy Ghost and fire at Pentecost",
+      "why": "John's promise that the Coming One would baptize 'with the Holy Ghost, and with fire' is fulfilled at Pentecost, where the Spirit descends as tongues of fire, showing the trajectory from John's water baptism to the Church's Spirit-baptism.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-07-23",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

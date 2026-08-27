@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.23",
+  "book": "Genesis",
+  "chapter": 23,
+  "canon": "protocanonical",
+  "summary": "Genesis 23 records the death of Sarah and Abraham's purchase of a burial place. Sarah dies at Kirjath-arba, \"the same is Hebron in the land of Canaan,\" at the age of a hundred and twenty-seven, and Abraham comes \"to mourn for Sarah, and to weep for her.\" Rising from before his dead, he approaches the sons of Heth and confesses his status: \"I am a stranger and a sojourner with you,\" asking to buy \"a possession of a buryingplace.\" The Hittites honor him as \"a mighty prince\" and offer their best sepulchres freely, but Abraham insists on paying full price. He seeks the cave of Machpelah owned by Ephron the Hittite. In the formal courtesy of the city gate, Ephron offers to give both field and cave, yet Abraham presses to buy them, and Ephron names the price: \"four hundred shekels of silver.\" Abraham weighs out the silver, \"current money with the merchant,\" and the field, cave, and all its trees are legally \"made sure unto Abraham for a possession.\" He then buries Sarah there. This first parcel of the promised land that Abraham actually owns is a burial plot, a quiet down-payment on God's covenant promise of the land, purchased not seized.",
+  "takeaways": [
+    "Abraham honors Sarah in death, taking time to mourn and weep, and secures a dignified, permanent resting place for her rather than a borrowed grave.",
+    "Though promised the whole land, Abraham lives as \"a stranger and a sojourner\" and owns only a burial cave—faith holds the promise while patiently awaiting its fulfillment.",
+    "Abraham insists on paying full price rather than accepting a gift, securing an undisputed legal title so that the family tomb can never be reclaimed by others.",
+    "Machpelah becomes the enduring family burial site and the first tangible foothold in Canaan, a small but real pledge of the inheritance God swore to give."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.49",
+      "verses": "29-32",
+      "label": "Genesis 49:29-32 — Jacob commands burial in the cave of Machpelah",
+      "why": "Dying Jacob charges his sons to bury him in the same cave Abraham bought here, where Abraham, Sarah, Isaac, Rebekah, and Leah lie. This shows the burial plot became the abiding family sepulchre, binding the patriarchs to the land they were promised.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.25",
+      "verses": "9-10",
+      "label": "Genesis 25:9-10 — Abraham buried in the field he purchased",
+      "why": "Abraham himself is later laid to rest in this very field bought from the sons of Heth, beside Sarah. The chapter's careful record of a secured title pays off directly at Abraham's own burial.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.11",
+      "verses": "9-10,13",
+      "label": "Hebrews 11:9-10,13 — the patriarchs as strangers looking for a lasting city",
+      "why": "Hebrews reads Abraham's life as sojourning in the land of promise \"as in a strange country,\" confessing himself a stranger and pilgrim, exactly the self-description Abraham gives the Hittites. The New Testament turns this earthly homelessness into hope for a heavenly homeland.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.7",
+      "verses": "16",
+      "label": "Acts 7:16 — Stephen recalls the tomb Abraham bought",
+      "why": "In his speech before the council, Stephen references the sepulchre Abraham purchased for money, showing that the patriarchal burial purchase remained a fixed point in Israel's memory and its story of the promised land.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition sees in Abraham's careful, reverent burial of Sarah a witness to the dignity of the body and the goodness of honoring the dead, consonant with the corporal work of mercy of burying the dead and with hope in the resurrection of the body. Abraham does not treat the corpse as refuse but secures a permanent, honorable resting place.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise affirm the dignity of the deceased and honor proper burial, and generally agree that Scripture treats reverent burial as fitting. The emphasis often falls more on the narrative and covenantal point—that this purchase is Abraham's first legal claim in the land of promise, a seed of the inheritance—rather than framing burial primarily in the language of the works of mercy.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

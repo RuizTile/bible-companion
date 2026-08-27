@@ -1,0 +1,67 @@
+{
+  "ref": "MRK.5",
+  "book": "Mark",
+  "chapter": 5,
+  "canon": "protocanonical",
+  "summary": "Crossing to the country of the Gadarenes, Jesus meets a man among the tombs so violent that \"no man could bind him, no, not with chains.\" The unclean spirit names itself \"Legion: for we are many,\" and Jesus permits the demons to enter a herd of swine, which rush into the sea and drown. The townsfolk find the man \"sitting, and clothed, and in his right mind,\" yet, afraid, they beg Jesus to leave. He sends the restored man home to \"tell them how great things the Lord hath done for thee,\" and he publishes it through Decapolis. Back across the water, Jairus, a synagogue ruler, falls at Jesus' feet for his dying daughter. On the way, a woman with a twelve-year issue of blood touches his garment, thinking, \"If I may touch but his clothes, I shall be whole,\" and is instantly healed. Jesus, feeling \"that virtue had gone out of him,\" seeks her and says, \"Daughter, thy faith hath made thee whole; go in peace.\" Word comes that Jairus's daughter has died, but Jesus says, \"Be not afraid, only believe.\" Taking Peter, James, and John, he enters the house, dismisses the mourners, and, taking the girl's hand, says, \"Talitha cumi,\" and \"straightway the damsel arose, and walked.\" He charges them to secrecy and to feed her.",
+  "takeaways": [
+    "Jesus' authority reaches the most extreme bondage; even \"Legion\" must obey and the tormented man is fully restored.",
+    "Faith draws healing power; the bleeding woman is made whole because \"thy faith hath made thee whole.\"",
+    "Jesus meets fear with trust: to Jairus, \"Be not afraid, only believe,\" even in the face of death.",
+    "His power over death is shown in raising the girl, treating death as sleep from which he can wake her."
+  ],
+  "crossRefs": [
+    {
+      "target": "LEV.15",
+      "verses": "25-27",
+      "label": "Leviticus 15:25-27 — the law on a woman's issue of blood",
+      "why": "The woman's condition rendered her ritually unclean under this law, so that her touch would ordinarily transmit impurity. Instead, Jesus' cleansing power flows outward to heal her, reversing the expected direction of contagion and showing his holiness overcoming uncleanness.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.8",
+      "verses": "26-56",
+      "label": "Luke 8:26-56 — Legion, the woman, and Jairus's daughter",
+      "why": "Luke narrates the same three intertwined miracles in the same order, confirming the tradition in detail. The parallel underscores Mark's structure of nested stories, where the woman's healing is framed within Jairus's plea.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1KI.17",
+      "verses": "17-24",
+      "label": "1 Kings 17:17-24 — Elijah raises the widow's son",
+      "why": "Elijah's raising of a dead child prefigures Jesus restoring Jairus's daughter, placing Jesus within Israel's tradition of prophets who return the dead to life. The comparison also highlights the greater ease and authority with which Jesus commands, \"Talitha cumi.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.30",
+      "verses": "2-3",
+      "label": "Psalm 30:2-3 — thou hast brought up my soul from the grave",
+      "why": "The psalmist thanks the Lord who heals and rescues from the grave, the very deliverance enacted for the raised girl and the healed woman. The echo casts Jesus' miracles as the Lord's saving action reaching individuals in their extremity.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The bleeding woman's healing through touching Jesus' garment is read in the Catholic tradition as illustrating how physical, tangible means can be channels of divine grace, an intuition that undergirds sacramental and relic-honoring practice, since \"virtue\" flowed through the very hem of his clothing to reward her faith.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers typically stress Jesus' own words, \"thy faith hath made thee whole,\" locating the cause of healing in her faith in Christ rather than in the cloth itself, and are cautious about extending the scene to relics. Both traditions affirm that her faith and Jesus' power together healed her; they differ on how far tangible means may serve as ordinary vehicles of grace.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

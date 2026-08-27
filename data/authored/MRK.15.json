@@ -1,0 +1,75 @@
+{
+  "ref": "MRK.15",
+  "book": "Mark",
+  "chapter": 15,
+  "canon": "protocanonical",
+  "summary": "At morning the council binds Jesus and delivers him to Pilate, who asks, \"Art thou the King of the Jews?\" Jesus answers only, \"Thou sayest it,\" and then holds his peace, \"so that Pilate marvelled.\" Following the feast custom, Pilate offers to release a prisoner, but the chief priests move the crowd to demand Barabbas, a murderer, and to cry \"Crucify him.\" Pilate, \"willing to content the people,\" scourges Jesus and hands him over. The soldiers clothe him in purple, crown him with thorns, mock him as \"King of the Jews,\" and smite him. Simon a Cyrenian is compelled to bear the cross to Golgotha. They crucify him at the third hour between two thieves, cast lots for his garments, and post the charge, \"THE KING OF THE JEWS.\" Passersby and priests mock, \"He saved others; himself he cannot save.\" At the sixth hour darkness covers the land; at the ninth Jesus cries, \"Eloi, Eloi, lama sabachthani?\" and gives up the ghost. \"The veil of the temple was rent in twain,\" and the centurion declares, \"Truly this man was the Son of God.\" Women watch from afar, and Joseph of Arimathaea boldly asks Pilate for the body and lays it in a rock-hewn tomb.",
+  "takeaways": [
+    "Mark heaps up mockery of Jesus' kingship, yet the taunts and the placard \"THE KING OF THE JEWS\" ironically proclaim the truth they deny.",
+    "The cry \"My God, my God, why hast thou forsaken me?\" voices the depth of Jesus' suffering while opening a psalm that moves through anguish toward vindication.",
+    "The tearing of the temple veil \"from the top to the bottom\" signals that access to God is opened through Jesus' death, an act described as coming from above.",
+    "The first human confession of Jesus as \"the Son of God\" at the cross comes from a Gentile centurion, marking the gospel's reach beyond Israel."
+  ],
+  "crossRefs": [
+    {
+      "target": "PSA.22",
+      "verses": "1,18",
+      "label": "Psalm 22:1,18 — my God why hast thou forsaken me; they part my garments",
+      "why": "Jesus' cry from the cross is the opening line of this psalm, and the soldiers' casting lots for his clothing fulfills its words. Mark presents the crucifixion through the lens of the righteous sufferer whose lament ends in God's deliverance.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.53",
+      "verses": "3-9,12",
+      "label": "Isaiah 53:3-9,12 — the suffering servant numbered with transgressors",
+      "why": "The silent, despised sufferer crucified between two thieves answers Isaiah's portrait of the servant \"numbered with the transgressors\" who bears the sin of many. Mark even quotes that the scripture was fulfilled.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.26",
+      "verses": "31-33",
+      "label": "Exodus 26:31-33 — the veil dividing the holy of holies",
+      "why": "The veil that was torn had guarded the innermost sanctuary where God's presence dwelt. Its rending at Jesus' death signals that the separation between God and worshipper is decisively removed.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "AMO.8",
+      "verses": "9",
+      "label": "Amos 8:9 — the sun going down at noon",
+      "why": "The midday darkness over the land recalls the prophet's warning of the sun set at noon in the day of judgment. The cosmic sign marks the crucifixion as a moment of divine reckoning.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.19",
+      "verses": "17-30",
+      "label": "John 19:17-30 — the crucifixion in John's account",
+      "why": "John narrates the same events with distinctive detail, including Jesus' words to his mother and the final \"It is finished.\" Comparing the accounts fills out the shared witness to the manner and meaning of Jesus' death.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Mark names the women watching \"afar off,\" including \"Mary the mother of James the less and of Joses,\" and records Joseph of Arimathaea's care for the body. Catholic devotion has long honored the faithful presence of these women and of Jesus' Mother in the Passion, seeing in their steadfast watching a model of compassion and perseverance when the male disciples had fled.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise commend the courage and fidelity of the women who remained and of Joseph who \"went in boldly unto Pilate,\" and note how their witness secures the historical chain to the empty tomb. The emphasis tends to stay on the narrative and evangelistic function of these witnesses rather than on developed devotional veneration, but both traditions prize their faithfulness at the cross and burial.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.21",
+  "book": "Genesis",
+  "chapter": 21,
+  "canon": "protocanonical",
+  "summary": "The long-awaited promise arrives: \"the LORD visited Sarah as he had said,\" and she bears Isaac in Abraham's old age, \"at the set time of which God had spoken.\" Abraham circumcises him at eight days, being a hundred years old, and Sarah rejoices, \"God hath made me to laugh.\" At Isaac's weaning feast, Sarah sees Ishmael mocking and demands, \"Cast out this bondwoman and her son,\" for he shall not share the inheritance. Though grieved, Abraham obeys after God assures him, \"in Isaac shall thy seed be called,\" while promising to make Ishmael a nation too. Hagar and the boy wander in the wilderness of Beer-sheba; when the water is gone she sets him under a shrub to die and weeps. But God hears the lad, opens Hagar's eyes to a well, and pledges to make him a great nation. \"God was with the lad,\" and he grows to be an archer in Paran. The chapter closes with a covenant of peace: Abimelech, seeing \"God is with thee in all that thou doest,\" makes a sworn treaty with Abraham over a disputed well at Beer-sheba, where Abraham plants a grove and calls on \"the LORD, the everlasting God.\"",
+  "takeaways": [
+    "God keeps his promise exactly on schedule; Isaac is born \"at the set time,\" proving God's word reliable.",
+    "The child of promise comes by God's power in old age, not by human contrivance, contrasting Isaac with Ishmael.",
+    "God's compassion again reaches the outsider: he hears Ishmael's cry and provides water and a future.",
+    "God's evident presence with Abraham draws even a foreign king to seek peace and covenant with him."
+  ],
+  "crossRefs": [
+    {
+      "target": "GAL.4",
+      "verses": "22-31",
+      "label": "Galatians 4:22-31 — the son of the bondwoman and the son of the free",
+      "why": "Paul builds his allegory of two covenants directly on Isaac and Ishmael and even quotes \"Cast out the bondwoman and her son.\" This makes the family drama of Genesis 21 a template for the freedom of the children of promise over the slavery of the flesh.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.9",
+      "verses": "7-9",
+      "label": "Romans 9:7-9 — \"in Isaac shall thy seed be called\"",
+      "why": "Paul quotes God's word to Abraham to show that the promise, not mere descent, defines God's children. Genesis 21's distinction between the two sons becomes foundational for Paul's teaching on election and promise.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.11",
+      "verses": "11-12",
+      "label": "Hebrews 11:11-12 — Sarah's faith and offspring like the stars",
+      "why": "Hebrews celebrates the faith by which Sarah, past age, received strength to conceive, so that from one \"as good as dead\" came countless descendants. It interprets Isaac's birth as a triumph of faith in God's faithfulness.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.16",
+      "verses": "7-13",
+      "label": "Genesis 16:7-13 — God first meets Hagar in the wilderness",
+      "why": "Hagar's second wilderness rescue deliberately recalls the first, where God heard her affliction and gave a promise about Ishmael. Together they show God's consistent care for Hagar and her son across both crises.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Isaac, the beloved son born by God's power and long promise, is read in the Catholic tradition as a type of Christ and, more broadly, as the pattern of the Christian who is a child of God by grace and promise rather than by natural descent or human effort.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters, following Paul in Galatians, likewise see Isaac as the child of promise picturing believers born by grace, and many also read him typologically toward Christ. The traditions largely agree here; differences are chiefly of emphasis, such as how strongly to press the typology, rather than substantive disagreement about the promise-versus-flesh contrast the text draws.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.22",
+  "book": "Genesis",
+  "chapter": 22,
+  "canon": "protocanonical",
+  "summary": "God tests Abraham with the hardest command: \"Take now thy son, thine only son Isaac, whom thou lovest,\" and offer him as a burnt offering in Moriah. Abraham rises early and obeys, telling his servants, \"I and the lad will go yonder and worship, and come again to you.\" He lays the wood on Isaac, who carries it up the mountain, and when the boy asks, \"where is the lamb?\" Abraham answers in faith, \"God will provide himself a lamb.\" He builds the altar, binds Isaac, and stretches out the knife, but the angel of the LORD calls from heaven, \"Lay not thine hand upon the lad... for now I know that thou fearest God.\" A ram caught in a thicket is offered \"in the stead of his son,\" and Abraham names the place Jehovah-jireh, \"In the mount of the LORD it shall be seen.\" God swears by himself to bless Abraham, to multiply his seed \"as the stars of the heaven, and as the sand which is upon the sea shore,\" and that \"in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.\" The chapter closes with news of Nahor's family, including Bethuel who \"begat Rebekah,\" Isaac's future wife.",
+  "takeaways": [
+    "Genuine faith is proved by obedience even when God's command seems to threaten his own promise.",
+    "Abraham trusts that God will keep his word about Isaac, saying they will both return and that God will provide the lamb.",
+    "God provides the substitute himself, the ram \"in the stead of his son,\" showing that he requires the heart, not a child's death.",
+    "The covenant blessing is now sworn by God himself and reaches \"all the nations of the earth,\" tying obedience to universal promise."
+  ],
+  "crossRefs": [
+    {
+      "target": "HEB.11",
+      "verses": "17-19",
+      "label": "Hebrews 11:17-19 — Abraham offered Isaac, accounting God able to raise the dead",
+      "why": "Hebrews interprets the binding of Isaac as faith that God could raise Isaac even from death, receiving him back \"in a figure.\" This unlocks how Abraham could both intend to obey and expect to \"come again,\" and it reads the episode as a foreshadowing of resurrection.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.3",
+      "verses": "16",
+      "label": "John 3:16 — God gave his only Son",
+      "why": "The phrase \"thine only son... whom thou lovest\" anticipates the Father giving his only Son out of love. Christians have long read Isaac carrying the wood up Moriah as a type of Christ carrying the cross, and the ram as a figure of the Lamb who dies in our stead.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JAS.2",
+      "verses": "21-23",
+      "label": "James 2:21-23 — Abraham justified by works when he offered Isaac",
+      "why": "James cites this very act to show that faith is made complete by works, and that Abraham's belief was thereby fulfilled. It frames Genesis 22 as the climactic demonstration that living faith obeys.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GAL.3",
+      "verses": "8,16",
+      "label": "Galatians 3:8,16 — the promise to Abraham's seed fulfilled in Christ",
+      "why": "Paul takes the promise that in Abraham's \"seed\" all nations would be blessed, sworn here after the test, and identifies that seed ultimately as Christ. It links the oath of Genesis 22 to the gospel's reach to all peoples.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads the near-sacrifice of Isaac as a profound type of the Father offering the Son: the beloved only son, the wood carried up the mountain like the cross, the third day, and the provided lamb all prefigure Calvary, so that \"God will provide himself a lamb\" is fulfilled in Christ, the Lamb of God.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters broadly embrace the same Christ-typology, reading Isaac and the ram as pointing to the substitutionary death of Jesus, and citing Hebrews and John in support. The traditions are largely united here; any differences concern emphasis, such as how the sacrifice relates to the Eucharist, rather than the core reading of Isaac's binding as prefiguring the cross.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

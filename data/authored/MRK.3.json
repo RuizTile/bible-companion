@@ -1,0 +1,67 @@
+{
+  "ref": "MRK.3",
+  "book": "Mark",
+  "chapter": 3,
+  "canon": "protocanonical",
+  "summary": "In the synagogue Jesus heals a man with a withered hand, first pressing his critics: \"Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill?\" Grieved \"for the hardness of their hearts,\" he restores the hand, and the Pharisees at once plot with the Herodians \"how they might destroy him.\" Withdrawing to the sea, Jesus draws vast crowds from Galilee, Judaea, Jerusalem, and beyond, healing many, while unclean spirits confess, \"Thou art the Son of God.\" He climbs a mountain and ordains twelve \"that they should be with him, and that he might send them forth to preach,\" naming them one by one, from Simon whom he calls Peter to \"Judas Iscariot, which also betrayed him.\" His own friends say, \"He is beside himself,\" and scribes from Jerusalem charge that \"He hath Beelzebub.\" Jesus answers that \"if a kingdom be divided against itself, that kingdom cannot stand\"; a house at war with itself falls, so Satan cannot cast out Satan. He warns solemnly that blasphemy against the Holy Ghost \"hath never forgiveness.\" When told his mother and brethren wait outside, he looks at those seated around him and redefines kinship: \"whosoever shall do the will of God, the same is my brother, and my sister, and mother.\"",
+  "takeaways": [
+    "Doing good and saving life honor the sabbath; hardness of heart, not healing, is the true violation.",
+    "Jesus deliberately constitutes the Twelve to be with him and to be sent, the seed of a new community.",
+    "A kingdom or house \"divided against itself\" cannot stand; Jesus' power over demons cannot come from Satan.",
+    "True family is defined by doing \"the will of God,\" opening kinship with Christ to all who obey."
+  ],
+  "crossRefs": [
+    {
+      "target": "MAT.12",
+      "verses": "22-32",
+      "label": "Matthew 12:22-32 — the Beelzebub charge and the unforgivable sin",
+      "why": "Matthew records the same accusation and Jesus' divided-kingdom reply, along with the warning about blasphemy against the Spirit. The parallel helps clarify that the unforgivable sin is the persistent, deliberate rejection of the Spirit's evident work as though it were evil.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.24",
+      "verses": "4",
+      "label": "Exodus 24:4 — the twelve pillars for the twelve tribes",
+      "why": "Jesus' appointment of exactly twelve apostles evokes the twelve tribes of Israel, signaling the reconstitution of God's people around himself. The number is symbolic, not incidental, marking a new covenant community.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.6",
+      "verses": "12-16",
+      "label": "Luke 6:12-16 — the naming of the twelve apostles",
+      "why": "Luke lists the same Twelve after Jesus spends the night in prayer, underscoring the deliberateness of the choice. Comparing the lists confirms the historical core of the apostolic band that would carry the mission forward.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.7",
+      "verses": "5",
+      "label": "John 7:5 — for neither did his brethren believe in him",
+      "why": "The friends and kin who think Jesus \"beside himself\" in Mark 3 parallel John's note that his brethren did not yet believe. Together they show that recognition of Jesus grew slowly even among those closest, sharpening his redefinition of family by obedience to God.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus' words \"Who is my mother, or my brethren?\" are read in the Catholic tradition not as a slight to Mary but as an exaltation of her: she is precisely the one who most perfectly does \"the will of God,\" and so is preeminent among the spiritual family Jesus describes. The naming of \"the brother of James, and Joses\" is understood as close kin rather than uterine siblings, consistent with belief in Mary's perpetual virginity.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant readers take the \"brethren\" of Jesus as literal younger siblings and read the passage as Jesus subordinating natural family ties to spiritual kinship without special implication for Mary's status. Both traditions agree on the central point Jesus makes here, that doing God's will is what binds one to him; they differ over the identity of the \"brethren\" and Mary's ongoing role.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.8",
+  "book": "Genesis",
+  "chapter": 8,
+  "canon": "protocanonical",
+  "summary": "The turning point comes with a word of grace: \"And God remembered Noah,\" and \"every living thing\" in the ark. God sends a wind, the waters \"asswaged,\" \"the fountains of the deep and the windows of heaven were stopped,\" and the flood recedes \"continually.\" After a hundred and fifty days the ark rests \"upon the mountains of Ararat,\" and mountaintops reappear. Noah tests the earth: a raven goes \"to and fro,\" then a dove that finds \"no rest for the sole of her foot\" and returns. Seven days later the dove comes back with \"an olive leaf pluckt off,\" and Noah knows \"the waters were abated.\" Seven days more, and the dove \"returned not again.\" When the ground is finally dry, God commands, \"Go forth of the ark,\" telling all the creatures to \"breed abundantly in the earth, and be fruitful, and multiply,\" echoing the first blessing of creation. Noah's first act is worship: he builds an altar and offers burnt offerings. \"The LORD smelled a sweet savour,\" and vows in his heart never again to curse the ground or destroy all living things: \"While the earth remaineth, seedtime and harvest... shall not cease.\"",
+  "takeaways": [
+    "\"God remembered Noah\" marks the hinge of the story: God's faithful remembrance, not the passing of time, is what turns judgment toward restoration.",
+    "The command to be fruitful and multiply renews the blessing of creation, presenting the world after the flood as a fresh start under God.",
+    "Noah's first response on dry land is worship, modeling gratitude and sacrifice as the fitting answer to deliverance.",
+    "God binds himself by a merciful promise, pledging the reliable rhythms of nature despite humanity's persistent bent toward evil."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.1",
+      "verses": "22,28",
+      "label": "Genesis 1:22,28 — be fruitful and multiply",
+      "why": "God's charge to the creatures and to Noah's family to \"be fruitful, and multiply upon the earth\" deliberately repeats the original blessing of creation. The flood ends with a renewal of the world's founding commission.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.9",
+      "verses": "11-13",
+      "label": "Genesis 9:11-13 — the covenant sealed by the rainbow",
+      "why": "God's inward resolve here never to destroy the earth again is formalized in the next chapter as a covenant with the sign of the rainbow. This chapter's promise is the seed of that binding covenant.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.3",
+      "verses": "16",
+      "label": "Matthew 3:16 — the Spirit descending as a dove",
+      "why": "The dove that returns with an olive leaf, a sign of peace and new life, is echoed at Jesus' baptism when \"the Spirit of God descending like a dove.\" Christian tradition reads the flood's dove as a foreshadowing of the Spirit and reconciliation.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "2PE.3",
+      "verses": "6-7,13",
+      "label": "2 Peter 3:6-7,13 — the world renewed after judgment",
+      "why": "Peter recalls that \"the world that then was, being overflowed with water, perished,\" and looks ahead to \"new heavens and a new earth.\" The reference sets the flood's renewal of the earth as a pattern for God's final restoration.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The dove returning with the olive leaf is read as a sign of peace restored between God and the world after judgment, and Christian tradition connects it to the Holy Spirit, who descends as a dove at Christ's baptism, so that the flood's end anticipates the new creation and reconciliation accomplished in Christ.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise cherish the dove and olive branch as emblems of peace and often note the resonance with the Spirit at Jesus' baptism, while typically treating the connection as a fitting echo rather than a formal type. Both traditions read the chapter as God turning from wrath to renewed blessing.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

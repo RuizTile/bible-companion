@@ -1,0 +1,18 @@
+{
+  "name": "bible-companion",
+  "version": "0.0.1",
+  "private": true,
+  "description": "KJV Catholic-oriented Bible Chapter Companion — local-first, single-user. Personal project (not affiliated with Gridworks). Zero third-party dependencies — Node built-ins only.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.5"
+  },
+  "scripts": {
+    "seed": "node --experimental-sqlite scripts/seed.js",
+    "ingest": "node --experimental-sqlite scripts/ingest.js",
+    "merge": "node --experimental-sqlite scripts/merge-authored.js",
+    "start": "node --experimental-sqlite server/index.js",
+    "dev": "node --experimental-sqlite --watch server/index.js",
+    "author": "node scripts/author.js"
+  }
+}

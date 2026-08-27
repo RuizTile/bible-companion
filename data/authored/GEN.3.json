@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.3",
+  "book": "Genesis",
+  "chapter": 3,
+  "canon": "protocanonical",
+  "summary": "The serpent, \"more subtil than any beast of the field,\" questions God's word to the woman: \"Yea, hath God said, Ye shall not eat of every tree of the garden?\" It twists the command and denies the consequence, \"Ye shall not surely die,\" promising instead that \"ye shall be as gods, knowing good and evil.\" Seeing the tree \"good for food\" and \"pleasant to the eyes,\" the woman eats and gives to her husband, \"and he did eat.\" At once \"the eyes of them both were opened,\" they know they are naked, and they hide from God \"in the cool of the day.\" God's question, \"Where art thou?\", exposes them; the man blames the woman, the woman blames the serpent. God pronounces judgment: the serpent is cursed, the woman will bear children \"in sorrow,\" the ground is cursed so that man eats bread \"in the sweat of thy face,\" and mortality returns him to dust, \"for dust thou art, and unto dust shalt thou return.\" Yet mercy threads through the sentence, God promises \"enmity\" and a bruising of the serpent's head, clothes the pair with \"coats of skins,\" and, lest they seize the tree of life, sends them out of Eden, guarded by cherubim and \"a flaming sword.\"",
+  "takeaways": [
+    "Temptation begins by questioning and distorting God's word, then denying its consequences; the fall is as much a crisis of trust as of appetite.",
+    "Sin fractures relationships in every direction: with God (they hide), with each other (they blame), and with creation (the ground is cursed).",
+    "Even in judgment God shows mercy, promising a decisive victory over the serpent and clothing the guilty rather than abandoning them.",
+    "Death and exile follow disobedience, yet the way to the tree of life is guarded, not destroyed, leaving open the hope of eventual return."
+  ],
+  "crossRefs": [
+    {
+      "target": "ROM.5",
+      "verses": "12,18-19",
+      "label": "Romans 5:12-19 — one man's sin and Christ's obedience",
+      "why": "Paul reads this chapter as the entry of sin and death into the world through Adam, answered by the righteousness of Christ. The passage frames Genesis 3 as the origin of the human condition that the Gospel remedies.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "REV.12",
+      "verses": "9,17",
+      "label": "Revelation 12:9,17 — the ancient serpent and the woman's seed",
+      "why": "Revelation names \"that old serpent, called the Devil,\" and depicts ongoing war against the woman and \"the remnant of her seed.\" This echoes the enmity declared here between the serpent and the woman's offspring.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.1",
+      "verses": "28,42",
+      "label": "Luke 1:28,42 — Mary as the new Eve",
+      "why": "Catholic tradition reads the promise that the woman's seed shall bruise the serpent's head (the \"protoevangelium\") as fulfilled through Christ born of Mary, whom the tradition calls the new Eve reversing the first woman's disobedience.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "1TI.2",
+      "verses": "13-14",
+      "label": "1 Timothy 2:13-14 — the order and deception of the fall",
+      "why": "Paul appeals to the sequence of creation and to the woman being \"deceived\" in this chapter. The reference shows how the New Testament looks back to the details of Genesis 3 as theologically significant history.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Verse 15, \"I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head,\" is read as the first proclamation of the Gospel (the protoevangelium), foretelling a coming redeemer who will crush the serpent, with the \"woman\" understood in Catholic tradition to prefigure Mary.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers broadly agree that verse 15 anticipates Christ's victory over Satan, but generally focus the fulfillment on Christ as the woman's \"seed\" rather than emphasizing a Marian figure. Both traditions read the verse as the earliest note of redemptive hope.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

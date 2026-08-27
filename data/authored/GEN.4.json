@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.4",
+  "book": "Genesis",
+  "chapter": 4,
+  "canon": "protocanonical",
+  "summary": "Outside Eden, the human story continues with the first family. Eve bears Cain and then Abel: \"Abel was a keeper of sheep, but Cain was a tiller of the ground.\" Both bring offerings, but \"the LORD had respect unto Abel and to his offering,\" while to Cain's he had not respect. Cain grows \"very wroth,\" and God warns him, \"sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.\" Cain ignores the warning and kills his brother in the field. When God asks, \"Where is Abel thy brother?\", Cain evades: \"Am I my brother's keeper?\" God answers that \"the voice of thy brother's blood crieth unto me from the ground,\" and curses Cain to be \"a fugitive and a vagabond.\" Yet even here mercy appears: God sets a protective \"mark upon Cain.\" Cain settles in Nod and his line advances in culture and violence alike, culminating in Lamech's boast of vengeance \"seventy and sevenfold.\" The chapter closes on hope: Eve bears Seth, \"another seed instead of Abel,\" and in his days \"began men to call upon the name of the LORD.\"",
+  "takeaways": [
+    "Worship is measured by the heart of the worshiper; God looks not merely at the gift but at the disposition behind it.",
+    "Sin is personified as a predator crouching at the door, yet Cain is told he can and must master it, affirming human responsibility.",
+    "Violence against a brother cries out to God; human life is precious and its shedding is never hidden from him.",
+    "Even under judgment God restrains vengeance and preserves life, and the line of Seth reopens the way of calling on the LORD."
+  ],
+  "crossRefs": [
+    {
+      "target": "HEB.11",
+      "verses": "4",
+      "label": "Hebrews 11:4 — Abel's offering by faith",
+      "why": "Hebrews explains that \"by faith Abel offered unto God a more excellent sacrifice than Cain,\" interpreting the difference between the two offerings as one of faith. This clarifies why Abel's gift found favor.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1JN.3",
+      "verses": "12",
+      "label": "1 John 3:12 — Cain of the wicked one",
+      "why": "John holds up Cain as the pattern of hatred, warning believers not to be \"as Cain, who was of that wicked one, and slew his brother.\" The reference makes Cain's act a moral lesson about the roots of murder in the heart.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.18",
+      "verses": "21-22",
+      "label": "Matthew 18:21-22 — forgiveness seventy times seven",
+      "why": "Lamech's boast of vengeance \"seventy and sevenfold\" is answered by Jesus, who tells Peter to forgive \"seventy times seven.\" The deliberate echo contrasts the escalating vengeance of Cain's line with the boundless mercy of the kingdom.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.12",
+      "verses": "24",
+      "label": "Hebrews 12:24 — the blood that speaks better things",
+      "why": "Hebrews contrasts the blood of Abel that cried from the ground with \"the blood of sprinkling, that speaketh better things.\" The reference reads Abel's death as a type answered by the redemptive blood of Christ.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Abel is often read in the Catholic tradition as a type of the innocent, sacrificed just one, prefiguring Christ, whose blood also \"crieth\" but pleads mercy rather than vengeance; his accepted offering has long been remembered in the Church's liturgical memory of righteous sacrifice.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers likewise see Abel as a righteous martyr and a foreshadowing of Christ, but tend to stress Hebrews' emphasis on Abel's personal faith as the decisive point rather than a liturgical or typological framework. Both agree Abel's death anticipates the innocent blood of Christ.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

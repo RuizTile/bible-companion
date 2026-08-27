@@ -1,0 +1,67 @@
+{
+  "ref": "GEN.29",
+  "book": "Genesis",
+  "chapter": 29,
+  "canon": "protocanonical",
+  "summary": "Genesis 29 brings Jacob to Haran, where the deceiver is himself deceived. At a well he meets shepherds who know Laban, and as Rachel arrives with her father's sheep, Jacob rolls away the great stone, waters the flock, kisses Rachel, and \"lifted up his voice, and wept.\" Laban welcomes his sister's son—\"Surely thou art my bone and my flesh\"—and after a month asks what wages Jacob wants. Loving Rachel, \"beautiful and well favoured,\" Jacob offers seven years of service for her, and they \"seemed unto him but a few days, for the love he had to her.\" But on the wedding night Laban gives Leah, the elder and \"tender eyed\" daughter, and in the morning Jacob discovers the switch: \"wherefore then hast thou beguiled me?\" Laban excuses himself—\"It must not be so done in our country, to give the younger before the firstborn\"—the very principle Jacob had overturned with his own brother. Jacob must serve seven more years for Rachel, whom he loves more than Leah. Yet \"when the LORD saw that Leah was hated, he opened her womb,\" while Rachel remains barren. Leah bears four sons—Reuben, Simeon, Levi, and Judah—each name marking her longing to be loved and, at last, praise: \"Now will I praise the LORD.\"",
+  "takeaways": [
+    "Jacob the supplanter is repaid in his own coin: the man who exploited birth order to steal a blessing is now tricked by an appeal to birth order—'to give the younger before the firstborn'—a sobering measure of sowing and reaping.",
+    "God sees the unloved: 'when the LORD saw that Leah was hated, he opened her womb,' showing tender regard for the overlooked and rejected within a painful, unequal marriage.",
+    "Leah's naming of her sons traces a movement from craving her husband's love to resting in God—'Now will I praise the LORD'—a small journey from grasping to gratitude.",
+    "Human favoritism and deceit tangle the family, yet God quietly advances His purposes through it, building the tribes of Israel out of a fractured, striving household."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.27",
+      "verses": "35-36",
+      "label": "Genesis 27:35-36 — Jacob deceives Isaac by pretending to be the firstborn",
+      "why": "Laban's justification for the switch, honoring the firstborn over the younger, pointedly reverses Jacob's own deception, where the younger posed as the elder. The mirroring exposes Jacob's earlier sin catching up with him.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.24",
+      "verses": "10-20",
+      "label": "Genesis 24:10-20 — the servant meets Rebekah at the well",
+      "why": "Jacob's well-side meeting with Rachel echoes the earlier providential well encounter that found his mother Rebekah, reinforcing the pattern of covenant brides met at wells in the patriarchal narratives.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.1",
+      "verses": "2-3",
+      "label": "Matthew 1:2-3 — Judah in the genealogy of Christ",
+      "why": "Leah's fourth son Judah, born of the unloved wife, becomes the royal tribe from which the Messiah descends. The Gospel genealogy traces Jesus through this son of overlooked Leah, showing God's grace to the humble.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GAL.6",
+      "verses": "7",
+      "label": "Galatians 6:7 — 'whatsoever a man soweth, that shall he also reap'",
+      "why": "Jacob's experience of being deceived by Laban after deceiving his own father embodies the New Testament principle of reaping what one sows, a moral pattern the narrative dramatizes without preaching it.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads Leah's fruitfulness as a sign of God's preferential care for the humble and unloved, and sees in the birth of Judah—ancestor of David and of Christ—evidence that God writes salvation history through the lowly and rejected rather than the merely favored. This resonates with later biblical reversals in which God exalts the humble.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters likewise emphasize God's compassion for the unloved Leah and His grace in choosing Judah's line, reading the chapter as sovereign providence working through broken relationships. Both traditions agree God favors the humble here; differences are mainly of emphasis, with Protestant readings often foregrounding God's unmerited grace and covenant faithfulness rather than a general principle of merit or preference.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-08-26",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}
