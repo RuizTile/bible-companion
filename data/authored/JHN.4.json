@@ -1,0 +1,85 @@
+{
+  "ref": "JHN.4",
+  "book": "John",
+  "chapter": 4,
+  "canon": "protocanonical",
+  "summary": "Learning that the Pharisees have noticed his growing following, Jesus leaves Judaea and \"must needs go through Samaria.\" At Jacob's well near Sychar, \"being wearied with his journey,\" he sits down about the sixth hour and asks a Samaritan woman, \"Give me to drink.\" She names the barrier at once: \"the Jews have no dealings with the Samaritans.\" He offers her instead \"living water\" that becomes \"a well of water springing up into everlasting life\"; when she asks for it, he answers by naming her five husbands and her present situation, \"in that saidst thou truly.\" Taking him for a prophet, she raises the old dispute over where God must be worshipped, and Jesus answers that \"the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth,\" since \"God is a Spirit.\" To her hope that \"Messias cometh\" he replies openly, \"I that speak unto thee am he.\" She leaves her waterpot and tells the city, \"Come, see a man, which told me all things that ever I did.\" Meanwhile Jesus tells his puzzled disciples, \"My meat is to do the will of him that sent me,\" and points to fields \"white already to harvest.\" Many Samaritans believe first for her word, then \"because of his own word,\" confessing him \"the Saviour of the world.\" Back in Galilee a nobleman begs help for his dying son; Jesus says only, \"Thy son liveth,\" and the fever breaks at that hour.",
+  "takeaways": [
+    "Christ takes the initiative with the outsider and the morally exposed, and the conversation moves from thirst to truth to worship rather than opening with condemnation.",
+    "Worship \"in spirit and in truth\" moves the center of worship from a mountain to a person, without cancelling the claim that \"salvation is of the Jews.\"",
+    "The woman's exposure becomes her commission: the first sustained proclamation in Samaria comes from a witness with nothing to boast of, whose testimony is meant to be surpassed by Christ himself.",
+    "Faith is drawn from secondhand report toward direct encounter — the Samaritans move from her saying to his own word — and in the nobleman it is stretched to trusting a word before any evidence arrives."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.29",
+      "verses": "1-12",
+      "label": "Genesis 29:1-12 — Jacob meets Rachel at the well and rolls away the stone",
+      "why": "Jacob arrives at a well, removes the stone, waters the flock, and the meeting opens a betrothal. John seats Jesus at Jacob's own well asking a woman for water, giving the encounter the shape of a covenant meeting rather than a chance roadside exchange.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JER.2",
+      "verses": "13",
+      "label": "Jeremiah 2:13 — they have forsaken me the fountain of living waters",
+      "why": "God charges his people with abandoning him, the fountain of living waters, in order to hew out cracked cisterns that hold nothing. The phrase sharpens Jesus's offer at the well into a claim to be that fountain in person, over against every substitute that cannot satisfy.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.55",
+      "verses": "1-3",
+      "label": "Isaiah 55:1-3 — every one that thirsteth, come ye to the waters",
+      "why": "Isaiah summons the thirsty and the penniless to come and drink without money and without price. Jesus's offer to a woman who has neither standing nor even a vessel he can use enacts that invitation, with the gift depending on nothing she brings.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "2KI.17",
+      "verses": "24-34",
+      "label": "2 Kings 17:24-34 — the resettling of Samaria and its divided worship",
+      "why": "This account describes how Samaria was repopulated after the exile and how its inhabitants \"feared the LORD, and served their own gods.\" It supplies the background both to the hostility the woman names and to the force of Jesus's words, \"Ye worship ye know not what.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.8",
+      "verses": "5-17",
+      "label": "Acts 8:5-17 — Christ preached in Samaria, and the Samaritans receive the Spirit",
+      "why": "After Pentecost the gospel is preached in a city of Samaria, many are baptized, and the Spirit is given. Jesus's two days at Sychar and his talk of fields already white read as the sowing whose reaping the early Church later records.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads the \"living water\" and the promised \"well of water springing up into everlasting life\" as the indwelling gift of the Spirit and sanctifying grace, ordinarily given through baptism, so that the sign of water at Jacob's well points past physical thirst toward a sacramental life that continues to well up within the believer.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally identify the living water directly with the Spirit received through faith in Christ's word, noting the chapter's own emphasis that the Samaritans came to believe \"because of his own word\" rather than through any rite. Both traditions agree that the water offered is the Spirit's own life, that Christ alone is its source, and that it is a gift rather than an achievement.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "In the Catholic tradition worship \"in spirit and in truth\" is read not as a dismissal of external, bodily, and communal worship but as its fulfillment in Christ: the rivalry between two sanctuaries ends because the true sanctuary has arrived in person, and worship in the Spirit is then offered through him in liturgy and sacrament.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers frequently hear in this verse a decisive turn from place, priesthood, and ceremony toward inward and spiritual worship that may be offered anywhere and by anyone. Both traditions agree that Christ ends the argument about locations by making himself the center of worship, and that the Father is seeking worshippers rather than sites.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-5",
+    "generatedAt": "2026-08-27",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

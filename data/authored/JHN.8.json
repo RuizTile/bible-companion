@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.8",
+  "book": "John",
+  "chapter": 8,
+  "canon": "protocanonical",
+  "summary": "From the mount of Olives Jesus returns at daybreak to teach in the temple, where scribes and Pharisees set before him a woman \"taken in adultery, in the very act,\" citing Moses' penalty of stoning and \"tempting him, that they might have to accuse him.\" He stoops and writes \"on the ground, as though he heard them not,\" then answers, \"He that is without sin among you, let him first cast a stone at her.\" The accusers withdraw \"one by one, beginning at the eldest,\" and he tells her, \"Neither do I condemn thee: go, and sin no more.\" (Many of the earliest surviving copies of John lack this episode or place it elsewhere, though the Church has long received and read it as Scripture.) Jesus then declares, \"I am the light of the world,\" and a long dispute over testimony follows: his record stands because \"I am not alone, but I and the Father that sent me.\" He warns that they will \"die in your sins\" unless they believe, and that \"when ye have lifted up the Son of man, then shall ye know that I am he.\" To those who believe he promises, \"ye shall know the truth, and the truth shall make you free\"—freedom not from any earthly power but from sin, since \"Whosoever committeth sin is the servant of sin.\" Against the appeal to descent he distinguishes lineage from likeness: \"If ye were Abraham’s children, ye would do the works of Abraham.\" It ends in the sharpest claim of all, \"Before Abraham was, I am,\" at which stones are taken up and \"Jesus hid himself, and went out of the temple.\"",
+  "takeaways": [
+    "Mercy and moral seriousness are not rivals: Jesus refuses to condemn the woman and in the same breath tells her to \"go, and sin no more,\" neither denying the sin nor leaving her in it.",
+    "The trap collapses because no one present qualifies to throw the first stone; it is conscience rather than argument that empties the courtyard, \"beginning at the eldest.\"",
+    "Freedom in this chapter is neither political nor ancestral but release from the servitude of sin, granted by the Son who \"abideth ever\" in the household and can therefore make others free \"indeed.\"",
+    "\"Before Abraham was, I am\" claims divine existence and not merely priority in time, which is why the response is stones rather than further debate."
+  ],
+  "crossRefs": [
+    {
+      "target": "DEU.17",
+      "verses": "6-7",
+      "label": "Deuteronomy 17:6-7 — the hands of the witnesses first upon the condemned",
+      "why": "The law requires two or three witnesses for a capital sentence and puts \"The hands of the witnesses\" first in carrying it out. Jesus' words about the one \"without sin\" casting the first stone turn that provision directly back on the accusers, who are acting as the witnesses in the case.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LEV.20",
+      "verses": "10",
+      "label": "Leviticus 20:10 — the penalty for adultery falls on both parties",
+      "why": "The law condemns \"the adulterer and the adulteress\" alike, and Deuteronomy likewise requires that both die. Since only the woman is brought forward, the appeal to Moses is already selective, exposing the aim as accusation of Jesus rather than justice for the offense.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.9",
+      "verses": "1-2",
+      "label": "Isaiah 9:1-2 — the people that walked in darkness have seen a great light",
+      "why": "Isaiah promises light dawning on those who \"dwell in the land of the shadow of death,\" beginning in the despised northern territory. Jesus' claim to be \"the light of the world,\" with the promise that his follower \"shall not walk in darkness,\" answers that prophecy in the first person.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EXO.3",
+      "verses": "13-15",
+      "label": "Exodus 3:13-15 — God reveals his name as I AM THAT I AM",
+      "why": "God gives Moses the name \"I AM THAT I AM\" as the name by which he is to be identified to Israel. Jesus' repeated \"I am he\" and finally \"Before Abraham was, I am\" take up that name, which accounts for the immediate attempt to stone him.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.22",
+      "verses": "15-18",
+      "label": "Genesis 22:15-18 — in thy seed shall all the nations be blessed",
+      "why": "On the mountain of sacrifice God swears to Abraham that \"in thy seed shall all the nations of the earth be blessed.\" Jesus' claim that Abraham \"rejoiced to see my day: and he saw it, and was glad\" points to promises of this kind, glimpsed by Abraham from far off and fulfilled in the one now standing in the temple.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition the encounter with the woman taken in adultery is read as the pattern of sacramental mercy: Christ, the one person present with standing to condemn, absolves without excusing, and sends the forgiven sinner away under a command—\"go, and sin no more\"—so that absolution and amendment of life belong together. The Church has kept the passage as Scripture and read it as a charter for the ministry of reconciliation, while acknowledging that its place in the manuscript tradition of John is unusual.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the scene as a display of Christ's own authority to forgive and as a rebuke to self-righteous judgment, without deriving from it a priestly power of absolution exercised by others. Many also treat the passage's textual history more cautiously, some bracketing it in print while still preaching it. Both traditions agree that the words are wholly consistent with everything else Jesus says and does, and that his mercy neither denies the sin nor abandons the sinner to it.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Jesus' distinction between Abraham's seed and Abraham's children—\"If ye were Abraham’s children, ye would do the works of Abraham\"—is read in the Catholic tradition as showing that inherited membership never substitutes for a living faith that acts, so that belonging to the household of God is a matter of continuing in Christ's word rather than of standing alone.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally reach the same conclusion by a different accent, arguing that true descent from Abraham is by faith rather than by works, and reading the \"works of Abraham\" as the evidence of that faith rather than its ground. Both traditions agree that no lineage, ancestry, or affiliation secures anyone apart from believing and abiding in the word of Christ.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

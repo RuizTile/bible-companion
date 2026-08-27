@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.13",
+  "book": "John",
+  "chapter": 13,
+  "canon": "protocanonical",
+  "summary": "Before the passover, knowing \"that his hour was come that he should depart out of this world unto the Father,\" Jesus \"loved them unto the end.\" Aware that the Father \"had given all things into his hands,\" he rises from supper, lays aside his garments, girds himself with a towel, and begins washing his disciples' feet. Peter recoils — \"Lord, dost thou wash my feet?\" then \"Thou shalt never wash my feet\" — until Jesus warns, \"If I wash thee not, thou hast no part with me,\" whereupon Peter asks for hands and head as well. Reseated, Jesus explains: \"I have given you an example, that ye should do as I have done to you,\" for \"The servant is not greater than his lord.\" He then names a traitor at his own table, citing the scripture, \"He that eateth bread with me hath lifted up his heel against me.\" Troubled in spirit, he marks Judas with a dipped sop; \"after the sop Satan entered into him,\" and Judas \"went immediately out: and it was night.\" With the betrayer gone Jesus declares, \"Now is the Son of man glorified,\" and gives \"A new commandment... That ye love one another; as I have loved you\" — the sign by which \"all men know that ye are my disciples.\" Peter vows to lay down his life and hears instead that he will deny his Lord thrice.",
+  "takeaways": [
+    "The foot washing shows divine authority expressed as service: John notes that Jesus acted precisely because he knew \"the Father had given all things into his hands.\"",
+    "Being washed by Christ is not optional courtesy but necessity — \"If I wash thee not, thou hast no part with me\" — so cleansing received from him grounds any imitation of him.",
+    "The betrayal is foreseen rather than accidental; Jesus announces it beforehand \"that, when it is come to pass, ye may believe that I am he.\"",
+    "The \"new commandment\" sets a new measure for charity, love \"as I have loved you,\" and makes that love the visible identifying mark of his disciples."
+  ],
+  "crossRefs": [
+    {
+      "target": "PSA.41",
+      "verses": "9",
+      "label": "Psalm 41:9 — mine own familiar friend hath lifted up his heel against me",
+      "why": "The psalm laments a trusted table companion who turns traitor, the very text Jesus quotes over Judas. Reading it alongside shows the betrayal as the deepest form of the psalmist's grief, and Jesus entering that grief knowingly rather than being surprised by it.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.22",
+      "verses": "24-27",
+      "label": "Luke 22:24-27 — a strife over greatness at the supper table",
+      "why": "Luke records the disciples arguing about rank at this same meal, with Jesus answering, \"I am among you as he that serveth.\" The parallel supplies the argument John does not narrate and shows the foot washing as an enacted answer to it.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PHP.2",
+      "verses": "5-8",
+      "label": "Philippians 2:5-8 — he took upon him the form of a servant",
+      "why": "Paul describes Christ laying aside equality with God to take a servant's form and obey unto death. The pattern of rising, laying aside garments, and serving matches it closely, so the towel anticipates the cross.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1JN.3",
+      "verses": "14-18",
+      "label": "1 John 3:14-18 — he laid down his life for us, and love in deed and in truth",
+      "why": "The letter treats the new commandment as the test of having passed from death to life, and insists love be practical rather than verbal. It shows how the early Church heard \"love one another\" as a concrete obligation, not a sentiment.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.26",
+      "verses": "31-35",
+      "label": "Matthew 26:31-35 — Peter's boast and the prediction of his denial",
+      "why": "Matthew gives the same exchange with Peter protesting he would die rather than fall away. Set beside John, it underlines that the chapter's teaching on love is addressed to men whose loyalty is about to fail and who will still be kept.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition the foot washing is read as more than a moral lesson: it interprets the whole supper, and its ritual reenactment on Holy Thursday ties the humility of the towel to the Eucharist and to the service expected of ordained ministry, so that authority in the Church is defined as washing feet.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the scene as an enacted parable of humble service binding all believers equally, and some traditions practice literal foot washing as an ordinance for the whole congregation rather than a clerical rite. They tend to resist reading a specifically priestly meaning into it. Both traditions agree that Jesus commands his followers to imitate his self-lowering and that greatness among them is measured by service.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The distinction in \"He that is washed needeth not save to wash his feet, but is clean every whit\" is read in the Catholic tradition as touching the difference between the once-only bath of baptism and the repeated cleansing needed for sins committed afterward, which the Church supplies through sacramental confession.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the same distinction as the once-for-all cleansing granted in justification, followed by daily repentance and confession made directly to God rather than through a priest. Some take the verse as simply describing ordinary household custom pressed into service as an image. Both traditions agree that the initial cleansing is entirely Christ's gift and that believers still need ongoing forgiveness from him.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

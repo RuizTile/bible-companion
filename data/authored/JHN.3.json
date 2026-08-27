@@ -1,0 +1,85 @@
+{
+  "ref": "JHN.3",
+  "book": "John",
+  "chapter": 3,
+  "canon": "protocanonical",
+  "summary": "Nicodemus, \"a ruler of the Jews,\" comes to Jesus \"by night\" and concedes that he is \"a teacher come from God.\" Jesus cuts past the compliment: \"Except a man be born again, he can not see the kingdom of God.\" Nicodemus asks how an old man could re-enter the womb, and Jesus specifies: \"Except a man be born of water and of the Spirit, he can not enter into the kingdom of God,\" for \"That which is born of the flesh is flesh; and that which is born of the Spirit is spirit,\" and the Spirit is as untraceable as wind that \"bloweth where it listeth.\" Rebuking \"a master of Israel\" who knows none of this, Jesus turns to heavenly things: \"as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up,\" leading to \"For God so loved the world, that he gave his only begotten Son.\" The Son is sent not \"to condemn the world; but that the world through him might be saved,\" and condemnation proves self-chosen, since \"men loved darkness rather than light, because their deeds were evil.\" The scene shifts to the countryside, where both are baptizing. Told that everyone now goes to Jesus, John calls himself only \"the friend of the bridegroom,\" says \"He must increase, but I must decrease,\" and testifies that \"he that cometh from heaven is above all,\" loved by the Father and given \"all things into his hand.\"",
+  "takeaways": [
+    "Entry into the kingdom requires a birth from above rather than an improvement of the birth one already has, and Jesus binds \"water\" and \"the Spirit\" together in that single act, tying the Spirit's invisible work to a visible sign.",
+    "The cross is the true \"lifting up\": as with the serpent of brass, the instrument of death becomes the very thing one must look to in order to live.",
+    "Judgment in this chapter is exposure rather than sentence — the light arrives, and what a person does with it reveals what he already loved.",
+    "John the Baptist models the disciple's proper joy: gladness at being eclipsed, since \"A man can receive nothing, except it be given him from heaven.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "NUM.21",
+      "verses": "8-9",
+      "label": "Numbers 21:8-9 — the serpent of brass lifted up on a pole",
+      "why": "Israel, dying of serpent bites, is healed not by a remedy applied but by looking at a bronze serpent Moses lifts on a pole. Jesus makes this the pattern of his own being \"lifted up,\" so that salvation comes by looking in faith to the very shape of the curse.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EZK.36",
+      "verses": "25-27",
+      "label": "Ezekiel 36:25-27 — clean water sprinkled, a new heart and a new spirit given",
+      "why": "God promises to sprinkle clean water for cleansing, to replace the stony heart with a heart of flesh, and to put his own Spirit within his people. This pairing of water and Spirit as God's own act is exactly what \"a master of Israel\" should have recognized behind Jesus's words about being born again.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.12",
+      "verses": "32-33",
+      "label": "John 12:32-33 — if I be lifted up from the earth, will draw all men unto me",
+      "why": "Later in the Gospel Jesus repeats the phrase and the narrator explains that it signified \"what death he should die.\" The cross-reference settles that \"lifted up\" in this chapter means crucifixion first, and only through it exaltation.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "TIT.3",
+      "verses": "5",
+      "label": "Titus 3:5 — the washing of regeneration, and renewing of the Holy Ghost",
+      "why": "Paul denies that salvation comes by works of righteousness and describes it instead as a washing that regenerates and a renewing worked by the Spirit. Read beside this chapter it shows how early the vocabulary of new birth, water, and Spirit was held together as one gift.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1JN.4",
+      "verses": "9-10",
+      "label": "1 John 4:9-10 — not that we loved God, but that he loved us and sent his Son",
+      "why": "The letter restates the sending of the only begotten Son as the definition of love, stressing that the initiative lay entirely with God. It guards this chapter from being read as though belief earned the gift, when belief is the response to a love already given.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition \"born of water and of the Spirit\" is read as a direct reference to baptism, so that the sacrament is the ordinary means by which the new birth Jesus makes necessary is actually given, and not merely a public illustration of a change already accomplished elsewhere.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters vary: some take \"water\" as an image of cleansing or of the word, some as John's baptism of repentance being contrasted with the Spirit's work, and most hold that the new birth is worked by the Spirit through faith, with baptism as its sign and seal. Both traditions insist that this birth is God's act from above, impossible for flesh to produce, and both connect it in some way to baptism rather than severing the two.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The Catholic tradition reads \"For God sent not his Son into the world to condemn the world; but that the world through him might be saved\" as expressing a genuinely universal saving will, with the chapter's account of loving darkness explaining condemnation as real human refusal of a grace truly offered.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally affirm the universal offer, though some strands emphasize God's sovereign election and read the chapter's language of \"the world\" as scope rather than symmetry of intent. Both traditions agree that salvation is entirely God's gift, that no one is condemned for anything but unbelief, and that the light genuinely comes to those who reject it.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-5",
+    "generatedAt": "2026-08-27",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

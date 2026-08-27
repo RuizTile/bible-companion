@@ -1,0 +1,85 @@
+{
+  "ref": "JHN.12",
+  "book": "John",
+  "chapter": 12,
+  "canon": "protocanonical",
+  "summary": "Six days before the passover Jesus returns to Bethany, where Martha serves and the raised Lazarus sits at table. Mary pours \"a pound of ointment of spikenard, very costly\" on his feet and wipes them with her hair, until \"the house was filled with the odour of the ointment.\" Judas objects for the poor, though he \"was a thief, and had the bag\"; Jesus defends her: \"against the day of my burying hath she kept this.\" Next day the festival crowd takes \"branches of palm trees\" and cries \"Hosanna: Blessed is the King of Israel,\" and Jesus enters on a colt, fulfilling what the disciples grasped only \"when Jesus was glorified.\" The Pharisees concede that \"the world is gone after him.\" Greeks approach Philip: \"Sir, we would see Jesus.\" Jesus answers, \"The hour is come\": a corn of wheat must fall into the ground and die to bring forth much fruit, and \"He that loveth his life shall lose it.\" His soul is troubled, yet he prays \"Father, glorify thy name,\" and a voice answers from heaven; he announces the judgment of this world and that \"if I be lifted up from the earth,\" he \"will draw all men unto me,\" then bids them walk while they have the light and hides himself. John accounts for their unbelief from the prophet, notes rulers who would not confess because \"they loved the praise of men more than the praise of God,\" and closes with Jesus' last appeal: to see him is to see the Father who sent him.",
+  "takeaways": [
+    "Mary's extravagant and unrepeatable act of love is defended by Jesus against the calculus of usefulness, and he reads it as preparation for his burial, devotion perceiving the coming cross before the disciples do.",
+    "The pattern of fruitfulness is death first: the grain must fall into the ground, and the disciple who clings to his life loses it, so the cross is not only what Christ undergoes but the shape of following him.",
+    "\"Now is my soul troubled\" shows a genuine recoil before death held together with obedience; Jesus does not ask to be spared the hour but asks that the Father's name be glorified in it.",
+    "Unbelief before many signs is presented as both judgment and culpable choice: eyes are blinded, and yet rulers withhold confession because human esteem matters more to them than God's."
+  ],
+  "crossRefs": [
+    {
+      "target": "ZEC.9",
+      "verses": "9",
+      "label": "Zechariah 9:9 — behold, thy King cometh, lowly, riding upon an ass",
+      "why": "Zechariah announces a king coming to Jerusalem just, bringing salvation, and humble upon a colt. John cites it to explain the entry, and reading it whole shows the deliberate choice of a mount that declares peace rather than conquest.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.118",
+      "verses": "25-26",
+      "label": "Psalm 118:25-26 — Save now, and blessed be he that cometh in the name of the LORD",
+      "why": "The crowd's \"Hosanna\" and \"Blessed is the King of Israel that cometh in the name of the Lord\" come straight from this pilgrim psalm's cry for salvation. The source shows they greeted him with words used to welcome those approaching the temple, now applied to a king.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.53",
+      "verses": "1",
+      "label": "Isaiah 53:1 — Lord, who hath believed our report?",
+      "why": "John quotes this opening question of the suffering servant passage to account for the crowd's refusal to believe. Placed against the chapter it ties the rejection of Jesus to the servant whose glory was hidden in suffering, which is exactly the glory Jesus has just described.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.6",
+      "verses": "9-10",
+      "label": "Isaiah 6:9-10 — seeing they see not, and their hearts are hardened",
+      "why": "This commission to a people who will look and not perceive is the second passage John cites, and Isaiah receives it within the vision of God's glory in the temple. Reading it explains John's striking remark that the prophet spoke these things \"when he saw his glory.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "NUM.21",
+      "verses": "8-9",
+      "label": "Numbers 21:8-9 — the serpent lifted up on a pole, that the bitten might live",
+      "why": "Moses raises a bronze serpent so that everyone who looks upon it lives. It is the image behind Jesus' language of being \"lifted up from the earth,\" showing that the cross is meant to be looked upon, and that looking is the whole of what the dying are asked to do.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus' defense of Mary's costly ointment against the objection that it should have been sold for the poor is read in the Catholic tradition as vindicating lavish, seemingly wasteful honor offered directly to Christ, an instinct the tradition carries into beauty and expense in worship, while insisting that this never stands in competition with real care for the poor.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally stress the uniqueness of the moment: Jesus is bodily present on the eve of his burial, and his words \"me ye have not always\" mark the act as unrepeatable rather than a general warrant for ornate worship. They more often read the passage as an indictment of Judas' false piety and a call to wholehearted love for Christ. Both traditions agree that devotion to Christ and generosity to the poor are not rivals, and that Jesus honors an act of love which the calculating mind could only see as waste.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "\"I, if I be lifted up from the earth, will draw all men unto me\" is read in the Catholic tradition as declaring the cross both universally sufficient and universally directed, so that Christ died for all without exception and the drawing is a real grace offered to every person, which grounds the Church's missionary hope while leaving room for a genuine human refusal.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readings divide here. Many take \"all men\" to mean people of every kind, including the Greeks who have just asked to see Jesus, rather than every individual without exception; those in the Reformed stream read the drawing as effectual for those the Father gives him, while others read it as a genuinely universal call. Both traditions agree that the cross is the means by which anyone at all is drawn to Christ, and that the reach of that drawing extends beyond Israel to the nations.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-5",
+    "generatedAt": "2026-08-27",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

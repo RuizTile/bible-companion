@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.21",
+  "book": "John",
+  "chapter": 21,
+  "canon": "protocanonical",
+  "summary": "At the sea of Tiberias seven disciples are together when Peter says, \"I go a fishing,\" and \"that night they caught nothing.\" At dawn an unrecognized figure on the shore asks, \"Children, have ye any meat?\" and tells them, \"Cast the net on the right side of the ship, and ye shall find\"; the haul is so great they cannot draw it. The beloved disciple says, \"It is the Lord,\" and Peter throws himself into the sea. On land they find \"a fire of coals\" with \"fish laid thereon, and bread,\" and Peter drags in the net holding \"an hundred and fifty and three\" great fishes, \"yet was not the net broken.\" Jesus says, \"Come and dine,\" and none dare ask who he is. After the meal he questions Peter three times, \"Simon, son of Jonas, lovest thou me?\"; Peter, grieved by the third asking, answers, \"Lord, thou knowest all things; thou knowest that I love thee,\" and each time receives a charge: \"Feed my lambs,\" \"Feed my sheep,\" \"Feed my sheep.\" Jesus then foretells that when Peter is old \"another shall gird thee, and carry thee whither thou wouldest not,\" signifying \"by what death he should glorify God,\" and says simply, \"Follow me.\" When Peter asks about the beloved disciple, Jesus answers, \"what is that to thee? follow thou me,\" correcting a rumor. The Gospel ends attesting that disciple's testimony and confessing that the world could not contain all Jesus did.",
+  "takeaways": [
+    "Restoration is personal and unhurried: the threefold questioning by a charcoal fire answers the threefold denial by another charcoal fire, healing the failure at the place where it happened.",
+    "Peter is not merely forgiven but commissioned; love for Christ is immediately translated into responsibility for Christ's flock, which remains his and not the shepherd's.",
+    "Following Jesus includes the cost he foretells, so that Peter's future death is described not as tragedy but as a way to \"glorify God.\"",
+    "Curiosity about another disciple's path is gently refused, \"follow thou me,\" a reminder that vocation is given individually and not measured against someone else's."
+  ],
+  "crossRefs": [
+    {
+      "target": "LUK.5",
+      "verses": "1-11",
+      "label": "Luke 5:1-11 — the great catch at Jesus' word and the call to catch men",
+      "why": "Luke records a night of empty nets, a command to let down the net, an overwhelming haul, and Peter's collapse before Jesus, followed by his call. The resurrection scene deliberately repeats that pattern, so Peter's commissioning by the sea comes full circle after his denial.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.16",
+      "verses": "17-19",
+      "label": "Matthew 16:17-19 — Simon Barjona, the rock, and the keys of the kingdom",
+      "why": "Jesus there addresses Peter by his father's name, renames him, and entrusts him with keys and with binding and loosing. In the Catholic tradition John 21 is read as the fulfillment of that promise, Jesus again using \"Simon, son of Jonas\" as he places the flock in his care.",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "JHN.10",
+      "verses": "11-16",
+      "label": "John 10:11-16 — the good shepherd who lays down his life, one fold and one shepherd",
+      "why": "Jesus identifies himself as the shepherd who owns the sheep and dies for them, unlike the hireling who flees. Reading it beside \"Feed my sheep\" shows Peter being made an under-shepherd of a flock that always belongs to Christ, and being told his own death will follow the shepherd's pattern.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EZK.34",
+      "verses": "11-16",
+      "label": "Ezekiel 34:11-16 — I will seek my sheep and feed them, says the LORD",
+      "why": "Ezekiel condemns shepherds who feed themselves and promises that God himself will gather and feed the flock. It sets Jesus' charge to Peter inside a long prophetic argument about who may be trusted with God's people and on what terms.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1PE.5",
+      "verses": "1-4",
+      "label": "1 Peter 5:1-4 — feed the flock of God, not for filthy lucre, under the chief Shepherd",
+      "why": "Peter writes to elders urging them to shepherd God's flock willingly and without lording it over them, awaiting \"the chief Shepherd.\" It reads as Peter passing on the very charge he received on the shore, and it shows how he himself understood it.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition the threefold \"Feed my sheep\" is read as the risen Christ conferring on Peter a genuine pastoral office over the whole flock, not simply reinstating a forgiven friend, and this passage together with the promise of the keys grounds the Catholic understanding of a Petrine ministry of unity continued in his successors.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the scene primarily as Peter's personal restoration after his three denials, returning him to the apostolic ministry he shares equally with the others, and they note that Peter himself later addresses fellow elders as an elder among them rather than as their ruler. Both traditions affirm that Jesus fully restores Peter, entrusts him with real responsibility for God's people, and remains himself the one Shepherd to whom the flock belongs.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading takes the unbroken net full of a specific, countable number of great fishes as an image of the Church's catholicity and unity: the mission gathers people of every kind, and the net that Peter draws to land does not tear.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters are generally more restrained about the number itself, treating it as the vivid recollection of an eyewitness and reading the abundance simply as evidence of the risen Lord's power to make the disciples' mission fruitful where their own effort caught nothing. Both traditions read the scene as a promise about mission, that the gathering succeeds at Christ's word and not by the fishermen's skill.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

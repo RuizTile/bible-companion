@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.6",
+  "book": "John",
+  "chapter": 6,
+  "canon": "protocanonical",
+  "summary": "Jesus crosses the sea of Galilee near passover and a great multitude follows him for his miracles. Testing Philip—\"Whence shall we buy bread, that these may eat?\"—he takes a lad's \"five barley loaves, and two small fishes,\" gives thanks, and feeds \"about five thousand,\" with twelve baskets of fragments gathered up \"that nothing be lost.\" The crowd declares him \"that prophet that should come into the world\" and moves to make him king by force, so he withdraws \"into a mountain himself alone.\" That night the disciples row into a great wind and see him walking on the sea: \"It is I; be not afraid.\" At Capernaum the crowd finds him, and he names their appetite: \"Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.\" Asked for a sign like the manna, he answers that \"my Father giveth you the true bread from heaven,\" then declares, \"I am the bread of life.\" All the Father gives him will come, and none will be cast out; he will \"raise him up at the last day.\" Murmuring hardens when he says \"the bread that I will give is my flesh,\" and then, \"Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.\" Many call it \"an hard saying\" and \"went back, and walked no more with him.\" Asked whether the twelve will also go, Peter answers, \"Lord, to whom shall we go? thou hast the words of eternal life.\"",
+  "takeaways": [
+    "The feeding is a sign before it is a mercy: the crowd is satisfied with bread and misses that the giver is himself the gift, \"the bread of life\" who alone ends hunger and thirst.",
+    "Faith is named as the one work God asks—\"that ye believe on him whom he hath sent\"—and yet coming to Christ is itself a drawing by the Father, so that grace and response are held together rather than set against each other.",
+    "Jesus escalates rather than softens the hard saying about eating his flesh and drinking his blood, and accepts the loss of many disciples rather than qualify it; the offense is deliberate.",
+    "Peter's confession shows what faith looks like when understanding runs out: not comprehension, but the conviction that there is nowhere else to go because \"thou hast the words of eternal life.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "EXO.16",
+      "verses": "1-15",
+      "label": "Exodus 16:1-15 — manna given in the wilderness",
+      "why": "Israel murmurs in the desert and God promises, \"I will rain bread from heaven for you,\" to be gathered daily as a test of obedience. The crowd cites this precedent to demand a comparable sign, and Jesus answers that the manna was never the true bread, since \"your fathers did eat manna in the wilderness, and are dead.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.78",
+      "verses": "23-25",
+      "label": "Psalm 78:23-25 — he rained down manna and gave them corn of heaven",
+      "why": "The psalm remembers God opening \"the doors of heaven\" and feeding his people so that \"Man did eat angels’ food.\" It supplies the scriptural wording behind the crowd's quotation, \"He gave them bread from heaven to eat,\" which Jesus reinterprets as pointing past Moses to himself.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.54",
+      "verses": "13",
+      "label": "Isaiah 54:13 — all thy children shall be taught of the LORD",
+      "why": "Isaiah promises a people instructed directly by God rather than only by human teachers. Jesus cites this to explain why some come to him and others do not: \"Every man therefore that hath heard, and hath learned of the Father, cometh unto me.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.26",
+      "verses": "26-28",
+      "label": "Matthew 26:26-28 — Jesus takes bread and the cup at the last supper",
+      "why": "At the passover meal Jesus takes bread and says \"this is my body,\" and the cup, \"this is my blood of the new testament.\" John records no institution account at the supper, so this scene supplies the setting toward which the language of John 6 is pointed.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1CO.11",
+      "verses": "23-29",
+      "label": "1 Corinthians 11:23-29 — the Lord's supper and discerning the Lord's body",
+      "why": "Paul hands on the words \"this is my body\" as received tradition and warns that eating and drinking \"unworthily\" makes one \"guilty of the body and blood of the Lord.\" Read alongside John 6, it shows the earliest churches treating the bread and cup as a real participation with real consequences.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition this discourse is read as Jesus' own teaching on the Eucharist. When the hearers object, \"How can this man give us his flesh to eat?\" he does not retreat into figure but presses further—\"my flesh is meat indeed, and my blood is drink indeed\"—and ties eating and drinking both to eternal life and to mutual indwelling, \"dwelleth in me, and I in him.\" That he lets the offense stand, and lets many disciples leave rather than explain the words away, is taken as evidence that he means a real eating of his true body and blood, given sacramentally.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the chapter first as teaching about faith, noting that Jesus defines the work of God as believing, promises everlasting life to \"He that believeth on me\" in the same terms he uses of eating, and concludes that \"It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life\"—which many take as the key to the whole discourse. Some Protestant traditions still affirm a real spiritual feeding on Christ in the supper, while others read the eating as wholly figurative for faith. Both traditions confess that Christ himself, not merely his benefits, is the food of eternal life, and that no one comes to him unless the Father draws.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The Father's will \"that of all which he hath given me I should lose nothing,\" set beside the departure of many disciples and a betrayer among the twelve, is read in the Catholic tradition as affirming the absolute priority of grace—\"No man can come to me, except the Father which hath sent me draw him\"—without erasing the real freedom by which one who has followed may still go back and walk no more with him.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters in the Reformed stream read the same verses as strong assurance that all whom the Father truly gives to the Son will be kept and raised at the last day, taking the departures as showing that not everyone who followed outwardly had ever been given. Other Protestant traditions stress human responsibility in terms close to the Catholic reading. Both agree that salvation begins in the Father's initiative and that Christ is faithful to everyone the Father has given him.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

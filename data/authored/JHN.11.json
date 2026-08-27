@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.11",
+  "book": "John",
+  "chapter": 11,
+  "canon": "protocanonical",
+  "summary": "Word comes from Bethany that Lazarus, \"he whom thou lovest,\" is sick. Jesus answers that the sickness is \"for the glory of God,\" then deliberately waits two days before proposing to return to Judaea, where the disciples fear stoning and Thomas resolves, \"Let us also go, that we may die with him.\" Jesus speaks of Lazarus sleeping, then plainly: \"Lazarus is dead.\" He arrives after four days in the grave. Martha meets him with grief and hope—\"Lord, if thou hadst been here, my brother had not died\"—and receives the great self-revelation, \"I am the resurrection, and the life,\" with the question \"Believest thou this?\" She confesses him \"the Christ, the Son of God.\" Mary falls at his feet with the same lament, and Jesus, seeing the weeping, \"groaned in the spirit, and was troubled,\" and \"Jesus wept.\" At the cave he has the stone taken away despite Martha's protest, gives thanks to the Father aloud \"because of the people which stand by,\" and cries, \"Lazarus, come forth.\" The dead man emerges bound in graveclothes: \"Loose him, and let him go.\" Many believe; others report to the Pharisees, and the council, fearing Rome, hears Caiaphas say that \"it is expedient for us, that one man should die for the people\"—words John reads as unwitting prophecy that Jesus would die to gather \"the children of God that were scattered abroad.\" From that day they plot his death, and he withdraws to Ephraim.",
+  "takeaways": [
+    "Jesus' delay is not indifference but deliberate: the greater sign, and the deeper faith it works, matter more to him than sparing his friends the interval of grief.",
+    "\"I am the resurrection, and the life\" moves hope from a distant event to a person; Martha already believed in a resurrection \"at the last day,\" and is asked to believe in the one standing before her.",
+    "Christ's tears and groaning show a real human heart confronting death—he does not console from a distance, and the shortest verse in the Gospel is his grief.",
+    "The sign that most clearly displays his power over death is precisely what seals the decision to kill him, and the high priest's political calculation becomes, against his intent, a true statement of the atonement."
+  ],
+  "crossRefs": [
+    {
+      "target": "EZK.37",
+      "verses": "12-14",
+      "label": "Ezekiel 37:12-14 — I will open your graves and bring you up",
+      "why": "God promises to open the graves of his people, raise them, and put his Spirit in them so they shall live. Reading it beside the call of Lazarus from the cave shows Jesus doing in one man, visibly, what the prophet announced for the whole people.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DAN.12",
+      "verses": "2",
+      "label": "Daniel 12:2 — many that sleep in the dust of the earth shall awake",
+      "why": "Daniel gives one of the clearest Old Testament statements of a general resurrection to everlasting life or contempt. It is the hope Martha already holds when she speaks of \"the resurrection at the last day,\" which makes Jesus' reply a claim to be its source.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.5",
+      "verses": "25-29",
+      "label": "John 5:25-29 — all that are in the graves shall hear his voice",
+      "why": "Earlier in the same Gospel Jesus says the hour is coming, and now is, when the dead will hear the voice of the Son of God and live, and that all in the graves will finally come forth at his voice. Lazarus emerging at a spoken command is that promise given in advance as a sign.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1CO.15",
+      "verses": "20-26",
+      "label": "1 Corinthians 15:20-26 — Christ the firstfruits, and death the last enemy destroyed",
+      "why": "Paul distinguishes Christ's resurrection as the firstfruits from the general resurrection that follows, ending with death itself destroyed. It clarifies what the raising of Lazarus is and is not: a restoration to this life that points forward to a resurrection that will not be undone.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.10",
+      "verses": "38-42",
+      "label": "Luke 10:38-42 — Martha serving and Mary at Jesus' feet",
+      "why": "Luke shows the same two sisters in character: Martha busy and forthright, Mary seated at Jesus' feet listening. The portraits carry over here, where Martha goes out to meet and argue with him while Mary falls at his feet in silence and tears.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The sisters' appeal on behalf of their brother—sending word to Jesus, and then pleading with him at the grave—is read in the Catholic tradition as a pattern of intercession, in which one person's love and petition are genuinely taken up into Christ's work for another, a logic the tradition extends to asking the friends of God in heaven to pray for us.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the intercession here as living friends appealing directly to Christ, and decline to extend the pattern to petitions addressed to the departed, holding that Scripture directs prayer to God through Christ alone. They stress that what moves the outcome is Jesus' own love and power, not the sisters' merit. Both traditions affirm that Christians should pray for one another, that the sisters' appeal is answered entirely by Christ's authority over death, and that faith in him is what the whole episode is meant to produce.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Caiaphas' words, which John says he spoke \"not of himself\" but \"being high priest that year,\" are read in the Catholic tradition as showing that God can speak truly through a sacred office even when the man holding it acts in bad faith, so that the efficacy of the office is not simply reduced to the holiness of its occupant.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters more often read the scene as dramatic irony under God's sovereignty: God overrules a cynical political calculation to state the truth of the atonement, without this implying any standing authority attached to the priestly office itself. They note John's own gloss supplies the theology, not Caiaphas. Both traditions agree that the sentence is true in a sense its speaker never intended—that one man would die for the people—and that God governs even the plotting of Christ's enemies toward the salvation of the scattered children of God.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.15",
+  "book": "John",
+  "chapter": 15,
+  "canon": "protocanonical",
+  "summary": "\"I am the true vine, and my Father is the husbandman.\" Jesus takes up Israel's oldest image of itself and claims it for himself: barren branches are taken away, and fruitful ones are cut back, \"he purgeth it, that it may bring forth more fruit.\" The command that follows is the chapter's heart: \"Abide in me, and I in you,\" since \"the branch cannot bear fruit of itself\" and \"without me ye can do nothing,\" while the branch that will not abide \"is withered\" and burned. Abiding is given concrete shape: his words remaining in them, prayer granted, the Father glorified in \"much fruit,\" and continuance in his love, all spoken \"that your joy might be full.\" The commandment is love \"as I have loved you,\" measured now by the cross: \"Greater love hath no man than this, that a man lay down his life for his friends.\" He renames them: \"Henceforth I call you not servants... but I have called you friends,\" and reminds them, \"Ye have not chosen me, but I have chosen you, and ordained you.\" The tone then turns to warning. The world will hate and persecute them because it hated him first, and its hatred is without excuse — \"now they have no cloke for their sin\" — fulfilling the word, \"They hated me without a cause.\" Yet the Comforter, \"which proceedeth from the Father,\" will testify of him, and they too shall bear witness.",
+  "takeaways": [
+    "Fruitfulness is never self-generated; it is the life of the vine flowing into the branch, so union with Christ precedes and produces every good work rather than rewarding it.",
+    "Pruning is a mark of the Father's care rather than his rejection: even the branch already bearing fruit is cut back so that it may bear more.",
+    "Christ's friendship is a gift of election and disclosure, not a wage for achievement — he chose and ordained them and made the Father's counsel known to them.",
+    "The world's hostility is predicted and is aimed finally at Christ and his Father, so sharing his mission necessarily means sharing his rejection."
+  ],
+  "crossRefs": [
+    {
+      "target": "ISA.5",
+      "verses": "1-7",
+      "label": "Isaiah 5:1-7 — the song of the vineyard that brought forth wild grapes",
+      "why": "Isaiah sings of a lovingly tended vineyard that yields nothing and is left to ruin, naming Israel as the vineyard. Read alongside, Jesus' claim to be \"the true vine\" answers that failure by locating fruitfulness in himself rather than in the nation.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.80",
+      "verses": "8-16",
+      "label": "Psalm 80:8-16 — thou hast brought a vine out of Egypt",
+      "why": "The psalm pictures Israel as a transplanted vine now broken down, and prays that God would visit it again. It supplies the pleading background against which Jesus presents himself as the vine that will not fail.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JER.2",
+      "verses": "21",
+      "label": "Jeremiah 2:21 — I had planted thee a noble vine, wholly a right seed",
+      "why": "Jeremiah's single verse condenses the whole complaint: a noble vine has degenerated. Set beside this chapter it sharpens why Jesus adds \"true\" to \"vine\" and why abiding, not ancestry, is what bears fruit.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GAL.5",
+      "verses": "22-23",
+      "label": "Galatians 5:22-23 — the fruit of the Spirit",
+      "why": "Paul names the fruit that grows where the Spirit is at work, beginning with love. It gives content to the \"much fruit\" Jesus speaks of and keeps it from being read merely as successful activity.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.69",
+      "verses": "4",
+      "label": "Psalm 69:4 — they that hate me without a cause",
+      "why": "The psalm of the suffering righteous supplies the phrase Jesus applies to himself, describing groundless hatred from the mighty. The citation places the coming persecution of the disciples inside a long pattern of unjust hostility to God's servants.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads the abiding language as describing a real incorporation into Christ that must be maintained and can be lost: the branch is said to be \"in me\" and yet taken away if it bears no fruit, which supports the understanding that grace requires perseverance and can be forfeited by grave sin, with the sacramental life as the ordinary means of remaining in the vine.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters, especially in the Reformed stream, generally read the fruitless branches as those never truly alive in Christ despite outward attachment, or read the cutting as the Father's chastening rather than final loss, holding that God preserves everyone he genuinely saves. Others take the warning as a real one addressed to the visible church without resolving the question of individual security. Both traditions agree that authentic union with Christ shows itself in fruit and that no one bears any fruit apart from him.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "That the Spirit is \"the Spirit of truth, which proceedeth from the Father\" while also the one \"whom I will send unto you from the Father\" is read in the Catholic tradition as pointing to the Spirit's eternal origin from the Father and the Son together, the Son's sending reflecting an inner-divine relation and not merely a task assigned in history.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Western Protestant churches largely retain the same creedal formula, so this is not usually a point of division between them and Catholics. Some Protestant interpreters, however, restrict the verse strictly to the Spirit's mission in time and decline to build a claim about eternal origin on it, treating the question as beyond what the text settles. Both traditions agree that the Spirit comes from the Father and is sent by the risen Son to testify of Christ.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

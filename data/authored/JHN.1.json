@@ -1,0 +1,85 @@
+{
+  "ref": "JHN.1",
+  "book": "John",
+  "chapter": 1,
+  "canon": "protocanonical",
+  "summary": "John begins before creation: \"In the beginning was the Word, and the Word was with God, and the Word was God.\" All things were made by him; \"In him was life; and the life was the light of men,\" a light shining in a darkness that \"comprehended it not.\" John the Baptist is \"sent from God\" to bear witness to that Light. The Word comes \"unto his own, and his own received him not,\" yet to those who receive him he gives \"power to become the sons of God,\" born not of human will \"but of God.\" Then the hinge: \"And the Word was made flesh, and dwelt among us,\" \"full of grace and truth,\" his glory \"the glory as of the only begotten of the Father\"; where \"the law was given by Moses,\" now \"grace and truth came by Jesus Christ,\" and the unseen God is declared by the Son \"which is in the bosom of the Father.\" Pressed by priests and Levites, John denies being the Christ, Elias, or \"that prophet,\" claiming only to be \"the voice of one crying in the wilderness.\" Seeing Jesus he cries, \"Behold the Lamb of God, which taketh away the sin of the world.\" Two disciples follow; Jesus asks, \"What seek ye?\" and answers, \"Come and see.\" Andrew brings Simon, renamed \"Cephas\"; Philip brings Nathanael, who confesses him \"the King of Israel\" and is promised sight of \"heaven open, and the angels of God ascending and descending upon the Son of man.\"",
+  "takeaways": [
+    "The prologue identifies Jesus as the eternal Word who both \"was with God\" and \"was God,\" so the Incarnation is God entering his own creation rather than a creature being promoted into divinity.",
+    "\"The Word was made flesh\" anchors faith in a real human life; the flesh is not a disguise laid over God but the very place where his glory is beheld.",
+    "Divine sonship is received, not achieved: the world he made \"knew him not,\" while those who receive him are born \"of God\" and given power to become his sons.",
+    "The Gospel names Jesus \"the Lamb of God\" before he has said a word, aiming the whole narrative from the start at the sacrifice by which sin is taken away."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.1",
+      "verses": "1-3",
+      "label": "Genesis 1:1-3 — in the beginning God created, and God said, Let there be light",
+      "why": "Genesis opens creation with God speaking, with the Spirit over the waters, and with light called out of darkness. John borrows its first three words deliberately, so that the Word through whom \"all things were made\" is presented as a new beginning inside the old one.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "SIR.24",
+      "verses": "1-12",
+      "label": "Sirach 24:1-12 — Wisdom, created before the world, given a dwelling in Israel",
+      "why": "Here Wisdom praises herself as created \"from the beginning before the world\" and is told to make her dwelling in Jacob. Read alongside the prologue it shows the older Jewish language of a pre-existent Wisdom pitching her tent among God's people, which John takes up and personalizes when the Word \"dwelt among us.\"",
+      "sources": [],
+      "tradition": "catholic"
+    },
+    {
+      "target": "EXO.33",
+      "verses": "18-23",
+      "label": "Exodus 33:18-23 — Moses may not see God's face and live",
+      "why": "Moses asks to see God's glory and is told, \"Thou canst not see my face: for there shall no man see me, and live,\" receiving instead a passing glimpse of goodness. John answers that \"No man hath seen God at any time,\" and that what Moses could not be given the only begotten Son has now made known.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.40",
+      "verses": "3",
+      "label": "Isaiah 40:3 — a voice crying in the wilderness, prepare the way of the Lord",
+      "why": "Isaiah's herald calls for a road to be made straight through the desert for God's own coming. John the Baptist claims this verse as his entire identity, refusing every other title so that nothing about him competes with the one standing unrecognized among them.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "GEN.28",
+      "verses": "10-17",
+      "label": "Genesis 28:10-17 — Jacob's ladder, with the angels of God ascending and descending",
+      "why": "Jacob dreams of a ladder joining earth to heaven with the angels of God going up and down on it, and wakes to call the place the house of God and the gate of heaven. Jesus promises Nathanael that same vision with himself at the center, presenting the Son of man as the place where heaven and earth now meet.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads \"the Word was made flesh, and dwelt among us\" as the decisive statement of the Incarnation: one divine person truly taking a complete human nature, so that matter and body become permanent instruments of salvation rather than obstacles to it, a conviction that underwrites the whole sacramental life of the Church.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant readers confess the Incarnation with equal force and often press its implications most strongly toward the preached word and personal faith rather than toward sacramental mediation. The difference lies in what follows from the doctrine, not in the doctrine itself. Both traditions hold without reservation that the eternal Word truly became man and that in him alone the unseen God is made known.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "In the Catholic tradition John's cry, \"Behold the Lamb of God, which taketh away the sin of the world,\" is heard as identifying Jesus with the Passover lamb and the temple offerings, and it is taken up in the liturgy so that the same Lamb once slain is what the worshipper is shown at the altar.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the title as pointing to a single, finished, unrepeatable sacrifice, and are cautious about any liturgical language that could suggest that sacrifice is renewed. Both traditions agree that Jesus is the true and final Lamb, that his death alone takes away sin, and that the phrase is a claim about atonement rather than about mere moral example.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": {
+    "model": "claude-opus-5",
+    "generatedAt": "2026-08-27",
+    "reviewedBy": null,
+    "status": "draft",
+    "confidence": "medium",
+    "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source."
+  }
+}

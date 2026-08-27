@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.20",
+  "book": "John",
+  "chapter": 20,
+  "canon": "protocanonical",
+  "summary": "On \"the first day of the week,\" while it is \"yet dark,\" Mary Magdalene finds the stone taken away and runs to Peter and the beloved disciple: \"They have taken away the Lord out of the sepulchre.\" The two race there; the other disciple arrives first but waits, Peter enters and sees \"the linen clothes\" with the napkin \"wrapped together in a place by itself,\" and then the first disciple \"saw, and believed,\" though \"as yet they knew not the scripture.\" Mary remains weeping, sees two angels who ask, \"Woman, why weepest thou?\" and mistakes Jesus for \"the gardener\" until he speaks one word, \"Mary,\" and she answers, \"Rabboni.\" He sends her to \"my brethren\" with the message, \"I ascend unto my Father, and your Father; and to my God, and your God.\" That evening, behind shut doors, Jesus stands among them: \"Peace be unto you,\" shows \"his hands and his side,\" commissions them, \"as my Father hath sent me, even so send I you,\" then \"he breathed on them\" saying, \"Receive ye the Holy Ghost: Whose soever sins ye remit, they are remitted.\" Thomas, absent, demands to touch the wounds; eight days later Jesus returns and invites him, \"be not faithless, but believing,\" drawing the confession, \"My Lord and my God,\" and the blessing on \"they that have not seen, and yet have believed.\" John closes by naming his purpose: these signs are written \"that ye might believe.\"",
+  "takeaways": [
+    "Faith here begins from evidence but is not reducible to it: the folded burial cloths, the wounds, and the spoken name each invite belief, yet the blessing falls on those who believe without seeing.",
+    "Thomas' \"My Lord and my God\" is the plainest confession of Jesus' divinity in the Gospel, and it is spoken to the risen body that still bears its wounds.",
+    "The risen Christ hands on his own mission, \"even so send I you,\" so the Church's authority is derived rather than self-generated, breathed into it by the Spirit.",
+    "The commission includes the forgiveness of sins, joining the gift of peace to the concrete task of releasing people from what binds them."
+  ],
+  "crossRefs": [
+    {
+      "target": "GEN.2",
+      "verses": "7",
+      "label": "Genesis 2:7 — the LORD breathes into man and he becomes a living soul",
+      "why": "At creation God forms man from dust and breathes life into him. When Jesus \"breathed on them\" and gives the Holy Ghost, the deliberate echo presents Easter evening as a new creation, the risen Lord animating a renewed humanity.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "LUK.24",
+      "verses": "36-43",
+      "label": "Luke 24:36-43 — Jesus stands among them, greets them with peace, and shows his hands and feet",
+      "why": "Luke narrates the same evening appearance with the greeting of peace, the display of wounds, and the eating of food to prove he is no spirit. The independent parallel strengthens the claim that the resurrection is bodily and physically verifiable.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MAT.18",
+      "verses": "15-18",
+      "label": "Matthew 18:15-18 — whatsoever ye shall bind on earth shall be bound in heaven",
+      "why": "Matthew places binding and loosing in the setting of reconciling a sinning brother within the community. Read with John's \"Whose soever sins ye remit,\" it shows the same authority described in two registers, disciplinary and forgiving, and given to those Jesus sends.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "2CO.5",
+      "verses": "18-20",
+      "label": "2 Corinthians 5:18-20 — the ministry and word of reconciliation committed to us",
+      "why": "Paul describes God committing to his messengers a ministry of reconciliation, so that they plead in Christ's stead for people to be reconciled. Protestant interpreters often read John's commission through this lens, as the entrusting of the announcement of forgiveness rather than a private judicial power.",
+      "sources": [],
+      "tradition": "protestant"
+    },
+    {
+      "target": "1JN.1",
+      "verses": "1-3",
+      "label": "1 John 1:1-3 — that which we have heard, seen, and our hands have handled",
+      "why": "The letter grounds its testimony in what was physically seen and touched of \"the Word of life.\" It reads as the settled reflection of the same witness who recorded Thomas being invited to reach out his hand, insisting that Christian claims rest on tangible encounter.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "In the Catholic tradition the breathing of the Spirit with the words \"Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained\" is read as Christ instituting a real power of absolution entrusted to the apostles and their successors, which is why the Church practices sacramental confession with an ordained minister pronouncing forgiveness.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the words as authorizing the Church to declare God's forgiveness through the faithful preaching of the gospel, binding where the message is refused and loosing where it is believed, and they hold that God alone forgives sin without a human intermediary being required. Both traditions affirm that the risen Christ genuinely gives his Church a Spirit-empowered authority to announce forgiveness in his name, and that no one forgives apart from him.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Catholic reading gives weight to Jesus' blessing on \"they that have not seen, and yet have believed\" as the charter for faith transmitted through witnesses rather than direct sight, which supports the Catholic understanding that Scripture and the living tradition of the apostolic community together hand on what Thomas saw.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally connect the same blessing to John's stated purpose in the closing verses, that the written signs are recorded \"that ye might believe,\" and so locate the sufficient witness in Scripture itself. Both traditions agree that later believers depend entirely on apostolic testimony rather than private appearances, and that such faith is not second-class but blessed.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

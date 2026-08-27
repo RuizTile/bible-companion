@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.5",
+  "book": "John",
+  "chapter": 5,
+  "canon": "protocanonical",
+  "summary": "At \"a feast of the Jews\" Jesus goes up to Jerusalem and comes to the pool called Bethesda, \"having five porches,\" where \"a great multitude of impotent folk, of blind, halt, withered\" lie waiting \"for the moving of the water.\" Finding a man sick \"thirty and eight years,\" he asks, \"Wilt thou be made whole?\" and, hearing only the man's account of never reaching the water first, commands, \"Rise, take up thy bed, and walk.\" The healing is \"immediately\" done, but it is the sabbath, and the authorities protest that carrying a bed \"is not lawful.\" Jesus finds him later in the temple with a warning: \"sin no more, lest a worse thing come unto thee.\" Persecuted for the sabbath work, Jesus answers, \"My Father worketh hitherto, and I work,\" and the charge sharpens: he is \"making himself equal with God.\" The rest of the chapter is his defense. The Son \"can do nothing of himself,\" yet does whatever the Father does; the Father \"hath committed all judgment unto the Son,\" \"that all men should honour the Son, even as they honour the Father.\" Whoever hears and believes \"is passed from death unto life,\" and an hour comes when \"all that are in the graves shall hear his voice.\" He then calls his witnesses: John, \"a burning and a shining light\"; the works given him \"to finish\"; the Father himself; and the Scriptures, for \"they are they which testify of me.\" Yet \"ye will not come to me, that ye might have life,\" though even Moses \"wrote of me.\"",
+  "takeaways": [
+    "The offense in this chapter is not the healing but the claim behind it: by calling God his own Father and his own work continuous with the Father's, Jesus is heard, correctly, as \"making himself equal with God.\"",
+    "Both life and judgment are handed over to the Son, so that honoring or refusing him is honoring or refusing the Father who sent him; there is no reverence for God that bypasses Christ.",
+    "Eternal life begins now in hearing and believing—the believer already \"is passed from death unto life\"—while still awaiting the hour when the dead come bodily out of the graves at his voice.",
+    "Scripture searched apart from coming to Christ becomes a substitute for him; the texts themselves \"testify of me\" and are meant to end in a person, not in study."
+  ],
+  "crossRefs": [
+    {
+      "target": "EXO.20",
+      "verses": "8-11",
+      "label": "Exodus 20:8-11 — the sabbath commandment",
+      "why": "The command to \"Remember the sabbath day, to keep it holy\" and to do no work upon it is the law invoked against the healed man and against Jesus. Read alongside, it shows the real dispute is not about rest but about who holds authority over the sabbath, since Jesus answers by claiming the Father's own unceasing work as his own.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DAN.7",
+      "verses": "13-14",
+      "label": "Daniel 7:13-14 — one like the Son of man given everlasting dominion",
+      "why": "Daniel sees \"one like the Son of man\" brought before the Ancient of days and given a kingdom that \"shall not pass away.\" Jesus' statement that the Father \"hath given him authority to execute judgment also, because he is the Son of man\" draws on this vision, grounding his claim to judge in a prophecy his hearers already knew.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DEU.19",
+      "verses": "15",
+      "label": "Deuteronomy 19:15 — a matter established by two or three witnesses",
+      "why": "The law refuses to let a charge stand on a single witness, requiring two or three to establish any matter. Jesus' catalogue of witnesses—John, his works, the Father, the Scriptures—answers that legal standard directly, following his own concession that \"If I bear witness of myself, my witness is not true.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "DEU.18",
+      "verses": "15-19",
+      "label": "Deuteronomy 18:15-19 — the promise of a prophet like Moses",
+      "why": "Moses promises that God will raise up a prophet from among the people whose words must be heard. Jesus' closing charge that Moses \"wrote of me,\" and that disbelief in Moses' writings blocks belief in his own words, points to promises of this kind as the hinge of the argument.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "JHN.9",
+      "verses": "1-16",
+      "label": "John 9:1-16 — the man born blind healed on the sabbath",
+      "why": "John narrates a second sabbath healing that provokes the same accusation and then a formal interrogation of the man who was cured. The pairing shows how consistently Jesus' sabbath works became the occasion on which people were forced to decide who he is.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus' words to the healed man in the temple, \"Behold, thou art made whole: sin no more, lest a worse thing come unto thee,\" are read in the Catholic tradition as showing that bodily healing is ordered toward the deeper healing of the soul—part of a consistent pattern in which Christ joins the forgiveness of sin to his restoring work, a pattern the Church sees carried forward in her care of the sick and of penitents.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the warning as a direct pastoral call to repentance rather than as the seed of a sacramental system, and many caution against inferring that this man's thirty-eight years of infirmity were punishment for particular sins. Both traditions agree that Jesus is more concerned with the man's standing before God than with his legs, and that the healing is meant to lead him into faith and a changed life.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The twofold outcome named here—\"they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation\"—is read in the Catholic tradition as teaching that the final judgment genuinely takes account of a life's deeds, not as a rival to faith but as faith's fruit, so that grace received now must be lived out and can still be refused.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally emphasize the earlier promise that the one who hears and believes already \"is passed from death unto life,\" and read the mention of good and evil deeds as the evidence by which a real faith is recognized rather than as its basis. Differences remain over how present grace and final judgment relate, but both traditions confess a bodily resurrection of all the dead and a final accounting before Christ, and both deny that anyone earns life apart from him.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

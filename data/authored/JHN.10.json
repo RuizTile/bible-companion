@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.10",
+  "book": "John",
+  "chapter": 10,
+  "canon": "protocanonical",
+  "summary": "Jesus continues from the healing of the blind man with a figure drawn from the sheepfold: whoever climbs in \"some other way\" is \"a thief and a robber,\" while the true shepherd enters by the door, \"calleth his own sheep by name,\" and leads them out, and they follow \"for they know his voice.\" When the hearers miss the point, he applies it twice to himself: \"I am the door of the sheep,\" by whom anyone entering \"shall be saved,\" and \"I am the good shepherd,\" who unlike the hireling does not flee the wolf but \"giveth his life for the sheep.\" He knows his own as \"the Father knoweth me,\" speaks of sheep he has \"which are not of this fold\" and must also bring, so that \"there shall be one fold, and one shepherd,\" and insists his death is freely chosen: \"No man taketh it from me, but I lay it down of myself.\" The crowd divides again, some saying \"He hath a devil,\" others recalling the opened eyes. At the feast of the dedication, in winter, they press him in Solomon's porch: \"If thou be the Christ, tell us plainly.\" He points to his works, promises that \"neither shall any man pluck them out of my hand,\" and says, \"I and my Father are one.\" They take up stones for blasphemy; he answers from their own law, appeals again to his works, escapes their hand, and withdraws beyond Jordan, where \"many believed on him.\"",
+  "takeaways": [
+    "Christ's shepherding is personal and self-sacrificing: he calls his own by name and freely lays down his life, which is what distinguishes him from the hireling who serves only while it is safe.",
+    "Belonging to Christ is marked by hearing and following his voice rather than by mere proximity to the fold; recognition of the shepherd is itself the sign of the sheep.",
+    "The promise of \"one fold, and one shepherd\" makes the gathering of those outside the present fold part of Christ's own intention, not an afterthought.",
+    "\"I and my Father are one\" is heard by his opponents as a claim to divinity, and Jesus does not retract it—he defends it by pointing to works that only God could do."
+  ],
+  "crossRefs": [
+    {
+      "target": "EZK.34",
+      "verses": "11-16",
+      "label": "Ezekiel 34:11-16 — the LORD himself will search out and feed his flock",
+      "why": "Against shepherds who fed themselves and scattered the sheep, God declares that he himself will seek out his flock, feed it, and bind up the broken. Read alongside John 10 this makes Jesus' claim to be the good shepherd a claim to be doing what God had reserved to himself.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EZK.34",
+      "verses": "23",
+      "label": "Ezekiel 34:23 — I will set up one shepherd over them",
+      "why": "The same prophecy promises a single appointed shepherd in the line of David who will feed the flock. It illuminates why Jesus speaks not merely of good shepherding but of \"one fold, and one shepherd,\" the promised single pastor of a reunited people.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.23",
+      "verses": "1-4",
+      "label": "Psalm 23:1-4 — the LORD is my shepherd; I shall not want",
+      "why": "The psalm speaks of the LORD leading, feeding, and accompanying his own even through the valley of the shadow of death. It supplies the devotional vocabulary Jesus takes up, and his promise that no one can pluck his sheep from his hand answers the psalm's confidence with a person.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "PSA.82",
+      "verses": "6",
+      "label": "Psalm 82:6 — I have said, Ye are gods",
+      "why": "This is the verse Jesus quotes back at those about to stone him, where human judges entrusted with God's word are addressed in exalted terms. Reading it in place shows the shape of his argument: if Scripture can speak that way of others, the charge of blasphemy cannot rest merely on the words \"I am the Son of God.\"",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1PE.5",
+      "verses": "2-4",
+      "label": "1 Peter 5:2-4 — feed the flock of God, awaiting the chief Shepherd",
+      "why": "Peter charges elders to shepherd God's flock willingly rather than for gain, under the coming \"chief Shepherd.\" It shows how the early Church applied John 10 to pastoral office: those who tend the sheep answer to the one shepherd and must not be hirelings.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Christ's promise that \"there shall be one fold, and one shepherd\" is read in the Catholic tradition as Christ's own will for a visible unity of his flock—one communion gathered under his shepherding, which he exercises in history through the pastors he appoints—so that division among Christians is a wound against his expressed intention.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally read the one flock as the whole company of true believers, united in Christ by faith rather than by a single visible structure, and often take the \"other sheep\" as the Gentiles brought in alongside Israel. On this reading unity is real but chiefly spiritual, and outward church order may legitimately vary. Both traditions affirm that the unity of Christ's people is his own doing and desire, that it is grounded in hearing his voice, and that Christian division is contrary to his prayer for his own.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "Jesus' promise that his sheep \"shall never perish, neither shall any man pluck them out of my hand\" is read in the Catholic tradition as an unshakable assurance about Christ's power to keep his own, while holding that a person can still freely refuse to keep hearing his voice, since the security is located in the shepherd's hand and not in a guarantee that removes human freedom.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Many Protestant interpreters, especially in the Reformed stream, read the same words as a promise that those truly given to Christ by the Father will certainly be preserved to the end, so that no genuine sheep is finally lost. Other Protestants hold a view closer to the Catholic emphasis on continuing faith. Both traditions agree that no external power can wrest a believer from Christ, and that whatever perseverance a Christian has is the gift of the shepherd rather than the strength of the sheep.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

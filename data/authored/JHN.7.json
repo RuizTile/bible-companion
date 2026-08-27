@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.7",
+  "book": "John",
+  "chapter": 7,
+  "canon": "protocanonical",
+  "summary": "Jesus stays in Galilee \"because the Jews sought to kill him,\" and his brethren—of whom John notes, \"neither did his brethren believe in him\"—press him to go up to the feast of tabernacles and \"shew thyself to the world.\" He answers, \"My time is not yet come: but your time is alway ready,\" then goes up \"not openly, but as it were in secret.\" Midway through the feast he teaches in the temple and the crowds marvel, \"How knoweth this man letters, having never learned?\" His doctrine, he says, \"is not mine, but his that sent me,\" and can be tested by anyone willing to do God's will. Pressing the sabbath quarrel, he notes that circumcision is performed on the sabbath and asks why they are angry that he \"made a man every whit whole on the sabbath day\": \"Judge not according to the appearance, but judge righteous judgment.\" The city divides—some ask whether he is \"the very Christ,\" others object that no one should know where Christ comes from—and though officers are sent to arrest him, \"no man laid hands on him, because his hour was not yet come.\" On \"the last day, that great day of the feast\" he cries, \"If any man thirst, let him come unto me, and drink,\" promising that \"out of his belly shall flow rivers of living water\"—spoken, John explains, \"of the Spirit,\" not yet given \"because that Jesus was not yet glorified.\" The dispute closes with the officers confessing, \"Never man spake like this man,\" Nicodemus pleading for a hearing, and \"every man went unto his own house.\"",
+  "takeaways": [
+    "John shows belief and unbelief forming around the very same words and works; the recurring \"division among the people because of him\" is the chapter's subject, not its background.",
+    "Jesus offers a test anyone can run: \"If any man will do his will, he shall know of the doctrine.\" Willingness to obey precedes the ability to recognize whether teaching is from God.",
+    "His life is governed by an hour not yet come, so that neither his brethren's urging nor his enemies' plotting can advance or delay the timing of his glory.",
+    "The promise of \"rivers of living water\" ties the gift of the Spirit to the cross and glorification of Jesus; the Spirit is poured out from a finished work, never apart from it."
+  ],
+  "crossRefs": [
+    {
+      "target": "LEV.23",
+      "verses": "33-43",
+      "label": "Leviticus 23:33-43 — the feast of tabernacles",
+      "why": "The law appoints seven days of dwelling in booths and rejoicing before the LORD at the end of harvest, the feast during which this entire chapter unfolds. Knowing the shape of the feast sharpens why Jesus waits until \"the last day, that great day\" to cry out about thirst and living water.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ZEC.14",
+      "verses": "8-9",
+      "label": "Zechariah 14:8-9 — living waters going out from Jerusalem",
+      "why": "Zechariah promises that in that day \"living waters shall go out from Jerusalem,\" in a passage that goes on to picture the nations coming up to keep the feast of tabernacles. Standing in Jerusalem at that very feast, Jesus makes himself the source of those waters, claiming the prophecy for his own person.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "EZK.47",
+      "verses": "1-12",
+      "label": "Ezekiel 47:1-12 — waters issuing from the temple, healing all they touch",
+      "why": "Ezekiel sees a river flowing out from under the threshold of the house, deepening as it goes, so that \"every thing shall live whither the river cometh.\" Jesus' promise that rivers will flow \"out of his belly\" identifies him, and then the believer, as the temple from which that life-giving water proceeds.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "MIC.5",
+      "verses": "2",
+      "label": "Micah 5:2 — out of Bethlehem shall come forth the ruler of Israel",
+      "why": "Micah names Bethlehem as the birthplace of a ruler \"whose goings forth have been from of old, from everlasting.\" The crowd quotes this text to dismiss Jesus as a Galilean, unaware that it fits him precisely, an irony John records without stopping to explain.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.2",
+      "verses": "1-4",
+      "label": "Acts 2:1-4 — the Spirit poured out at Pentecost",
+      "why": "Luke narrates the Spirit filling the disciples after Jesus has been raised and exalted, a gift Peter attributes to the ascended Christ having \"received of the Father the promise of the Holy Ghost.\" It is the fulfilment of John's parenthesis that the Spirit \"was not yet given; because that Jesus was not yet glorified.\"",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "Jesus' test, \"If any man will do his will, he shall know of the doctrine,\" is read in the Catholic tradition as evidence that faith is never a purely intellectual verdict but grows through obedience and practice—which is why the tradition treats the whole life of the Church, its worship, sacraments, and moral formation, as the school in which the truth of Christ's teaching becomes recognizable.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally agree that obedience clarifies rather than earns understanding, while stressing that the illumination is the Spirit's work through the word rather than something conferred by ecclesial practice. Both traditions hold that a heart unwilling to do God's will cannot judge Christ's teaching fairly, and that knowledge of God is never merely academic.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The \"brethren\" of Jesus who urge him to go up to the feast are understood in the Catholic tradition as kinsmen—cousins or near relations—rather than as other children of Mary, in keeping with the Church's confession of her perpetual virginity; the biblical vocabulary for family ties is broad enough to carry that wider sense.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally take the word in its ordinary sense and understand these to be younger sons born to Joseph and Mary after Jesus. Both traditions agree on what the passage actually reports about them: that those closest to Jesus by family did not yet believe in him, and that his mission was never underwritten by the approval of his own household.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

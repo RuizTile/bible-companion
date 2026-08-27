@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.16",
+  "book": "John",
+  "chapter": 16,
+  "canon": "protocanonical",
+  "summary": "Jesus tells them what is coming so that they \"should not be offended\": expulsion from the synagogues, and death at the hands of men who \"will think that he doeth God service,\" all because \"they have not known the Father, nor me.\" Sorrow has filled their hearts, yet he insists the leaving is gain — \"It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you.\" The Spirit's work is described outward and inward: toward the world he will \"reprove the world of sin, and of righteousness, and of judgment\"; toward them he will \"guide you into all truth,\" speaking not of himself but taking \"of mine\" to show them, since \"All things that the Father hath are mine.\" The riddle of \"A little while, and ye shall not see me: and again, a little while, and ye shall see me\" baffles them, and Jesus answers with a woman in travail whose anguish is forgotten \"for joy that a man is born into the world\": \"your sorrow shall be turned into joy,\" a joy \"no man taketh from you.\" Prayer changes with it — \"ask, and ye shall receive, that your joy may be full\" — and speech in \"proverbs\" will give way to plain words about the Father, who \"himself loveth you.\" They profess faith; he foretells their scattering, then closes: \"In the world ye shall have tribulation: but be of good cheer; I have overcome the world.\"",
+  "takeaways": [
+    "Christ presents his own departure as gain rather than loss, since the Spirit's coming depends on his going; the Church is not left poorer by the Ascension but differently endowed.",
+    "The Spirit convicts the world and leads the disciples further into truth already given in Christ — \"he shall receive of mine\" — so no rival or later gospel is to be expected.",
+    "Christian sorrow is birth pang rather than defeat: the same hour that scatters and wounds them is the hour that delivers a joy no one can take away.",
+    "Forewarning is itself a mercy; Jesus predicts persecution plainly \"that when the time shall come, ye may remember that I told you of them.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "MAT.10",
+      "verses": "16-25",
+      "label": "Matthew 10:16-25 — sheep among wolves, scourged in their synagogues",
+      "why": "Matthew records an earlier and fuller warning of councils, synagogue floggings, and hatred for Jesus' name, with the same principle that the disciple fares as his master did. Read alongside, it shows the persecution of this chapter as a settled expectation of Jesus' teaching rather than a last-minute alarm.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.8",
+      "verses": "18-25",
+      "label": "Romans 8:18-25 — the whole creation groaneth and travaileth together",
+      "why": "Paul takes up the same childbirth image for the sufferings of the present age set against the glory to come. It extends Jesus' picture of travail from the disciples' single night of grief to the labor of all creation awaiting deliverance.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ISA.26",
+      "verses": "17-19",
+      "label": "Isaiah 26:17-19 — like a woman in pangs, and thy dead men shall live",
+      "why": "Isaiah joins the anguish of childbirth to the promise that the dead will rise and sing. The pairing suggests why Jesus reaches for the travail image precisely as he speaks of being unseen and then seen again.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1CO.2",
+      "verses": "9-13",
+      "label": "1 Corinthians 2:9-13 — the Spirit searcheth the deep things of God",
+      "why": "Paul describes the Spirit revealing what no human insight could reach and teaching the words in which it is spoken. It illustrates what it means that the Spirit will \"guide you into all truth\" and speak only what he receives.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "1JN.5",
+      "verses": "4-5",
+      "label": "1 John 5:4-5 — this is the victory that overcometh the world",
+      "why": "The letter turns Jesus' closing claim into the believer's share in it, naming faith as the victory over the world. Read together, \"I have overcome the world\" becomes the ground rather than the mere example of Christian confidence under pressure.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads \"he will guide you into all truth\" as a promise made to the apostolic body and continuing in the Church, so that the Spirit protects the handing on of revelation and permits its genuine unfolding over time without addition to what Christ gave.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally take the promise as addressed to the apostles themselves and fulfilled in the inspired writings that came from them, so that the Spirit's guidance is now recognized and measured by Scripture rather than by a continuing teaching office. Later doctrinal formulations are welcomed on this view only as faithful summaries of that written word. Both traditions agree that the Spirit adds nothing of his own, since he speaks only what is Christ's.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "\"It is expedient for you that I go away\" is read in the Catholic tradition as opening the era in which Christ, bodily withdrawn, is nonetheless truly present to his Church through the Spirit in word and sacrament, most fully in the Eucharist, so that his absence is a change of mode rather than a departure.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally understand the promised presence as spiritual presence through the preached word and the indwelling Spirit, with the traditions differing among themselves over how Christ is present in the Supper — some affirming a real but non-localized presence, others a memorial reception by faith. They tend to stress that the Spirit's coming, not a sacramental mode of Christ's body, is what the chapter actually promises. Both traditions agree that Christ's bodily departure does not leave his people alone or unaided.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}

@@ -1,0 +1,78 @@
+{
+  "ref": "JHN.14",
+  "book": "John",
+  "chapter": 14,
+  "canon": "protocanonical",
+  "summary": "\"Let not your heart be troubled,\" Jesus begins, redirecting the disciples' fear into faith: \"ye believe in God, believe also in me.\" In \"my Father’s house are many mansions,\" and he departs \"to prepare a place for you\" so that \"where I am, there ye may be also.\" Thomas protests that they know neither the destination nor the road, and receives the chapter's center: \"I am the way, the truth, and the life: no man cometh unto the Father, but by me.\" Philip asks to be shown the Father and is told, \"he that hath seen me hath seen the Father,\" for \"I am in the Father, and the Father in me,\" and \"the Father that dwelleth in me, he doeth the works.\" Believers will do those works and greater, and \"whatsoever ye shall ask in my name, that will I do.\" Love is then defined by obedience — \"If ye love me, keep my commandments\" — and joined to a promise: the Father will give \"another Comforter, that he may abide with you for ever; Even the Spirit of truth,\" who will \"teach you all things, and bring all things to your remembrance.\" To whoever loves and keeps his word, Father and Son \"will come unto him, and make our abode with him.\" He leaves a parting gift unlike the world's — \"my peace I give unto you\" — and rises: \"Arise, let us go hence.\"",
+  "takeaways": [
+    "Christ does not merely teach a way to God; he is the way, so access to the Father is personal and passes through him rather than around him.",
+    "The chapter grounds the Church's confession of the Son's unity with the Father: \"he that hath seen me hath seen the Father,\" yet the Son is sent, prays to, and returns to the Father.",
+    "The promised Comforter is not a substitute for an absent Christ but the mode of his continuing presence: \"I will not leave you comfortless: I will come to you.\"",
+    "Love for Christ is measured by keeping his word, and it opens into indwelling rather than mere approval: \"we will come unto him, and make our abode with him.\""
+  ],
+  "crossRefs": [
+    {
+      "target": "EXO.33",
+      "verses": "18-23",
+      "label": "Exodus 33:18-23 — Moses asks to see God's glory and is told no man can see his face",
+      "why": "Moses makes the request Philip makes, and is refused the direct sight of God's face. Read alongside, Jesus' answer to Philip is startling: what Moses could not be given is now standing in front of them.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "COL.1",
+      "verses": "15-19",
+      "label": "Colossians 1:15-19 — the image of the invisible God, in whom all fulness dwells",
+      "why": "Paul states as doctrine what Jesus states to Philip, that the invisible God is made visible in the Son and dwells in him fully. The pairing shows how quickly the apostolic Church drew the conclusion John records.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ACT.2",
+      "verses": "1-4",
+      "label": "Acts 2:1-4 — the Spirit given at Pentecost",
+      "why": "Luke narrates the fulfillment of the promise of \"another Comforter\" sent in Jesus' name. Reading it alongside turns the promise of this chapter from consolation into recorded event, and explains the disciples' later boldness.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "HEB.9",
+      "verses": "24",
+      "label": "Hebrews 9:24 — Christ entered into heaven itself, to appear in the presence of God for us",
+      "why": "Hebrews describes Christ passing into the heavenly sanctuary on our behalf, which fills out what it means that he goes \"to prepare a place for you.\" The going away is presented as work done for the disciples, not withdrawal from them.",
+      "sources": [],
+      "tradition": "shared"
+    },
+    {
+      "target": "ROM.8",
+      "verses": "9-11",
+      "label": "Romans 8:9-11 — the Spirit of God dwelling in you",
+      "why": "Paul speaks of the Spirit dwelling in believers as the pledge of resurrection life, matching the promise that the Spirit \"dwelleth with you, and shall be in you\" and that \"because I live, ye shall live also.\" It links the indwelling promised here to the hope of bodily life.",
+      "sources": [],
+      "tradition": "shared"
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "claim": "The Catholic tradition reads \"no man cometh unto the Father, but by me\" as asserting the unique and universal mediation of Christ, and understands the Church, her sacraments, and the intercession of the saints not as rivals to that mediation but as participations in it, effective only because they are his.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally press the exclusivity of the verse harder, reading it as ruling out any mediating structure between the believer and God and as establishing direct access by faith alone. On this reading, adding intermediaries risks obscuring the sufficiency the verse claims for Christ. Both traditions agree without qualification that there is no other savior and no approach to the Father apart from him.",
+        "sources": []
+      }
+    },
+    {
+      "claim": "The promise that the Comforter \"shall teach you all things, and bring all things to your remembrance\" is read in the Catholic tradition as a guarantee that the Spirit keeps the apostolic teaching alive and intact in the Church across time, so that the handing on of the faith is itself Spirit-guided and not merely human recollection.",
+      "tradition": "catholic",
+      "sources": [],
+      "counterpoint": {
+        "tradition": "protestant",
+        "summary": "Protestant interpreters generally take the promise as addressed first to the apostles present in the room and fulfilled in the writings they left, so that the Spirit's teaching is now encountered and tested in Scripture. They therefore treat later church teaching as subject to that written witness. Both traditions agree that the Spirit teaches nothing new beyond what Christ himself gave and that his role is to recall the disciples to Jesus' own words.",
+        "sources": []
+      }
+    }
+  ],
+  "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-27", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
+}
