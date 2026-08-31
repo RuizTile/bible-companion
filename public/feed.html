@@ -16,20 +16,28 @@
     </script>
     <link rel="stylesheet" href="./styles.css" />
     <link rel="stylesheet" href="./feed.css" />
+    <link rel="stylesheet" href="./navigation.css" />
   </head>
   <body class="feed-page">
     <header class="feed-topbar">
-      <a class="home-link" href="./index.html" title="Index">✦</a>
-      <a id="deskLink" class="feed-link" href="./read.html" title="Open in reading view">⇄ Read</a>
-      <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle dark mode">☾</button>
+      <a class="home-link desktop-only" href="./index.html">Library</a>
+      <span class="feed-mode">Swipe</span>
+      <div class="feed-actions">
+        <button id="navUp" type="button">Previous</button>
+        <button id="navDown" type="button">Next</button>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle dark mode">Dark</button>
+      </div>
     </header>
 
     <div id="feed" class="feed"></div>
 
-    <button id="navUp" class="feed-arrow up" type="button" aria-label="Previous chapter" title="Previous chapter">︿</button>
-    <button id="navDown" class="feed-arrow down" type="button" aria-label="Next chapter" title="Next chapter">﹀</button>
-
     <p id="message" class="message" hidden></p>
+
+    <nav class="app-nav" aria-label="Primary navigation">
+      <a href="./index.html">Library</a>
+      <a id="deskLink" href="./read.html">Read</a>
+      <a href="./feed.html" aria-current="page">Swipe</a>
+    </nav>
 
     <script src="./theme.js"></script>
     <script src="./data-client.js"></script>

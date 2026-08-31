@@ -205,6 +205,10 @@ async function load(ref, verses) {
     updateNav();
     const q = `?ref=${encodeURIComponent(ref)}` + (verses ? `&v=${encodeURIComponent(verses)}` : "");
     history.replaceState(null, "", q);
+    for (const id of ["swipeLink", "mobileSwipeLink"]) {
+      const link = el(id);
+      if (link) link.href = `./feed.html?ref=${encodeURIComponent(ref)}`;
+    }
     if (verses) highlightVerses(verses);
     else window.scrollTo({ top: 0, behavior: "smooth" });
   } catch {

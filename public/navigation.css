@@ -1,0 +1,41 @@
+/* Shared phone navigation. Desktop keeps page-specific controls; phones get
+   one stable, thumb-reachable view switcher across Library, Read, and Swipe. */
+.app-nav { display: none; }
+
+@media (max-width: 640px) {
+  body { padding-bottom: calc(3.75rem + env(safe-area-inset-bottom)); }
+  body.feed-page { padding-bottom: 0; }
+
+  .app-nav {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 50;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    min-height: 3.75rem;
+    padding: 0.35rem max(0.5rem, env(safe-area-inset-right)) max(0.35rem, env(safe-area-inset-bottom)) max(0.5rem, env(safe-area-inset-left));
+    background: var(--surface, var(--paper-2, #fffdf8));
+    border-top: 1px solid var(--line);
+  }
+
+  .app-nav a {
+    display: grid;
+    place-items: center;
+    min-height: 2.75rem;
+    color: var(--ink-soft);
+    font-family: var(--sans);
+    font-size: 0.82rem;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 10px;
+  }
+
+  .app-nav a[aria-current="page"] {
+    color: var(--accent);
+    background: var(--accent-tint, var(--accent-soft));
+  }
+
+  .desktop-only { display: none !important; }
+}

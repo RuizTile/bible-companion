@@ -16,13 +16,30 @@ body.feed-page {
   z-index: 30;
   display: flex;
   align-items: center;
+  justify-content: space-between;
   gap: 0.75rem;
   padding: 0.6rem 0.9rem;
   padding-top: max(0.6rem, env(safe-area-inset-top));
   background: linear-gradient(var(--paper-2) 55%, transparent);
 }
-.feed-topbar .home-link { font-size: 1.35rem; }
-.feed-topbar .feed-link { margin-left: auto; }
+.feed-mode {
+  color: var(--ink-soft);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.feed-actions { display: flex; align-items: center; gap: 0.4rem; margin-left: auto; }
+.feed-actions > button:not(.theme-toggle) {
+  min-height: 2.25rem;
+  padding: 0.35rem 0.65rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper-2);
+  color: var(--ink-soft);
+  font: 600 0.76rem/1 var(--sans);
+  cursor: pointer;
+}
 
 .feed {
   height: 100dvh;
@@ -70,8 +87,8 @@ body.feed-page {
 .slide-body { flex: 1; }
 .slide-body .pill { display: inline-block; margin-bottom: 0.9rem; }
 .slide-body .summary {
-  font-size: 1.08rem;
-  line-height: 1.6;
+  font-size: clamp(1rem, 0.96rem + 0.35vw, 1.08rem);
+  line-height: 1.58;
 }
 .slide-body .block { margin-top: 1.5rem; }
 .slide-body .block h3 {
@@ -122,28 +139,29 @@ body.feed-page {
   color: var(--ink-soft);
 }
 
-.feed-arrow {
-  position: fixed;
-  right: 0.9rem;
-  z-index: 25;
-  width: 2.4rem;
-  height: 2.4rem;
-  border-radius: 50%;
-  border: 1px solid var(--line);
-  background: var(--paper-2);
-  color: var(--accent);
-  font-size: 1.1rem;
-  line-height: 1;
-  cursor: pointer;
-  box-shadow: var(--shadow);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.feed-arrow.up { bottom: calc(4.6rem + env(safe-area-inset-bottom)); }
-.feed-arrow.down { bottom: calc(1.6rem + env(safe-area-inset-bottom)); }
-.feed-arrow:hover { transform: scale(1.06); }
-
-@media (min-width: 900px) {
-  .feed-arrow { display: none; } /* desktop: keyboard + wheel already snap-scroll */
+@media (max-width: 640px) {
+  .feed-topbar {
+    padding: max(0.55rem, env(safe-area-inset-top)) max(0.75rem, env(safe-area-inset-right)) 0.55rem max(0.75rem, env(safe-area-inset-left));
+  }
+  .feed-actions { gap: 0.3rem; }
+  .feed-actions > button:not(.theme-toggle) {
+    min-height: 2.75rem;
+    padding: 0.45rem 0.6rem;
+  }
+  .feed-actions .theme-toggle { min-width: 3.4rem; }
+  .feed-actions .theme-toggle { height: 2.75rem; }
+  .slide {
+    padding-right: max(1rem, env(safe-area-inset-right));
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-bottom: calc(5rem + env(safe-area-inset-bottom));
+  }
+  .slide-head {
+    padding: 4.1rem max(1rem, env(safe-area-inset-right)) 0.55rem max(1rem, env(safe-area-inset-left));
+    margin-right: calc(-1 * max(1rem, env(safe-area-inset-right)));
+    margin-left: calc(-1 * max(1rem, env(safe-area-inset-left)));
+  }
+  .slide-head h2 { font-size: 1.55rem; }
+  .slide-body .pill { margin-bottom: 0.7rem; }
+  .slide-body .summary { font-size: 1rem; line-height: 1.55; }
+  .verses-fold .verses { font-size: 1.02rem; line-height: 1.75; }
 }

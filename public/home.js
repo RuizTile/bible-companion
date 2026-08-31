@@ -61,7 +61,7 @@ function sectionGroup(title, books, i) {
   if (!books.length) return null;
   const wrap = document.createElement("details");
   wrap.className = "section-group reveal";
-  wrap.open = true;
+  wrap.open = false;
   wrap.style.setProperty("--i", i);
 
   const authored = books.reduce((s, b) => s + b.authored, 0);
@@ -71,7 +71,8 @@ function sectionGroup(title, books, i) {
     `<span class="caret" aria-hidden="true">▸</span>` +
     `<span class="sec-name">${title}</span>` +
     `<span class="rule" aria-hidden="true"></span>` +
-    `<span class="n">${books.length} books${authored ? ` · ${authored} with a companion` : ""}</span>`;
+    `<span class="n">${books.length} books` +
+    `${authored ? `<span class="authored-count"> · ${authored} with a companion</span>` : ""}</span>`;
   wrap.appendChild(sum);
 
   const list = document.createElement("div");
@@ -112,10 +113,20 @@ async function init() {
     if (node) { sections.appendChild(node); i += 1; }
   }
 
-  const setAll = (open) =>
-    sections.querySelectorAll("details").forEach((d) => (d.open = open));
-  el("expandAll").addEventListener("click", () => setAll(true));
-  el("collapseAll").addEventListener("click", () => setAll(false));
+  const toggleAll = el("toggleAll");
+  const details = () => [...sections.querySelectorAll("details")];
+  const syncToggle = () => {
+    const allOpen = details().length > 0 && details().every((item) => item.open);
+    toggleAll.textContent = allOpen ? "Collapse all" : "Expand all";
+    toggleAll.setAttribute("aria-expanded", String(allOpen));
+  };
+  toggleAll.addEventListener("click", () => {
+    const open = !details().every((item) => item.open);
+    details().forEach((item) => { item.open = open; });
+    syncToggle();
+  });
+  sections.addEventListener("toggle", syncToggle, true);
+  syncToggle();
 }
 
 init();

@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>Bible Chapter Companion</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <script>
@@ -15,11 +15,12 @@
       })();
     </script>
     <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./navigation.css" />
   </head>
   <body>
     <header class="topbar">
       <div class="brand">
-        <a class="home-link" href="./index.html" title="Index">✦</a>
+        <a class="home-link" href="./index.html">Library</a>
         <div>
           <h1><a href="./index.html">Chapter Companion</a></h1>
           <p class="tagline">King James Version · Catholic-oriented</p>
@@ -32,8 +33,12 @@
         <label>Chapter
           <select id="chapterSelect" aria-label="Chapter"></select>
         </label>
-        <a id="swipeLink" class="feed-link" href="./feed.html">📱 Swipe</a>
-        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle dark mode">☾</button>
+        <a id="swipeLink" class="feed-link desktop-only" href="./feed.html">Swipe</a>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle dark mode">Dark</button>
+      </nav>
+      <nav class="chapter-pager" aria-label="Chapter navigation">
+        <button id="navPrev" class="nav-arrow prev" aria-label="Previous chapter" hidden>Previous</button>
+        <button id="navNext" class="nav-arrow next" aria-label="Next chapter" hidden>Next</button>
       </nav>
     </header>
 
@@ -73,14 +78,17 @@
       </aside>
     </main>
 
-    <button id="navPrev" class="nav-arrow prev" aria-label="Previous chapter (←)" title="Previous chapter (←)" hidden>‹</button>
-    <button id="navNext" class="nav-arrow next" aria-label="Next chapter (→)" title="Next chapter (→)" hidden>›</button>
-
     <div id="message" class="message"></div>
 
     <footer class="footnote">
       <span>Catholic-oriented, not Catholic-approved. Every interpretation is attributed; traditions are labeled.</span>
     </footer>
+
+    <nav class="app-nav" aria-label="Primary navigation">
+      <a href="./index.html">Library</a>
+      <a href="./read.html" aria-current="page">Read</a>
+      <a id="mobileSwipeLink" href="./feed.html">Swipe</a>
+    </nav>
 
     <script src="./theme.js"></script>
     <script src="./data-client.js"></script>

@@ -178,7 +178,7 @@ function populateSlide(section, c) {
         <h3>Takeaways</h3>
         <ol class="takeaways"></ol>
       </div>` : ""}
-    <details class="verses-fold" open>
+    <details class="verses-fold">
       <summary>Read the chapter</summary>
       <div class="verses"></div>
     </details>

@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>The Chapter Companion — Index</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <script>
@@ -15,14 +15,15 @@
       })();
     </script>
     <link rel="stylesheet" href="./home.css" />
+    <link rel="stylesheet" href="./navigation.css" />
   </head>
   <body>
     <header class="masthead">
       <div class="top-controls">
-        <button id="expandAll" type="button">Expand all</button>
-        <button id="collapseAll" type="button">Collapse all</button>
-        <a id="swipeLink" href="./feed.html">📱 Swipe</a>
-        <button id="themeToggle" type="button" data-theme-toggle aria-label="Toggle dark mode">☾</button>
+        <button id="toggleAll" type="button" aria-expanded="false">Expand all</button>
+        <a class="desktop-only" href="./read.html">Read</a>
+        <a class="desktop-only" href="./feed.html">Swipe</a>
+        <button id="themeToggle" type="button" data-theme-toggle aria-label="Toggle dark mode">Dark</button>
       </div>
       <div class="masthead-inner">
         <p class="mast-eyebrow">King James Version · with the Apocrypha</p>
@@ -50,6 +51,12 @@
       Catholic&#8209;oriented, not Catholic&#8209;approved. Every interpretation names the
       tradition it comes from, and differences between traditions are shown plainly.
     </footer>
+
+    <nav class="app-nav" aria-label="Primary navigation">
+      <a href="./index.html" aria-current="page">Library</a>
+      <a href="./read.html">Read</a>
+      <a href="./feed.html">Swipe</a>
+    </nav>
 
     <script src="./theme.js"></script>
     <script src="./data-client.js"></script>
