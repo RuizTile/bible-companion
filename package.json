@@ -11,6 +11,8 @@
     "seed": "node --experimental-sqlite scripts/seed.js",
     "ingest": "node --experimental-sqlite scripts/ingest.js",
     "merge": "node --experimental-sqlite scripts/merge-authored.js",
+    "build:data": "node --experimental-sqlite scripts/build-static-data.js",
+    "verify:static": "node scripts/verify-static-data.js",
     "start": "node --experimental-sqlite server/index.js",
     "dev": "node --experimental-sqlite --watch server/index.js",
     "author": "node scripts/author.js"

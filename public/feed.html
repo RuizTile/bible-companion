@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Bible Chapter Companion — Swipe</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("theme") ||
+            (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+          document.documentElement.dataset.theme = t;
+        } catch (e) {}
+      })();
+    </script>
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./feed.css" />
+  </head>
+  <body class="feed-page">
+    <header class="feed-topbar">
+      <a class="home-link" href="./index.html" title="Index">✦</a>
+      <a id="deskLink" class="feed-link" href="./read.html" title="Open in reading view">⇄ Read</a>
+      <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle dark mode">☾</button>
+    </header>
+
+    <div id="feed" class="feed"></div>
+
+    <button id="navUp" class="feed-arrow up" type="button" aria-label="Previous chapter" title="Previous chapter">︿</button>
+    <button id="navDown" class="feed-arrow down" type="button" aria-label="Next chapter" title="Next chapter">﹀</button>
+
+    <p id="message" class="message" hidden></p>
+
+    <script src="./theme.js"></script>
+    <script src="./data-client.js"></script>
+    <script src="./feed.js"></script>
+  </body>
+</html>

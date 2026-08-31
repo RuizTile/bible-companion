@@ -10,12 +10,6 @@ let books = [];
 let allRefs = [];      // every ref in canonical order, for prev/next nav
 let currentRef = null;
 
-async function api(path) {
-  const res = await fetch(path);
-  if (!res.ok) throw new Error(`${res.status} ${path}`);
-  return res.json();
-}
-
 function tag(tradition) {
   const t = tradition || "shared";
   const span = document.createElement("span");
@@ -202,7 +196,7 @@ function navBy(delta) {
 
 async function load(ref, verses) {
   try {
-    const c = await api(`/api/chapter/${ref}`);
+    const c = await window.companionData.getChapter(ref);
     el("bookSelect").value = c.book;
     await populateChapters(c.book);
     el("chapterSelect").value = ref;
@@ -220,7 +214,7 @@ async function load(ref, verses) {
 }
 
 async function populateChapters(book) {
-  const { chapters } = await api(`/api/books/${encodeURIComponent(book)}/chapters`);
+  const { chapters } = await window.companionData.getChapters(book);
   const sel = el("chapterSelect");
   sel.innerHTML = "";
   for (const ch of chapters) {
@@ -235,7 +229,7 @@ async function populateChapters(book) {
 
 async function init() {
   try {
-    const data = await api("/api/books");
+    const data = await window.companionData.getBooks();
     books = data.books;
     if (!books.length) {
       el("message").textContent = 'No text yet. Run "npm run ingest -- MAT".';
@@ -274,7 +268,7 @@ async function init() {
     if (wanted && known.has(wanted)) load(wanted, wantedV);
     else load(books[0]._refs[0]);
   } catch {
-    el("message").textContent = 'Server not reachable. Start it with "npm run dev".';
+    el("message").textContent = 'Chapter data unavailable. Run "npm run build:data".';
   }
 }
 

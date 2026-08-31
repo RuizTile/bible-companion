@@ -84,9 +84,9 @@ function sectionGroup(title, books, i) {
 async function init() {
   let books;
   try {
-    ({ books } = await (await fetch("/api/index")).json());
+    ({ books } = await window.companionData.getIndex());
   } catch {
-    el("message").textContent = 'Server not reachable. Start it with "npm run dev".';
+    el("message").textContent = 'Chapter data unavailable. Run "npm run build:data".';
     return;
   }
   if (!books.length) {

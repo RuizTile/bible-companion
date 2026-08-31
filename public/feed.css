@@ -1,0 +1,149 @@
+/* Swipe feed — one chapter per full-height snap slide. Relies on tokens and
+   shared components (.tag, .pill, .sources, .note, .crossref, .badge) from
+   styles.css; this file only adds feed-specific layout. */
+
+html, body.feed-page {
+  height: 100%;
+  overflow: hidden;
+}
+body.feed-page {
+  display: block;
+}
+
+.feed-topbar {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 30;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.6rem 0.9rem;
+  padding-top: max(0.6rem, env(safe-area-inset-top));
+  background: linear-gradient(var(--paper-2) 55%, transparent);
+}
+.feed-topbar .home-link { font-size: 1.35rem; }
+.feed-topbar .feed-link { margin-left: auto; }
+
+.feed {
+  height: 100dvh;
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+  scroll-snap-type: y mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+.slide {
+  height: 100dvh;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 0 clamp(1.1rem, 5vw, 2rem) 3rem;
+  max-width: 640px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+/* Sticky header must own its full padding (rather than sitting inside the
+   slide's top padding) so its opaque background covers y:0 down — otherwise
+   scrolled verse text shows through above it once you're deep in a chapter. */
+.slide-head {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: clamp(4.5rem, 12vh, 5.5rem) clamp(1.1rem, 5vw, 2rem) 0.6rem;
+  margin: 0 calc(-1 * clamp(1.1rem, 5vw, 2rem)) 0.9rem;
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+.slide-head h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 6vw, 1.9rem);
+  margin: 0;
+}
+
+.slide-body { flex: 1; }
+.slide-body .pill { display: inline-block; margin-bottom: 0.9rem; }
+.slide-body .summary {
+  font-size: 1.08rem;
+  line-height: 1.6;
+}
+.slide-body .block { margin-top: 1.5rem; }
+.slide-body .block h3 {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin: 0 0 0.6rem;
+}
+.slide-body .takeaways { margin: 0; padding-left: 1.1rem; }
+.slide-body .takeaways li { margin: 0.4rem 0; }
+.slide-body .crossrefs { display: flex; flex-direction: column; gap: 0.9rem; }
+
+.verses-fold {
+  margin-top: 1.5rem;
+  border-top: 1px solid var(--line);
+  padding-top: 1rem;
+}
+.verses-fold > summary {
+  cursor: pointer;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  list-style: none;
+}
+.verses-fold > summary::-webkit-details-marker { display: none; }
+.verses-fold > summary::before {
+  content: "\25BE ";
+}
+.verses-fold:not([open]) > summary::before {
+  content: "\25B8 ";
+}
+.verses-fold .verses {
+  margin-top: 0.9rem;
+  font-family: var(--serif);
+  font-size: 1.08rem;
+  line-height: 1.85;
+}
+
+.feed-foot {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.76rem;
+  color: var(--ink-soft);
+}
+
+.feed-arrow {
+  position: fixed;
+  right: 0.9rem;
+  z-index: 25;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  background: var(--paper-2);
+  color: var(--accent);
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.feed-arrow.up { bottom: calc(4.6rem + env(safe-area-inset-bottom)); }
+.feed-arrow.down { bottom: calc(1.6rem + env(safe-area-inset-bottom)); }
+.feed-arrow:hover { transform: scale(1.06); }
+
+@media (min-width: 900px) {
+  .feed-arrow { display: none; } /* desktop: keyboard + wheel already snap-scroll */
+}

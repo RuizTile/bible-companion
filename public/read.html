@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Bible Chapter Companion</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <script>
       (function () {
         try {
@@ -31,6 +32,7 @@
         <label>Chapter
           <select id="chapterSelect" aria-label="Chapter"></select>
         </label>
+        <a id="swipeLink" class="feed-link" href="./feed.html">📱 Swipe</a>
         <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle dark mode">☾</button>
       </nav>
     </header>
@@ -81,6 +83,7 @@
     </footer>
 
     <script src="./theme.js"></script>
+    <script src="./data-client.js"></script>
     <script src="./read.js"></script>
   </body>
 </html>

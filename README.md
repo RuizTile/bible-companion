@@ -19,6 +19,7 @@ built-in HTTP server and `node:sqlite`. Requires **Node ≥ 22.5** (you're on 24
 
 ```bash
 npm run seed      # loads data/*.json into db/companion.db
+npm run build:data # exports cached per-book JSON for browser/GitHub Pages
 npm run dev       # serves http://localhost:3000
 ```
 
@@ -27,6 +28,13 @@ scripts; it prints one harmless ExperimentalWarning on startup.)
 
 Open http://localhost:3000. It loads the seeded chapter (Matthew 16) with the
 companion panel.
+
+The browser reads generated files under `public/data/`: one small manifest plus
+one lazily loaded, session-cached JSON payload per book. Re-run `npm run build:data`
+after ingesting or authoring content, then run `npm run verify:static`.
+
+GitHub Pages deploys `public/` through `.github/workflows/pages.yml`. Enable
+**Settings → Pages → Source: GitHub Actions** before the first deployment.
 
 > The seeded Matthew 16 record is a **placeholder** (marked as such in the UI) —
 > verses 13–20 of real public-domain KJV text, but the summary/takeaways/notes
