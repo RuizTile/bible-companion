@@ -56,5 +56,6 @@
       }
     }
   ],
+  "topics": ["Repentance", "Parables", "Messiah", "Judgment", "Poverty And Wealth", "Kingdom Of God"],
   "authoring": { "model": "claude-opus-4-8", "generatedAt": "2026-08-26", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
 }

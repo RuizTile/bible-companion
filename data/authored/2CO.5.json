@@ -208,6 +208,7 @@
       }
     }
   ],
+  "topics": ["Resurrection", "Eschatology", "Judgment", "Atonement", "Faith", "Apostolic Ministry"],
   "authoring": {
     "model": "claude-opus-5",
     "generatedAt": "2026-09-02",

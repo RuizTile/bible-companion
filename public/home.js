@@ -24,7 +24,7 @@ function group(books) {
   return g;
 }
 
-function bookRow(b) {
+function bookRow(b, readSet) {
   const d = document.createElement("details");
   d.className = "book";
 
@@ -32,6 +32,7 @@ function bookRow(b) {
   const badge = CANON_BADGE[b.canon]
     ? `<span class="book-badge">${CANON_BADGE[b.canon]}</span>`
     : "";
+  const readInBook = b.chapters.filter((c) => readSet.has(c.ref)).length;
 
   const summary = document.createElement("summary");
   summary.className = "book-head";
@@ -40,24 +41,27 @@ function bookRow(b) {
     `<span class="book-name">${b.book}</span>` +
     `<span class="book-meta">${badge}` +
     `<span class="progress" title="${b.authored} of ${b.total} with a companion"><i style="width:${pct}%"></i></span>` +
-    `<span class="book-count">${b.authored}/${b.total}</span></span>`;
+    `<span class="book-count">${b.authored}/${b.total}</span>` +
+    (readInBook ? `<span class="book-read-count" title="${readInBook} of ${b.total} read">${readInBook} read</span>` : "") +
+    `</span>`;
   d.appendChild(summary);
 
   const grid = document.createElement("div");
   grid.className = "chapter-grid";
   for (const c of b.chapters) {
     const a = document.createElement("a");
-    a.className = `chip ${c.status}`;
+    const read = readSet.has(c.ref);
+    a.className = `chip ${c.status}${read ? " read" : ""}`;
     a.href = `./read.html?ref=${encodeURIComponent(c.ref)}`;
     a.textContent = c.chapter;
-    a.title = `${b.book} ${c.chapter} — ${c.status === "authored" ? "companion" : c.status}`;
+    a.title = `${b.book} ${c.chapter} — ${c.status === "authored" ? "companion" : c.status}${read ? ", read" : ""}`;
     grid.appendChild(a);
   }
   d.appendChild(grid);
   return d;
 }
 
-function sectionGroup(title, books, i) {
+function sectionGroup(title, books, i, readSet) {
   if (!books.length) return null;
   const wrap = document.createElement("details");
   wrap.className = "section-group reveal";
@@ -77,7 +81,7 @@ function sectionGroup(title, books, i) {
 
   const list = document.createElement("div");
   list.className = "book-list";
-  for (const b of books) list.appendChild(bookRow(b));
+  for (const b of books) list.appendChild(bookRow(b, readSet));
   wrap.appendChild(list);
   return wrap;
 }
@@ -97,8 +101,24 @@ async function init() {
 
   const totalCh = books.reduce((s, b) => s + b.total, 0);
   const totalAuth = books.reduce((s, b) => s + b.authored, 0);
+  const allRefs = new Set(books.flatMap((b) => b.chapters.map((c) => c.ref)));
+  const readSet = window.companionProgress.readSet();
+  const totalRead = [...readSet].filter((ref) => allRefs.has(ref)).length;
   el("progress").innerHTML =
-    `<b>${totalAuth}</b> of ${totalCh.toLocaleString()} chapters now have a written companion.`;
+    `<b>${totalAuth}</b> of ${totalCh.toLocaleString()} chapters now have a written companion` +
+    (totalRead ? ` · <b>${totalRead}</b> read so far` : "") + `.`;
+
+  const last = window.companionProgress.getLastRead();
+  if (last && allRefs.has(last.ref)) {
+    const cont = el("continueReading");
+    cont.hidden = false;
+    const a = document.createElement("a");
+    a.className = "begin-pill";
+    a.href = `./read.html?ref=${encodeURIComponent(last.ref)}`;
+    a.innerHTML = `Continue reading <span class="bk">${last.book}</span> <span class="ch">${last.chapter}</span>`;
+    cont.innerHTML = "";
+    cont.appendChild(a);
+  }
 
   const g = group(books);
   const sections = el("sections");
@@ -109,7 +129,7 @@ async function init() {
   ];
   let i = 0;
   for (const [title, bks] of groups) {
-    const node = sectionGroup(title, bks, i);
+    const node = sectionGroup(title, bks, i, readSet);
     if (node) { sections.appendChild(node); i += 1; }
   }
 

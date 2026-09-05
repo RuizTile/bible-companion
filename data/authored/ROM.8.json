@@ -251,5 +251,6 @@
       }
     }
   ],
+  "topics": ["Holy Spirit", "Election", "Suffering", "Hope", "Prayer", "Love"],
   "authoring": { "model": "claude-opus-5", "generatedAt": "2026-08-30", "reviewedBy": null, "status": "draft", "confidence": "medium", "attributionNotes": "Original synthesis grounded in the KJV text and the general Catholic/Christian interpretive tradition. No specific published source is quoted or cited; tradition labels denote a position, not a copied source." }
 }

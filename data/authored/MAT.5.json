@@ -46,6 +46,14 @@
       }
     }
   ],
+  "topics": [
+    "Law",
+    "Love",
+    "Humility",
+    "Sanctification",
+    "Persecution",
+    "Kingdom Of God"
+  ],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-07-23",

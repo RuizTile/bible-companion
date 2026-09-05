@@ -6,6 +6,8 @@
   const dataRoot = new URL("./data/", document.baseURI);
   const bookCache = new Map();
   let indexPromise;
+  let topicsPromise;
+  let searchPromise;
 
   async function fetchJson(url) {
     const response = await fetch(url);
@@ -58,5 +60,22 @@
     return chapter;
   }
 
-  window.companionData = Object.freeze({ getIndex, getBooks, getChapters, getChapter });
+  function getTopics() {
+    if (!topicsPromise) topicsPromise = fetchJson(new URL("topics.json", dataRoot));
+    return topicsPromise;
+  }
+
+  function getSearchIndex() {
+    if (!searchPromise) searchPromise = fetchJson(new URL("search-index.json", dataRoot));
+    return searchPromise;
+  }
+
+  window.companionData = Object.freeze({
+    getIndex,
+    getBooks,
+    getChapters,
+    getChapter,
+    getTopics,
+    getSearchIndex,
+  });
 }());

@@ -56,6 +56,7 @@
       }
     }
   ],
+  "topics": ["Humility", "Poverty And Wealth", "Parables", "Discipleship", "Kingdom Of God"],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

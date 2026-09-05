@@ -33,7 +33,10 @@
         <label>Chapter
           <select id="chapterSelect" aria-label="Chapter"></select>
         </label>
+        <a class="feed-link desktop-only" href="./search.html">Search</a>
+        <a class="feed-link desktop-only" href="./topics.html">Topics</a>
         <a id="swipeLink" class="feed-link desktop-only" href="./feed.html">Swipe</a>
+        <button id="readToggle" class="read-toggle" type="button" aria-pressed="false">Mark read</button>
         <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle dark mode">Dark</button>
       </nav>
       <nav class="chapter-pager" aria-label="Chapter navigation">
@@ -87,11 +90,14 @@
     <nav class="app-nav" aria-label="Primary navigation">
       <a href="./index.html">Library</a>
       <a href="./read.html" aria-current="page">Read</a>
+      <a href="./search.html">Search</a>
+      <a href="./topics.html">Topics</a>
       <a id="mobileSwipeLink" href="./feed.html">Swipe</a>
     </nav>
 
     <script src="./theme.js"></script>
     <script src="./data-client.js"></script>
+    <script src="./progress.js"></script>
     <script src="./read.js"></script>
   </body>
 </html>

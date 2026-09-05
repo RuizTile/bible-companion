@@ -13,7 +13,7 @@
     bottom: 0;
     z-index: 50;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     min-height: 3.75rem;
     padding: 0.35rem max(0.5rem, env(safe-area-inset-right)) max(0.35rem, env(safe-area-inset-bottom)) max(0.5rem, env(safe-area-inset-left));
     background: var(--surface, var(--paper-2, #fffdf8));
@@ -26,10 +26,12 @@
     min-height: 2.75rem;
     color: var(--ink-soft);
     font-family: var(--sans);
-    font-size: 0.82rem;
+    font-size: 0.72rem;
     font-weight: 600;
     text-decoration: none;
     border-radius: 10px;
+    padding: 0 0.15rem;
+    text-align: center;
   }
 
   .app-nav a[aria-current="page"] {

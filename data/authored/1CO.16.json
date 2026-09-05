@@ -182,6 +182,7 @@
       }
     }
   ],
+  "topics": ["Poverty And Wealth", "Church", "Leadership", "Love", "Providence", "Apostolic Ministry"],
   "authoring": {
     "model": "claude-opus-5",
     "generatedAt": "2026-08-31",

@@ -16,6 +16,15 @@ const db = new DatabaseSync(DB_PATH);
 db.exec("PRAGMA journal_mode = WAL;");
 db.exec(readFileSync(SCHEMA_PATH, "utf8"));
 
+// Migration: existing DB files predate the `topics` column. CREATE TABLE IF
+// NOT EXISTS above is a no-op on an already-created table, so add it here.
+const hasTopics = db
+  .prepare("SELECT 1 FROM pragma_table_info('chapters') WHERE name = 'topics'")
+  .get();
+if (!hasTopics) {
+  db.exec("ALTER TABLE chapters ADD COLUMN topics TEXT NOT NULL DEFAULT '[]';");
+}
+
 // Canonical display order (KJV+Apocrypha): 39 OT, 27 NT, then the Apocrypha/
 // deuterocanon. Any code not listed sorts to the end, preserving insert order.
 const BOOK_ORDER = [
@@ -47,6 +56,7 @@ function rowToChapter(row) {
     takeaways: JSON.parse(row.takeaways),
     crossRefs: JSON.parse(row.cross_refs),
     interpretationNotes: JSON.parse(row.interpretation_notes),
+    topics: JSON.parse(row.topics),
     authoring: JSON.parse(row.authoring),
   };
 }
@@ -112,11 +122,11 @@ export function getIndex() {
 // Companion-only upsert used by the authoring merge. Writes summary/takeaways/
 // cross_refs/interpretation_notes/authoring; PRESERVES verses + book metadata.
 const stmtUpsertCompanion = db.prepare(`
-  INSERT INTO chapters (ref, book, chapter, canon, summary, takeaways, cross_refs, interpretation_notes, authoring)
-  VALUES (@ref, @book, @chapter, @canon, @summary, @takeaways, @cross_refs, @interpretation_notes, @authoring)
+  INSERT INTO chapters (ref, book, chapter, canon, summary, takeaways, cross_refs, interpretation_notes, topics, authoring)
+  VALUES (@ref, @book, @chapter, @canon, @summary, @takeaways, @cross_refs, @interpretation_notes, @topics, @authoring)
   ON CONFLICT(ref) DO UPDATE SET
     summary=excluded.summary, takeaways=excluded.takeaways, cross_refs=excluded.cross_refs,
-    interpretation_notes=excluded.interpretation_notes, authoring=excluded.authoring
+    interpretation_notes=excluded.interpretation_notes, topics=excluded.topics, authoring=excluded.authoring
 `);
 export function upsertCompanion(c) {
   stmtUpsertCompanion.run({
@@ -128,20 +138,21 @@ export function upsertCompanion(c) {
     takeaways: JSON.stringify(c.takeaways ?? []),
     cross_refs: JSON.stringify(c.crossRefs ?? []),
     interpretation_notes: JSON.stringify(c.interpretationNotes ?? []),
+    topics: JSON.stringify(c.topics ?? []),
     authoring: JSON.stringify(c.authoring ?? {}),
   });
 }
 
 const stmtUpsert = db.prepare(`
   INSERT INTO chapters
-    (ref, book, chapter, canon, kjv_numbering, verses, summary, takeaways, cross_refs, interpretation_notes, authoring)
+    (ref, book, chapter, canon, kjv_numbering, verses, summary, takeaways, cross_refs, interpretation_notes, topics, authoring)
   VALUES
-    (@ref, @book, @chapter, @canon, @kjv_numbering, @verses, @summary, @takeaways, @cross_refs, @interpretation_notes, @authoring)
+    (@ref, @book, @chapter, @canon, @kjv_numbering, @verses, @summary, @takeaways, @cross_refs, @interpretation_notes, @topics, @authoring)
   ON CONFLICT(ref) DO UPDATE SET
     book=excluded.book, chapter=excluded.chapter, canon=excluded.canon,
     kjv_numbering=excluded.kjv_numbering, verses=excluded.verses, summary=excluded.summary,
     takeaways=excluded.takeaways, cross_refs=excluded.cross_refs,
-    interpretation_notes=excluded.interpretation_notes, authoring=excluded.authoring
+    interpretation_notes=excluded.interpretation_notes, topics=excluded.topics, authoring=excluded.authoring
 `);
 
 // node:sqlite binds bare object keys to @-named parameters (allowBareNamedParameters
@@ -181,6 +192,7 @@ export function upsertChapter(c) {
     takeaways: JSON.stringify(c.takeaways ?? []),
     cross_refs: JSON.stringify(c.crossRefs ?? []),
     interpretation_notes: JSON.stringify(c.interpretationNotes ?? []),
+    topics: JSON.stringify(c.topics ?? []),
     authoring: JSON.stringify(c.authoring ?? {}),
   });
 }

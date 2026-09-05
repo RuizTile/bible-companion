@@ -56,6 +56,7 @@
       }
     }
   ],
+  "topics": ["Poverty And Wealth", "Parables", "Judgment", "Eschatology", "Marriage And Family", "Repentance"],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

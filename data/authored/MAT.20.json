@@ -53,6 +53,14 @@
       }
     }
   ],
+  "topics": [
+    "Grace",
+    "Leadership",
+    "Humility",
+    "Redemption",
+    "Atonement",
+    "Mercy"
+  ],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-07-23",

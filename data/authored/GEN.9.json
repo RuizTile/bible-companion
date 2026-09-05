@@ -66,6 +66,14 @@
       }
     }
   ],
+  "topics": [
+    "Covenant",
+    "Promise",
+    "Sacraments",
+    "Eucharist",
+    "Sin",
+    "Grace"
+  ],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

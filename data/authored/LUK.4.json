@@ -56,6 +56,7 @@
       }
     }
   ],
+  "topics": ["Testing", "Holy Spirit", "Messiah", "Authority", "Poverty And Wealth", "Miracles"],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

@@ -22,6 +22,8 @@
       <div class="top-controls">
         <button id="toggleAll" type="button" aria-expanded="false">Expand all</button>
         <a class="desktop-only" href="./read.html">Read</a>
+        <a class="desktop-only" href="./search.html">Search</a>
+        <a class="desktop-only" href="./topics.html">Topics</a>
         <a class="desktop-only" href="./feed.html">Swipe</a>
         <button id="themeToggle" type="button" data-theme-toggle aria-label="Toggle dark mode">Dark</button>
       </div>
@@ -30,6 +32,7 @@
         <h1 class="mast-title">The Chapter&nbsp;Companion</h1>
         <p class="mast-sub">Pick a book, then a chapter — where a companion exists you'll get a summary, a few takeaways, and links to connected passages.</p>
         <p class="mast-progress" id="progress"></p>
+        <p class="mast-continue" id="continueReading" hidden></p>
       </div>
       <div class="masthead-rule" aria-hidden="true"></div>
     </header>
@@ -55,11 +58,14 @@
     <nav class="app-nav" aria-label="Primary navigation">
       <a href="./index.html" aria-current="page">Library</a>
       <a href="./read.html">Read</a>
+      <a href="./search.html">Search</a>
+      <a href="./topics.html">Topics</a>
       <a href="./feed.html">Swipe</a>
     </nav>
 
     <script src="./theme.js"></script>
     <script src="./data-client.js"></script>
+    <script src="./progress.js"></script>
     <script src="./home.js"></script>
   </body>
 </html>

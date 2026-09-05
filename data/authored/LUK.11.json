@@ -66,6 +66,7 @@
       }
     }
   ],
+  "topics": ["Prayer", "Holy Spirit", "Kingdom Of God", "Authority", "Judgment", "Eucharist"],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

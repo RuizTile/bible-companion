@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Search — Bible Chapter Companion</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("theme") ||
+            (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+          document.documentElement.dataset.theme = t;
+        } catch (e) {}
+      })();
+    </script>
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./navigation.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <a class="home-link" href="./index.html">Library</a>
+        <div>
+          <h1><a href="./index.html">Chapter Companion</a></h1>
+          <p class="tagline">Search summaries, takeaways &amp; verse text</p>
+        </div>
+      </div>
+      <nav class="picker">
+        <a class="feed-link desktop-only" href="./read.html">Read</a>
+        <a class="feed-link desktop-only" href="./topics.html">Topics</a>
+        <a class="feed-link desktop-only" href="./feed.html">Swipe</a>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle dark mode">Dark</button>
+      </nav>
+    </header>
+
+    <div class="search-box">
+      <input id="searchInput" type="search" placeholder="Search authored chapters…" aria-label="Search" />
+    </div>
+    <div id="results" class="search-results"></div>
+
+    <nav class="app-nav" aria-label="Primary navigation">
+      <a href="./index.html">Library</a>
+      <a href="./read.html">Read</a>
+      <a href="./search.html" aria-current="page">Search</a>
+      <a href="./topics.html">Topics</a>
+      <a href="./feed.html">Swipe</a>
+    </nav>
+
+    <script src="./theme.js"></script>
+    <script src="./data-client.js"></script>
+    <script src="./search.js"></script>
+  </body>
+</html>

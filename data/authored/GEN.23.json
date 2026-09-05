@@ -56,6 +56,13 @@
       }
     }
   ],
+  "topics": [
+    "Suffering",
+    "Faith",
+    "Hope",
+    "Promise",
+    "Resurrection"
+  ],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

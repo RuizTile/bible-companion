@@ -56,6 +56,7 @@
       }
     }
   ],
+  "topics": ["Faith", "Mercy", "Humility", "Miracles", "Kingdom Of God", "Eschatology"],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

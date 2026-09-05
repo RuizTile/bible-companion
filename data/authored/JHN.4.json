@@ -74,6 +74,14 @@
       }
     }
   ],
+  "topics": [
+    "Holy Spirit",
+    "Worship",
+    "Mercy",
+    "Faith",
+    "Messiah",
+    "Apostolic Ministry"
+  ],
   "authoring": {
     "model": "claude-opus-5",
     "generatedAt": "2026-08-27",

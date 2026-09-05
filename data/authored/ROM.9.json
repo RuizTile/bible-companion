@@ -227,6 +227,7 @@
       }
     }
   ],
+  "topics": ["Election", "Promise", "Mercy", "Judgment", "Providence", "Faith"],
   "authoring": {
     "model": "claude-opus-5",
     "generatedAt": "2026-08-30",

@@ -56,6 +56,14 @@
       }
     }
   ],
+  "topics": [
+    "Testing",
+    "Faith",
+    "Sacrifice",
+    "Atonement",
+    "Messiah",
+    "Promise"
+  ],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

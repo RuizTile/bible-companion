@@ -176,6 +176,7 @@
       }
     }
   ],
+  "topics": ["Judgment", "Sin", "Church", "Freedom", "Justification", "Sanctification"],
   "authoring": {
     "model": "claude-opus-5",
     "generatedAt": "2026-08-31",

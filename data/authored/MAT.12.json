@@ -63,6 +63,14 @@
       }
     }
   ],
+  "topics": [
+    "Law",
+    "Mercy",
+    "Authority",
+    "Holy Spirit",
+    "Kingdom Of God",
+    "Judgment"
+  ],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-07-23",

@@ -178,6 +178,15 @@ function renderChapter(c) {
   document.title = `${c.book} ${c.chapter} — Companion`;
 }
 
+function updateReadToggle(ref) {
+  const btn = el("readToggle");
+  if (!btn) return;
+  const read = window.companionProgress.isRead(ref);
+  btn.textContent = read ? "Read ✓" : "Mark read";
+  btn.classList.toggle("is-read", read);
+  btn.setAttribute("aria-pressed", String(read));
+}
+
 function updateNav() {
   const i = allRefs.indexOf(currentRef);
   const prev = el("navPrev");
@@ -203,6 +212,9 @@ async function load(ref, verses) {
     renderChapter(c);
     currentRef = ref;
     updateNav();
+    window.companionProgress.markRead(ref);
+    window.companionProgress.setLastRead({ ref, book: c.book, chapter: c.chapter, ts: Date.now() });
+    updateReadToggle(ref);
     const q = `?ref=${encodeURIComponent(ref)}` + (verses ? `&v=${encodeURIComponent(verses)}` : "");
     history.replaceState(null, "", q);
     for (const id of ["swipeLink", "mobileSwipeLink"]) {
@@ -258,6 +270,14 @@ async function init() {
     // on-screen arrows + keyboard (← / →) chapter navigation
     el("navPrev").addEventListener("click", () => navBy(-1));
     el("navNext").addEventListener("click", () => navBy(1));
+    const readBtn = el("readToggle");
+    if (readBtn) {
+      readBtn.addEventListener("click", () => {
+        if (!currentRef) return;
+        window.companionProgress.toggleRead(currentRef);
+        updateReadToggle(currentRef);
+      });
+    }
     document.addEventListener("keydown", (e) => {
       const t = e.target.tagName;
       if (t === "SELECT" || t === "INPUT" || t === "TEXTAREA") return;

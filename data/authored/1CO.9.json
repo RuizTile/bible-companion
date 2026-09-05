@@ -204,6 +204,7 @@
       }
     }
   ],
+  "topics": ["Apostolic Ministry", "Freedom", "Work", "Discipleship", "Judgment"],
   "authoring": {
     "model": "claude-opus-5",
     "generatedAt": "2026-08-31",

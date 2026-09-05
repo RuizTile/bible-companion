@@ -66,6 +66,7 @@
       }
     }
   ],
+  "topics": ["Apostolic Ministry", "Kingdom Of God", "Love", "Mercy", "Prayer", "Judgment"],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

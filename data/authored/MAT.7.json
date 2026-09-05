@@ -53,6 +53,14 @@
       }
     }
   ],
+  "topics": [
+    "Prayer",
+    "Judgment",
+    "Discipleship",
+    "Love",
+    "Authority",
+    "Justification"
+  ],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-07-23",

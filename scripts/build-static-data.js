@@ -15,6 +15,7 @@ const COMPANION_FIELDS = [
   "takeaways",
   "crossRefs",
   "interpretationNotes",
+  "topics",
   "authoring",
 ];
 
@@ -53,9 +54,21 @@ function chapterStatus(chapter) {
   return "text";
 }
 
+// Search text combines the fields worth full-text matching. Restricted to
+// authored chapters (unauthored ones have no summary/takeaways to search).
+function searchText(chapter) {
+  return [
+    chapter.summary ?? "",
+    ...(chapter.takeaways ?? []),
+    ...(chapter.verses ?? []).map((v) => v.text),
+  ].join(" ");
+}
+
 const overlays = await readAuthoredOverlays();
 const books = listBooks();
 const manifestBooks = [];
+const topicsIndex = new Map(); // topic -> [{ ref, book, chapter }]
+const searchIndex = [];
 let chapterCount = 0;
 let authoredCount = 0;
 
@@ -85,6 +98,24 @@ for (const book of books) {
     authored,
   });
 
+  for (let i = 0; i < chapters.length; i++) {
+    const chapter = chapters[i];
+    if (chapterIndex[i].status !== "authored") continue;
+
+    for (const topic of chapter.topics ?? []) {
+      if (!topicsIndex.has(topic)) topicsIndex.set(topic, []);
+      topicsIndex.get(topic).push({ ref: chapter.ref, book: book.book, chapter: chapter.chapter });
+    }
+
+    searchIndex.push({
+      ref: chapter.ref,
+      book: book.book,
+      chapter: chapter.chapter,
+      label: `${book.book} ${chapter.chapter}`,
+      text: searchText(chapter),
+    });
+  }
+
   await writeFile(
     join(BOOKS_DIR, `${book.code}.json`),
     JSON.stringify({ code: book.code, book: book.book, chapters }),
@@ -100,4 +131,9 @@ await writeFile(
   "utf8",
 );
 
+const sortedTopics = Object.fromEntries([...topicsIndex.entries()].sort(([a], [b]) => a.localeCompare(b)));
+await writeFile(join(OUTPUT_DIR, "topics.json"), JSON.stringify({ topics: sortedTopics }), "utf8");
+await writeFile(join(OUTPUT_DIR, "search-index.json"), JSON.stringify(searchIndex), "utf8");
+
 console.log(`Static data built: ${books.length} books, ${chapterCount} chapters, ${authoredCount} companions.`);
+console.log(`Topics: ${topicsIndex.size} distinct tags. Search index: ${searchIndex.length} chapters.`);

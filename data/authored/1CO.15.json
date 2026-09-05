@@ -328,6 +328,7 @@
       }
     }
   ],
+  "topics": ["Resurrection", "Eschatology", "Faith", "Hope", "Fall"],
   "authoring": {
     "model": "claude-opus-5",
     "generatedAt": "2026-08-31",

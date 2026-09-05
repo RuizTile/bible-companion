@@ -56,6 +56,14 @@
       }
     }
   ],
+  "topics": [
+    "Providence",
+    "Mercy",
+    "Creation",
+    "Sacrifice",
+    "Promise",
+    "Holy Spirit"
+  ],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

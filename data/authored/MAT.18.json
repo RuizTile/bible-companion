@@ -53,6 +53,14 @@
       }
     }
   ],
+  "topics": [
+    "Humility",
+    "Church",
+    "Mercy",
+    "Authority",
+    "Unity",
+    "Sacraments"
+  ],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-07-23",

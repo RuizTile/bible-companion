@@ -232,6 +232,7 @@
       }
     }
   ],
+  "topics": ["Eucharist", "Church", "Authority", "Creation", "Judgment"],
   "authoring": {
     "model": "claude-opus-5",
     "generatedAt": "2026-08-31",

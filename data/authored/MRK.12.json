@@ -64,6 +64,7 @@
       }
     }
   ],
+  "topics": ["Parables", "Judgment", "Love", "Resurrection", "Authority", "Poverty And Wealth"],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

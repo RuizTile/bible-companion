@@ -56,6 +56,7 @@
       }
     }
   ],
+  "topics": ["Faith", "Apostolic Ministry", "Persecution", "Miracles", "Eucharist", "Providence"],
   "authoring": {
     "model": "claude-opus-4-8",
     "generatedAt": "2026-08-26",

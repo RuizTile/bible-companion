@@ -11,6 +11,7 @@ CREATE TABLE IF NOT EXISTS chapters (
   takeaways             TEXT NOT NULL DEFAULT '[]',  -- JSON: [str]
   cross_refs            TEXT NOT NULL DEFAULT '[]',  -- JSON: [{ target, label, why, sources[], tradition }]
   interpretation_notes  TEXT NOT NULL DEFAULT '[]',  -- JSON: [{ claim, tradition, sources[], counterpoint }]
+  topics                TEXT NOT NULL DEFAULT '[]',  -- JSON: [str] controlled-vocabulary tags
   authoring             TEXT NOT NULL DEFAULT '{}'   -- JSON: { model, generatedAt, reviewedBy, status }
 );
 
